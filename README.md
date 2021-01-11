@@ -23,4 +23,5 @@ The structure of dataset folders differs. For each non-Spider datasets, there ar
 --------
 ## Training
 For training use [Train_POS.py](Train_POS.py) script. The script takes 6 parameters which are as follows:
--
+
+--------
