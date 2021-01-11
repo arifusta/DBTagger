@@ -22,6 +22,17 @@ The structure of dataset folders differs. For each non-Spider datasets, there ar
 
 --------
 ## Training
-For training use [Train_POS.py](Train_POS.py) script. The script takes 6 parameters which are as follows:
+For training use [multiTask.py](multiTask.py) script. The script takes 6 parameters which are as follows:
+- `schemaName:` name of the schema. In order to differentitate the actual datasets and schemas in Spider with the same schemaName (e.g. imdb), provide `imdb2` to refer the schema in Spider dataset.
+- `dropout:` DBTagger utilizes RNNs with GRU units. For training, the model requires a dropout value to train the model.
+- `epoch1:` Number of epochs for Adadelta optimizer
+- `epoch2:` Number of epochs for Nadam optimizer
+- `skip:` The flag to indicate whether to use cross-skip connections as explained in the paper. True or False
+- `gpu_id:` The gpu_id to train the model on.
+
+An example call usage is:
+```
+python multiTask.py imdb 0.5 100 200 skip 1
+```
 
 --------
