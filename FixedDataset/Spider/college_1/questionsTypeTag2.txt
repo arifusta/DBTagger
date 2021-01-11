@@ -1,0 +1,164 @@
+Find/O/ the/O/ number/O/ of/O/ professors/TABLE/ in/COND/ accounting/VALUE/ department/TABLE/ 
+How/O/ many/O/ professors/TABLE/ are/O/ in/COND/ the/O/ accounting/VALUE/ dept/TABLE/ 
+How/O/ many/O/ professors/O/ are/O/ teaching/O/ class/TABLE/ with/COND/ code/ATTR/ ACCT-211/VALUE/ 
+How/O/ many/O/ professors/O/ teach/O/ a/O/ class/TABLE/ with/COND/ the/O/ code/ATTR/ ACCT-211/VALUE/ 
+What/O/ is/O/ the/O/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ of/O/ the/O/ professor/TABLE/ in/COND/ biology/VALUE/ department/TABLE/ 
+What/O/ are/O/ the/O/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ of/O/ all/O/ biology/VALUE/ professors/TABLE/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ and/O/ date/ATTR/ of/ATTR/ birth/ATTR/ of/O/ professors/TABLE/ teaching/O/ course/TABLE/ ACCT-211/VALUE/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ and/O/ birthdates/ATTR/ of/O/ the/O/ professors/TABLE/ in/TABLE/ charge/TABLE/ of/O/ ACCT-211/VALUE/ 
+How/O/ many/O/ classes/TABLE/ are/O/ professor/TABLE/ whose/O/ last/ATTR/ name/ATTR/ is/O/ Graztevski/VALUE/ has/O/ 
+How/O/ many/O/ classes/TABLE/ does/O/ the/O/ professor/TABLE/ whose/O/ last/ATTR/ name/ATTR/ is/O/ Graztevski/VALUE/ teach/O/ 
+What/O/ is/O/ the/O/ code/ATTR/ of/ATTR/ the/ATTR/ school/ATTR/ where/O/ the/O/ accounting/VALUE/ department/TABLE/ belongs/O/ to/O/ 
+What/O/ is/O/ the/O/ school/ATTR/ code/ATTR/ of/O/ the/O/ accounting/VALUE/ department/TABLE/ 
+How/O/ many/O/ credits/ATTR/ does/O/ course/TABLE/ CIS-220/VALUE/ have/O/ and/O/ what/O/ its/O/ description/ATTR/ 
+What/O/ is/O/ the/O/ description/ATTR/ for/O/ the/O/ CIS-220/VALUE/ and/O/ how/O/ many/O/ credits/ATTR/ does/O/ it/O/ have/O/ 
+what/O/ is/O/ the/O/ address/ATTR/ of/O/ history/VALUE/ department/TABLE/ 
+Where/O/ is/O/ the/O/ history/VALUE/ department/TABLE/ 
+How/O/ many/O/ different/O/ locations/ATTR/ does/O/ the/O/ school/TABLE/ with/O/ code/ATTR/ BUS/VALUE/ has/O/ 
+What/O/ are/O/ the/O/ different/O/ locations/ATTR/ of/O/ the/O/ school/TABLE/ with/O/ the/O/ code/ATTR/ BUS/VALUE/ 
+How/O/ many/O/ different/O/ locations/ATTR/ does/O/ each/O/ school/TABLE/ have/O/ 
+Count/O/ different/O/ addresses/O/ of/O/ each/O/ school/TABLE/ 
+Find/O/ the/O/ description/ATTR/ and/O/ credit/ATTR/ for/O/ the/O/ course/TABLE/ QM-261/VALUE/ 
+What/O/ is/O/ the/O/ course/ATTR/ description/ATTR/ and/O/ number/O/ of/O/ credits/ATTR/ for/O/ QM-261/VALUE/ 
+Find/O/ the/O/ number/O/ of/O/ departments/TABLE/ in/O/ each/O/ school/ATTR/ 
+How/O/ many/O/ departments/TABLE/ are/O/ in/O/ each/O/ school/ATTR/ 
+Find/O/ the/O/ number/O/ of/O/ different/O/ departments/TABLE/ in/O/ each/O/ school/ATTR/ whose/O/ number/O/ of/O/ different/O/ departments/TABLE/ is/O/ less/COND/ than/O/ 5/VALUE/ 
+How/O/ many/O/ different/O/ departments/TABLE/ are/O/ there/O/ in/O/ each/O/ school/ATTR/ that/O/ has/O/ less/COND/ than/O/ 5/VALUE/ apartments/O/ 
+How/O/ many/O/ sections/ATTR/ does/O/ each/O/ course/TABLE/ has/O/ 
+How/O/ many/O/ sections/ATTR/ does/O/ each/O/ course/TABLE/ have/O/ 
+What/O/ is/O/ the/O/ total/O/ credit/TABLE/ does/O/ each/O/ department/ATTR/ offer/O/ 
+How/O/ many/O/ credits/TABLE/ does/O/ the/O/ department/ATTR/ offer/O/ 
+Find/O/ the/O/ number/O/ of/O/ classes/TABLE/ offered/O/ for/O/ all/O/ class/ATTR/ rooms/ATTR/ that/O/ held/O/ at/COND/ least/COND/ 2/VALUE/ classes/O/ 
+For/O/ each/O/ classroom/O/ with/O/ at/COND/ least/COND/ 2/VALUE/ classes/O/ how/O/ many/O/ classes/O/ are/O/ offered/O/ 
+Find/O/ the/O/ number/O/ of/O/ classes/TABLE/ in/O/ each/O/ department/ATTR/ 
+How/O/ many/O/ classes/TABLE/ are/O/ held/O/ in/O/ each/O/ department/ATTR/ 
+Find/O/ the/O/ number/O/ of/O/ classes/TABLE/ in/O/ each/O/ school/ATTR/ 
+How/O/ many/O/ classes/TABLE/ exist/O/ for/O/ each/O/ school/ATTR/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ professors/TABLE/ for/O/ different/O/ school/ATTR/ 
+How/O/ many/O/ different/O/ professors/TABLE/ are/O/ there/O/ for/O/ the/O/ different/O/ schools/ATTR/ 
+Find/O/ the/O/ count/O/ and/O/ code/ATTR/ of/ATTR/ the/ATTR/ job/ATTR/ has/O/ most/O/ employees/TABLE/ 
+What/O/ is/O/ the/O/ count/O/ and/O/ code/ATTR/ of/ATTR/ the/ATTR/ job/ATTR/ with/O/ the/O/ most/O/ employee/TABLE/ 
+Which/O/ school/ATTR/ has/O/ the/O/ smallest/O/ amount/O/ of/O/ professors/TABLE/ 
+Which/O/ school/ATTR/ has/O/ the/O/ fewest/O/ professors/TABLE/ 
+Find/O/ the/O/ number/O/ of/O/ professors/TABLE/ with/O/ a/O/ Ph.D./VALUE/ degree/O/ in/O/ each/O/ department/ATTR/ 
+How/O/ many/O/ professors/TABLE/ have/O/ a/O/ Ph.D./VALUE/ in/O/ each/O/ department/ATTR/ 
+Find/O/ the/O/ number/O/ of/O/ students/TABLE/ for/O/ each/O/ department/ATTR/ 
+How/O/ many/O/ students/TABLE/ are/O/ in/O/ each/O/ department/ATTR/ 
+Find/O/ the/O/ total/O/ number/O/ of/O/ hours/ATTR/ have/O/ done/O/ for/O/ all/O/ students/TABLE/ in/O/ each/O/ department/ATTR/ 
+How/O/ many/O/ hours/ATTR/ do/O/ the/O/ students/TABLE/ spend/O/ studying/O/ in/O/ each/O/ department/ATTR/ 
+Find/O/ the/O/ max/O/ average/O/ and/O/ minimum/O/ gpa/ATTR/ of/O/ all/O/ students/TABLE/ in/O/ each/O/ department/ATTR/ 
+What/O/ is/O/ the/O/ highest/O/ lowest/O/ and/O/ average/O/ student/TABLE/ GPA/ATTR/ for/O/ every/O/ department/ATTR/ 
+What/O/ is/O/ the/O/ name/ATTR/ and/O/ the/O/ average/O/ gpa/ATTR/ of/O/ department/ATTR/ whose/O/ students/TABLE/ have/O/ the/O/ highest/O/ average/O/ gpa/ATTR/ 
+Which/O/ department/ATTR/ has/O/ the/O/ highest/O/ average/O/ student/TABLE/ GPA/ATTR/ and/O/ what/O/ is/O/ the/O/ average/O/ gpa/ATTR/ 
+how/O/ many/O/ schools/TABLE/ exist/O/ in/O/ total/O/ 
+How/O/ many/O/ schools/ATTR/ are/O/ there/O/ in/O/ the/O/ department/TABLE/ 
+How/O/ many/O/ different/O/ classes/TABLE/ are/O/ there/O/ 
+How/O/ many/O/ unique/O/ classes/TABLE/ are/O/ offered/O/ 
+How/O/ many/O/ courses/TABLE/ are/O/ offered/O/ 
+What/O/ are/O/ the/O/ number/O/ of/O/ different/O/ course/TABLE/ codes/ATTR/ 
+How/O/ many/O/ departments/ATTR/ does/O/ the/O/ college/TABLE/ has/O/ 
+How/O/ many/O/ different/O/ departments/TABLE/ are/O/ there/O/ 
+How/O/ many/O/ courses/TABLE/ are/O/ offered/O/ by/O/ the/O/ Computer/VALUE/ Info/VALUE/ Systems/VALUE/ department/TABLE/ 
+How/O/ many/O/ courses/TABLE/ does/O/ the/O/ department/TABLE/ of/O/ Computer/VALUE/ Information/VALUE/ Systmes/VALUE/ offer/O/ 
+How/O/ many/O/ sections/ATTR/ does/O/ course/TABLE/ ACCT-211/VALUE/ has/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ different/O/ class/TABLE/ sections/ATTR/ offered/O/ in/O/ the/O/ course/O/ ACCT-211/VALUE/ 
+Find/O/ the/O/ total/O/ credits/ATTR/ of/O/ all/O/ classes/TABLE/ offered/O/ by/O/ each/O/ department/ATTR/ 
+What/O/ are/O/ the/O/ total/O/ number/O/ of/O/ credits/ATTR/ offered/O/ by/O/ each/O/ department/ATTR/ 
+Find/O/ the/O/ name/ATTR/ of/O/ the/O/ department/TABLE/ that/O/ offers/O/ the/O/ largest/O/ number/O/ of/O/ credits/ATTR/ of/O/ all/O/ classes/TABLE/ 
+Which/O/ department/TABLE/ offers/O/ the/O/ most/O/ credits/ATTR/ all/O/ together/O/ 
+How/O/ many/O/ students/O/ enrolled/TABLEREF/ in/COND/ class/TABLE/ ACCT-211/VALUE/ 
+What/O/ are/O/ the/O/ total/O/ number/O/ of/O/ students/O/ enrolled/TABLEREF/ in/COND/ ACCT-211/VALUE/ 
+What/O/ is/O/ the/O/ first/ATTR/ name/ATTR/ of/O/ each/O/ student/TABLE/ enrolled/TABLEREF/ in/O/ class/TABLE/ ACCT-211/VALUE/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ students/TABLE/ in/COND/ course/TABLE/ ACCT-211/VALUE/ 
+What/O/ is/O/ the/O/ first/ATTR/ name/ATTR/ of/O/ students/TABLE/ enrolled/TABLEREF/ in/COND/ class/TABLE/ ACCT-211/VALUE/ and/O/ got/O/ grade/ATTR/ C/VALUE/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ students/TABLE/ who/O/ took/TABLEREF/ ACCT-211/VALUE/ and/O/ received/O/ a/O/ C/VALUE/ 
+Find/O/ the/O/ total/O/ number/O/ of/O/ employees/TABLE/ 
+How/O/ many/O/ employees/TABLE/ are/O/ there/O/ all/O/ together/O/ 
+How/O/ many/O/ professors/TABLE/ do/O/ have/O/ a/O/ Ph.D./VALUE/ degree/ATTR/ 
+What/O/ is/O/ the/O/ total/O/ number/O/ of/O/ professors/TABLE/ with/O/ a/O/ Ph.D./VALUE/ 
+How/O/ many/O/ students/O/ are/O/ enrolled/TABLEREF/ in/O/ the/O/ class/TABLE/ taught/O/ by/O/ some/O/ professor/O/ from/O/ the/O/ accounting/VALUE/ department/TABLE/ 
+How/O/ many/O/ students/O/ are/O/ enrolled/TABLEREF/ in/O/ some/O/ classes/TABLE/ that/O/ are/O/ taught/O/ by/O/ an/O/ accounting/VALUE/ professor/O/ 
+What/O/ is/O/ the/O/ name/ATTR/ of/O/ the/O/ department/TABLE/ that/O/ has/O/ the/O/ largest/O/ number/O/ of/O/ students/O/ enrolled/TABLEREF/ 
+What/O/ is/O/ the/O/ name/ATTR/ of/O/ the/O/ department/TABLE/ with/O/ the/O/ most/O/ students/O/ enrolled/TABLEREF/ 
+list/O/ names/ATTR/ of/O/ all/O/ departments/TABLE/ ordered/O/ by/O/ their/O/ names/ATTR/ 
+What/O/ are/O/ the/O/ names/ATTR/ of/O/ all/O/ departments/TABLE/ in/O/ alphabetical/O/ order/O/ 
+List/O/ the/O/ codes/ATTR/ of/O/ all/O/ courses/TABLE/ that/O/ take/O/ place/O/ in/COND/ room/ATTR/ KLR209/VALUE/ 
+What/O/ are/O/ the/O/ codes/ATTR/ of/O/ all/O/ the/O/ courses/TABLE/ that/O/ are/O/ located/O/ in/COND/ room/ATTR/ KLR209/VALUE/ 
+List/O/ the/O/ first/ATTR/ name/ATTR/ of/O/ all/O/ employees/TABLE/ with/O/ job/ATTR/ code/ATTR/ PROF/VALUE/ ordered/O/ by/O/ their/O/ date/ATTR/ of/ATTR/ birth/ATTR/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ employees/TABLE/ that/O/ are/O/ professors/VALUE/ ordered/O/ by/O/ date/ATTR/ of/ATTR/ birth/ATTR/ 
+Find/O/ the/O/ first/ATTR/ names/ATTR/ and/O/ offices/ATTR/ of/O/ all/O/ professors/TABLE/ sorted/O/ by/O/ alphabetical/O/ order/O/ of/O/ their/O/ first/ATTR/ name/ATTR/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ and/O/ office/ATTR/ locations/O/ for/O/ all/O/ professors/TABLE/ sorted/O/ alphabetically/O/ by/O/ first/ATTR/ name/ATTR/ 
+What/O/ is/O/ the/O/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ of/O/ the/O/ oldest/ATTR/ employee/TABLE/ 
+What/O/ are/O/ the/O/ first/ATTR/ and/O/ last/ATTR/ names/ATTR/ of/O/ the/O/ employee/TABLE/ with/O/ the/O/ earliest/O/ date/ATTR/ of/ATTR/ birth/ATTR/ 
+What/O/ is/O/ the/O/ first/ATTR/ last/ATTR/ name/ATTR/ gpa/ATTR/ of/O/ the/O/ youngest/O/ one/O/ among/O/ students/TABLE/ whose/O/ GPA/ATTR/ is/O/ above/COND/ 3/VALUE/ 
+What/O/ is/O/ the/O/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ of/O/ the/O/ youngest/O/ student/TABLE/ with/O/ a/O/ GPA/ATTR/ above/COND/ 3/VALUE/ and/O/ what/O/ is/O/ their/O/ GPA/ATTR/ 
+What/O/ is/O/ the/O/ first/ATTR/ name/ATTR/ of/O/ students/TABLE/ who/O/ got/O/ grade/ATTR/ C/VALUE/ in/O/ any/O/ class/O/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ students/TABLE/ who/O/ got/O/ a/O/ grade/ATTR/ C/VALUE/ in/O/ a/O/ class/O/ 
+What/O/ is/O/ the/O/ name/ATTR/ of/O/ department/TABLE/ where/O/ has/O/ the/O/ smallest/O/ number/O/ of/O/ professors/TABLE/ 
+What/O/ is/O/ the/O/ name/ATTR/ of/O/ the/O/ department/TABLE/ with/O/ the/O/ fewest/O/ professors/TABLE/ 
+What/O/ is/O/ the/O/ name/ATTR/ of/O/ department/TABLE/ where/O/ has/O/ the/O/ largest/O/ number/O/ of/O/ professors/TABLE/ with/COND/ a/O/ Ph.D./VALUE/ degree/ATTR/ 
+Which/O/ department/TABLE/ has/O/ the/O/ most/O/ professors/TABLE/ with/COND/ a/O/ Ph.D./VALUE/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ the/O/ professors/TABLE/ who/O/ do/O/ not/COND/ teach/TABLEREF/ a/O/ class/TABLE/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ professors/TABLE/ not/COND/ teaching/TABLEREF/ any/O/ classes/TABLE/ 
+What/O/ is/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ the/O/ professors/TABLE/ from/O/ the/O/ history/VALUE/ department/TABLE/ who/O/ do/O/ not/O/ teach/TABLEREF/ a/O/ class/O/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ history/VALUE/ professors/TABLE/ who/O/ do/O/ not/O/ teach/TABLEREF/ 
+What/O/ is/O/ the/O/ last/ATTR/ name/ATTR/ and/O/ office/ATTR/ of/O/ the/O/ professor/TABLE/ from/O/ the/O/ history/VALUE/ department/TABLE/ 
+What/O/ are/O/ the/O/ last/ATTR/ name/ATTR/ and/O/ office/ATTR/ of/O/ all/O/ history/VALUE/ professors/TABLE/ 
+What/O/ is/O/ department/ATTR/ name/ATTR/ and/O/ office/ATTR/ for/O/ the/O/ professor/TABLE/ whose/O/ last/ATTR/ name/ATTR/ is/O/ Heffington/VALUE/ 
+What/O/ is/O/ the/O/ name/ATTR/ of/O/ the/O/ department/TABLE/ and/O/ office/ATTR/ location/O/ for/O/ the/O/ professor/TABLE/ with/O/ the/O/ last/ATTR/ name/ATTR/ of/O/ Heffington/VALUE/ 
+Find/O/ the/O/ last/ATTR/ name/ATTR/ and/O/ hire/ATTRREF/ date/ATTR/ of/O/ the/O/ professor/TABLE/ who/O/ is/O/ in/O/ office/ATTR/ DRE/VALUE/ 102/VALUE/ 
+What/O/ is/O/ the/O/ last/ATTR/ name/ATTR/ of/O/ the/O/ professor/TABLE/ whose/O/ office/ATTR/ is/O/ located/O/ in/O/ DRE/VALUE/ 102/VALUE/ and/O/ when/O/ were/O/ they/O/ hired/ATTRREF/ 
+What/O/ is/O/ the/O/ code/ATTR/ of/ATTR/ the/ATTR/ course/ATTR/ which/O/ the/O/ student/TABLE/ whose/O/ last/O/ name/O/ is/O/ Smithson/VALUE/ took/TABLEREF/ 
+What/O/ are/O/ the/O/ course/ATTR/ codes/ATTR/ for/O/ every/O/ class/TABLE/ that/O/ the/O/ student/TABLE/ with/O/ the/O/ last/ATTR/ name/ATTR/ Smithson/VALUE/ took/TABLEREF/ 
+What/O/ are/O/ the/O/ description/ATTR/ and/O/ credit/ATTR/ of/O/ the/O/ course/TABLE/ which/O/ the/O/ student/TABLE/ whose/O/ last/ATTR/ name/ATTR/ is/O/ Smithson/VALUE/ took/TABLEREF/ 
+How/O/ many/O/ credits/ATTR/ is/O/ the/O/ course/TABLE/ that/O/ the/O/ student/TABLE/ with/O/ the/O/ last/ATTR/ name/ATTR/ Smithson/VALUE/ took/TABLEREF/ and/O/ what/O/ is/O/ its/O/ description/ATTR/ 
+How/O/ many/O/ professors/TABLE/ who/O/ has/O/ a/O/ either/O/ Ph.D./VALUE/ or/O/ MA/VALUE/ degree/ATTR/ 
+How/O/ many/O/ professors/TABLE/ attained/O/ either/O/ Ph.D./VALUE/ or/O/ Masters/VALUE/ degrees/ATTR/ 
+How/O/ many/O/ professors/TABLE/ who/O/ are/O/ from/O/ either/O/ Accounting/VALUE/ or/O/ Biology/VALUE/ department/TABLE/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ professors/TABLE/ who/O/ are/O/ in/O/ the/O/ Accounting/VALUE/ or/O/ Biology/VALUE/ departments/TABLE/ 
+Find/O/ the/O/ first/ATTR/ name/ATTR/ of/O/ the/O/ professor/TABLE/ who/O/ is/O/ teaching/O/ two/O/ courses/TABLE/ with/O/ code/ATTR/ CIS-220/VALUE/ and/O/ QM-261/VALUE/ 
+What/O/ is/O/ the/O/ first/ATTR/ name/ATTR/ of/O/ the/O/ professor/TABLE/ who/O/ is/O/ teaching/O/ CIS-220/VALUE/ and/O/ QM-261/VALUE/ 
+Find/O/ the/O/ first/ATTR/ name/ATTR/ of/O/ student/TABLE/ who/O/ is/O/ taking/TABLEREF/ classes/TABLE/ from/O/ accounting/VALUE/ and/O/ Computer/VALUE/ Info/VALUE/ Systems/VALUE/ departments/TABLE/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ students/TABLE/ taking/TABLEREF/ accoutning/VALUE/ and/O/ Computer/VALUE/ Information/VALUE/ Systems/VALUE/ classes/TABLE/ 
+What/O/ is/O/ the/O/ average/O/ gpa/ATTR/ of/O/ the/O/ students/TABLE/ enrolled/TABLEREF/ in/O/ the/O/ course/TABLE/ with/O/ code/ATTR/ ACCT-211/VALUE/ 
+What/O/ is/O/ the/O/ average/O/ GPA/ATTR/ of/O/ students/TABLE/ taking/TABLEREF/ ACCT-211/VALUE/ 
+What/O/ is/O/ the/O/ first/ATTR/ name/ATTR/ gpa/ATTR/ and/O/ phone/ATTR/ number/ATTR/ of/O/ the/O/ top/O/ 5/O/ students/TABLE/ with/O/ highest/O/ gpa/ATTR/ 
+What/O/ is/O/ the/O/ first/ATTR/ name/ATTR/ GPA/ATTR/ and/O/ phone/ATTR/ number/ATTR/ of/O/ the/O/ students/TABLE/ with/O/ the/O/ top/O/ 5/O/ GPAs/ATTR/ 
+What/O/ is/O/ the/O/ department/ATTR/ name/ATTR/ of/O/ the/O/ students/TABLE/ with/O/ lowest/O/ gpa/ATTR/ belongs/O/ to/O/ 
+What/O/ is/O/ the/O/ name/ATTR/ of/O/ the/O/ department/TABLE/ with/O/ the/O/ student/TABLE/ that/O/ has/O/ the/O/ lowest/O/ GPA/ATTR/ 
+Find/O/ the/O/ first/ATTR/ name/ATTR/ and/O/ gpa/ATTR/ of/O/ the/O/ students/TABLE/ whose/O/ gpa/ATTR/ is/O/ lower/COND/ than/O/ the/O/ average/O/ gpa/ATTR/ of/O/ all/O/ students/TABLE/ 
+What/O/ is/O/ the/O/ first/ATTR/ name/ATTR/ and/O/ GPA/ATTR/ of/O/ every/O/ student/TABLE/ that/O/ has/O/ a/O/ GPA/ATTR/ lower/COND/ than/O/ average/O/ 
+Find/O/ the/O/ name/ATTR/ and/O/ address/ATTR/ of/O/ the/O/ department/TABLE/ that/O/ has/O/ the/O/ highest/O/ number/O/ of/O/ students/TABLE/ 
+What/O/ is/O/ the/O/ name/ATTR/ and/O/ address/ATTR/ of/O/ the/O/ department/TABLE/ with/O/ the/O/ most/O/ students/TABLE/ 
+Find/O/ the/O/ name/ATTR/ address/ATTR/ number/O/ of/O/ students/TABLE/ in/O/ the/O/ departments/TABLE/ that/O/ have/O/ the/O/ top/O/ 3/O/ highest/O/ number/O/ of/O/ students/O/ 
+What/O/ is/O/ the/O/ name/ATTR/ address/ATTR/ and/O/ number/O/ of/O/ students/TABLE/ in/O/ the/O/ departments/TABLE/ that/O/ have/O/ the/O/ 3/O/ most/O/ students/O/ 
+Find/O/ the/O/ first/ATTR/ name/ATTR/ and/O/ office/ATTR/ of/O/ the/O/ professor/TABLE/ who/O/ is/O/ in/O/ the/O/ history/VALUE/ department/TABLE/ and/O/ has/O/ a/O/ Ph.D./VALUE/ degree/ATTR/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ and/O/ office/ATTR/ of/O/ the/O/ professors/TABLE/ who/O/ are/O/ in/O/ the/O/ history/VALUE/ department/TABLE/ and/O/ have/O/ a/O/ Ph.D./VALUE/ 
+Find/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ instructors/TABLE/ who/O/ have/O/ taught/O/ some/O/ course/TABLE/ and/O/ the/O/ course/ATTR/ code/ATTR/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ teachers/TABLE/ who/O/ have/O/ taught/O/ a/O/ course/TABLE/ and/O/ the/O/ corresponding/O/ course/ATTR/ codes/ATTR/ 
+Find/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ instructors/TABLE/ who/O/ have/O/ taught/O/ some/O/ course/TABLE/ and/O/ the/O/ course/ATTR/ description/ATTR/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ teachers/TABLE/ who/O/ have/O/ taught/O/ a/O/ course/TABLE/ and/O/ the/O/ corresponding/O/ descriptions/ATTR/ 
+Find/O/ the/O/ first/ATTR/ names/ATTR/ and/O/ offices/ATTR/ of/O/ all/O/ instructors/TABLE/ who/O/ have/O/ taught/O/ some/O/ course/TABLE/ and/O/ also/O/ find/O/ the/O/ course/ATTR/ description/ATTR/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ office/ATTR/ locations/O/ of/O/ all/O/ lecturers/TABLE/ who/O/ have/O/ taught/O/ some/O/ course/TABLE/ 
+Find/O/ the/O/ first/ATTR/ names/ATTR/ and/O/ offices/ATTR/ of/O/ all/O/ instructors/TABLE/ who/O/ have/O/ taught/O/ some/O/ course/TABLE/ and/O/ the/O/ course/ATTR/ description/ATTR/ and/O/ the/O/ department/TABLE/ name/ATTR/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ office/ATTR/ locations/O/ and/O/ departments/ATTR/ of/O/ all/O/ instructors/TABLE/ and/O/ also/O/ what/O/ are/O/ the/O/ descriptions/ATTR/ of/O/ the/O/ courses/TABLE/ they/O/ teach/O/ 
+Find/O/ names/ATTR/ of/O/ all/O/ students/TABLE/ who/O/ took/TABLEREF/ some/O/ course/TABLE/ and/O/ the/O/ course/ATTR/ description/ATTR/ 
+What/O/ are/O/ the/O/ names/ATTR/ of/O/ all/O/ students/TABLE/ who/O/ took/TABLEREF/ a/O/ class/TABLE/ and/O/ the/O/ corresponding/O/ course/ATTR/ descriptions/ATTR/ 
+Find/O/ names/ATTR/ of/O/ all/O/ students/TABLE/ who/O/ took/TABLEREF/ some/O/ course/O/ and/O/ got/O/ A/VALUE/ or/O/ C/VALUE/ 
+What/O/ are/O/ the/O/ names/ATTR/ of/O/ all/O/ students/TABLE/ taking/TABLEREF/ a/O/ course/O/ who/O/ received/O/ an/O/ A/VALUE/ or/O/ C/VALUE/ 
+Find/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ professors/TABLE/ in/COND/ the/O/ Accounting/VALUE/ department/TABLE/ who/O/ is/O/ teaching/O/ some/O/ course/TABLE/ and/O/ the/O/ class/ATTR/ room/ATTR/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ Accounting/VALUE/ professors/TABLE/ who/O/ teach/O/ and/O/ what/O/ are/O/ the/O/ classrooms/ATTR/ of/O/ the/O/ courses/TABLE/ they/O/ teach/O/ 
+Find/O/ the/O/ first/ATTR/ names/ATTR/ and/O/ degree/ATTR/ of/O/ all/O/ professors/TABLE/ who/O/ are/O/ teaching/O/ some/O/ class/TABLE/ in/O/ Computer/VALUE/ Info/VALUE/ Systems/VALUE/ department/TABLE/ 
+What/O/ are/O/ the/O/ different/O/ first/ATTR/ names/ATTR/ and/O/ highest/O/ degree/ATTR/ attained/O/ for/O/ professors/TABLE/ teaching/O/ in/O/ the/O/ Computer/VALUE/ Information/VALUE/ Systems/VALUE/ department/TABLE/ 
+What/O/ is/O/ the/O/ last/ATTR/ name/ATTR/ of/O/ the/O/ student/TABLE/ who/O/ got/O/ a/O/ grade/ATTR/ A/VALUE/ in/O/ the/O/ class/O/ with/O/ code/ATTR/ 10018/VALUE/ 
+What/O/ is/O/ the/O/ last/ATTR/ name/ATTR/ of/O/ the/O/ student/TABLE/ who/O/ received/O/ an/O/ A/VALUE/ in/O/ the/O/ class/O/ with/O/ the/O/ code/ATTR/ 10018/VALUE/ 
+Find/O/ the/O/ first/ATTR/ name/ATTR/ and/O/ office/ATTR/ of/O/ history/VALUE/ professor/TABLE/ who/O/ did/O/ not/COND/ get/O/ a/O/ Ph.D./VALUE/ degree/ATTR/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ and/O/ offices/ATTR/ of/O/ history/VALUE/ professors/TABLE/ who/O/ dont/O/ have/O/ Ph.D.s/VALUE/ 
+Find/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ professors/TABLE/ who/O/ are/O/ teaching/O/ more/COND/ than/O/ one/O/ class/TABLE/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ all/O/ professors/TABLE/ who/O/ teach/O/ more/COND/ than/O/ one/O/ class/TABLE/ 
+Find/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ students/TABLE/ who/O/ took/TABLEREF/ exactly/COND/ one/O/ class/O/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ of/O/ student/TABLE/ who/O/ only/COND/ took/TABLEREF/ one/O/ course/O/ 
+Find/O/ the/O/ name/ATTR/ of/O/ department/TABLE/ that/O/ offers/O/ the/O/ class/TABLE/ whose/O/ description/ATTR/ has/O/ the/O/ word/O/ Statistics/VALUE/ 
+What/O/ is/O/ the/O/ name/ATTR/ of/O/ the/O/ department/TABLE/ that/O/ offers/O/ a/O/ course/TABLE/ that/O/ has/O/ a/O/ description/ATTR/ including/O/ the/O/ word/O/ Statistics/VALUE/ 
+What/O/ is/O/ the/O/ first/ATTR/ name/ATTR/ of/O/ the/O/ student/TABLE/ whose/O/ last/ATTR/ name/ATTR/ starting/O/ with/O/ the/O/ letter/O/ S/VALUE/ and/O/ is/O/ taking/TABLEREF/ ACCT-211/VALUE/ class/TABLE/ 
+What/O/ is/O/ the/O/ first/ATTR/ name/ATTR/ of/O/ the/O/ student/TABLE/ whose/O/ last/ATTR/ name/ATTR/ starts/O/ with/O/ the/O/ letter/O/ S/VALUE/ and/O/ is/O/ taking/TABLEREF/ ACCT-211/VALUE/ 

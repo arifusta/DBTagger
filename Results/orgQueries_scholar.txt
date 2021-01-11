@@ -1,0 +1,200 @@
+How many papers were written on Question Answering in 2016 ?
+
+What conferences does Noah A. Smith publish in the most ?
+
+Papers published in 2016 by Li Dong
+
+papers from 2014
+
+keyphrases used by Dan Klein in his EMNLP papers
+
+What is the paper about Semantic Image Segmentation of the most citation ?
+
+What articles have been published since 2006 about the Effects Of Juicing For Cancer Patients ?
+
+datasets in papers about KNN Classification
+
+What papers talk about Reinforcement Learning ?
+
+who wrote papers in 2015
+
+Syntactic Parsing papers not written by Chris Dyer
+
+In which conferences does Anders Andersson typically publish ?
+
+How many papers has Chris Mattmann published ?
+
+how many papers does Michael I. Jordan cite
+
+most published author at ACL 2010
+
+Who has published more papers in NSDI ?
+
+who published Deep Learning papers at ACL 2012
+
+How many citations does Li Dong s Semantic Parsing paper have ?
+
+recent Semantic Parsing papers
+
+Does Philipp Haberstock ever collaborated with Ludwig Nastansky ?
+
+keyphrases used by Luke S Zettlemoyer
+
+how many papers has Ameet Soni published ?
+
+What has Ras Bodik published ?
+
+Character Recognition papers earlier than 2010
+
+I want the papers on Machine Translation by Philipp Koehn
+
+What are all the publication titles by Donald E Knuth ?
+
+keyphrases used by Steve Tanimoto
+
+How many papers in ACL 2016 ?
+
+papers related to Deep Learning
+
+conferences that Dan Weld has published in
+
+what year was the first Deep Learning paper published ?
+
+datasets in KNN papers
+
+How many papers did Luke Campbell write last year ?
+
+What is Yejin Choi s highest cited paper ?
+
+How many papers does James Fogarty have in CHI ?
+
+papers about NELL
+
+papers in Neural Networks
+
+How many papers on Computer Science Education in 2016 ?
+
+datasets for KNN
+
+How many papers by Luke Zettlemoyer contain the keyphrases Learning Algorithm ?
+
+papers about Object Recognition
+
+how is the most prolific author in ACL ?
+
+Who has published the most number of papers with Richard Sutton ?
+
+Show me the papers on Data Cleaning
+
+papers before 2010 about Character Recognition
+
+papers by Stefan Savage
+
+papers that used MNIST
+
+datasets with Semantic Parsing
+
+top Syntactic Parsing author
+
+citations for Alex Snoeren
+
+Authors of papers on Machine Translation
+
+does Ras Bodik publish a lot ?
+
+how many papers are based on ImageNet
+
+who published at ACL 2014 ?
+
+KNN dataset
+
+How many papers does Stefan Savage have ?
+
+count of ACL papers by author
+
+What are the latest papers by Nigam H. Shah and Srinivasan Iyer ?
+
+keyphrases used by Torlak in 2010
+
+what papers are in the ACL of 2014
+
+latest Deep Learning papers
+
+most cited papers on Stochastic Optimization
+
+Which journals did Linda Shapiro submit papers to ?
+
+What are the 5 most recent papers of Mirella Lapata ?
+
+papers by Luke Zettlemoyer
+
+first Deep Learning paper
+
+How many papers did Jeffrey Heer publish at CHI ?
+
+keyphrases used by Kaiming He
+
+keyphrases used by Dan Weld
+
+What are the papers of Saurabh Gupta in Instance Segmentation ?
+
+Who are the authors with the most published papers in SIGMOD ?
+
+Latest paper by Jeff Dean
+
+What conference does Luke Zettlemoyer publish the most in
+
+keyphrases used by Dan Klein in 2010
+
+who are all the co-authors of Srinivasan Iyer ?
+
+Donald Elmazi citation count
+
+datasets used by Textual Entailment papers
+
+How many papers does Jeffrey Heer have in CHI ?
+
+What is Magda Balazinska s latest paper ?
+
+Papers about Image Annotation in CHI
+
+recent papers written by Sanjeev Arora
+
+papers with more than 5 citations
+
+Papers on ImageNet
+
+who has written the most papers on Semantic Parsing since 2005 ?
+
+what datasets did Oren Etzioni use ?
+
+papers by Richard Ladner and Linda Shapiro
+
+keywords in the papers written by Lorenzo Bruzzone
+
+papers at CHI related to Augmented Reality
+
+Which papers have X Jiang and Frantzen as co-authors ?
+
+keyphrases used by Luke S Zettlemoyer for each year
+
+papers published at EMNLP 2010
+
+recent Semantic Parsing papers
+
+How many papers does Emily M Bender have ?
+
+Papers written by Daniel A. Epstein in 2016
+
+list datasets for Video Segmentation
+
+Papers from ICTD 2016 conference
+
+Most recent Neural conference ?
+
+When does Michael Stonebraker publish the first VLDB paper ?
+
+how many papers has Mirella Lapata cited ?
+
+what papers have fewer than 5 citations by ACL papers
+

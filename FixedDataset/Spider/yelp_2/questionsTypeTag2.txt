@@ -1,0 +1,110 @@
+List/O/ all/O/ the/O/ businesses/TABLE/ with/O/ more/O/ than/O/ 4.5/O/ stars/O/ 
+List/O/ all/O/ businesses/TABLE/ with/COND/ rating/ATTR/ 3.5/VALUE/ 
+List/O/ all/O/ user/ATTR/ ids/ATTR/ with/COND/ name/ATTR/ Michelle/VALUE/ 
+Find/O/ all/O/ states/ATTR/ in/O/ which/COND/ there/O/ is/O/ a/O/ Whataburger/VALUE/ 
+Find/O/ all/O/ cities/ATTR/ in/O/ which/COND/ there/O/ is/O/ a/O/ restaurant/VALUE/ called/O/ MGM/VALUE/ Grand/VALUE/ Buffet/VALUE/ 
+Find/O/ the/O/ cities/ATTR/ of/O/ businesses/TABLE/ rated/ATTRREF/ below/COND/ 1.5/VALUE/ 
+Find/O/ all/O/ cities/ATTR/ which/COND/ has/O/ a/O/ Taj/VALUE/ Mahal/VALUE/ 
+List/O/ all/O/ the/O/ reviews/TABLE/ which/O/ rated/ATTRREF/ a/O/ business/O/ less/COND/ than/COND/ 1/VALUE/ 
+List/O/ all/O/ the/O/ restaurant/VALUE/ rated/ATTRREF/ more/COND/ than/COND/ 3.5/VALUE/ 
+find/O/ all/O/ cities/ATTR/ which/COND/ has/O/ a/O/ Taj/VALUE/ Mahal/VALUE/ restaurant/VALUE/ 
+list/O/ all/O/ the/O/ reviews/TABLE/ by/COND/ Niloofar/VALUE/ 
+list/O/ all/O/ the/O/ businesses/TABLE/ which/COND/ have/O/ a/O/ review/TABLE/ by/COND/ Niloofar/VALUE/ 
+list/O/ all/O/ the/O/ businesses/TABLE/ which/COND/ Niloofar/VALUE/ rated/ATTRREF/ 5/VALUE/ 
+List/O/ all/O/ the/O/ reviews/TABLE/ by/COND/ Michelle/VALUE/ for/COND/ Italian/VALUE/ restaurant/VALUE/ 
+find/O/ the/O/ number/O/ of/O/ reviews/TABLE/ written/O/ for/COND/ Cafe/VALUE/ Zinho/VALUE/ restaurant/VALUE/ in/COND/ Texas/VALUE/ 
+List/O/ all/O/ 5/VALUE/ star/O/ Italian/VALUE/ restaurant/VALUE/ 
+List/O/ all/O/ the/O/ neighbourhoods/TABLE/ with/COND/ Italian/VALUE/ restaurant/VALUE/ in/COND/ Madison/VALUE/ 
+List/O/ all/O/ the/O/ neighbourhoods/TABLE/ with/COND/ Italian/VALUE/ restaurant/VALUE/ rated/ATTRREF/ less/COND/ than/COND/ 2.5/VALUE/ in/COND/ Madison/VALUE/ 
+find/O/ all/O/ the/O/ restaurant/VALUE/ in/COND/ Pennsylvania/VALUE/ 
+List/O/ all/O/ businesses/TABLE/ that/O/ are/O/ restaurant/VALUE/ in/COND/ Pennsylvania/VALUE/ 
+Find/O/ all/O/ the/O/ reviews/TABLE/ for/COND/ all/O/ Pet/VALUE/ Groomers/VALUE/ with/COND/ more/COND/ than/O/ 100/VALUE/ reviews/O/ 
+What/O/ are/O/ all/O/ the/O/ breweries/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/O/ all/O/ breweries/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/O/ all/O/ breweries/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/O/ all/O/ users/TABLE/ who/O/ reviewed/TABLEREF/ restaurant/VALUE/ Mesa/VALUE/ Grill/VALUE/ 
+List/O/ the/O/ addresses/ATTR/ of/O/ all/O/ Walmart/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/O/ all/O/ restaurant/VALUE/ reviewed/TABLEREF/ by/COND/ Patrick/VALUE/ in/COND/ Dallas/VALUE/ 
+Which/O/ restaurant/VALUE/ in/COND/ Dallas/VALUE/ were/O/ reviewed/TABLEREF/ by/COND/ user/ATTRREF/ Patrick/VALUE/ 
+Find/O/ all/O/ Bars/VALUE/ reviewed/TABLEREF/ by/COND/ Patrick/VALUE/ 
+Find/O/ all/O/ Bars/VALUE/ reviewed/TABLEREF/ by/COND/ Patrick/VALUE/ with/COND/ at/O/ least/COND/ 3/VALUE/ stars/O/ 
+Find/O/ all/O/ users/TABLE/ who/COND/ have/O/ written/O/ tips/TABLE/ for/O/ Barrio/VALUE/ Cafe/VALUE/ in/COND/ 2015/VALUE/ 
+Find/O/ all/O/ businesses/TABLE/ in/COND/ Texas/VALUE/ with/COND/ a/O/ rating/ATTR/ below/COND/ 2/VALUE/ 
+Find/O/ all/O/ restaurant/VALUE/ Seafood/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+List/O/ all/O/ the/O/ Seafood/VALUE/ restaurant/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/O/ all/O/ restaurant/VALUE/ that/COND/ serve/O/ Seafood/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/O/ all/O/ reviews/TABLE/ by/COND/ Patrick/VALUE/ with/COND/ a/O/ rating/ATTR/ above/COND/ 4/VALUE/ 
+Find/O/ all/O/ Apple/VALUE/ Store/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/O/ all/O/ Dallas/VALUE/ restaurant/VALUE/ with/COND/ a/O/ rating/ATTR/ above/COND/ 4.5/VALUE/ 
+Find/O/ all/O/ tips/TABLE/ about/COND/ Vintner/VALUE/ Grill/VALUE/ that/O/ received/O/ more/COND/ than/COND/ 9/VALUE/ likes/O/ 
+Find/O/ all/O/ reviews/TABLE/ about/COND/ Kabob/VALUE/ Palace/VALUE/ in/COND/ year/ATTR/ 2014/VALUE/ 
+Find/O/ all/O/ users/TABLE/ who/COND/ have/O/ written/O/ tips/TABLE/ about/COND/ businesses/TABLE/ in/COND/ Dallas/VALUE/ 
+Find/O/ all/O/ cities/ATTR/ in/COND/ Texas/VALUE/ in/O/ which/COND/ there/O/ is/O/ a/O/ restaurant/VALUE/ called/O/ MGM/VALUE/ Grand/VALUE/ Buffet/VALUE/ 
+Find/O/ the/O/ users/TABLE/ who/COND/ have/O/ given/O/ tips/TABLE/ on/COND/ Pet/VALUE/ Groomers/VALUE/ 
+Find/O/ all/O/ tips/TABLE/ for/COND/ Cafe/VALUE/ Zinho/VALUE/ in/COND/ Texas/VALUE/ 
+List/O/ all/O/ users/TABLE/ who/COND/ reviewed/TABLEREF/ businesses/TABLE/ that/COND/ are/O/ restaurant/VALUE/ 
+List/O/ all/O/ tips/TABLE/ for/COND/ Cafe/VALUE/ Zinho/VALUE/ in/COND/ Pennsylvania/VALUE/ in/COND/ 2010/VALUE/ 
+List/O/ all/O/ users/TABLE/ who/COND/ reviewed/TABLEREF/ businesses/TABLE/ that/COND/ are/O/ restaurant/VALUE/ in/COND/ 2010/VALUE/ 
+Find/O/ all/O/ the/O/ tips/TABLE/ from/O/ a/O/ user/TABLE/ who/COND/ has/O/ written/O/ a/O/ review/TABLE/ in/COND/ 2012/VALUE/ 
+Find/O/ all/O/ reviews/TABLE/ for/COND/ businesses/TABLE/ rated/ATTRREF/ 2.5/VALUE/ 
+find/O/ the/O/ number/O/ of/O/ escape/VALUE/ games/VALUE/ in/COND/ Madison/VALUE/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ escape/VALUE/ games/VALUE/ in/COND/ Madison/VALUE/ 
+How/O/ many/O/ escape/VALUE/ games/VALUE/ exist/O/ in/COND/ Madison/VALUE/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ escape/VALUE/ games/VALUE/ in/COND/ Madison/VALUE/ 
+How/O/ many/O/ escape/VALUE/ games/VALUE/ are/O/ there/O/ in/COND/ Madison/VALUE/ 
+find/O/ the/O/ number/O/ of/O/ restaurant/VALUE/ rated/ATTRREF/ more/COND/ than/COND/ 3.5/VALUE/ 
+find/O/ the/O/ total/O/ checkins/TABLE/ in/COND/ Moroccan/VALUE/ restaurant/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+find/O/ the/O/ total/O/ checkins/TABLE/ in/COND/ Moroccan/VALUE/ restaurant/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ on/COND/ Friday/VALUE/ 
+find/O/ the/O/ total/O/ checkins/TABLE/ in/COND/ Moroccan/VALUE/ restaurant/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ per/O/ day/ATTR/ 
+find/O/ the/O/ total/O/ checkins/TABLE/ in/COND/ Italian/VALUE/ Delis/VALUE/ in/O/ each/O/ state/ATTR/ on/COND/ Sunday/VALUE/ 
+How/O/ many/O/ reviews/TABLE/ has/O/ Niloofar/VALUE/ written/O/ in/COND/ 2015/VALUE/ 
+what/O/ is/O/ the/O/ average/O/ rating/ATTR/ given/O/ in/O/ Michelle/VALUE/ reviews/TABLE/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ checkins/TABLE/ for/COND/ Cafe/VALUE/ Zinho/VALUE/ on/COND/ Friday/VALUE/ 
+how/O/ many/O/ users/TABLE/ reviewed/TABLEREF/ Sushi/VALUE/ Too/VALUE/ in/COND/ Pittsburgh/VALUE/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ restaurant/VALUE/ in/COND/ Pittsburgh/VALUE/ rated/ATTRREF/ 4.5/VALUE/ 
+How/O/ many/O/ tips/TABLE/ have/O/ been/O/ written/O/ in/COND/ 2015/VALUE/ 
+What/O/ is/O/ the/O/ total/O/ likes/ATTR/ on/O/ tips/TABLE/ from/COND/ Niloofar/VALUE/ 
+What/O/ is/O/ the/O/ total/O/ likes/ATTR/ on/O/ tips/TABLE/ about/COND/ Cafe/VALUE/ Zinho/VALUE/ 
+What/O/ is/O/ the/O/ total/O/ likes/ATTR/ on/O/ tips/TABLE/ from/COND/ Niloofar/VALUE/ about/COND/ Cafe/VALUE/ Zinho/VALUE/ 
+How/O/ many/O/ tips/TABLE/ has/O/ Michelle/VALUE/ written/O/ in/COND/ 2010/VALUE/ 
+Return/O/ me/O/ the/O/ number/O/ of/O/ tips/TABLE/ that/O/ are/O/ written/O/ by/COND/ Michelle/VALUE/ in/COND/ 2010/VALUE/ 
+How/O/ many/O/ tips/TABLE/ has/O/ Michelle/VALUE/ written/O/ in/COND/ April/VALUE/ 
+what/O/ is/O/ the/O/ number/O/ of/O/ restaurant/VALUE/ in/COND/ Texas/VALUE/ 
+How/O/ many/O/ Bars/VALUE/ in/COND/ Dallas/VALUE/ have/O/ a/O/ rating/ATTR/ above/COND/ 3.5/VALUE/ 
+How/O/ many/O/ Bars/VALUE/ in/COND/ Dallas/VALUE/ have/O/ a/O/ rating/ATTR/ above/COND/ 3.5/VALUE/ 
+How/O/ many/O/ people/O/ reviewed/TABLEREF/ the/O/ restaurant/VALUE/ Texas/VALUE/ de/VALUE/ Brazil/VALUE/ in/COND/ Dallas/VALUE/ Texas/VALUE/ 
+How/O/ many/O/ people/O/ reviewed/TABLEREF/ Bistro/VALUE/ Di/VALUE/ Napoli/VALUE/ in/COND/ 2015/VALUE/ 
+How/O/ many/O/ restaurant/VALUE/ are/O/ there/O/ in/COND/ the/O/ Hazelwood/VALUE/ district/O/ of/O/ Dallas/VALUE/ 
+How/O/ many/O/ Starbucks/VALUE/ are/O/ there/O/ in/COND/ Dallas/VALUE/ Texas/VALUE/ 
+How/O/ many/O/ reviews/ATTR/ does/O/ Acacia/VALUE/ Cafe/VALUE/ have/O/ 
+Find/O/ the/O/ average/O/ number/O/ of/O/ checkins/TABLE/ in/COND/ restaurant/VALUE/ Barrio/VALUE/ Cafe/VALUE/ per/O/ day/ATTR/ 
+How/O/ many/O/ businesses/TABLE/ are/O/ there/O/ in/COND/ the/O/ Stone/VALUE/ Meadows/VALUE/ neighbourhood/ATTR/ in/COND/ Madison/VALUE/ 
+How/O/ many/O/ reviews/TABLE/ has/O/ Adrienne/VALUE/ written/O/ 
+How/O/ many/O/ reviews/TABLE/ has/O/ Michelle/VALUE/ written/O/ in/COND/ March/VALUE/ 2014/VALUE/ 
+How/O/ many/O/ businesses/TABLE/ has/O/ Michelle/VALUE/ reviewed/TABLEREF/ in/COND/ 2010/VALUE/ 
+How/O/ many/O/ businesses/TABLE/ in/COND/ San/VALUE/ Diego/VALUE/ has/O/ Christine/VALUE/ reviewed/TABLEREF/ in/COND/ 2010/VALUE/ 
+How/O/ many/O/ Target/VALUE/ are/O/ there/O/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+How/O/ many/O/ users/TABLE/ have/O/ reviewed/TABLEREF/ Irish/VALUE/ Pub/VALUE/ in/COND/ Dallas/VALUE/ 
+What/O/ is/O/ the/O/ average/O/ rating/ATTR/ of/O/ reviews/TABLE/ written/O/ in/O/ year/ATTR/ 2014/VALUE/ 
+How/O/ many/O/ people/O/ reviewed/TABLEREF/ restaurant/VALUE/ Vintner/VALUE/ Grill/VALUE/ in/COND/ 2010/VALUE/ 
+Find/O/ the/O/ number/O/ of/O/ reviews/TABLE/ on/O/ businesses/TABLE/ located/O/ in/COND/ South/VALUE/ Summerlin/VALUE/ neighbourhood/TABLE/ 
+Find/O/ the/O/ number/O/ of/O/ users/TABLE/ called/O/ Michelle/VALUE/ 
+Return/O/ me/O/ the/O/ number/O/ of/O/ businesses/TABLE/ that/COND/ are/O/ restaurant/VALUE/ 
+Return/O/ me/O/ the/O/ number/O/ of/O/ cities/ATTR/ that/COND/ has/O/ Panda/VALUE/ Express/VALUE/ 
+Return/O/ me/O/ the/O/ number/O/ of/O/ tips/TABLE/ that/O/ are/O/ written/O/ by/COND/ Michelle/VALUE/ 
+Find/O/ the/O/ total/O/ checkins/TABLE/ in/COND/ Brighton/VALUE/ Heights/VALUE/ neighbourhood/TABLE/ 
+Find/O/ the/O/ total/O/ number/O/ of/O/ reviews/TABLE/ written/O/ in/O/ March/VALUE/ 
+Find/O/ the/O/ number/O/ of/O/ tips/TABLE/ written/O/ in/O/ each/O/ month/ATTR/ 
+How/O/ many/O/ neighbourhoods/TABLE/ have/O/ a/O/ business/TABLE/ with/COND/ rating/ATTR/ 5/VALUE/ in/COND/ Madison/VALUE/ 
+Give/O/ me/O/ all/O/ the/O/ Moroccan/VALUE/ restaurant/VALUE/ in/COND/ Texas/VALUE/ 
+which/O/ business/TABLE/ has/O/ the/O/ most/O/ number/O/ of/O/ checkins/TABLE/ 
+which/O/ neighbourhood/TABLE/ has/O/ the/O/ most/O/ number/O/ of/O/ businesses/TABLE/ in/COND/ Madison/VALUE/ 
+Find/O/ all/O/ Mexican/VALUE/ restaurant/VALUE/ in/COND/ Dallas/VALUE/ with/COND/ at/COND/ least/COND/ 3.5/VALUE/ stars/O/ 
+Find/O/ all/O/ Mexican/VALUE/ restaurant/VALUE/ in/COND/ Dallas/VALUE/ with/COND/ a/O/ rating/ATTR/ above/COND/ 3.5/VALUE/ 
+Find/O/ all/O/ restaurant/VALUE/ with/COND/ Valet/VALUE/ Service/VALUE/ in/COND/ Dallas/VALUE/ Texas/VALUE/ 
+Find/O/ all/O/ Italian/VALUE/ restaurant/VALUE/ in/COND/ the/O/ Meadowood/VALUE/ neighbourhood/TABLE/ of/O/ Madison/VALUE/ 
+Find/O/ all/O/ Bars/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ with/COND/ at/COND/ least/COND/ 30/VALUE/ reviews/ATTR/ and/O/ average/O/ rating/ATTR/ above/COND/ 3/VALUE/ stars/O/ 
+How/O/ many/O/ Egyptian/VALUE/ restaurant/VALUE/ are/O/ there/O/ in/COND/ Edinburgh/VALUE/ 
+Find/O/ users/TABLE/ whose/COND/ average/O/ review/TABLE/ rating/ATTR/ is/O/ below/COND/ 3/VALUE/ 
+Find/O/ the/O/ business/TABLE/ with/COND/ the/COND/ most/COND/ number/COND/ of/COND/ reviews/TABLE/ in/COND/ April/VALUE/ 
+Find/O/ the/O/ business/TABLE/ which/COND/ has/O/ the/COND/ most/COND/ number/COND/ of/O/ categories/TABLE/ 

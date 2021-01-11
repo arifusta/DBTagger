@@ -1,0 +1,109 @@
+What/WDT/ year/movie.release_year/ is/VBZ/ the/DT/ movie/movie/ The/movie.title/ Imitation/movie.title/ Game/movie.title/ from/IN/  
+What/WDT/ year/movie.release_year/ was/VBD/ the/DT/ movie/movie/ The/movie.title/ Imitation/movie.title/ Game/movie.title/ produced/VBD/ 
+What/WDT/ year/actor.birth_year/ was/VBD/ Benedict/actor.name/ Cumberbatch/actor.name/ born/actor.birth_year/  
+In/IN/ what/WDT/ year/actor.birth_year/ was/VBD/ Benedict/actor.name/ Cumberbatch/actor.name/ born/actor.birth_year/ 
+What/WP/ is/VBZ/ the/DT/ nationality/actor.nationality/ of/cond/ the/DT/ actress/actor/ Christoph/actor.name/ Waltz/actor.name/  
+What/WP/ is/VBZ/ the/DT/ nationality/actor.nationality/ of/cond/ the/DT/ actor/actor/ Christoph/actor.name/ Waltz/actor.name/  
+Find/VB/ all/DT/ movies/movie/ produced/VBN/ in/cond/ 2015/movie.release_year/ 
+Find/VB/ all/DT/ actors/actor/ born/actor.birth_city/ in/cond/ Tehran/actor.birth_city/ 
+Find/VB/ all/DT/ actors/actor/ born/actor.birth_city/ in/cond/ Tehran/actor.birth_city/ 
+Which/WDT/ actors/actor/ were/VBD/ born/actor.birth_city/ in/cond/ Tehran/actor.birth_city/ 
+Find/VB/ all/DT/ actors/actor/ who/WP/ are/VBP/ from/cond/ Afghanistan/actor.birth_city/
+Find/VB/ all/DT/ actors/actor/ from/cond/ Afghanistan/actor.birth_city/ 
+Give/VB/ me/PRP/ the/DT/ name/actor.name/ of/IN/ all/PDT/ the/DT/ actors/actor/ from/cond/ Afghanistan/actor.birth_city/ 
+Find/VB/ all/DT/ actors/actor/ who/WP/ were/VBD/ born/actor.birth_year/ in/cond/ 1984/actor.birth_year/ 
+When/WRB/ was/VBD/ Kevin/actor.name/ Spacey/actor.name/ born/actor.birth_year/  
+In/IN/ what/WDT/ year/actor.birth_year/ was/VBD/ Kevin/actor.name/ Spacey/actor.name/ born/actor.birth_year/  
+Where/WRB/ is/VBZ/ the/DT/ birth/actor.birth_city/ place/actor.birth_city/ of/cond/ Kevin/actor.name/ Spacey/actor.name/ 
+In/IN/ what/WDT/ city/actor.birth_city/ was/VBD/ Kevin/actor.name/ Spacey/actor.name/ born/actor.birth_city/  
+What/WP/ is/VBZ/ the/DT/ nationality/actor.nationality/ of/cond/ Kevin/actor.name/ Spacey/actor.name/  
+How/WRB/ much/RB/ was/VBD/ the/DT/ budget/movie.budget/ of/cond/ Finding/movie.title/ Nemo/movie.title/ 
+Find/VB/ all/DT/ movies/movie/ directed/directed_by/ by/cond/ Steven/director.name/ Spielberg/director.name/ after/cond/ 2006/movie.release_year/ 
+Who/WP/ is/VBZ/ the/DT/ director/director/ of/cond/ the/DT/ movie/movie/ James/movie.title/ Bond/movie.title/  
+Who/WP/ directed/directed_by/ the/DT/ movie/movie/ James/movie.title/ Bond/movie.title/  
+List/NN/ James/movie.title/ Bond/movie.title/ directors/director/ 
+Find/VB/ the/DT/ actor/actor/ who/WP/ played/cast/ Alan/cast.role/ Turing/cast.role/ in/cond/ the/DT/ movie/movie/ The/movie.title/ Imitation/movie.title/ Game/movie.title/ 
+Who/WP/ acted/cast/ Alan/cast.role/ Turing/cast.role/ in/cond/ the/DT/ movie/movie/ The/movie.title/ Imitation/movie.title/ Game/movie.title/  
+Who/WP/ was/VBD/ the/DT/ actor/actor/ that/WDT/ played/cast/ Alan/cast.role/ Turing/cast.role/ in/cond/ the/DT/ movie/movie/ The/movie.title/ Imitation/movie.title/ Game/movie.title/  
+Who/WP/ acts/cast/ as/cond/ Alan/cast.role/ Turing/cast.role/ in/cond/ the/DT/ movie/movie/ The/movie.title/ Imitation/movie.title/ Game/movie.title/  
+Who/WP/ is/VBZ/ the/DT/ actor/actor/ playing/cast/ Alan/cast.role/ Turing/cast.role/ in/cond/ The/movie.title/ Imitation/movie.title/ Game/movie.title/  
+What/WP/ is/VBZ/ the/DT/ genre/genre/ of/cond/ the/DT/ movie/movie/ Jurassic/movie.title/ Park/movie.title/  
+Who/WP/ was/VBD/ the/DT/ director/director/ of/cond/ the/DT/ movie/movie/ Joy/movie.title/ from/cond/ 2015/movie.release_year/  
+Find/VB/ all/DT/ movies/movie/ written/written_by/ by/cond/ Matt/writer.name/ Damon/writer.name/ 
+Find/VB/ all/DT/ movies/movie/ written/written_by/ and/CC/ produced/produced_by/ by/cond/ Woody/producer.name/ Allen/producer.name/ 
+Find/VB/ all/DT/ movies/movie/ featuring/cast/ Robin/actor.name/ Wright/actor.name/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ movies/movie/ featuring/cast/ Robin/actor.name/ Wright/actor.name/  
+Find/VB/ all/DT/ movies/movie/ in/IN/ which/WDT/ Robin/actor.name/ Wright/actor.name/ appears/cast/
+What/WP/ was/VBD/ the/DT/ budget/movie.budget/ of/cond/ the/DT/ movie/movie/ Juno/movie.title/ from/cond/ 2007/movie.release_year/  
+Find/VB/ all/DT/ Sci-Fi/genre.genre/ produced/VBN/ in/cond/ year/movie.release_year/ 2010/movie.release_year/
+List/NN/ all/PDT/ the/DT/ Sci-Fi/genre.genre/ movies/movie/ which/WDT/ released/movie.release_year/ in/cond/ 2010/movie.release_year/ 
+Find/VB/ all/DT/ actors/actor/ born/actor.birth_city/ in/cond/ Austin/actor.birth_city/ after/cond/ 1980/actor.birth_year/ 
+Who/WP/ are/VBP/ the/DT/ actors/actor/ born/actor.birth_city/ in/cond/ Austin/actor.birth_city/ after/cond/ 1980/actor.birth_year/  
+Find/VB/ all/DT/ actors/actor/ from/cond/ Austin/actor.birth_city/ born/actor.birth_year/ after/cond/ 1980/actor.birth_year/ 
+Find/VB/ all/DT/ movies/movie/ by/IN/ directors/director/ born/director.birth_city/ in/cond/ Los/director.birth_city/ Angeles/director.birth_city/ 
+Find/VB/ all/DT/ actors/actor/ who/WP/ were/VBD/ born/actor.birth_city/ in/cond/ New/actor.birth_city/ York/actor.birth_city/ City/actor.birth_city/ in/cond/ 1984/actor.birth_year/ 
+Find/VB/ all/DT/ movies/movie/ about/cond/ nuclear/keyword.keyword/ weapons/keyword.keyword/ 
+What/WP/ are/VBP/ the/DT/ movies/movie/ related/VBN/ to/TO/ nuclear/keyword.keyword/ weapons/keyword.keyword/ 
+Which/WDT/ movies/movie/ did/VBD/ Alfred/director.name/ Hitchcock/director.name/ direct/directed_by/  
+Find/VB/ all/DT/ movies/movie/ directed/directed_by/ by/cond/ Asghar/director.name/ Farhadi/director.name/ and/CC/ featuring/cast/ Taraneh/actor.name/ Alidoosti/actor.name/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ movies/movie/ directed/directed_by/ by/cond/ Asghar/director.name/ Farhadi/director.name/ featuring/cast/ Taraneh/actor.name/ Alidoosti/actor.name/  
+How/WRB/ many/JJ/ movies/movie/ are/VBP/ there/EX/ that/WDT/ are/VBP/ directed/directed_by/ by/cond/ Asghar/director.name/ Farhadi/director.name/ and/CC/ featuring/cast/ Taraneh/actor.name/ Alidoosti/actor.name/  
+List/NN/ all/PDT/ the/DT/ movies/movie/ directed/directed_by/ by/cond/ Asghar/director.name/ Farhadi/director.name/ in/IN/ which/WDT/ Taraneh/actor.name/ Alidoosti/actor.name/ played/cast/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ tv/tv_series/ series/tv_series/ created/made_by/ by/cond/ Shonda/producer.name/ Rhimes/producer.name/  
+Who/WP/ acts/cast/ Olivia/cast.role/ Pope/cast.role/ in/cond/ the/DT/ series/tv_series/ Scandal/tv_series.title/  
+Who/WP/ is/VBZ/ the/DT/ writer/writer/ of/cond/ the/DT/ movie/movie/ The/movie.title/ Truman/movie.title/ Show/movie.title/ 
+Who/WP/ is/VBZ/ the/DT/ writer/writer/ of/cond/ The/movie.title/ Truman/movie.title/ Show/movie.title/ 
+What/WP/ are/VBP/ the/DT/ series/tv_series/ featuring/cast/ Scott/actor.name/ Foley/actor.name/  
+What/WP/ are/VBP/ the/DT/ series/tv_series/ in/IN/ which/WDT/ Scott/actor.name/ Foley/actor.name/ is/VBZ/ an/DT/ actor/actor/  
+Find/VB/ the/DT/ directors/director/ of/IN/ all/DT/ movies/movie/ featuring/cast/ Kate/actor.name/ Winslet/actor.name/ 
+Find/VB/ the/DT/ producers/producer/ of/IN/ all/DT/ movies/movie/ in/IN/ which/WDT/ Kate/actor.name/ Winslet/actor.name/ is/VBZ/ an/DT/ actor/actor/ 
+Who/WP/ is/VBZ/ the/DT/ director/director/ of/cond/ the/DT/ tv/tv_series/ series/tv_series/ House/tv_series.title/ of/tv_series.title/ Cards/tv_series.title/ from/cond/ 2013/tv_series.release_date/  
+Find/VB/ all/PDT/ the/DT/ female/actor.gender/ actors/actor/ from/cond/ Austin/actor.birth_city/ 
+Find/VB/ all/DT/ actors/actor/ from/cond/ Italy/actor.nationality/ born/actor.birth_year/ after/cond/ 1980/actor.birth_year/
+Find/VB/ all/PDT/ the/DT/ female/actor.gender/ actors/actor/ born/actor.birth_city/ in/cond/ New/actor.birth_city/ York/actor.birth_city/ City/actor.birth_city/ after/cond/ 1980/actor.birth_year/ 
+Find/VB/ all/PDT/ the/DT/ female/actor.gender/ actors/actor/ in/cond/ the/DT/ movie/movie/ Saving/movie.title/ Private/movie.title/ Ryan/movie.title/ 
+Find/VB/ all/PDT/ the/DT/ directors/director/ who/WP/ are/VBP/ from/cond/ Afghanistan/actor.nationality/ 
+Find/VB/ the/DT/ actors/actor/ who/WP/ played/cast/ in/cond/ the/DT/ movie/movie/ Camp/movie.title/ X-Ray/movie.title/ 
+Find/VB/ all/DT/ actors/actor/ from/cond/ Canada/actor.nationality/ who/WP/ acted/cast/ in/cond/ James/movie.title/ Bond/movie.title/ movies/movie/ 
+find/VB/ all/DT/ films/movie/ in/IN/ which/WDT/ Rowan/actor.name/ Atkinson/actor.name/ acted/cast/ as/cond/ Mr./cast.role/ Bean/cast.role/ 
+where/WRB/ is/VBZ/ the/DT/ director/director/ of/cond/ The/movie.title/ Past/movie.title/ from/IN/ 
+who/WP/ acted/cast/ the/DT/ role/ATTR/ of/cond/ Mr./cast.role/ Bean/cast.role/ 
+what/WP/ are/VBP/ the/DT/ genres/genre/ of/IN/ movies/movie/ directed/directed_by/ by/cond/ Asghar/director.name/ Farhadi/director.name/ 
+Which/WDT/ movie/movie/ had/VBD/ the/DT/ character/cast.role/ Daffy/cast.role/ Duck/cast.role/ 
+What/WP/ are/VBP/ the/DT/ major/JJ/ roles/cast.role/ in/cond/ the/DT/ movie/movie/ Daddy/movie.title/ Long/movie.title/ Legs/movie.title/ 
+List/NN/ all/PDT/ the/DT/ directors/director/ of/IN/ movies/movie/ about/cond/ nuclear/keyword.keyword/ weapons/keyword.keyword/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/movie/ in/IN/ which/WDT/ Jennifer/actor.name/ Aniston/actor.name/ acted/cast/ after/cond/ 2010/movie.release_year/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ actors/actor/ in/cond/ the/DT/ movie/movie/ Saving/movie.title/ Private/movie.title/ Ryan/movie.title/  
+How/WRB/ many/JJ/ actors/actor/ are/VBP/ in/cond/ the/DT/ movie/movie/ Saving/movie.title/ Privat/movie.title/ Ryan/movie.title/  
+How/WRB/ many/JJ/ movies/movie/ did/VBD/ Steven/director.name/ Spielberg/director.name/ direct/directed_by/  
+How/WRB/ many/JJ/ movies/movie/ were/VBD/ produced/VBN/ in/cond/ the/DT/ year/movie.release_year/ 2013/movie.release_year/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/movie/ produced/VBN/ in/cond/ 2013/movie.release_year/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/movie/ directed/directed_by/ by/cond/ Woody/director.name/ Allen/director.name/ per/IN/ year/NN/  
+How/WRB/ many/JJ/ movies/movie/ did/VBD/ Shahab/actor.name/ Hosseini/actor.name/ act/cast/ in/IN/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/movie/ in/IN/ which/WDT/ Shahab/actor.name/ Hosseini/actor.name/ acted/cast/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/movie/ featuring/cast/ Shahab/actor.name/ Hosseini/actor.name/  
+How/WRB/ many/JJ/ movies/movie/ did/VBD/ Shahab/actor.name/ Hosseini/actor.name/ act/cast/ in/IN/ 
+How/WRB/ many/JJ/ actors/actor/ were/VBD/ born/actor.birth_city/ in/cond/ Los/actor.birth_city/ Angeles/actor.birth_city/ after/cond/ 2000/actor.birth_year/  
+How/WRB/ many/JJ/ movies/movie/ did/VBD/ Humphrey/actor.name/ Bogart/actor.name/ act/cast/ in/IN/ before/cond/ 1942/movie.release_year/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/movie/ that/IN/ Brad/actor.name/ Pitt/actor.name/ acts/cast/ in/FW/ per/FW/ year/ATTR/  
+How/WRB/ many/JJ/ movies/movie/ about/cond/ Iraq/keyword.keyword/ war/keyword.keyword/ were/VBD/ produced/VBN/ in/cond/ 2015/movie.release_year/  
+How/WRB/ many/JJ/ movies/movie/ about/cond/ Persians/keyword.keyword/ were/VBD/ released/movie.release_year/ after/cond/ 1990/movie.release_year/  
+How/WRB/ many/JJ/ movies/movie/ did/VBD/ Quentin/director.name/ Tarantino/director.name/ direct/directed_by/ after/cond/ 2010/movie.release_year/  
+How/WRB/ many/JJ/ movies/movie/ did/VBD/ Quentin/director.name/ Tarantino/director.name/ direct/directed_by/ before/cond/ 2010/movie.release_year/  
+How/WRB/ many/JJ/ movies/movie/ did/VBD/ Quentin/director.name/ Tarantino/director.name/ direct/directed_by/ before/cond/ 2002/movie.release_year/ and/CC/ after/cond/ 2010/movie.release_year/  
+How/WRB/ many/JJ/ female/actor.gender/ actors/actor/ were/VBD/ born/actor.birth_city/ in/cond/ New/actor.birth_city/ York/actor.birth_city/ City/actor.birth_city/ after/cond/ 1980/actor.birth_year/  
+find/VB/ the/DT/ number/NN/ of/IN/ actors/actor/ from/cond/ Iran/actor.nationality/ who/WP/ played/cast/ in/cond/ Jim/director.name/ Jarmusch/director.name/ movies/movie/ 
+How/WRB/ many/JJ/ actors/actor/ from/cond/ China/actor.nationality/ have/VBP/ acted/cast/ in/cond/ Rush/movie.title/ Hour/movie.title/ 3/movie.title/ 
+Find/VB/ all/DT/ movies/movie/ that/WDT/ star/cast/ both/DT/ Woody/actor.name/ Strode/actor.name/ and/CC/ Jason/actor.name/ Robards/actor.name/ 
+Find/VB/ all/DT/ movies/movie/ featuring/cast/ Woody/actor.name/ Strode/actor.name/ and/CC/ Jason/actor.name/ Robards/actor.name/ 
+Find/VB/ all/DT/ movies/movie/ featuring/cast/ both/DT/ Woody/actor.name/ Strode/actor.name/ and/CC/ Jason/actor.name/ Robards/actor.name/ 
+Find/VB/ all/DT/ movies/movie/ featuring/cast/ Jason/actor.name/ Robards/actor.name/ and/CC/ Woody/actor.name/ Strode/actor.name/ 
+Find/VB/ all/DT/ actors/movie/ who/WP/ acted/cast/ in/IN/ the/DT/ same/JJ/ movie/movie/ as/cond/ Tom/actor.name/ Hanks/actor.name/ 
+What/WDT/ movies/movie/ have/VBP/ the/DT/ same/JJ/ director/director/ as/cond/ the/DT/ movie/movie/ Revolutionary/movie.title/ Road/movie.title/  
+Find/VB/ the/DT/ movie/movie/ which/WDT/ is/VBZ/ classified/classification/ in/IN/ the/DT/ most/JJS/ number/NN/ of/IN/ genres/genre/  
+which/WDT/ movie/movie/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ actors/actor/ from/cond/ China/actor.nationality/  
+Find/VB/ the/DT/ actors/actor/ who/WP/ played/cast/ in/IN/ the/DT/ latest/JJS/ movie/movie/ by/cond/ Quentin/director.name/ Tarantino/director.name/ 
+Find/VB/ the/DT/ name/movie.title/ and/CC/ budget/movie.budget/ of/IN/ the/DT/ latest/JJS/ movie/movie/ by/cond/ Quentin/director.name/ Tarantino/director.name/ 
+What/WP/ is/VBZ/ the/DT/ latest/JJS/ movie/movie/ by/cond/ Jim/director.name/ Jarmusch/director.name/ 
+Which/WDT/ producer/producer/ has/VBZ/ worked/VBN/ with/IN/ the/DT/ most/JJS/ number/NN/ of/IN/ directors/director/  
+Find/VB/ the/DT/ latest/JJS/ movie/movie/ which/WDT/ Gabriele/actor.name/ Ferzetti/actor.name/ acted/cast/ in/IN/

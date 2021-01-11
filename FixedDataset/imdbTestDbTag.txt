@@ -1,0 +1,27 @@
+find/O/ the/O/ number/O/ of/O/ actors/actor/ from/COND/ Iran/person.nationality/ who/O/ played/cast/ in/COND/ Jim/person.name/ Jarmusch/person.name/ movies/movie/ 
+Who/O/ is/O/ the/O/ director/director/ of/O/ the/O/ series/tv_series/ House/tv_series.title/ of/tv_series.title/ Cards/tv_series.title/ produced/copyright/ by/O/ Netflix/company.name/ ?/O/ 
+Find/O/ all/O/ actors/actor/ born/O/ in/COND/ Los/person.birth_city/ Angeles/person.birth_city/ 
+Find/O/ the/O/ name/movie.title/ and/O/ budget/movie.budget/ of/O/ the/O/ latest/COND/ movie/movie/ by/O/ Quentin/person.name/ Tarantino/person.name/ 
+Find/O/ all/O/ movies/movie/ featuring/cast/ Kevin/person.name/ Spacey/person.name/ 
+Find/O/ the/O/ latest/COND/ movie/movie/ which/O/ Gabriele/person.name/ Ferzetti/person.name/ acted/cast/ in/O/ 
+Find/O/ all/O/ movies/movie/ produced/copyright/ by/O/ Walt/company.name/ Disney/company.name/ after/COND/ 2010/movie.release_year/ 
+What/O/ are/O/ the/O/ series/tv_series/ featuring/cast/ Kerry/person.name/ Washington/person.name/ ?/O/ 
+List/O/ James/movie.title/ Bond/movie.title/ directors/director/ 
+Who/O/ directed/director/ the/O/ movie/movie/ Inglourious/movie.title/ Basterds/movie.title/ ?/O/ 
+Find/O/ all/O/ movies/movie/ featuring/cast/ Kate/person.name/ Winslet/person.name/ 
+Find/O/ the/O/ number/O/ of/O/ companies/company/ which/O/ worked/copyright/ with/O/ Gabriele/person.name/ Ferzetti/person.name/ 
+Who/O/ acts/actor/ Olivia/cast.role/ Pope/cast.role/ in/COND/ the/O/ series/tv_series/ Scandal/tv_series.title/ ?/O/ 
+How/O/ many/O/ movies/movie/ about/O/ Persians/keyword.keyword/ were/O/ released/movie.release_year/ after/COND/ 1990/movie.release_year/ ?/O/ 
+How/O/ many/O/ movies/movie/ did/O/ Shahab/person.name/ Hosseini/person.name/ act/cast/ in/O/ 
+Find/O/ all/O/ movies/movie/ about/O/ Autism/keyword.keyword/ 
+find/O/ all/O/ films/movie/ in/O/ which/O/ Rowan/person.name/ Atkinson/person.name/ acted/cast/ as/O/ Mr./cast.role/ Bean/cast.role/ 
+What/O/ are/O/ all/O/ the/O/ movies/movie/ directed/directed_by/ by/O/ Quentin/person.name/ Tarantino/person.name/ featuring/cast/ Christoph/person.name/ Waltz/person.name/ ?/O/ 
+What/O/ are/O/ the/O/ major/O/ roles/cast.role/ in/COND/ the/O/ movie/movie/ Daddy/movie.title/ Long/movie.title/ Legs/movie.title/ 
+Which/O/ movies/movie/ did/O/ Alfred/person.name/ Hitchcock/person.name/ direct/directed_by/ ?/O/ 
+Find/O/ all/O/ actors/actor/ from/COND/ Italy/person.nationality/ born/O/ after/COND/ 1980/person.birth_year/ 
+Find/O/ all/O/ movies/movie/ featuring/cast/ both/O/ Matt/person.name/ Damon/person.name/ and/O/ Ben/person.name/ Affleck/person.name/ 
+What/O/ was/O/ the/O/ budget/movie.budget/ of/O/ the/O/ movie/movie/ Juno/movie.title/ from/COND/ 2007/movie.release_year/ ?/O/ 
+What/O/ is/O/ the/O/ latest/COND/ movie/movie/ by/O/ Jim/person.name/ Jarmusch/person.name/ 
+Find/O/ all/O/ the/O/ female/person.gender/ actors/actor/ from/COND/ Austin/person.birth_city/ 
+How/O/ many/O/ actors/actor/ are/O/ in/COND/ the/O/ movie/movie/ Saving/movie.title/ Private/movie.title/ Ryan/movie.title/ ?/O/ 
+Which/O/ producer/producer/ has/O/ worked/made_by/ with/O/ the/O/ most/COND/ number/O/ of/O/ directors/director/ ?/O/ 

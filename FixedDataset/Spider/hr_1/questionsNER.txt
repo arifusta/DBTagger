@@ -1,0 +1,124 @@
+Display/O/ the/O/ first/O/ name/O/ and/O/ department/O/ name/O/ for/O/ each/O/ employee./O/ 
+What/O/ are/O/ the/O/ first/O/ name/O/ and/O/ department/O/ name/O/ of/O/ all/O/ employees?/O/ 
+List/O/ the/O/ full/O/ name/O/ (first/O/ and/O/ last/O/ name),/O/ and/O/ salary/O/ for/O/ those/O/ employees/O/ who/O/ earn/O/ below/O/ 6000./O/ 
+What/O/ are/O/ the/O/ full/O/ names/O/ and/O/ salaries/O/ for/O/ any/O/ employees/O/ earning/O/ less/O/ than/O/ 6000?/O/ 
+Display/O/ the/O/ first/O/ name,/O/ and/O/ department/O/ number/O/ for/O/ all/O/ employees/O/ whose/O/ last/O/ name/O/ is/O/ "McEwen"./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ and/O/ department/O/ numbers/O/ for/O/ employees/O/ with/O/ last/O/ name/O/ McEwen?/O/ 
+Return/O/ all/O/ the/O/ information/O/ for/O/ all/O/ employees/O/ without/O/ any/O/ department/O/ number./O/ 
+What/O/ are/O/ all/O/ the/O/ employees/O/ without/O/ a/O/ department/O/ number?/O/ 
+Display/O/ all/O/ the/O/ information/O/ about/O/ the/O/ department/O/ Marketing./O/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ about/O/ the/O/ Marketing/O/ department?/O/ 
+when/O/ is/O/ the/O/ hire/O/ date/O/ for/O/ those/O/ employees/O/ whose/O/ first/O/ name/O/ does/O/ not/O/ containing/O/ the/O/ letter/O/ M?/O/ 
+On/O/ what/O/ dates/O/ were/O/ employees/O/ without/O/ the/O/ letter/O/ M/O/ in/O/ their/O/ first/O/ names/O/ hired?/O/ 
+display/O/ the/O/ full/O/ name/O/ (first/O/ and/O/ last),/O/ hire/O/ date,/O/ salary,/O/ and/O/ department/O/ number/O/ for/O/ those/O/ employees/O/ whose/O/ first/O/ name/O/ does/O/ not/O/ containing/O/ the/O/ letter/O/ M./O/ 
+What/O/ are/O/ the/O/ full/O/ name,/O/ hire/O/ date,/O/ salary,/O/ and/O/ department/O/ id/O/ for/O/ employees/O/ without/O/ the/O/ letter/O/ M/O/ in/O/ their/O/ first/O/ name?/O/ 
+display/O/ the/O/ full/O/ name/O/ (first/O/ and/O/ last),/O/ hire/O/ date,/O/ salary,/O/ and/O/ department/O/ number/O/ for/O/ those/O/ employees/O/ whose/O/ first/O/ name/O/ does/O/ not/O/ containing/O/ the/O/ letter/O/ M/O/ and/O/ make/O/ the/O/ result/O/ set/O/ in/O/ ascending/O/ order/O/ by/O/ department/O/ number./O/ 
+What/O/ are/O/ the/O/ full/O/ name,/O/ hire/O/ data,/O/ salary/O/ and/O/ department/O/ id/O/ for/O/ employees/O/ without/O/ the/O/ letter/O/ M/O/ in/O/ their/O/ first/O/ name,/O/ ordered/O/ by/O/ ascending/O/ department/O/ id?/O/ 
+what/O/ is/O/ the/O/ phone/O/ number/O/ of/O/ employees/O/ whose/O/ salary/O/ is/O/ in/O/ the/O/ range/O/ of/O/ 8000/O/ and/O/ 12000?/O/ 
+Return/O/ the/O/ phone/O/ numbers/O/ of/O/ employees/O/ with/O/ salaries/O/ between/O/ 8000/O/ and/O/ 12000./O/ 
+display/O/ all/O/ the/O/ information/O/ of/O/ employees/O/ whose/O/ salary/O/ is/O/ in/O/ the/O/ range/O/ of/O/ 8000/O/ and/O/ 12000/O/ and/O/ commission/O/ is/O/ not/O/ null/O/ or/O/ department/O/ number/O/ does/O/ not/O/ equal/O/ to/O/ 40./O/ 
+Return/O/ all/O/ information/O/ about/O/ employees/O/ with/O/ salaries/O/ between/O/ 8000/O/ and/O/ 12000/O/ for/O/ which/O/ commission/O/ is/O/ not/O/ null/O/ or/O/ where/O/ their/O/ department/O/ id/O/ is/O/ not/O/ 40./O/ 
+What/O/ are/O/ the/O/ full/O/ name/O/ (first/O/ and/O/ last/O/ name)/O/ and/O/ salary/O/ for/O/ all/O/ employees/O/ who/O/ does/O/ not/O/ have/O/ any/O/ value/O/ for/O/ commission?/O/ 
+Return/O/ the/O/ full/O/ names/O/ and/O/ salaries/O/ of/O/ employees/O/ with/O/ null/O/ commissions./O/ 
+Display/O/ the/O/ first/O/ and/O/ last/O/ name,/O/ and/O/ salary/O/ for/O/ those/O/ employees/O/ whose/O/ first/O/ name/O/ is/O/ ending/O/ with/O/ the/O/ letter/O/ m./O/ 
+Return/O/ the/O/ full/O/ names/O/ and/O/ salaries/O/ for/O/ employees/O/ with/O/ first/O/ names/O/ that/O/ end/O/ with/O/ the/O/ letter/O/ m./O/ 
+Find/O/ job/O/ id/O/ and/O/ date/O/ of/O/ hire/O/ for/O/ those/O/ employees/O/ who/O/ was/O/ hired/O/ between/O/ November/O/ 5th,/O/ 2007/O/ and/O/ July/O/ 5th,/O/ 2009./O/ 
+What/O/ are/O/ the/O/ job/O/ ids/O/ and/O/ dates/O/ of/O/ hire/O/ for/O/ employees/O/ hired/O/ after/O/ November/O/ 5th,/O/ 2007/O/ and/O/ before/O/ July/O/ 5th,/O/ 2009?/O/ 
+What/O/ are/O/ the/O/ first/O/ and/O/ last/O/ name/O/ for/O/ those/O/ employees/O/ who/O/ works/O/ either/O/ in/O/ department/O/ 70/O/ or/O/ 90?/O/ 
+What/O/ are/O/ the/O/ full/O/ names/O/ of/O/ employees/O/ who/O/ with/O/ in/O/ department/O/ 70/O/ or/O/ 90?/O/ 
+Find/O/ the/O/ salary/O/ and/O/ manager/O/ number/O/ for/O/ those/O/ employees/O/ who/O/ is/O/ working/O/ under/O/ a/O/ manager./O/ 
+What/O/ are/O/ the/O/ salaries/O/ and/O/ manager/O/ ids/O/ for/O/ employees/O/ who/O/ have/O/ managers?/O/ 
+display/O/ all/O/ the/O/ details/O/ from/O/ Employees/O/ table/O/ for/O/ those/O/ employees/O/ who/O/ was/O/ hired/O/ before/O/ 2002-06-21./O/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ about/O/ employees/O/ hired/O/ before/O/ June/O/ 21,/O/ 2002?/O/ 
+display/O/ all/O/ the/O/ information/O/ for/O/ all/O/ employees/O/ who/O/ have/O/ the/O/ letters/O/ D/O/ or/O/ S/O/ in/O/ their/O/ first/O/ name/O/ and/O/ also/O/ arrange/O/ the/O/ result/O/ in/O/ descending/O/ order/O/ by/O/ salary./O/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ about/O/ employees/O/ with/O/ D/O/ or/O/ S/O/ in/O/ their/O/ first/O/ name,/O/ ordered/O/ by/O/ salary/O/ descending?/O/ 
+display/O/ those/O/ employees/O/ who/O/ joined/O/ after/O/ 7th/O/ September,/O/ 1987./O/ 
+Which/O/ employees/O/ were/O/ hired/O/ after/O/ September/O/ 7th,/O/ 1987?/O/ 
+display/O/ the/O/ job/O/ title/O/ of/O/ jobs/O/ which/O/ minimum/O/ salary/O/ is/O/ greater/O/ than/O/ 9000./O/ 
+Which/O/ job/O/ titles/O/ correspond/O/ to/O/ jobs/O/ with/O/ salaries/O/ over/O/ 9000?/O/ 
+display/O/ job/O/ Title,/O/ the/O/ difference/O/ between/O/ minimum/O/ and/O/ maximum/O/ salaries/O/ for/O/ those/O/ jobs/O/ which/O/ max/O/ salary/O/ within/O/ the/O/ range/O/ 12000/O/ to/O/ 18000./O/ 
+What/O/ are/O/ the/O/ job/O/ titles,/O/ and/O/ range/O/ of/O/ salaries/O/ for/O/ jobs/O/ with/O/ maximum/O/ salary/O/ between/O/ 12000/O/ and/O/ 18000?/O/ 
+display/O/ the/O/ emails/O/ of/O/ the/O/ employees/O/ who/O/ have/O/ no/O/ commission/O/ percentage/O/ and/O/ salary/O/ within/O/ the/O/ range/O/ 7000/O/ to/O/ 12000/O/ and/O/ works/O/ in/O/ that/O/ department/O/ which/O/ number/O/ is/O/ 50./O/ 
+What/O/ are/O/ the/O/ emails/O/ of/O/ employees/O/ with/O/ null/O/ commission,/O/ salary/O/ between/O/ 7000/O/ and/O/ 12000,/O/ and/O/ who/O/ work/O/ in/O/ department/O/ 50?/O/ 
+display/O/ the/O/ employee/O/ ID/O/ for/O/ each/O/ employee/O/ and/O/ the/O/ date/O/ on/O/ which/O/ he/O/ ended/O/ his/O/ previous/O/ job./O/ 
+What/O/ are/O/ the/O/ employee/O/ ids/O/ for/O/ each/O/ employee/O/ and/O/ final/O/ dates/O/ of/O/ employment/O/ at/O/ their/O/ last/O/ job?/O/ 
+display/O/ those/O/ departments/O/ where/O/ more/O/ than/O/ ten/O/ employees/O/ work/O/ who/O/ got/O/ a/O/ commission/O/ percentage./O/ 
+What/O/ are/O/ the/O/ department/O/ ids/O/ for/O/ which/O/ more/O/ than/O/ 10/O/ employees/O/ had/O/ a/O/ commission?/O/ 
+Find/O/ the/O/ ids/O/ of/O/ the/O/ departments/O/ where/O/ any/O/ manager/O/ is/O/ managing/O/ 4/O/ or/O/ more/O/ employees./O/ 
+What/O/ are/O/ department/O/ ids/O/ for/O/ departments/O/ with/O/ managers/O/ managing/O/ more/O/ than/O/ 3/O/ employees?/O/ 
+display/O/ the/O/ average/O/ salary/O/ of/O/ employees/O/ for/O/ each/O/ department/O/ who/O/ gets/O/ a/O/ commission/O/ percentage./O/ 
+What/O/ is/O/ the/O/ average/O/ salary/O/ of/O/ employees/O/ who/O/ have/O/ a/O/ commission/O/ percentage/O/ that/O/ is/O/ not/O/ null?/O/ 
+display/O/ the/O/ country/O/ ID/ORGANIZATION/ and/O/ number/O/ of/O/ cities/O/ for/O/ each/O/ country./O/ 
+Give/O/ the/O/ country/O/ id/O/ and/O/ corresponding/O/ count/O/ of/O/ cities/O/ in/O/ each/O/ country./O/ 
+display/O/ job/O/ ID/O/ for/O/ those/O/ jobs/O/ that/O/ were/O/ done/O/ by/O/ two/O/ or/O/ more/O/ for/O/ more/O/ than/O/ 300/O/ days./O/ 
+What/O/ are/O/ the/O/ job/O/ ids/O/ for/O/ jobs/O/ done/O/ more/O/ than/O/ once/O/ for/O/ a/O/ period/O/ of/O/ more/O/ than/O/ 300/O/ days?/O/ 
+display/O/ the/O/ ID/ORGANIZATION/ for/O/ those/O/ employees/O/ who/O/ did/O/ two/O/ or/O/ more/O/ jobs/O/ in/O/ the/O/ past./O/ 
+What/O/ are/O/ the/O/ employee/O/ ids/O/ for/O/ employees/O/ who/O/ have/O/ held/O/ two/O/ or/O/ more/O/ jobs?/O/ 
+Find/O/ employee/O/ with/O/ ID/ORGANIZATION/ and/O/ name/O/ of/O/ the/O/ country/O/ presently/O/ where/O/ (s)he/O/ is/O/ working./O/ 
+What/O/ are/O/ all/O/ the/O/ employee/O/ ids/O/ and/O/ the/O/ names/O/ of/O/ the/O/ countries/O/ in/O/ which/O/ they/O/ work?/O/ 
+display/O/ the/O/ department/O/ name/O/ and/O/ number/O/ of/O/ employees/O/ in/O/ each/O/ of/O/ the/O/ department./O/ 
+Give/O/ the/O/ name/O/ of/O/ each/O/ department/O/ and/O/ the/O/ number/O/ of/O/ employees/O/ in/O/ each./O/ 
+Can/O/ you/O/ return/O/ all/O/ detailed/O/ info/O/ of/O/ jobs/O/ which/O/ was/O/ done/O/ by/O/ any/O/ of/O/ the/O/ employees/O/ who/O/ is/O/ presently/O/ earning/O/ a/O/ salary/O/ on/O/ and/O/ above/O/ 12000?/O/ 
+What/O/ is/O/ all/O/ the/O/ job/O/ history/O/ info/O/ done/O/ by/O/ employees/O/ earning/O/ a/O/ salary/O/ greater/O/ than/O/ or/O/ equal/O/ to/O/ 12000?/O/ 
+display/O/ job/O/ title/O/ and/O/ average/O/ salary/O/ of/O/ employees./O/ 
+What/O/ is/O/ the/O/ average/O/ salary/O/ for/O/ each/O/ job/O/ title?/O/ 
+What/O/ is/O/ the/O/ full/O/ name/O/ (/O/ first/O/ name/O/ and/O/ last/O/ name/O/ )/O/ for/O/ those/O/ employees/O/ who/O/ gets/O/ more/O/ salary/O/ than/O/ the/O/ employee/O/ whose/O/ id/O/ is/O/ 163?/O/ 
+Provide/O/ the/O/ full/O/ names/O/ of/O/ employees/O/ earning/O/ more/O/ than/O/ the/O/ employee/O/ with/O/ id/O/ 163./O/ 
+return/O/ the/O/ smallest/O/ salary/O/ for/O/ every/O/ departments./O/ 
+What/O/ is/O/ the/O/ minimum/O/ salary/O/ in/O/ each/O/ department?/O/ 
+Find/O/ the/O/ first/O/ name/O/ and/O/ last/O/ name/O/ and/O/ department/O/ id/O/ for/O/ those/O/ employees/O/ who/O/ earn/O/ such/O/ amount/O/ of/O/ salary/O/ which/O/ is/O/ the/O/ smallest/O/ salary/O/ of/O/ any/O/ of/O/ the/O/ departments./O/ 
+What/O/ are/O/ the/O/ full/O/ names/O/ and/O/ department/O/ ids/O/ for/O/ the/O/ lowest/O/ paid/O/ employees/O/ across/O/ all/O/ departments./O/ 
+Find/O/ the/O/ employee/O/ id/O/ for/O/ all/O/ employees/O/ who/O/ earn/O/ more/O/ than/O/ the/O/ average/O/ salary./O/ 
+What/O/ are/O/ the/O/ employee/O/ ids/O/ for/O/ employees/O/ who/O/ make/O/ more/O/ than/O/ the/O/ average?/O/ 
+display/O/ the/O/ employee/O/ id/O/ and/O/ salary/O/ of/O/ all/O/ employees/O/ who/O/ report/O/ to/O/ Payam/PERSON/ (first/O/ name)./O/ 
+What/O/ are/O/ the/O/ employee/O/ ids/O/ of/O/ employees/O/ who/O/ report/O/ to/O/ Payam,/O/ and/O/ what/O/ are/O/ their/O/ salaries?/O/ 
+find/O/ the/O/ name/O/ of/O/ all/O/ departments/O/ that/O/ do/O/ actually/O/ have/O/ one/O/ or/O/ more/O/ employees/O/ assigned/O/ to/O/ them./O/ 
+What/O/ are/O/ the/O/ names/O/ of/O/ departments/O/ that/O/ have/O/ at/O/ least/O/ one/O/ employee./O/ 
+get/O/ the/O/ details/O/ of/O/ employees/O/ who/O/ manage/O/ a/O/ department./O/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ regarding/O/ employees/O/ who/O/ are/O/ managers?/O/ 
+display/O/ all/O/ the/O/ information/O/ about/O/ the/O/ department/O/ Marketing./O/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ about/O/ the/O/ Marketing/O/ department?/O/ 
+display/O/ the/O/ ID/ORGANIZATION/ for/O/ those/O/ employees/O/ who/O/ did/O/ two/O/ or/O/ more/O/ jobs/O/ in/O/ the/O/ past./O/ 
+What/O/ are/O/ the/O/ employee/O/ ids/O/ for/O/ those/O/ who/O/ had/O/ two/O/ or/O/ more/O/ jobs./O/ 
+What/O/ are/O/ the/O/ unique/O/ ids/O/ of/O/ those/O/ departments/O/ where/O/ any/O/ manager/O/ is/O/ managing/O/ 4/O/ or/O/ more/O/ employees./O/ 
+Give/O/ the/O/ distinct/O/ department/O/ ids/O/ of/O/ departments/O/ in/O/ which/O/ a/O/ manager/O/ is/O/ in/O/ charge/O/ of/O/ 4/O/ or/O/ more/O/ employees?/O/ 
+Find/O/ the/O/ job/O/ ID/O/ for/O/ those/O/ jobs/O/ which/O/ average/O/ salary/O/ is/O/ above/O/ 8000./O/ 
+What/O/ are/O/ the/O/ job/O/ ids/O/ corresponding/O/ to/O/ jobs/O/ with/O/ average/O/ salary/O/ above/O/ 8000?/O/ 
+display/O/ the/O/ employee/O/ ID/ORGANIZATION/ and/O/ job/O/ name/O/ for/O/ all/O/ those/O/ jobs/O/ in/O/ department/O/ 80./O/ 
+what/O/ are/O/ the/O/ employee/O/ ids/O/ and/O/ job/O/ titles/O/ for/O/ employees/O/ in/O/ department/O/ 80?/O/ 
+What/O/ is/O/ the/O/ first/O/ name/O/ and/O/ job/O/ id/O/ for/O/ all/O/ employees/O/ in/O/ the/O/ Finance/ORGANIZATION/ department?/O/ 
+Give/O/ the/O/ first/O/ name/O/ and/O/ job/O/ id/O/ for/O/ all/O/ employees/O/ in/O/ the/O/ Finance/ORGANIZATION/ department./O/ 
+display/O/ all/O/ the/O/ information/O/ of/O/ the/O/ employees/O/ whose/O/ salary/O/ if/O/ within/O/ the/O/ range/O/ of/O/ smallest/O/ salary/O/ and/O/ 2500./O/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ regarding/O/ employees/O/ with/O/ salaries/O/ above/O/ the/O/ minimum/O/ and/O/ under/O/ 2500?/O/ 
+Find/O/ the/O/ ids/O/ of/O/ the/O/ employees/O/ who/O/ does/O/ not/O/ work/O/ in/O/ those/O/ departments/O/ where/O/ some/O/ employees/O/ works/O/ whose/O/ manager/O/ id/O/ within/O/ the/O/ range/O/ 100/O/ and/O/ 200./O/ 
+What/O/ are/O/ the/O/ ids/O/ for/O/ employees/O/ who/O/ do/O/ not/O/ work/O/ in/O/ departments/O/ with/O/ managers/O/ that/O/ have/O/ ids/O/ between/O/ 100/O/ and/O/ 200?/O/ 
+display/O/ the/O/ employee/O/ name/O/ (/O/ first/O/ name/O/ and/O/ last/O/ name/O/ )/O/ and/O/ hire/O/ date/O/ for/O/ all/O/ employees/O/ in/O/ the/O/ same/O/ department/O/ as/O/ Clara./O/ 
+What/O/ are/O/ the/O/ full/O/ names/O/ and/O/ hire/O/ dates/O/ for/O/ employees/O/ in/O/ the/O/ same/O/ department/O/ as/O/ someone/O/ with/O/ the/O/ first/O/ name/O/ Clara?/O/ 
+display/O/ the/O/ employee/O/ name/O/ (/O/ first/O/ name/O/ and/O/ last/O/ name/O/ )/O/ and/O/ hire/O/ date/O/ for/O/ all/O/ employees/O/ in/O/ the/O/ same/O/ department/O/ as/O/ Clara/LOCATION/ excluding/O/ Clara./O/ 
+What/O/ are/O/ the/O/ full/O/ names/O/ and/O/ hire/O/ dates/O/ for/O/ employees/O/ in/O/ the/O/ same/O/ department/O/ as/O/ someone/O/ with/O/ the/O/ first/O/ name/O/ Clara,/O/ not/O/ including/O/ Clara?/O/ 
+display/O/ the/O/ employee/O/ number/O/ and/O/ name(/O/ first/O/ name/O/ and/O/ last/O/ name/O/ )/O/ for/O/ all/O/ employees/O/ who/O/ work/O/ in/O/ a/O/ department/O/ with/O/ any/O/ employee/O/ whose/O/ name/O/ contains/O/ a/O/ ’T’./O/ 
+What/O/ are/O/ the/O/ ids/O/ and/O/ full/O/ names/O/ for/O/ employees/O/ who/O/ work/O/ in/O/ a/O/ department/O/ that/O/ has/O/ someone/O/ with/O/ a/O/ first/O/ name/O/ that/O/ contains/O/ the/O/ letter/O/ T?/O/ 
+display/O/ the/O/ employee/O/ number,/O/ name(/O/ first/O/ name/O/ and/O/ last/O/ name/O/ ),/O/ and/O/ salary/O/ for/O/ all/O/ employees/O/ who/O/ earn/O/ more/O/ than/O/ the/O/ average/O/ salary/O/ and/O/ who/O/ work/O/ in/O/ a/O/ department/O/ with/O/ any/O/ employee/O/ with/O/ a/O/ 'J'/O/ in/O/ their/O/ first/O/ name./O/ 
+What/O/ are/O/ the/O/ ids,/O/ full/O/ names,/O/ and/O/ salaries/O/ for/O/ employees/O/ making/O/ more/O/ than/O/ average/O/ and/O/ who/O/ work/O/ in/O/ a/O/ department/O/ with/O/ employees/O/ who/O/ have/O/ the/O/ letter/O/ J/O/ in/O/ their/O/ first/O/ name?/O/ 
+display/O/ the/O/ employee/O/ number/O/ and/O/ job/O/ id/O/ for/O/ all/O/ employees/O/ whose/O/ salary/O/ is/O/ smaller/O/ than/O/ any/O/ salary/O/ of/O/ those/O/ employees/O/ whose/O/ job/O/ title/O/ is/O/ MK_MAN./O/ 
+What/O/ are/O/ the/O/ employee/O/ ids/O/ and/O/ job/O/ ids/O/ for/O/ employees/O/ who/O/ make/O/ less/O/ than/O/ the/O/ lowest/O/ earning/O/ employee/O/ with/O/ title/O/ MK_MAN?/O/ 
+display/O/ the/O/ employee/O/ number,/O/ name(/O/ first/O/ name/O/ and/O/ last/O/ name/O/ )/O/ and/O/ job/O/ title/O/ for/O/ all/O/ employees/O/ whose/O/ salary/O/ is/O/ more/O/ than/O/ any/O/ salary/O/ of/O/ those/O/ employees/O/ whose/O/ job/O/ title/O/ is/O/ PU_MAN./O/ 
+What/O/ are/O/ the/O/ employee/O/ ids,/O/ full/O/ names,/O/ and/O/ job/O/ ids/O/ for/O/ employees/O/ who/O/ make/O/ more/O/ than/O/ the/O/ highest/O/ earning/O/ employee/O/ with/O/ title/O/ PU_MAN?/O/ 
+display/O/ the/O/ department/O/ id/O/ and/O/ the/O/ total/O/ salary/O/ for/O/ those/O/ departments/O/ which/O/ contains/O/ at/O/ least/O/ two/O/ employees./O/ 
+What/O/ are/O/ total/O/ salaries/O/ and/O/ department/O/ id/O/ for/O/ each/O/ department/O/ that/O/ has/O/ more/O/ than/O/ 2/O/ employees?/O/ 
+display/O/ all/O/ the/O/ information/O/ of/O/ those/O/ employees/O/ who/O/ did/O/ not/O/ have/O/ any/O/ job/O/ in/O/ the/O/ past./O/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ about/O/ employees/O/ who/O/ have/O/ never/O/ had/O/ a/O/ job/O/ in/O/ the/O/ past?/O/ 
+display/O/ the/O/ department/O/ ID,/O/ full/O/ name/O/ (first/O/ and/O/ last/O/ name),/O/ salary/O/ for/O/ those/O/ employees/O/ who/O/ is/O/ highest/O/ salary/O/ in/O/ every/O/ department./O/ 
+What/O/ are/O/ the/O/ department/O/ ids,/O/ full/O/ names,/O/ and/O/ salaries/O/ for/O/ employees/O/ who/O/ make/O/ the/O/ most/O/ in/O/ their/O/ departments?/O/ 
+display/O/ the/O/ first/O/ and/O/ last/O/ name,/O/ department,/O/ city,/O/ and/O/ state/O/ province/O/ for/O/ each/O/ employee./O/ 
+What/O/ are/O/ the/O/ full/O/ names,/O/ departments,/O/ cities,/O/ and/O/ state/O/ provinces/O/ for/O/ each/O/ employee?/O/ 
+display/O/ those/O/ employees/O/ who/O/ contain/O/ a/O/ letter/O/ z/O/ to/O/ their/O/ first/O/ name/O/ and/O/ also/O/ display/O/ their/O/ last/O/ name,/O/ city./O/ 
+What/O/ are/O/ the/O/ full/O/ names/O/ and/O/ cities/O/ of/O/ employees/O/ who/O/ have/O/ the/O/ letter/O/ Z/O/ in/O/ their/O/ first/O/ names?/O/ 
+display/O/ the/O/ department/O/ name,/O/ city,/O/ and/O/ state/O/ province/O/ for/O/ each/O/ department./O/ 
+What/O/ are/O/ the/O/ department/O/ names,/O/ cities,/O/ and/O/ state/O/ provinces/O/ for/O/ each/O/ department?/O/ 
+display/O/ the/O/ full/O/ name/O/ (first/O/ and/O/ last/O/ name/O/ )/O/ of/O/ employee/O/ with/O/ ID/ORGANIZATION/ and/O/ name/O/ of/O/ the/O/ country/O/ presently/O/ where/O/ (s)he/O/ is/O/ working./O/ 
+What/O/ the/O/ full/O/ names,/O/ ids/O/ of/O/ each/O/ employee/O/ and/O/ the/O/ name/O/ of/O/ the/O/ country/O/ they/O/ are/O/ in?/O/ 
+display/O/ the/O/ department/O/ name/O/ and/O/ number/O/ of/O/ employees/O/ in/O/ each/O/ of/O/ the/O/ department./O/ 
+What/O/ are/O/ the/O/ department/O/ names/O/ and/O/ how/O/ many/O/ employees/O/ work/O/ in/O/ each/O/ of/O/ them?/O/ 
+display/O/ the/O/ full/O/ name/O/ (first/O/ and/O/ last/O/ name),/O/ and/O/ salary/O/ of/O/ those/O/ employees/O/ who/O/ working/O/ in/O/ any/O/ department/O/ located/O/ in/O/ London./O/ 
+What/O/ are/O/ full/O/ names/O/ and/O/ salaries/O/ of/O/ employees/O/ working/O/ in/O/ the/O/ city/O/ of/O/ London?/O/ 

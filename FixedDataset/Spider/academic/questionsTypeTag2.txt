@@ -1,0 +1,181 @@
+return/O/ me/O/ the/O/ homepage/ATTR/ of/O/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ homepage/ATTR/ of/O/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ abstract/ATTR/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ year/ATTR/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ year/ATTR/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ homepage/ATTR/ of/O/ the/O/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ all/O/ the/O/ keywords/TABLE/ 
+return/O/ me/O/ all/O/ the/O/ organizations/TABLE/ 
+return/O/ me/O/ all/O/ the/O/ organizations/TABLE/ in/O/ North/VALUE/ America/VALUE/ 
+return/O/ me/O/ the/O/ homepage/ATTR/ of/O/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ number/ATTR/ of/ATTR/ references/ATTR/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ references/ATTR/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ number/ATTR/ of/ATTR/ citations/ATTR/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ citations/ATTR/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ paper/TABLE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ 2010/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ after/COND/ 2010/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ papers/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ in/COND/ 2002/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ papers/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ before/COND/ 2002/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ papers/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ before/COND/ 2002/VALUE/ after/COND/ 1995/VALUE/ 
+return/O/ me/O/ the/O/ area/TABLE/ of/O/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ organization/TABLE/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ is/O/ in/O/ 
+return/O/ me/O/ the/O/ conferences/TABLE/ which/O/ have/O/ papers/TABLE/ by/O/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ journals/TABLE/ which/O/ have/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ domain/TABLE/ where/O/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ is/O/ focused/O/ 
+return/O/ me/O/ the/O/ authors/TABLE/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ conference/TABLE/ which/O/ published/TABLEREF/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ on/COND/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ on/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ on/COND/ PVLDB/VALUE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ on/COND/ VLDB/VALUE/ conference/TABLE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ on/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ on/COND/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ on/COND/ PVLDB/VALUE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ on/O/ VLDB/VALUE/ conference/TABLE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ area/TABLE/ of/O/ the/O/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ papers/TABLE/ in/COND/ the/O/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ all/O/ the/O/ keywords/TABLE/ in/COND/ Databases/VALUE/ area/TABLE/ 
+return/O/ me/O/ all/O/ the/O/ papers/TABLE/ which/O/ contain/O/ the/O/ keyword/TABLE/ Natural/VALUE/ Language/VALUE/ 
+return/O/ me/O/ the/O/ keywords/TABLE/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ keywords/TABLE/ related/O/ to/O/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ keywords/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ keywords/TABLE/ in/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ keywords/TABLE/ in/O/ the/O/ papers/TABLE/ of/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ of/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ containing/TABLEREF/ keyword/TABLE/ User/VALUE/ Study/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ containing/TABLEREF/ keyword/TABLE/ Keyword/VALUE/ search/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ containing/TABLEREF/ keyword/TABLE/ Information/VALUE/ Retrieval/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ papers/TABLE/ containing/TABLEREF/ keyword/TABLE/ Relational/VALUE/ Database/VALUE/ 
+return/O/ me/O/ all/O/ the/O/ organizations/TABLE/ in/COND/ Databases/VALUE/ area/TABLE/ 
+return/O/ me/O/ all/O/ the/O/ organizations/TABLE/ in/COND/ Databases/VALUE/ area/TABLE/ located/O/ in/COND/ North/VALUE/ America/VALUE/ 
+return/O/ me/O/ all/O/ the/O/ researchers/TABLE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ all/O/ the/O/ researchers/TABLE/ in/COND/ Databases/VALUE/ area/TABLE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ all/O/ the/O/ papers/TABLE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ all/O/ the/O/ papers/TABLE/ after/COND/ 2000/VALUE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ all/O/ the/O/ papers/TABLE/ in/COND/ VLDB/O/ conference/TABLE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ all/O/ the/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ all/O/ the/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ after/COND/ 2000/VALUE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ paper/TABLE/ in/COND/ Databases/VALUE/ area/TABLE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ in/COND/ PVLDB/VALUE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ on/COND/ PVLDB/VALUE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ on/COND/ VLDB/VALUE/ conference/TABLE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ after/COND/ 2000/VALUE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ after/COND/ 2000/VALUE/ in/COND/ Databases/VALUE/ area/TABLE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ after/COND/ 2000/VALUE/ in/COND/ PVLDB/VALUE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ after/COND/ 2000/VALUE/ in/COND/ VLDB/VALUE/ conference/TABLE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ conferences/TABLE/ which/O/ have/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ journals/TABLE/ which/O/ have/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ written/TABLEREF/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ in/O/ each/O/ year/ATTR/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/TABLE/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ citations/TABLE/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ in/O/ each/O/ year/ATTR/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ citations/TABLE/ of/O/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ before/COND/ 2010/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ on/COND/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ on/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ on/COND/ PVLDB/VALUE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ on/COND/ VLDB/VALUE/ conference/TABLE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ on/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ on/COND/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ on/COND/ PVLDB/VALUE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ on/COND/ VLDB/VALUE/ conference/TABLE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ keywords/TABLE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ keywords/TABLE/ in/COND/ Databases/VALUE/ area/TABLE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ which/O/ contain/O/ the/O/ keyword/TABLE/ Natural/VALUE/ Language/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ the/O/ keywords/TABLE/ of/COND/ Making/VALUE/ database/VALUE/ systems/VALUE/ usable/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ the/O/ keywords/TABLE/ related/O/ to/O/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ keywords/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ keywords/TABLE/ in/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ keywords/TABLE/ in/COND/ the/O/ papers/TABLE/ of/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ the/O/ papers/TABLE/ of/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ containing/TABLEREF/ keyword/TABLE/ User/VALUE/ Study/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ containing/TABLEREF/ keyword/TABLE/ Keyword/VALUE/ search/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ containing/TABLEREF/ keyword/TABLE/ Information/VALUE/ Retrieval/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/TABLE/ who/O/ have/O/ papers/TABLE/ containing/TABLEREF/ keyword/TABLE/ Relational/VALUE/ Database/VALUE/ 
+return/O/ me/O/ the/O/ total/O/ citations/ATTR/ of/O/ the/O/ papers/TABLE/ containing/TABLEREF/ keyword/TABLE/ Natural/VALUE/ Language/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ the/O/ organizations/TABLE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ the/O/ organizations/TABLE/ in/COND/ North/VALUE/ America/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ organizations/TABLE/ in/COND/ Databases/VALUE/ area/TABLE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ organizations/TABLE/ in/COND/ Databases/VALUE/ area/TABLE/ located/O/ in/COND/ North/VALUE/ America/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ in/COND/ Databases/VALUE/ area/TABLE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ after/COND/ 2000/VALUE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ after/COND/ 2000/VALUE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ total/O/ citations/ATTR/ of/O/ the/O/ papers/TABLE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ researchers/TABLE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ researchers/TABLE/ in/COND/ Databases/VALUE/ area/TABLE/ in/COND/ University/VALUE/ of/VALUE/ Michigan/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/TABLE/ who/O/ have/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/TABLE/ who/O/ have/O/ papers/TABLE/ in/COND/ the/O/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ published/TABLEREF/ on/COND/ PVLDB/VALUE/ before/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ published/TABLEREF/ in/COND/ the/O/ VLDB/VALUE/ conference/TABLE/ before/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ total/O/ citations/ATTR/ of/O/ all/O/ the/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ citations/ATTR/ of/O/ each/O/ paper/TABLE/ in/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ total/O/ citations/ATTR/ of/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ in/COND/ 2005/VALUE/ 
+return/O/ me/O/ the/O/ total/O/ citations/ATTR/ of/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ before/COND/ 2005/VALUE/ 
+return/O/ me/O/ the/O/ total/O/ citations/ATTR/ of/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ in/O/ each/O/ year/ATTR/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ published/TABLEREF/ in/COND/ PVLDB/VALUE/ in/O/ each/O/ year/ATTR/ 
+return/O/ me/O/ the/O/ total/O/ citations/ATTR/ of/O/ all/O/ the/O/ papers/TABLE/ in/COND/ the/O/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ citations/ATTR/ of/O/ each/O/ paper/TABLE/ in/COND/ the/O/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ total/O/ citations/ATTR/ of/O/ papers/TABLE/ in/COND/ the/O/ VLDB/VALUE/ conference/TABLE/ in/COND/ 2005/VALUE/ 
+return/O/ me/O/ the/O/ total/O/ citations/ATTR/ of/O/ papers/TABLE/ in/COND/ the/O/ VLDB/VALUE/ conference/TABLE/ before/COND/ 2005/VALUE/ 
+return/O/ me/O/ the/O/ total/O/ citations/ATTR/ of/O/ papers/TABLE/ in/COND/ the/O/ VLDB/VALUE/ conference/TABLE/ in/O/ each/O/ year/ATTR/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ published/TABLEREF/ in/COND/ the/O/ VLDB/VALUE/ conference/TABLE/ in/O/ each/O/ year/ATTR/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ cooperated/TABLEREF/ both/O/ with/O/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ and/O/ Divesh/VALUE/ Srivastava/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ cooperated/TABLEREF/ with/O/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ after/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ written/TABLEREF/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ and/O/ Divesh/VALUE/ Srivastava/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ written/TABLEREF/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ and/O/ Yunyao/VALUE/ Li/VALUE/ after/COND/ 2005/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ written/TABLEREF/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ and/O/ Yunyao/VALUE/ Li/VALUE/ on/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ written/TABLEREF/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ and/O/ Yunyao/VALUE/ Li/VALUE/ on/COND/ PVLDB/VALUE/ after/COND/ 2005/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ cooperated/TABLEREF/ with/O/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ written/TABLEREF/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ and/O/ Divesh/VALUE/ Srivastava/VALUE/ before/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ cited/TABLEREF/ the/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ written/TABLEREF/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ and/O/ Divesh/VALUE/ Srivastava/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ written/TABLEREF/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ and/O/ Divesh/VALUE/ Srivastava/VALUE/ before/COND/ 2000/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/TABLE/ written/TABLEREF/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ Yunyao/VALUE/ Li/VALUE/ and/O/ Cong/VALUE/ Yu/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/TABLE/ who/O/ have/O/ cooperated/TABLEREF/ with/O/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/TABLE/ who/O/ have/O/ cited/TABLEREF/ the/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ papers/TABLE/ written/TABLEREF/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ and/O/ Divesh/VALUE/ Srivastava/VALUE/ with/O/ more/COND/ than/O/ 200/VALUE/ citations/ATTR/ 
+return/O/ me/O/ the/O/ author/TABLE/ who/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ containing/O/ keyword/TABLE/ Relational/VALUE/ Database/VALUE/ 
+return/O/ me/O/ the/O/ conference/TABLE/ that/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ containing/O/ keyword/TABLE/ Relational/VALUE/ Database/VALUE/ 
+return/O/ me/O/ the/O/ conference/TABLE/ which/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ containing/O/ keyword/TABLE/ Relational/VALUE/ Database/VALUE/ 
+return/O/ me/O/ the/O/ journal/TABLE/ that/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ containing/O/ keyword/TABLE/ Relational/VALUE/ Database/VALUE/ 
+return/O/ me/O/ the/O/ journal/TABLE/ which/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ containing/O/ keyword/TABLE/ Relational/VALUE/ Database/VALUE/ 
+return/O/ me/O/ the/O/ keyword/TABLE/ which/O/ have/O/ been/O/ contained/TABLEREF/ by/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ keyword/TABLE/ which/O/ have/O/ been/O/ contained/TABLEREF/ by/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ keyword/TABLE/ which/O/ have/O/ been/O/ contained/TABLEREF/ by/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ author/TABLE/ in/COND/ the/O/ University/VALUE/ of/VALUE/ Michigan/VALUE/ whose/O/ papers/TABLE/ have/O/ the/O/ most/O/ total/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ author/TABLE/ in/COND/ the/O/ University/VALUE/ of/VALUE/ Michigan/VALUE/ whose/O/ papers/TABLE/ in/COND/ Databases/VALUE/ area/TABLE/ have/O/ the/O/ most/O/ total/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ papers/TABLE/ written/TABLEREF/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ and/O/ Divesh/VALUE/ Srivastava/VALUE/ with/O/ the/O/ most/O/ number/O/ of/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ conferences/TABLE/ which/O/ have/O/ more/O/ than/O/ 10/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ conference/TABLE/ which/O/ have/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ journals/TABLE/ which/O/ have/O/ more/O/ than/O/ 10/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ journal/TABLE/ which/O/ have/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ paper/TABLE/ with/O/ the/O/ most/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ in/COND/ Databases/VALUE/ area/TABLE/ with/O/ the/O/ most/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ in/COND/ PVLDB/VALUE/ with/O/ the/O/ most/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ with/O/ the/O/ most/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ by/COND/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ with/O/ the/O/ most/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ after/COND/ 2000/VALUE/ with/O/ the/O/ most/O/ citations/O/ 
+return/O/ me/O/ the/O/ paper/TABLE/ after/COND/ 2000/VALUE/ in/COND/ Databases/VALUE/ area/TABLE/ with/O/ the/O/ most/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ after/COND/ 2000/VALUE/ in/COND/ PVLDB/VALUE/ with/O/ the/O/ most/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ paper/TABLE/ after/COND/ 2000/VALUE/ in/COND/ VLDB/VALUE/ conference/TABLE/ with/O/ the/O/ most/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ more/O/ than/O/ 10/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ more/O/ than/O/ 10/O/ papers/TABLE/ containing/O/ keyword/TABLE/ Relational/VALUE/ Database/VALUE/ 
+return/O/ me/O/ the/O/ conferences/TABLE/ which/O/ have/O/ more/O/ than/O/ 60/O/ papers/TABLE/ containing/O/ keyword/TABLE/ Relational/VALUE/ Database/VALUE/ 
+return/O/ me/O/ the/O/ journals/TABLE/ which/O/ have/O/ more/O/ than/O/ 60/O/ papers/TABLE/ containing/O/ keyword/TABLE/ Relational/VALUE/ Database/VALUE/ 
+return/O/ me/O/ the/O/ keywords/TABLE/ which/O/ have/O/ been/O/ contained/TABLEREF/ by/O/ more/O/ than/O/ 100/O/ papers/TABLE/ in/COND/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ keywords/TABLE/ which/O/ have/O/ been/O/ contained/TABLEREF/ by/O/ more/O/ than/O/ 100/O/ papers/TABLE/ in/COND/ PVLDB/VALUE/ 
+return/O/ me/O/ the/O/ keywords/TABLE/ which/O/ have/O/ been/O/ contained/O/ by/O/ more/O/ than/O/ 10/O/ papers/TABLE/ of/O/ H./VALUE/ V./VALUE/ Jagadish/VALUE/ 
+return/O/ me/O/ the/O/ authors/TABLE/ who/O/ have/O/ more/O/ than/O/ 10/O/ papers/TABLE/ in/COND/ the/O/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ author/TABLE/ who/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ in/COND/ the/O/ VLDB/VALUE/ conference/TABLE/ 
+return/O/ me/O/ the/O/ author/TABLE/ in/COND/ the/O/ University/VALUE/ of/VALUE/ Michigan/VALUE/ whose/O/ papers/TABLE/ have/O/ more/O/ than/O/ 5000/O/ total/O/ citations/ATTR/ 
+return/O/ me/O/ the/O/ author/TABLE/ in/COND/ the/O/ University/VALUE/ of/VALUE/ Michigan/VALUE/ in/COND/ Databases/VALUE/ area/TABLE/ whose/O/ papers/TABLE/ have/O/ more/O/ than/O/ 5000/O/ total/O/ citations/ATTR/ 

@@ -1,0 +1,124 @@
+Display/VB/ the/DT/ first/JJ/ name/NN/ and/CC/ department/NN/ name/NN/ for/IN/ each/DT/ employee/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ name/NN/ and/CC/ department/NN/ name/NN/ of/IN/ all/DT/ employees/NN/ 
+List/VB/ the/DT/ full/JJ/ name/NN/ first/NN/ and/CC/ last/JJ/ name/NN/ and/CC/ salary/NN/ for/IN/ those/DT/ employees/NNS/ who/WP/ earn/VBP/ below/IN/ 6000/CD/ 
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/NNS/ and/CC/ salaries/NNS/ for/IN/ any/DT/ employees/NNS/ earning/VBG/ less/JJR/ than/IN/ 6000/CD/ 
+Display/VB/ the/DT/ first/JJ/ name/NN/ and/CC/ department/NN/ number/NN/ for/IN/ all/DT/ employees/NNS/ whose/WP$/ last/JJ/ name/NN/ is/VBZ/ McEwen/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ and/CC/ department/NN/ numbers/NNS/ for/IN/ employees/NNS/ with/IN/ last/JJ/ name/NN/ McEwen/NN/ 
+Return/NN/ all/PDT/ the/DT/ information/NN/ for/IN/ all/DT/ employees/NNS/ without/IN/ any/DT/ department/NN/ number/NN/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ employees/NNS/ without/IN/ a/DT/ department/NN/ number/NN/ 
+Display/VB/ all/PDT/ the/DT/ information/NN/ about/IN/ the/DT/ department/NN/ Marketing/NNP/ 
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ about/IN/ the/DT/ Marketing/NNP/ department/NN/ 
+when/WRB/ is/VBZ/ the/DT/ hire/NN/ date/NN/ for/IN/ those/DT/ employees/NNS/ whose/WP$/ first/JJ/ name/NN/ does/VBZ/ not/RB/ containing/VBG/ the/DT/ letter/NN/ M/NN/ 
+On/IN/ what/WDT/ dates/NNS/ were/VBD/ employees/NNS/ without/IN/ the/DT/ letter/NN/ M/NN/ in/IN/ their/PRP$/ first/JJ/ names/NNS/ hired/NN/ 
+display/VB/ the/DT/ full/JJ/ name/NN/ first/NN/ and/CC/ last/NN/ hire/VBP/ date/FW/ salary/FW/ and/CC/ department/NN/ number/NN/ for/IN/ those/DT/ employees/NNS/ whose/WP$/ first/JJ/ name/NN/ does/VBZ/ not/RB/ containing/VBG/ the/DT/ letter/NN/ M/NNP/ 
+What/WP/ are/VBP/ the/DT/ full/JJ/ name/NN/ hire/NN/ date/NN/ salary/NN/ and/CC/ department/NN/ id/NN/ for/IN/ employees/NNS/ without/IN/ the/DT/ letter/NN/ M/NN/ in/IN/ their/PRP$/ first/JJ/ name/NN/ 
+display/VB/ the/DT/ full/JJ/ name/NN/ first/NN/ and/CC/ last/NN/ hire/VBP/ date/FW/ salary/FW/ and/CC/ department/NN/ number/NN/ for/IN/ those/DT/ employees/NNS/ whose/WP$/ first/JJ/ name/NN/ does/VBZ/ not/RB/ containing/VBG/ the/DT/ letter/NN/ M/NN/ and/CC/ make/VB/ the/DT/ result/NN/ set/VBN/ in/IN/ ascending/VBG/ order/NN/ by/IN/ department/NN/ number/NN/ 
+What/WP/ are/VBP/ the/DT/ full/JJ/ name/NN/ hire/NN/ data/NN/ salary/NN/ and/CC/ department/NN/ id/NN/ for/IN/ employees/NNS/ without/IN/ the/DT/ letter/NN/ M/NN/ in/IN/ their/PRP$/ first/JJ/ name/NN/ ordered/VBN/ by/IN/ ascending/VBG/ department/NN/ id/NN/ 
+what/WP/ is/VBZ/ the/DT/ phone/NN/ number/NN/ of/IN/ employees/NNS/ whose/WP$/ salary/NN/ is/VBZ/ in/IN/ the/DT/ range/NN/ of/IN/ 8000/CD/ and/CC/ 12000/CD/ 
+Return/NN/ the/DT/ phone/NN/ numbers/NNS/ of/IN/ employees/NNS/ with/IN/ salaries/NNS/ between/IN/ 8000/CD/ and/CC/ 12000/CD/ 
+display/VB/ all/PDT/ the/DT/ information/NN/ of/IN/ employees/NNS/ whose/WP$/ salary/NN/ is/VBZ/ in/IN/ the/DT/ range/NN/ of/IN/ 8000/CD/ and/CC/ 12000/CD/ and/CC/ commission/NN/ is/VBZ/ not/RB/ null/JJ/ or/CC/ department/NN/ number/NN/ does/VBZ/ not/RB/ equal/JJ/ to/TO/ 40/CD/ 
+Return/NN/ all/DT/ information/NN/ about/IN/ employees/NNS/ with/IN/ salaries/NNS/ between/IN/ 8000/CD/ and/CC/ 12000/CD/ for/IN/ which/WDT/ commission/NN/ is/VBZ/ not/RB/ null/JJ/ or/CC/ where/WRB/ their/PRP$/ department/NN/ id/NN/ is/VBZ/ not/RB/ 40/CD/ 
+What/WP/ are/VBP/ the/DT/ full/JJ/ name/NN/ first/NN/ and/CC/ last/JJ/ name/NN/ and/CC/ salary/NN/ for/IN/ all/DT/ employees/NNS/ who/WP/ does/VBZ/ not/RB/ have/VB/ any/DT/ value/NN/ for/IN/ commission/NN/ 
+Return/NN/ the/DT/ full/JJ/ names/NNS/ and/CC/ salaries/NNS/ of/IN/ employees/NNS/ with/IN/ null/JJ/ commissions/NN/ 
+Display/VB/ the/DT/ first/JJ/ and/CC/ last/JJ/ name/NN/ and/CC/ salary/NN/ for/IN/ those/DT/ employees/NNS/ whose/WP$/ first/JJ/ name/NN/ is/VBZ/ ending/VBG/ with/IN/ the/DT/ letter/NN/ m/NN/ 
+Return/NN/ the/DT/ full/JJ/ names/NNS/ and/CC/ salaries/NNS/ for/IN/ employees/NNS/ with/IN/ first/JJ/ names/NNS/ that/WDT/ end/VBP/ with/IN/ the/DT/ letter/NN/ m/NN/ 
+Find/VB/ job/NN/ id/NN/ and/CC/ date/NN/ of/IN/ hire/NN/ for/IN/ those/DT/ employees/NNS/ who/WP/ was/VBD/ hired/VBN/ between/IN/ November/NNP/ 5th/NNP/ 2007/CD/ and/CC/ July/NNP/ 5th/FW/ 2009/FW/ 
+What/WP/ are/VBP/ the/DT/ job/NN/ ids/NNS/ and/CC/ dates/NNS/ of/IN/ hire/NN/ for/IN/ employees/NNS/ hired/VBN/ after/IN/ November/NNP/ 5th/NN/ 2007/CD/ and/CC/ before/IN/ July/NNP/ 5th/FW/ 2009/FW/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ and/CC/ last/JJ/ name/NN/ for/IN/ those/DT/ employees/NNS/ who/WP/ works/VBZ/ either/CC/ in/IN/ department/NN/ 70/CD/ or/CC/ 90/CD/ 
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/NNS/ of/IN/ employees/NNS/ who/WP/ with/IN/ in/IN/ department/NN/ 70/CD/ or/CC/ 90/CD/ 
+Find/VB/ the/DT/ salary/NN/ and/CC/ manager/NN/ number/NN/ for/IN/ those/DT/ employees/NNS/ who/WP/ is/VBZ/ working/VBG/ under/IN/ a/DT/ manager/NN/ 
+What/WP/ are/VBP/ the/DT/ salaries/NNS/ and/CC/ manager/NN/ ids/NNS/ for/IN/ employees/NNS/ who/WP/ have/VBP/ managers/NN/ 
+display/VB/ all/PDT/ the/DT/ details/NNS/ from/IN/ Employees/NNP/ table/NN/ for/IN/ those/DT/ employees/NNS/ who/WP/ was/VBD/ hired/VBN/ before/IN/ 2002-06-21/CD/ 
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ about/IN/ employees/NNS/ hired/VBN/ before/IN/ June/NNP/ 21/CD/ 2002/CD/ 
+display/VB/ all/PDT/ the/DT/ information/NN/ for/IN/ all/DT/ employees/NNS/ who/WP/ have/VBP/ the/DT/ letters/NNS/ D/NN/ or/CC/ S/NN/ in/IN/ their/PRP$/ first/JJ/ name/NN/ and/CC/ also/RB/ arrange/VBP/ the/DT/ result/NN/ in/IN/ descending/VBG/ order/NN/ by/IN/ salary/NN/ 
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ about/IN/ employees/NNS/ with/IN/ D/NN/ or/CC/ S/NN/ in/IN/ their/PRP$/ first/JJ/ name/NN/ ordered/VBN/ by/IN/ salary/NN/ descending/NN/ 
+display/VB/ those/DT/ employees/NNS/ who/WP/ joined/VBD/ after/IN/ 7th/JJ/ September/NN/ 1987/CD/ 
+Which/WDT/ employees/NNS/ were/VBD/ hired/VBN/ after/IN/ September/NNP/ 7th/FW/ 1987/FW/ 
+display/VB/ the/DT/ job/NN/ title/NN/ of/IN/ jobs/NNS/ which/WDT/ minimum/JJ/ salary/NN/ is/VBZ/ greater/JJR/ than/IN/ 9000/CD/ 
+Which/WDT/ job/NN/ titles/NNS/ correspond/VBP/ to/TO/ jobs/NNS/ with/IN/ salaries/NNS/ over/IN/ 9000/CD/ 
+display/NN/ job/NN/ Title/NN/ the/DT/ difference/NN/ between/IN/ minimum/NN/ and/CC/ maximum/NN/ salaries/NNS/ for/IN/ those/DT/ jobs/NNS/ which/WDT/ max/VBP/ salary/NN/ within/IN/ the/DT/ range/NN/ 12000/CD/ to/TO/ 18000/CD/ 
+What/WP/ are/VBP/ the/DT/ job/NN/ titles/NN/ and/CC/ range/NN/ of/IN/ salaries/NNS/ for/IN/ jobs/NNS/ with/IN/ maximum/NN/ salary/NN/ between/IN/ 12000/CD/ and/CC/ 18000/CD/ 
+display/VB/ the/DT/ emails/NNS/ of/IN/ the/DT/ employees/NNS/ who/WP/ have/VBP/ no/DT/ commission/NN/ percentage/NN/ and/CC/ salary/NN/ within/IN/ the/DT/ range/NN/ 7000/CD/ to/TO/ 12000/CD/ and/CC/ works/VBZ/ in/IN/ that/DT/ department/NN/ which/WDT/ number/NN/ is/VBZ/ 50/CD/ 
+What/WP/ are/VBP/ the/DT/ emails/NNS/ of/IN/ employees/NNS/ with/IN/ null/JJ/ commission/NN/ salary/NN/ between/IN/ 7000/CD/ and/CC/ 12000/CD/ and/CC/ who/WP/ work/VBP/ in/IN/ department/NN/ 50/CD/ 
+display/VB/ the/DT/ employee/NN/ ID/NN/ for/IN/ each/DT/ employee/NN/ and/CC/ the/DT/ date/NN/ on/IN/ which/WDT/ he/PRP/ ended/VBD/ his/PRP$/ previous/JJ/ job/NN/ 
+What/WP/ are/VBP/ the/DT/ employee/NN/ ids/NNS/ for/IN/ each/DT/ employee/NN/ and/CC/ final/JJ/ dates/NNS/ of/IN/ employment/NN/ at/IN/ their/PRP$/ last/JJ/ job/NN/ 
+display/VB/ those/DT/ departments/NNS/ where/WRB/ more/JJR/ than/IN/ ten/CD/ employees/NNS/ work/NN/ who/WP/ got/VBD/ a/DT/ commission/NN/ percentage/NN/ 
+What/WP/ are/VBP/ the/DT/ department/NN/ ids/NNS/ for/IN/ which/WDT/ more/JJR/ than/IN/ 10/CD/ employees/NNS/ had/VBD/ a/DT/ commission/NN/ 
+Find/VB/ the/DT/ ids/NNS/ of/IN/ the/DT/ departments/NNS/ where/WRB/ any/DT/ manager/NN/ is/VBZ/ managing/VBG/ 4/CD/ or/CC/ more/JJR/ employees/NN/ 
+What/WP/ are/VBP/ department/NN/ ids/NNS/ for/IN/ departments/NNS/ with/IN/ managers/NNS/ managing/VBG/ more/JJR/ than/IN/ 3/CD/ employees/NN/ 
+display/VB/ the/DT/ average/JJ/ salary/NN/ of/IN/ employees/NNS/ for/IN/ each/DT/ department/NN/ who/WP/ gets/VBZ/ a/DT/ commission/NN/ percentage/NN/ 
+What/WP/ is/VBZ/ the/DT/ average/JJ/ salary/NN/ of/IN/ employees/NNS/ who/WP/ have/VBP/ a/DT/ commission/NN/ percentage/NN/ that/WDT/ is/VBZ/ not/RB/ null/NN/ 
+display/VB/ the/DT/ country/NN/ ID/NN/ and/CC/ number/NN/ of/IN/ cities/NNS/ for/IN/ each/DT/ country/NN/ 
+Give/VB/ the/DT/ country/NN/ id/NN/ and/CC/ corresponding/JJ/ count/NN/ of/IN/ cities/NNS/ in/IN/ each/DT/ country/NN/ 
+display/NN/ job/NN/ ID/NN/ for/IN/ those/DT/ jobs/NNS/ that/WDT/ were/VBD/ done/VBN/ by/IN/ two/CD/ or/CC/ more/JJR/ for/IN/ more/JJR/ than/IN/ 300/CD/ days/NN/ 
+What/WP/ are/VBP/ the/DT/ job/NN/ ids/NNS/ for/IN/ jobs/NNS/ done/VBN/ more/JJR/ than/IN/ once/RB/ for/IN/ a/DT/ period/NN/ of/IN/ more/JJR/ than/IN/ 300/CD/ days/NN/ 
+display/VB/ the/DT/ ID/NN/ for/IN/ those/DT/ employees/NNS/ who/WP/ did/VBD/ two/CD/ or/CC/ more/JJR/ jobs/NNS/ in/IN/ the/DT/ past/NN/ 
+What/WP/ are/VBP/ the/DT/ employee/NN/ ids/NNS/ for/IN/ employees/NNS/ who/WP/ have/VBP/ held/VBN/ two/CD/ or/CC/ more/JJR/ jobs/NN/ 
+Find/VB/ employee/NN/ with/IN/ ID/NN/ and/CC/ name/NN/ of/IN/ the/DT/ country/NN/ presently/RB/ where/WRB/ (s)he/NN/ is/VBZ/ working/NN/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ employee/NN/ ids/NNS/ and/CC/ the/DT/ names/NNS/ of/IN/ the/DT/ countries/NNS/ in/IN/ which/WDT/ they/PRP/ work/VBP/ 
+display/VB/ the/DT/ department/NN/ name/NN/ and/CC/ number/NN/ of/IN/ employees/NNS/ in/IN/ each/DT/ of/IN/ the/DT/ department/NN/ 
+Give/VB/ the/DT/ name/NN/ of/IN/ each/DT/ department/NN/ and/CC/ the/DT/ number/NN/ of/IN/ employees/NNS/ in/IN/ each/NN/ 
+Can/MD/ you/PRP/ return/VB/ all/DT/ detailed/JJ/ info/NN/ of/IN/ jobs/NNS/ which/WDT/ was/VBD/ done/VBN/ by/IN/ any/DT/ of/IN/ the/DT/ employees/NNS/ who/WP/ is/VBZ/ presently/RB/ earning/VBG/ a/DT/ salary/NN/ on/IN/ and/CC/ above/IN/ 12000/CD/ 
+What/WP/ is/VBZ/ all/PDT/ the/DT/ job/NN/ history/NN/ info/NN/ done/VBN/ by/IN/ employees/NNS/ earning/VBG/ a/DT/ salary/NN/ greater/JJR/ than/IN/ or/CC/ equal/JJ/ to/TO/ 12000/CD/ 
+display/NN/ job/NN/ title/NN/ and/CC/ average/JJ/ salary/NN/ of/IN/ employees/NN/ 
+What/WP/ is/VBZ/ the/DT/ average/JJ/ salary/NN/ for/IN/ each/DT/ job/NN/ title/NN/ 
+What/WP/ is/VBZ/ the/DT/ full/JJ/ name/NN/ /CD/ first/JJ/ name/NN/ and/CC/ last/JJ/ name/NN/ /NN/ for/IN/ those/DT/ employees/NNS/ who/WP/ gets/VBZ/ more/JJR/ salary/NN/ than/IN/ the/DT/ employee/NN/ whose/WP$/ id/NN/ is/VBZ/ 163/CD/ 
+Provide/VB/ the/DT/ full/JJ/ names/NNS/ of/IN/ employees/NNS/ earning/VBG/ more/JJR/ than/IN/ the/DT/ employee/NN/ with/IN/ id/FW/ 163/FW/ 
+return/VB/ the/DT/ smallest/JJS/ salary/NN/ for/IN/ every/DT/ departments/NN/ 
+What/WP/ is/VBZ/ the/DT/ minimum/JJ/ salary/NN/ in/IN/ each/DT/ department/NN/ 
+Find/VB/ the/DT/ first/JJ/ name/NN/ and/CC/ last/JJ/ name/NN/ and/CC/ department/NN/ id/NN/ for/IN/ those/DT/ employees/NNS/ who/WP/ earn/VBP/ such/JJ/ amount/NN/ of/IN/ salary/NN/ which/WDT/ is/VBZ/ the/DT/ smallest/JJS/ salary/NN/ of/IN/ any/DT/ of/IN/ the/DT/ departments/NN/ 
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/NNS/ and/CC/ department/NN/ ids/NNS/ for/IN/ the/DT/ lowest/JJS/ paid/VBN/ employees/NNS/ across/IN/ all/DT/ departments/NN/ 
+Find/VB/ the/DT/ employee/NN/ id/NN/ for/IN/ all/DT/ employees/NNS/ who/WP/ earn/VBP/ more/JJR/ than/IN/ the/DT/ average/JJ/ salary/NN/ 
+What/WP/ are/VBP/ the/DT/ employee/NN/ ids/NNS/ for/IN/ employees/NNS/ who/WP/ make/VBP/ more/JJR/ than/IN/ the/DT/ average/NN/ 
+display/VB/ the/DT/ employee/NN/ id/NN/ and/CC/ salary/NN/ of/IN/ all/DT/ employees/NNS/ who/WP/ report/VBP/ to/TO/ Payam/FW/ first/FW/ name/FW/ 
+What/WP/ are/VBP/ the/DT/ employee/NN/ ids/NNS/ of/IN/ employees/NNS/ who/WP/ report/VBP/ to/TO/ Payam/NN/ and/CC/ what/WP/ are/VBP/ their/PRP$/ salaries/NN/ 
+find/VB/ the/DT/ name/NN/ of/IN/ all/DT/ departments/NNS/ that/WDT/ do/VBP/ actually/RB/ have/VB/ one/CD/ or/CC/ more/JJR/ employees/NNS/ assigned/VBN/ to/TO/ them/VB/ 
+What/WP/ are/VBP/ the/DT/ names/NNS/ of/IN/ departments/NNS/ that/WDT/ have/VBP/ at/IN/ least/JJS/ one/CD/ employee/NN/ 
+get/VB/ the/DT/ details/NNS/ of/IN/ employees/NNS/ who/WP/ manage/VBP/ a/DT/ department/NN/ 
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ regarding/VBG/ employees/NNS/ who/WP/ are/VBP/ managers/NN/ 
+display/VB/ all/PDT/ the/DT/ information/NN/ about/IN/ the/DT/ department/NN/ Marketing/NNP/ 
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ about/IN/ the/DT/ Marketing/NNP/ department/NN/ 
+display/VB/ the/DT/ ID/NN/ for/IN/ those/DT/ employees/NNS/ who/WP/ did/VBD/ two/CD/ or/CC/ more/JJR/ jobs/NNS/ in/IN/ the/DT/ past/NN/ 
+What/WP/ are/VBP/ the/DT/ employee/NN/ ids/NNS/ for/IN/ those/DT/ who/WP/ had/VBD/ two/CD/ or/CC/ more/JJR/ jobs/NN/ 
+What/WP/ are/VBP/ the/DT/ unique/JJ/ ids/NNS/ of/IN/ those/DT/ departments/NNS/ where/WRB/ any/DT/ manager/NN/ is/VBZ/ managing/VBG/ 4/CD/ or/CC/ more/JJR/ employees/NN/ 
+Give/VB/ the/DT/ distinct/JJ/ department/NN/ ids/NNS/ of/IN/ departments/NNS/ in/IN/ which/WDT/ a/DT/ manager/NN/ is/VBZ/ in/IN/ charge/NN/ of/IN/ 4/CD/ or/CC/ more/JJR/ employees/NN/ 
+Find/VB/ the/DT/ job/NN/ ID/NN/ for/IN/ those/DT/ jobs/NNS/ which/WDT/ average/JJ/ salary/NN/ is/VBZ/ above/IN/ 8000/CD/ 
+What/WP/ are/VBP/ the/DT/ job/NN/ ids/NNS/ corresponding/VBG/ to/TO/ jobs/NNS/ with/IN/ average/JJ/ salary/NN/ above/IN/ 8000/CD/ 
+display/VB/ the/DT/ employee/NN/ ID/NN/ and/CC/ job/NN/ name/NN/ for/IN/ all/PDT/ those/DT/ jobs/NNS/ in/IN/ department/NN/ 80/CD/ 
+what/WP/ are/VBP/ the/DT/ employee/NN/ ids/NNS/ and/CC/ job/NN/ titles/NNS/ for/IN/ employees/NNS/ in/IN/ department/NN/ 80/CD/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ name/NN/ and/CC/ job/NN/ id/NN/ for/IN/ all/DT/ employees/NNS/ in/IN/ the/DT/ Finance/NNP/ department/NN/ 
+Give/VB/ the/DT/ first/JJ/ name/NN/ and/CC/ job/NN/ id/NN/ for/IN/ all/DT/ employees/NNS/ in/IN/ the/DT/ Finance/NNP/ department/NN/ 
+display/VB/ all/PDT/ the/DT/ information/NN/ of/IN/ the/DT/ employees/NNS/ whose/WP$/ salary/NN/ is/IN/ within/IN/ the/DT/ range/NN/ of/IN/ smallest/JJS/ salary/NN/ and/CC/ 2500/CD/ 
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ regarding/VBG/ employees/NNS/ with/IN/ salaries/NNS/ above/IN/ the/DT/ minimum/NN/ and/CC/ under/IN/ 2500/CD/ 
+Find/VB/ the/DT/ ids/NNS/ of/IN/ the/DT/ employees/NNS/ who/WP/ does/VBZ/ not/RB/ work/VB/ in/IN/ those/DT/ departments/NNS/ where/WRB/ some/DT/ employees/NNS/ works/NNS/ whose/WP$/ manager/NN/ id/NN/ within/IN/ the/DT/ range/NN/ 100/CD/ and/CC/ 200/CD/ 
+What/WP/ are/VBP/ the/DT/ ids/NNS/ for/IN/ employees/NNS/ who/WP/ do/VBP/ not/RB/ work/VB/ in/IN/ departments/NNS/ with/IN/ managers/NNS/ that/WDT/ have/VBP/ ids/NNS/ between/IN/ 100/CD/ and/CC/ 200/CD/ 
+display/VB/ the/DT/ employee/NN/ name/NN/ /CD/ first/JJ/ name/NN/ and/CC/ last/JJ/ name/NN/ /NN/ and/CC/ hire/NN/ date/NN/ for/IN/ all/DT/ employees/NNS/ in/IN/ the/DT/ same/JJ/ department/NN/ as/IN/ Clara/NN/ 
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/NNS/ and/CC/ hire/NN/ dates/NNS/ for/IN/ employees/NNS/ in/IN/ the/DT/ same/JJ/ department/NN/ as/IN/ someone/NN/ with/IN/ the/DT/ first/JJ/ name/NN/ Clara/NN/ 
+display/VB/ the/DT/ employee/NN/ name/NN/ /CD/ first/JJ/ name/NN/ and/CC/ last/JJ/ name/NN/ /NN/ and/CC/ hire/NN/ date/NN/ for/IN/ all/DT/ employees/NNS/ in/IN/ the/DT/ same/JJ/ department/NN/ as/IN/ Clara/NNP/ excluding/VBG/ Clara/NN/ 
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/NNS/ and/CC/ hire/NN/ dates/NNS/ for/IN/ employees/NNS/ in/IN/ the/DT/ same/JJ/ department/NN/ as/IN/ someone/NN/ with/IN/ the/DT/ first/JJ/ name/NN/ Clara/NN/ not/RB/ including/VBG/ Clara/NN/ 
+display/VB/ the/DT/ employee/NN/ number/NN/ and/CC/ name/NN/ first/JJ/ name/NN/ and/CC/ last/JJ/ name/NN/ /NN/ for/IN/ all/DT/ employees/NNS/ who/WP/ work/VBP/ in/IN/ a/DT/ department/NN/ with/IN/ any/DT/ employee/NN/ whose/WP$/ name/NN/ contains/VBZ/ a/DT/ T/NN/ 
+What/WP/ are/VBP/ the/DT/ ids/NNS/ and/CC/ full/JJ/ names/NNS/ for/IN/ employees/NNS/ who/WP/ work/VBP/ in/IN/ a/DT/ department/NN/ that/WDT/ has/VBZ/ someone/NN/ with/IN/ a/DT/ first/JJ/ name/NN/ that/WDT/ contains/VBZ/ the/DT/ letter/NN/ T/NN/ 
+display/VB/ the/DT/ employee/NN/ number/FW/ name/FW/ first/JJ/ name/NN/ and/CC/ last/JJ/ name/NN/ /NN/ and/CC/ salary/NN/ for/IN/ all/DT/ employees/NNS/ who/WP/ earn/VBP/ more/JJR/ than/IN/ the/DT/ average/JJ/ salary/NN/ and/CC/ who/WP/ work/VBP/ in/IN/ a/DT/ department/NN/ with/IN/ any/DT/ employee/NN/ with/IN/ a/DT/ J/NN/ in/IN/ their/PRP$/ first/JJ/ name/NN/ 
+What/WP/ are/VBP/ the/DT/ ids/JJ/ full/JJ/ names/NN/ and/CC/ salaries/NNS/ for/IN/ employees/NNS/ making/VBG/ more/RBR/ than/IN/ average/JJ/ and/CC/ who/WP/ work/VBP/ in/IN/ a/DT/ department/NN/ with/IN/ employees/NNS/ who/WP/ have/VBP/ the/DT/ letter/NN/ J/NN/ in/IN/ their/PRP$/ first/JJ/ name/NN/ 
+display/VB/ the/DT/ employee/NN/ number/NN/ and/CC/ job/NN/ id/NN/ for/IN/ all/DT/ employees/NNS/ whose/WP$/ salary/NN/ is/VBZ/ smaller/JJR/ than/IN/ any/DT/ salary/NN/ of/IN/ those/DT/ employees/NNS/ whose/WP$/ job/NN/ title/NN/ is/VBZ/ MKMAN/NN/ 
+What/WP/ are/VBP/ the/DT/ employee/NN/ ids/NNS/ and/CC/ job/NN/ ids/NNS/ for/IN/ employees/NNS/ who/WP/ make/VBP/ less/JJR/ than/IN/ the/DT/ lowest/JJS/ earning/NN/ employee/NN/ with/IN/ title/NN/ MKMAN/NN/ 
+display/VB/ the/DT/ employee/NN/ number/FW/ name/FW/ first/JJ/ name/NN/ and/CC/ last/JJ/ name/NN/ /NN/ and/CC/ job/NN/ title/NN/ for/IN/ all/DT/ employees/NNS/ whose/WP$/ salary/NN/ is/VBZ/ more/JJR/ than/IN/ any/DT/ salary/NN/ of/IN/ those/DT/ employees/NNS/ whose/WP$/ job/NN/ title/NN/ is/VBZ/ PUMAN/NN/ 
+What/WP/ are/VBP/ the/DT/ employee/NN/ ids/NN/ full/JJ/ names/NN/ and/CC/ job/NN/ ids/NNS/ for/IN/ employees/NNS/ who/WP/ make/VBP/ more/JJR/ than/IN/ the/DT/ highest/JJS/ earning/NN/ employee/NN/ with/IN/ title/NN/ PUMAN/NN/ 
+display/VB/ the/DT/ department/NN/ id/NN/ and/CC/ the/DT/ total/JJ/ salary/NN/ for/IN/ those/DT/ departments/NNS/ which/WDT/ contains/VBZ/ at/IN/ least/JJS/ two/CD/ employees/NN/ 
+What/WP/ are/VBP/ total/JJ/ salaries/NNS/ and/CC/ department/NN/ id/NN/ for/IN/ each/DT/ department/NN/ that/WDT/ has/VBZ/ more/JJR/ than/IN/ 2/CD/ employees/NN/ 
+display/VB/ all/PDT/ the/DT/ information/NN/ of/IN/ those/DT/ employees/NNS/ who/WP/ did/VBD/ not/RB/ have/VB/ any/DT/ job/NN/ in/IN/ the/DT/ past/NN/ 
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ about/IN/ employees/NNS/ who/WP/ have/VBP/ never/RB/ had/VBN/ a/DT/ job/NN/ in/IN/ the/DT/ past/NN/ 
+display/VB/ the/DT/ department/NN/ ID/NN/ full/JJ/ name/NN/ first/NN/ and/CC/ last/JJ/ name/NN/ salary/NN/ for/IN/ those/DT/ employees/NNS/ who/WP/ is/VBZ/ highest/JJS/ salary/NN/ in/IN/ every/DT/ department/NN/ 
+What/WP/ are/VBP/ the/DT/ department/NN/ ids/NN/ full/JJ/ names/NN/ and/CC/ salaries/NNS/ for/IN/ employees/NNS/ who/WP/ make/VBP/ the/DT/ most/JJS/ in/IN/ their/PRP$/ departments/NN/ 
+display/VB/ the/DT/ first/JJ/ and/CC/ last/JJ/ name/FW/ department/FW/ city/FW/ and/CC/ state/NN/ province/NN/ for/IN/ each/DT/ employee/NN/ 
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/NN/ departments/NN/ cities/NN/ and/CC/ state/NN/ provinces/NNS/ for/IN/ each/DT/ employee/NN/ 
+display/VB/ those/DT/ employees/NNS/ who/WP/ contain/VBP/ a/DT/ letter/NN/ z/SYM/ to/TO/ their/PRP$/ first/JJ/ name/NN/ and/CC/ also/RB/ display/VBP/ their/PRP$/ last/JJ/ name/FW/ city/FW/ 
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/NNS/ and/CC/ cities/NNS/ of/IN/ employees/NNS/ who/WP/ have/VBP/ the/DT/ letter/NN/ Z/NN/ in/IN/ their/PRP$/ first/JJ/ names/NN/ 
+display/VB/ the/DT/ department/NN/ name/FW/ city/FW/ and/CC/ state/NN/ province/NN/ for/IN/ each/DT/ department/NN/ 
+What/WP/ are/VBP/ the/DT/ department/NN/ names/FW/ cities/FW/ and/CC/ state/NN/ provinces/NNS/ for/IN/ each/DT/ department/NN/ 
+display/VB/ the/DT/ full/JJ/ name/NN/ first/NN/ and/CC/ last/JJ/ name/NN/ /NN/ of/IN/ employee/NN/ with/IN/ ID/NN/ and/CC/ name/NN/ of/IN/ the/DT/ country/NN/ presently/RB/ where/WRB/ (s)he/NN/ is/VBZ/ working/NN/ 
+What/WP/ the/DT/ full/JJ/ names/FW/ ids/FW/ of/IN/ each/DT/ employee/NN/ and/CC/ the/DT/ name/NN/ of/IN/ the/DT/ country/NN/ they/PRP/ are/VBP/ in/NN/ 
+display/VB/ the/DT/ department/NN/ name/NN/ and/CC/ number/NN/ of/IN/ employees/NNS/ in/IN/ each/DT/ of/IN/ the/DT/ department/NN/ 
+What/WP/ are/VBP/ the/DT/ department/NN/ names/NNS/ and/CC/ how/WRB/ many/JJ/ employees/NNS/ work/VBP/ in/IN/ each/DT/ of/IN/ them/NN/ 
+display/VB/ the/DT/ full/JJ/ name/NN/ first/NN/ and/CC/ last/JJ/ name/NN/ and/CC/ salary/NN/ of/IN/ those/DT/ employees/NNS/ who/WP/ working/VBG/ in/IN/ any/DT/ department/NN/ located/JJ/ in/IN/ London/NNP/ 
+What/WP/ are/VBP/ full/JJ/ names/NNS/ and/CC/ salaries/NNS/ of/IN/ employees/NNS/ working/VBG/ in/IN/ the/DT/ city/NN/ of/IN/ London/NN/ 

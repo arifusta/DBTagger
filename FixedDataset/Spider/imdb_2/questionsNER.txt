@@ -1,0 +1,109 @@
+What/O/ year/O/ is/O/ the/O/ movie/O/ "/O/ The/O/ Imitation/MISC/ Game/MISC/ "/O/ from/O/ ?/O/ 
+What/O/ year/O/ was/O/ the/O/ movie/O/ "/O/ The/O/ Imitation/MISC/ Game/MISC/ "/O/ produced/O/ 
+What/O/ year/O/ was/O/ "/O/ Benedict/PERSON/ Cumberbatch/PERSON/ "/O/ born/O/ ?/O/ 
+In/O/ what/O/ year/O/ was/O/ "/O/ Benedict/PERSON/ Cumberbatch/PERSON/ "/O/ born/O/ 
+What/O/ is/O/ the/O/ nationality/O/ of/O/ the/O/ actress/O/ "/O/ Christoph/PERSON/ Waltz/PERSON/ "/O/ ?/O/ 
+What/O/ is/O/ the/O/ nationality/O/ of/O/ the/O/ actor/O/ "/O/ Christoph/PERSON/ Waltz/PERSON/ "/O/ ?/O/ 
+Find/O/ all/O/ movies/O/ produced/O/ in/O/ 2015/O/ 
+Find/O/ all/O/ actors/O/ born/O/ in/O/ "/O/ Tehran/LOCATION/ "/O/ 
+Find/O/ all/O/ actors/O/ born/O/ in/O/ Tehran/LOCATION/ 
+Which/O/ actors/O/ were/O/ born/O/ in/O/ Tehran/LOCATION/ 
+Find/O/ all/O/ actors/O/ who/O/ are/O/ from/O/ Afghanistan/LOCATION/ 
+Find/O/ all/O/ actors/O/ from/O/ Afghanistan/LOCATION/ 
+Give/O/ me/O/ the/O/ name/O/ of/O/ all/O/ the/O/ actors/O/ from/O/ Afghanistan/LOCATION/ 
+Find/O/ all/O/ actors/O/ who/O/ were/O/ born/O/ in/O/ 1984/O/ 
+When/O/ was/O/ "/O/ Kevin/PERSON/ Spacey/PERSON/ "/O/ born/O/ ?/O/ 
+In/O/ what/O/ year/O/ was/O/ "/O/ Kevin/PERSON/ Spacey/PERSON/ "/O/ born/O/ ?/O/ 
+Where/O/ is/O/ the/O/ birth/O/ place/O/ of/O/ "/O/ Kevin/PERSON/ Spacey/PERSON/ "/O/ 
+In/O/ what/O/ city/O/ was/O/ "/O/ Kevin/PERSON/ Spacey/PERSON/ "/O/ born/O/ ?/O/ 
+What/O/ is/O/ the/O/ nationality/O/ of/O/ "/O/ Kevin/PERSON/ Spacey/PERSON/ "/O/ ?/O/ 
+How/O/ much/O/ was/O/ the/O/ budget/O/ of/O/ "/O/ Finding/O/ Nemo/PERSON/ "/O/ 
+Find/O/ all/O/ movies/O/ directed/O/ by/O/ "/O/ Steven/PERSON/ Spielberg/PERSON/ "/O/ after/O/ 2006/O/ 
+Who/O/ is/O/ the/O/ director/O/ of/O/ the/O/ movie/O/ "/O/ James/PERSON/ Bond/PERSON/ "/O/ ?/O/ 
+Who/O/ directed/O/ the/O/ movie/O/ "/O/ James/PERSON/ Bond/PERSON/ "/O/ ?/O/ 
+List/O/ "/O/ James/PERSON/ Bond/PERSON/ "/O/ directors/O/ 
+Find/O/ the/O/ actor/O/ who/O/ played/O/ "/O/ Alan/MISC/ Turing/MISC/ "/O/ in/O/ the/O/ movie/O/ "/O/ The/O/ Imitation/MISC/ Game/MISC/ "/O/ 
+Who/O/ acted/O/ "/O/ Alan/PERSON/ Turing/PERSON/ "/O/ in/O/ the/O/ movie/O/ "/O/ The/O/ Imitation/MISC/ Game/MISC/ "/O/ ?/O/ 
+Who/O/ was/O/ the/O/ actor/O/ that/O/ played/O/ "/O/ Alan/MISC/ Turing/MISC/ "/O/ in/O/ the/O/ movie/O/ "/O/ The/O/ Imitation/MISC/ Game/MISC/ "/O/ ?/O/ 
+Who/O/ acts/O/ as/O/ "/O/ Alan/PERSON/ Turing/PERSON/ "/O/ in/O/ the/O/ movie/O/ "/O/ The/O/ Imitation/MISC/ Game/MISC/ "/O/ ?/O/ 
+Who/O/ is/O/ the/O/ actor/O/ playing/O/ "/O/ Alan/PERSON/ Turing/PERSON/ "/O/ in/O/ "/O/ The/O/ Imitation/MISC/ Game/MISC/ "/O/ ?/O/ 
+What/O/ is/O/ the/O/ genre/O/ of/O/ the/O/ movie/O/ "/O/ Jurassic/LOCATION/ Park/LOCATION/ "/O/ ?/O/ 
+Who/O/ was/O/ the/O/ director/O/ of/O/ the/O/ movie/O/ Joy/O/ from/O/ 2015/O/ ?/O/ 
+Find/O/ all/O/ movies/O/ written/O/ by/O/ "/O/ Matt/PERSON/ Damon/PERSON/ "/O/ 
+Find/O/ all/O/ movies/O/ written/O/ and/O/ produced/O/ by/O/ "/O/ Woody/PERSON/ Allen/PERSON/ "/O/ 
+Find/O/ all/O/ movies/O/ featuring/O/ "/O/ Robin/PERSON/ Wright/PERSON/ "/O/ 
+What/O/ are/O/ all/O/ the/O/ movies/O/ featuring/O/ "/O/ Robin/PERSON/ Wright/PERSON/ "/O/ ?/O/ 
+Find/O/ all/O/ movies/O/ in/O/ which/O/ "/O/ Robin/PERSON/ Wright/PERSON/ "/O/ appears/O/ 
+What/O/ was/O/ the/O/ budget/O/ of/O/ the/O/ movie/O/ Juno/O/ from/O/ 2007/O/ ?/O/ 
+Find/O/ all/O/ Sci-Fi/ORGANIZATION/ produced/O/ in/O/ year/O/ 2010/O/ 
+List/O/ all/O/ the/O/ Sci-Fi/MISC/ movies/O/ which/O/ released/O/ in/O/ 2010/O/ 
+Find/O/ all/O/ actors/O/ born/O/ in/O/ "/O/ Austin/LOCATION/ "/O/ after/O/ 1980/O/ 
+Who/O/ are/O/ the/O/ actors/O/ born/O/ in/O/ "/O/ Austin/MISC/ "/O/ after/O/ 1980/O/ ?/O/ 
+Find/O/ all/O/ actors/O/ from/O/ Austin/LOCATION/ born/O/ after/O/ 1980/O/ 
+Find/O/ all/O/ movies/O/ by/O/ directors/O/ born/O/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ 
+Find/O/ all/O/ actors/O/ who/O/ were/O/ born/O/ in/O/ "/O/ New/LOCATION/ York/LOCATION/ City/LOCATION/ "/O/ in/O/ 1984/O/ 
+Find/O/ all/O/ movies/O/ about/O/ nuclear/O/ weapons/O/ 
+What/O/ are/O/ the/O/ movies/O/ related/O/ to/O/ nuclear/O/ weapons/O/ 
+Which/O/ movies/O/ did/O/ "/O/ Alfred/PERSON/ Hitchcock/PERSON/ "/O/ direct/O/ ?/O/ 
+Find/O/ all/O/ movies/O/ directed/O/ by/O/ "/O/ Asghar/PERSON/ Farhadi/PERSON/ "/O/ and/O/ featuring/O/ "/O/ Taraneh/MISC/ Alidoosti/MISC/ "/O/ 
+What/O/ are/O/ all/O/ the/O/ movies/O/ directed/O/ by/O/ "/O/ Asghar/PERSON/ Farhadi/PERSON/ "/O/ featuring/O/ "/O/ Taraneh/MISC/ Alidoosti/MISC/ "/O/ ?/O/ 
+How/O/ many/O/ movies/O/ are/O/ there/O/ that/O/ are/O/ directed/O/ by/O/ "/O/ Asghar/PERSON/ Farhadi/PERSON/ "/O/ and/O/ featuring/O/ "/O/ Taraneh/MISC/ Alidoosti/MISC/ "/O/ ?/O/ 
+List/O/ all/O/ the/O/ movies/O/ directed/O/ by/O/ "/O/ Asghar/PERSON/ Farhadi/PERSON/ "/O/ in/O/ which/O/ "/O/ Taraneh/MISC/ Alidoosti/MISC/ "/O/ played/O/ 
+What/O/ are/O/ all/O/ the/O/ tv/O/ series/O/ created/O/ by/O/ "/O/ Shonda/PERSON/ Rhimes/PERSON/ "/O/ ?/O/ 
+Who/O/ acts/O/ "/O/ Olivia/PERSON/ Pope/PERSON/ "/O/ in/O/ the/O/ series/O/ Scandal/O/ ?/O/ 
+Who/O/ is/O/ the/O/ writer/O/ of/O/ the/O/ movie/O/ "/O/ The/O/ Truman/ORGANIZATION/ Show/ORGANIZATION/ "/O/ 
+Who/O/ is/O/ the/O/ writer/O/ of/O/ "/O/ The/O/ Truman/ORGANIZATION/ Show/ORGANIZATION/ "/O/ 
+What/O/ are/O/ the/O/ series/O/ featuring/O/ "/O/ Scott/PERSON/ Foley/PERSON/ "/O/ ?/O/ 
+What/O/ are/O/ the/O/ series/O/ in/O/ which/O/ "/O/ Scott/PERSON/ Foley/PERSON/ "/O/ is/O/ an/O/ actor/O/ ?/O/ 
+Find/O/ the/O/ directors/O/ of/O/ all/O/ movies/O/ featuring/O/ "/O/ Kate/PERSON/ Winslet/PERSON/ "/O/ 
+Find/O/ the/O/ producers/O/ of/O/ all/O/ movies/O/ in/O/ which/O/ "/O/ Kate/PERSON/ Winslet/PERSON/ "/O/ is/O/ an/O/ actor/O/ 
+Who/O/ is/O/ the/O/ director/O/ of/O/ the/O/ tv/O/ series/O/ "/O/ House/O/ of/O/ Cards/O/ "/O/ from/O/ 2013/O/ ?/O/ 
+Find/O/ all/O/ the/O/ female/O/ actors/O/ from/O/ Austin/LOCATION/ 
+Find/O/ all/O/ actors/O/ from/O/ Italy/LOCATION/ born/O/ after/O/ 1980/O/ 
+Find/O/ all/O/ the/O/ female/O/ actors/O/ born/O/ in/O/ "/O/ New/LOCATION/ York/LOCATION/ City/LOCATION/ "/O/ after/O/ 1980/O/ 
+Find/O/ all/O/ the/O/ female/O/ actors/O/ in/O/ the/O/ movie/O/ "/O/ Saving/O/ Private/O/ Ryan/PERSON/ "/O/ 
+Find/O/ all/O/ the/O/ directors/O/ who/O/ are/O/ from/O/ Afghanistan/LOCATION/ 
+Find/O/ the/O/ actors/O/ who/O/ played/O/ in/O/ the/O/ movie/O/ "/O/ Camp/O/ X-Ray/O/ "/O/ 
+Find/O/ all/O/ actors/O/ from/O/ Canada/LOCATION/ who/O/ acted/O/ in/O/ "/O/ James/PERSON/ Bond/PERSON/ "/O/ movies/O/ 
+find/O/ all/O/ films/O/ in/O/ which/O/ "/O/ Rowan/PERSON/ Atkinson/PERSON/ "/O/ acted/O/ as/O/ "/O/ Mr./O/ Bean/MISC/ "/O/ 
+where/O/ is/O/ the/O/ director/O/ of/O/ "/O/ The/O/ Past/O/ "/O/ from/O/ 
+who/O/ acted/O/ the/O/ role/O/ of/O/ "/O/ Mr./O/ Bean/MISC/ "/O/ 
+what/O/ are/O/ the/O/ genres/O/ of/O/ movies/O/ directed/O/ by/O/ "/O/ Asghar/PERSON/ Farhadi/PERSON/ "/O/ 
+Which/O/ movie/O/ had/O/ the/O/ character/O/ "/O/ Daffy/MISC/ Duck/MISC/ "/O/ 
+What/O/ are/O/ the/O/ major/O/ roles/O/ in/O/ the/O/ movie/O/ "/O/ Daddy/ORGANIZATION/ Long/ORGANIZATION/ Legs/ORGANIZATION/ "/O/ 
+List/O/ all/O/ the/O/ directors/O/ of/O/ movies/O/ about/O/ nuclear/O/ weapons/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/O/ in/O/ which/O/ "/O/ Jennifer/PERSON/ Aniston/PERSON/ "/O/ acted/O/ after/O/ 2010/O/ ?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ actors/O/ in/O/ the/O/ movie/O/ "/O/ Saving/MISC/ Private/MISC/ Ryan/MISC/ "/O/ ?/O/ 
+How/O/ many/O/ actors/O/ are/O/ in/O/ the/O/ movie/O/ "/O/ Saving/MISC/ Private/MISC/ Ryan/MISC/ "/O/ ?/O/ 
+How/O/ many/O/ movies/O/ did/O/ "/O/ Steven/PERSON/ Spielberg/PERSON/ "/O/ direct/O/ ?/O/ 
+How/O/ many/O/ movies/O/ were/O/ produced/O/ in/O/ the/O/ year/O/ 2013/O/ ?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/O/ produced/O/ in/O/ 2013/O/ ?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/O/ directed/O/ by/O/ "/O/ Woody/PERSON/ Allen/PERSON/ "/O/ per/O/ year/O/ ?/O/ 
+How/O/ many/O/ movies/O/ did/O/ "/O/ Shahab/PERSON/ Hosseini/PERSON/ "/O/ act/O/ in/O/ ?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/O/ in/O/ which/O/ "/O/ Shahab/PERSON/ Hosseini/PERSON/ "/O/ acted/O/ ?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/O/ featuring/O/ "/O/ Shahab/PERSON/ Hosseini/PERSON/ "/O/ ?/O/ 
+How/O/ many/O/ movies/O/ did/O/ "/O/ Shahab/PERSON/ Hosseini/PERSON/ "/O/ act/O/ in/O/ 
+How/O/ many/O/ actors/O/ were/O/ born/O/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ after/O/ 2000/O/ ?/O/ 
+How/O/ many/O/ movies/O/ did/O/ "/O/ Humphrey/PERSON/ Bogart/PERSON/ "/O/ act/O/ in/O/ before/O/ 1942/O/ ?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/O/ that/O/ "/O/ Brad/PERSON/ Pitt/PERSON/ "/O/ acts/O/ in/O/ per/O/ year/O/ ?/O/ 
+How/O/ many/O/ movies/O/ about/O/ Iraq/LOCATION/ war/O/ were/O/ produced/O/ in/O/ 2015/O/ ?/O/ 
+How/O/ many/O/ movies/O/ about/O/ Persians/MISC/ were/O/ released/O/ after/O/ 1990/O/ ?/O/ 
+How/O/ many/O/ movies/O/ did/O/ "/O/ Quentin/PERSON/ Tarantino/PERSON/ "/O/ direct/O/ after/O/ 2010/O/ ?/O/ 
+How/O/ many/O/ movies/O/ did/O/ "/O/ Quentin/PERSON/ Tarantino/PERSON/ "/O/ direct/O/ before/O/ 2010/O/ ?/O/ 
+How/O/ many/O/ movies/O/ did/O/ "/O/ Quentin/PERSON/ Tarantino/PERSON/ "/O/ direct/O/ before/O/ 2002/O/ and/O/ after/O/ 2010/O/ ?/O/ 
+How/O/ many/O/ female/O/ actors/O/ were/O/ born/O/ in/O/ "/O/ New/LOCATION/ York/LOCATION/ City/LOCATION/ "/O/ after/O/ 1980/O/ ?/O/ 
+find/O/ the/O/ number/O/ of/O/ actors/O/ from/O/ Iran/LOCATION/ who/O/ played/O/ in/O/ "/O/ Jim/PERSON/ Jarmusch/PERSON/ "/O/ movies/O/ 
+How/O/ many/O/ actors/O/ from/O/ China/LOCATION/ have/O/ acted/O/ in/O/ "/O/ Rush/ORGANIZATION/ Hour/ORGANIZATION/ 3/O/ "/O/ 
+Find/O/ all/O/ movies/O/ that/O/ star/O/ both/O/ "/O/ Woody/PERSON/ Strode/PERSON/ "/O/ and/O/ "/O/ Jason/PERSON/ Robards/PERSON/ "/O/ 
+Find/O/ all/O/ movies/O/ featuring/O/ "/O/ Woody/PERSON/ Strode/PERSON/ "/O/ and/O/ "/O/ Jason/PERSON/ Robards/PERSON/ "/O/ 
+Find/O/ all/O/ movies/O/ featuring/O/ both/O/ "/O/ Woody/PERSON/ Strode/PERSON/ "/O/ and/O/ "/O/ Jason/PERSON/ Robards/PERSON/ "/O/ 
+Find/O/ all/O/ movies/O/ featuring/O/ "/O/ Jason/PERSON/ Robards/PERSON/ "/O/ and/O/ "/O/ Woody/PERSON/ Strode/PERSON/ "/O/ 
+Find/O/ all/O/ actors/O/ who/O/ acted/O/ in/O/ the/O/ same/O/ movie/O/ as/O/ "/O/ Tom/PERSON/ Hanks/PERSON/ "/O/ 
+What/O/ movies/O/ have/O/ the/O/ same/O/ director/O/ as/O/ the/O/ movie/O/ "/O/ Revolutionary/ORGANIZATION/ Road/ORGANIZATION/ "/O/ ?/O/ 
+Find/O/ the/O/ movie/O/ which/O/ is/O/ classified/O/ in/O/ the/O/ most/O/ number/O/ of/O/ genres/O/ 
+which/O/ movie/O/ has/O/ the/O/ most/O/ number/O/ of/O/ actors/O/ from/O/ China/LOCATION/ ?/O/ 
+Find/O/ the/O/ actors/O/ who/O/ played/O/ in/O/ the/O/ latest/O/ movie/O/ by/O/ "/O/ Quentin/PERSON/ Tarantino/PERSON/ "/O/ 
+Find/O/ the/O/ name/O/ and/O/ budget/O/ of/O/ the/O/ latest/O/ movie/O/ by/O/ "/O/ Quentin/PERSON/ Tarantino/PERSON/ "/O/ 
+What/O/ is/O/ the/O/ latest/O/ movie/O/ by/O/ "/O/ Jim/PERSON/ Jarmusch/PERSON/ "/O/ 
+Which/O/ producer/O/ has/O/ worked/O/ with/O/ the/O/ most/O/ number/O/ of/O/ directors/O/ ?/O/ 
+Find/O/ the/O/ latest/O/ movie/O/ which/O/ "/O/ Gabriele/PERSON/ Ferzetti/PERSON/ "/O/ acted/O/ in/O/ 

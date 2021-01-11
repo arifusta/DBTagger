@@ -1,0 +1,164 @@
+Find/O/ the/O/ number/O/ of/O/ professors/O/ in/O/ accounting/O/ department./O/ 
+How/O/ many/O/ professors/O/ are/O/ in/O/ the/O/ accounting/O/ dept?/O/ 
+How/O/ many/O/ professors/O/ are/O/ teaching/O/ class/O/ with/O/ code/O/ ACCT-211?/O/ 
+How/O/ many/O/ professors/O/ teach/O/ a/O/ class/O/ with/O/ the/O/ code/O/ ACCT-211?/O/ 
+What/O/ is/O/ the/O/ first/O/ and/O/ last/O/ name/O/ of/O/ the/O/ professor/O/ in/O/ biology/O/ department?/O/ 
+What/O/ are/O/ the/O/ first/O/ and/O/ last/O/ name/O/ of/O/ all/O/ biology/O/ professors?/O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ and/O/ date/O/ of/O/ birth/O/ of/O/ professors/O/ teaching/O/ course/O/ ACCT-211?/O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ and/O/ birthdates/O/ of/O/ the/O/ professors/O/ in/O/ charge/O/ of/O/ ACCT-211?/O/ 
+How/O/ many/O/ classes/O/ are/O/ professor/O/ whose/O/ last/O/ name/O/ is/O/ Graztevski/PERSON/ has?/O/ 
+How/O/ many/O/ classes/O/ does/O/ the/O/ professor/O/ whose/O/ last/O/ name/O/ is/O/ Graztevski/PERSON/ teach?/O/ 
+What/O/ is/O/ the/O/ code/O/ of/O/ the/O/ school/O/ where/O/ the/O/ accounting/O/ department/O/ belongs/O/ to?/O/ 
+What/O/ is/O/ the/O/ school/O/ code/O/ of/O/ the/O/ accounting/O/ department?/O/ 
+How/O/ many/O/ credits/O/ does/O/ course/O/ CIS-220/O/ have,/O/ and/O/ what/O/ its/O/ description?/O/ 
+What/O/ is/O/ the/O/ description/O/ for/O/ the/O/ CIS-220/MISC/ and/O/ how/O/ many/O/ credits/O/ does/O/ it/O/ have?/O/ 
+what/O/ is/O/ the/O/ address/O/ of/O/ history/O/ department?/O/ 
+Where/O/ is/O/ the/O/ history/O/ department?/O/ 
+How/O/ many/O/ different/O/ locations/O/ does/O/ the/O/ school/O/ with/O/ code/O/ BUS/O/ has?/O/ 
+What/O/ are/O/ the/O/ different/O/ locations/O/ of/O/ the/O/ school/O/ with/O/ the/O/ code/O/ BUS?/O/ 
+How/O/ many/O/ different/O/ locations/O/ does/O/ each/O/ school/O/ have?/O/ 
+Count/O/ different/O/ addresses/O/ of/O/ each/O/ school./O/ 
+Find/O/ the/O/ description/O/ and/O/ credit/O/ for/O/ the/O/ course/O/ QM-261?/O/ 
+What/O/ is/O/ the/O/ course/O/ description/O/ and/O/ number/O/ of/O/ credits/O/ for/O/ QM-261?/O/ 
+Find/O/ the/O/ number/O/ of/O/ departments/O/ in/O/ each/O/ school./O/ 
+How/O/ many/O/ departments/O/ are/O/ in/O/ each/O/ school?/O/ 
+Find/O/ the/O/ number/O/ of/O/ different/O/ departments/O/ in/O/ each/O/ school/O/ whose/O/ number/O/ of/O/ different/O/ departments/O/ is/O/ less/O/ than/O/ 5./O/ 
+How/O/ many/O/ different/O/ departments/O/ are/O/ there/O/ in/O/ each/O/ school/O/ that/O/ has/O/ less/O/ than/O/ 5/O/ apartments?/O/ 
+How/O/ many/O/ sections/O/ does/O/ each/O/ course/O/ has?/O/ 
+How/O/ many/O/ sections/O/ does/O/ each/O/ course/O/ have?/O/ 
+What/O/ is/O/ the/O/ total/O/ credit/O/ does/O/ each/O/ department/O/ offer?/O/ 
+How/O/ many/O/ credits/O/ does/O/ the/O/ department/O/ offer?/O/ 
+Find/O/ the/O/ number/O/ of/O/ classes/O/ offered/O/ for/O/ all/O/ class/O/ rooms/O/ that/O/ held/O/ at/O/ least/O/ 2/O/ classes./O/ 
+For/O/ each/O/ classroom/O/ with/O/ at/O/ least/O/ 2/O/ classes,/O/ how/O/ many/O/ classes/O/ are/O/ offered?/O/ 
+Find/O/ the/O/ number/O/ of/O/ classes/O/ in/O/ each/O/ department./O/ 
+How/O/ many/O/ classes/O/ are/O/ held/O/ in/O/ each/O/ department?/O/ 
+Find/O/ the/O/ number/O/ of/O/ classes/O/ in/O/ each/O/ school./O/ 
+How/O/ many/O/ classes/O/ exist/O/ for/O/ each/O/ school?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ professors/O/ for/O/ different/O/ school?/O/ 
+How/O/ many/O/ different/O/ professors/O/ are/O/ there/O/ for/O/ the/O/ different/O/ schools?/O/ 
+Find/O/ the/O/ count/O/ and/O/ code/O/ of/O/ the/O/ job/O/ has/O/ most/O/ employees./O/ 
+What/O/ is/O/ the/O/ count/O/ and/O/ code/O/ of/O/ the/O/ job/O/ with/O/ the/O/ most/O/ employee?/O/ 
+Which/O/ school/O/ has/O/ the/O/ smallest/O/ amount/O/ of/O/ professors?/O/ 
+Which/O/ school/O/ has/O/ the/O/ fewest/O/ professors?/O/ 
+Find/O/ the/O/ number/O/ of/O/ professors/O/ with/O/ a/O/ Ph.D./O/ degree/O/ in/O/ each/O/ department./O/ 
+How/O/ many/O/ professors/O/ have/O/ a/O/ Ph.D./O/ in/O/ each/O/ department?/O/ 
+Find/O/ the/O/ number/O/ of/O/ students/O/ for/O/ each/O/ department./O/ 
+How/O/ many/O/ students/O/ are/O/ in/O/ each/O/ department?/O/ 
+Find/O/ the/O/ total/O/ number/O/ of/O/ hours/O/ have/O/ done/O/ for/O/ all/O/ students/O/ in/O/ each/O/ department./O/ 
+How/O/ many/O/ hours/O/ do/O/ the/O/ students/O/ spend/O/ studying/O/ in/O/ each/O/ department?/O/ 
+Find/O/ the/O/ max,/O/ average,/O/ and/O/ minimum/O/ gpa/O/ of/O/ all/O/ students/O/ in/O/ each/O/ department./O/ 
+What/O/ is/O/ the/O/ highest,/O/ lowest,/O/ and/O/ average/O/ student/O/ GPA/O/ for/O/ every/O/ department?/O/ 
+What/O/ is/O/ the/O/ name/O/ and/O/ the/O/ average/O/ gpa/O/ of/O/ department/O/ whose/O/ students/O/ have/O/ the/O/ highest/O/ average/O/ gpa?/O/ 
+Which/O/ department/O/ has/O/ the/O/ highest/O/ average/O/ student/O/ GPA,/O/ and/O/ what/O/ is/O/ the/O/ average/O/ gpa?/O/ 
+how/O/ many/O/ schools/O/ exist/O/ in/O/ total?/O/ 
+How/O/ many/O/ schools/O/ are/O/ there/O/ in/O/ the/O/ department?/O/ 
+How/O/ many/O/ different/O/ classes/O/ are/O/ there?/O/ 
+How/O/ many/O/ unique/O/ classes/O/ are/O/ offered?/O/ 
+How/O/ many/O/ courses/O/ are/O/ offered?/O/ 
+What/O/ are/O/ the/O/ number/O/ of/O/ different/O/ course/O/ codes?/O/ 
+How/O/ many/O/ departments/O/ does/O/ the/O/ college/O/ has?/O/ 
+How/O/ many/O/ different/O/ departments/O/ are/O/ there?/O/ 
+How/O/ many/O/ courses/O/ are/O/ offered/O/ by/O/ the/O/ Computer/MISC/ Info./MISC/ Systems/MISC/ department?/MISC/ 
+How/O/ many/O/ courses/O/ does/O/ the/O/ department/O/ of/O/ Computer/ORGANIZATION/ Information/ORGANIZATION/ Systmes/ORGANIZATION/ offer?/O/ 
+How/O/ many/O/ sections/O/ does/O/ course/O/ ACCT-211/O/ has?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ different/O/ class/O/ sections/O/ offered/O/ in/O/ the/O/ course/O/ ACCT-211?/O/ 
+Find/O/ the/O/ total/O/ credits/O/ of/O/ all/O/ classes/O/ offered/O/ by/O/ each/O/ department./O/ 
+What/O/ are/O/ the/O/ total/O/ number/O/ of/O/ credits/O/ offered/O/ by/O/ each/O/ department?/O/ 
+Find/O/ the/O/ name/O/ of/O/ the/O/ department/O/ that/O/ offers/O/ the/O/ largest/O/ number/O/ of/O/ credits/O/ of/O/ all/O/ classes./O/ 
+Which/O/ department/O/ offers/O/ the/O/ most/O/ credits/O/ all/O/ together?/O/ 
+How/O/ many/O/ students/O/ enrolled/O/ in/O/ class/O/ ACCT-211?/O/ 
+What/O/ are/O/ the/O/ total/O/ number/O/ of/O/ students/O/ enrolled/O/ in/O/ ACCT-211?/O/ 
+What/O/ is/O/ the/O/ first/O/ name/O/ of/O/ each/O/ student/O/ enrolled/O/ in/O/ class/O/ ACCT-211?/O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ all/O/ students/O/ in/O/ course/O/ ACCT-211?/O/ 
+What/O/ is/O/ the/O/ first/O/ name/O/ of/O/ students/O/ enrolled/O/ in/O/ class/O/ ACCT-211/O/ and/O/ got/O/ grade/O/ C?/O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ all/O/ students/O/ who/O/ took/O/ ACCT-211/O/ and/O/ received/O/ a/O/ C?/O/ 
+Find/O/ the/O/ total/O/ number/O/ of/O/ employees./O/ 
+How/O/ many/O/ employees/O/ are/O/ there/O/ all/O/ together?/O/ 
+How/O/ many/O/ professors/O/ do/O/ have/O/ a/O/ Ph.D./O/ degree?/O/ 
+What/O/ is/O/ the/O/ total/O/ number/O/ of/O/ professors/O/ with/O/ a/O/ Ph.D./O/ ?/O/ 
+How/O/ many/O/ students/O/ are/O/ enrolled/O/ in/O/ the/O/ class/O/ taught/O/ by/O/ some/O/ professor/O/ from/O/ the/O/ accounting/O/ department?/O/ 
+How/O/ many/O/ students/O/ are/O/ enrolled/O/ in/O/ some/O/ classes/O/ that/O/ are/O/ taught/O/ by/O/ an/O/ accounting/O/ professor?/O/ 
+What/O/ is/O/ the/O/ name/O/ of/O/ the/O/ department/O/ that/O/ has/O/ the/O/ largest/O/ number/O/ of/O/ students/O/ enrolled?/O/ 
+What/O/ is/O/ the/O/ name/O/ of/O/ the/O/ department/O/ with/O/ the/O/ most/O/ students/O/ enrolled?/O/ 
+list/O/ names/O/ of/O/ all/O/ departments/O/ ordered/O/ by/O/ their/O/ names./O/ 
+What/O/ are/O/ the/O/ names/O/ of/O/ all/O/ departments/O/ in/O/ alphabetical/O/ order?/O/ 
+List/O/ the/O/ codes/O/ of/O/ all/O/ courses/O/ that/O/ take/O/ place/O/ in/O/ room/O/ KLR209./O/ 
+What/O/ are/O/ the/O/ codes/O/ of/O/ all/O/ the/O/ courses/O/ that/O/ are/O/ located/O/ in/O/ room/O/ KLR209?/O/ 
+List/O/ the/O/ first/O/ name/O/ of/O/ all/O/ employees/O/ with/O/ job/O/ code/O/ PROF/O/ ordered/O/ by/O/ their/O/ date/O/ of/O/ birth./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ all/O/ employees/O/ that/O/ are/O/ professors/O/ ordered/O/ by/O/ date/O/ of/O/ birth?/O/ 
+Find/O/ the/O/ first/O/ names/O/ and/O/ offices/O/ of/O/ all/O/ professors/O/ sorted/O/ by/O/ alphabetical/O/ order/O/ of/O/ their/O/ first/O/ name./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ and/O/ office/O/ locations/O/ for/O/ all/O/ professors/O/ sorted/O/ alphabetically/O/ by/O/ first/O/ name?/O/ 
+What/O/ is/O/ the/O/ first/O/ and/O/ last/O/ name/O/ of/O/ the/O/ oldest/O/ employee?/O/ 
+What/O/ are/O/ the/O/ first/O/ and/O/ last/O/ names/O/ of/O/ the/O/ employee/O/ with/O/ the/O/ earliest/O/ date/O/ of/O/ birth?/O/ 
+What/O/ is/O/ the/O/ first,/O/ last/O/ name,/O/ gpa/O/ of/O/ the/O/ youngest/O/ one/O/ among/O/ students/O/ whose/O/ GPA/O/ is/O/ above/O/ 3?/O/ 
+What/O/ is/O/ the/O/ first/O/ and/O/ last/O/ name/O/ of/O/ the/O/ youngest/O/ student/O/ with/O/ a/O/ GPA/ORGANIZATION/ above/O/ 3,/O/ and/O/ what/O/ is/O/ their/O/ GPA?/O/ 
+What/O/ is/O/ the/O/ first/O/ name/O/ of/O/ students/O/ who/O/ got/O/ grade/O/ C/O/ in/O/ any/O/ class?/O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ all/O/ students/O/ who/O/ got/O/ a/O/ grade/O/ C/O/ in/O/ a/O/ class?/O/ 
+What/O/ is/O/ the/O/ name/O/ of/O/ department/O/ where/O/ has/O/ the/O/ smallest/O/ number/O/ of/O/ professors?/O/ 
+What/O/ is/O/ the/O/ name/O/ of/O/ the/O/ department/O/ with/O/ the/O/ fewest/O/ professors?/O/ 
+What/O/ is/O/ the/O/ name/O/ of/O/ department/O/ where/O/ has/O/ the/O/ largest/O/ number/O/ of/O/ professors/O/ with/O/ a/O/ Ph.D./O/ degree?/O/ 
+Which/O/ department/O/ has/O/ the/O/ most/O/ professors/O/ with/O/ a/O/ Ph.D.?/O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ the/O/ professors/O/ who/O/ do/O/ not/O/ teach/O/ a/O/ class./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ all/O/ professors/O/ not/O/ teaching/O/ any/O/ classes?/O/ 
+What/O/ is/O/ the/O/ first/O/ names/O/ of/O/ the/O/ professors/O/ from/O/ the/O/ history/O/ department/O/ who/O/ do/O/ not/O/ teach/O/ a/O/ class./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ all/O/ history/O/ professors/O/ who/O/ do/O/ not/O/ teach?/O/ 
+What/O/ is/O/ the/O/ last/O/ name/O/ and/O/ office/O/ of/O/ the/O/ professor/O/ from/O/ the/O/ history/O/ department?/O/ 
+What/O/ are/O/ the/O/ last/O/ name/O/ and/O/ office/O/ of/O/ all/O/ history/O/ professors?/O/ 
+What/O/ is/O/ department/O/ name/O/ and/O/ office/O/ for/O/ the/O/ professor/O/ whose/O/ last/O/ name/O/ is/O/ Heffington?/O/ 
+What/O/ is/O/ the/O/ name/O/ of/O/ the/O/ department/O/ and/O/ office/O/ location/O/ for/O/ the/O/ professor/O/ with/O/ the/O/ last/O/ name/O/ of/O/ Heffington?/O/ 
+Find/O/ the/O/ last/O/ name/O/ and/O/ hire/O/ date/O/ of/O/ the/O/ professor/O/ who/O/ is/O/ in/O/ office/O/ DRE/ORGANIZATION/ 102./O/ 
+What/O/ is/O/ the/O/ last/O/ name/O/ of/O/ the/O/ professor/O/ whose/O/ office/O/ is/O/ located/O/ in/O/ DRE/O/ 102,/O/ and/O/ when/O/ were/O/ they/O/ hired?/O/ 
+What/O/ is/O/ the/O/ code/O/ of/O/ the/O/ course/O/ which/O/ the/O/ student/O/ whose/O/ last/O/ name/O/ is/O/ Smithson/PERSON/ took?/O/ 
+What/O/ are/O/ the/O/ course/O/ codes/O/ for/O/ every/O/ class/O/ that/O/ the/O/ student/O/ with/O/ the/O/ last/O/ name/O/ Smithson/PERSON/ took?/O/ 
+What/O/ are/O/ the/O/ description/O/ and/O/ credit/O/ of/O/ the/O/ course/O/ which/O/ the/O/ student/O/ whose/O/ last/O/ name/O/ is/O/ Smithson/PERSON/ took?/O/ 
+How/O/ many/O/ credits/O/ is/O/ the/O/ course/O/ that/O/ the/O/ student/O/ with/O/ the/O/ last/O/ name/O/ Smithson/PERSON/ took,/O/ and/O/ what/O/ is/O/ its/O/ description?/O/ 
+How/O/ many/O/ professors/O/ who/O/ has/O/ a/O/ either/O/ Ph.D./O/ or/O/ MA/O/ degree?/O/ 
+How/O/ many/O/ professors/O/ attained/O/ either/O/ Ph.D./O/ or/O/ Masters/MISC/ degrees?/O/ 
+How/O/ many/O/ professors/O/ who/O/ are/O/ from/O/ either/O/ Accounting/O/ or/O/ Biology/LOCATION/ department?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ professors/O/ who/O/ are/O/ in/O/ the/O/ Accounting/O/ or/O/ Biology/LOCATION/ departments?/O/ 
+Find/O/ the/O/ first/O/ name/O/ of/O/ the/O/ professor/O/ who/O/ is/O/ teaching/O/ two/O/ courses/O/ with/O/ code/O/ CIS-220/O/ and/O/ QM-261./O/ 
+What/O/ is/O/ the/O/ first/O/ name/O/ of/O/ the/O/ professor/O/ who/O/ is/O/ teaching/O/ CIS-220/O/ and/O/ QM-261?/O/ 
+Find/O/ the/O/ first/O/ name/O/ of/O/ student/O/ who/O/ is/O/ taking/O/ classes/O/ from/O/ accounting/O/ and/O/ Computer/O/ Info./O/ Systems/O/ departments/O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ all/O/ students/O/ taking/O/ accoutning/O/ and/O/ Computer/ORGANIZATION/ Information/ORGANIZATION/ Systems/ORGANIZATION/ classes?/O/ 
+What/O/ is/O/ the/O/ average/O/ gpa/O/ of/O/ the/O/ students/O/ enrolled/O/ in/O/ the/O/ course/O/ with/O/ code/O/ ACCT-211?/O/ 
+What/O/ is/O/ the/O/ average/O/ GPA/ORGANIZATION/ of/O/ students/O/ taking/O/ ACCT-211?/O/ 
+What/O/ is/O/ the/O/ first/O/ name,/O/ gpa/O/ and/O/ phone/O/ number/O/ of/O/ the/O/ top/O/ 5/O/ students/O/ with/O/ highest/O/ gpa?/O/ 
+What/O/ is/O/ the/O/ first/O/ name,/O/ GPA,/O/ and/O/ phone/O/ number/O/ of/O/ the/O/ students/O/ with/O/ the/O/ top/O/ 5/O/ GPAs?/O/ 
+What/O/ is/O/ the/O/ department/O/ name/O/ of/O/ the/O/ students/O/ with/O/ lowest/O/ gpa/O/ belongs/O/ to?/O/ 
+What/O/ is/O/ the/O/ name/O/ of/O/ the/O/ department/O/ with/O/ the/O/ student/O/ that/O/ has/O/ the/O/ lowest/O/ GPA?/O/ 
+Find/O/ the/O/ first/O/ name/O/ and/O/ gpa/O/ of/O/ the/O/ students/O/ whose/O/ gpa/O/ is/O/ lower/O/ than/O/ the/O/ average/O/ gpa/O/ of/O/ all/O/ students./O/ 
+What/O/ is/O/ the/O/ first/O/ name/O/ and/O/ GPA/O/ of/O/ every/O/ student/O/ that/O/ has/O/ a/O/ GPA/ORGANIZATION/ lower/O/ than/O/ average?/O/ 
+Find/O/ the/O/ name/O/ and/O/ address/O/ of/O/ the/O/ department/O/ that/O/ has/O/ the/O/ highest/O/ number/O/ of/O/ students./O/ 
+What/O/ is/O/ the/O/ name/O/ and/O/ address/O/ of/O/ the/O/ department/O/ with/O/ the/O/ most/O/ students?/O/ 
+Find/O/ the/O/ name,/O/ address,/O/ number/O/ of/O/ students/O/ in/O/ the/O/ departments/O/ that/O/ have/O/ the/O/ top/O/ 3/O/ highest/O/ number/O/ of/O/ students./O/ 
+What/O/ is/O/ the/O/ name,/O/ address,/O/ and/O/ number/O/ of/O/ students/O/ in/O/ the/O/ departments/O/ that/O/ have/O/ the/O/ 3/O/ most/O/ students?/O/ 
+Find/O/ the/O/ first/O/ name/O/ and/O/ office/O/ of/O/ the/O/ professor/O/ who/O/ is/O/ in/O/ the/O/ history/O/ department/O/ and/O/ has/O/ a/O/ Ph.D./O/ degree./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ and/O/ office/O/ of/O/ the/O/ professors/O/ who/O/ are/O/ in/O/ the/O/ history/O/ department/O/ and/O/ have/O/ a/O/ Ph.D?/O/ 
+Find/O/ the/O/ first/O/ names/O/ of/O/ all/O/ instructors/O/ who/O/ have/O/ taught/O/ some/O/ course/O/ and/O/ the/O/ course/O/ code./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ all/O/ teachers/O/ who/O/ have/O/ taught/O/ a/O/ course/O/ and/O/ the/O/ corresponding/O/ course/O/ codes?/O/ 
+Find/O/ the/O/ first/O/ names/O/ of/O/ all/O/ instructors/O/ who/O/ have/O/ taught/O/ some/O/ course/O/ and/O/ the/O/ course/O/ description./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ all/O/ teachers/O/ who/O/ have/O/ taught/O/ a/O/ course/O/ and/O/ the/O/ corresponding/O/ descriptions?/O/ 
+Find/O/ the/O/ first/O/ names/O/ and/O/ offices/O/ of/O/ all/O/ instructors/O/ who/O/ have/O/ taught/O/ some/O/ course/O/ and/O/ also/O/ find/O/ the/O/ course/O/ description./O/ 
+What/O/ are/O/ the/O/ first/O/ names,/O/ office/O/ locations/O/ of/O/ all/O/ lecturers/O/ who/O/ have/O/ taught/O/ some/O/ course?/O/ 
+Find/O/ the/O/ first/O/ names/O/ and/O/ offices/O/ of/O/ all/O/ instructors/O/ who/O/ have/O/ taught/O/ some/O/ course/O/ and/O/ the/O/ course/O/ description/O/ and/O/ the/O/ department/O/ name./O/ 
+What/O/ are/O/ the/O/ first/O/ names,/O/ office/O/ locations,/O/ and/O/ departments/O/ of/O/ all/O/ instructors,/O/ and/O/ also/O/ what/O/ are/O/ the/O/ descriptions/O/ of/O/ the/O/ courses/O/ they/O/ teach?/O/ 
+Find/O/ names/O/ of/O/ all/O/ students/O/ who/O/ took/O/ some/O/ course/O/ and/O/ the/O/ course/O/ description./O/ 
+What/O/ are/O/ the/O/ names/O/ of/O/ all/O/ students/O/ who/O/ took/O/ a/O/ class/O/ and/O/ the/O/ corresponding/O/ course/O/ descriptions?/O/ 
+Find/O/ names/O/ of/O/ all/O/ students/O/ who/O/ took/O/ some/O/ course/O/ and/O/ got/O/ A/O/ or/O/ C./O/ 
+What/O/ are/O/ the/O/ names/O/ of/O/ all/O/ students/O/ taking/O/ a/O/ course/O/ who/O/ received/O/ an/O/ A/O/ or/O/ C?/O/ 
+Find/O/ the/O/ first/O/ names/O/ of/O/ all/O/ professors/O/ in/O/ the/O/ Accounting/O/ department/O/ who/O/ is/O/ teaching/O/ some/O/ course/O/ and/O/ the/O/ class/O/ room./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ all/O/ Accounting/O/ professors/O/ who/O/ teach/O/ and/O/ what/O/ are/O/ the/O/ classrooms/O/ of/O/ the/O/ courses/O/ they/O/ teach?/O/ 
+Find/O/ the/O/ first/O/ names/O/ and/O/ degree/O/ of/O/ all/O/ professors/O/ who/O/ are/O/ teaching/O/ some/O/ class/O/ in/O/ Computer/O/ Info./O/ Systems/O/ department./O/ 
+What/O/ are/O/ the/O/ different/O/ first/O/ names/O/ and/O/ highest/O/ degree/O/ attained/O/ for/O/ professors/O/ teaching/O/ in/O/ the/O/ Computer/ORGANIZATION/ Information/ORGANIZATION/ Systems/ORGANIZATION/ department?/O/ 
+What/O/ is/O/ the/O/ last/O/ name/O/ of/O/ the/O/ student/O/ who/O/ got/O/ a/O/ grade/O/ A/O/ in/O/ the/O/ class/O/ with/O/ code/O/ 10018./O/ 
+What/O/ is/O/ the/O/ last/O/ name/O/ of/O/ the/O/ student/O/ who/O/ received/O/ an/O/ A/O/ in/O/ the/O/ class/O/ with/O/ the/O/ code/O/ 10018?/O/ 
+Find/O/ the/O/ first/O/ name/O/ and/O/ office/O/ of/O/ history/O/ professor/O/ who/O/ did/O/ not/O/ get/O/ a/O/ Ph.D./O/ degree./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ and/O/ offices/O/ of/O/ history/O/ professors/O/ who/O/ don't/O/ have/O/ Ph.D.s?/O/ 
+Find/O/ the/O/ first/O/ names/O/ of/O/ professors/O/ who/O/ are/O/ teaching/O/ more/O/ than/O/ one/O/ class./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ all/O/ professors/O/ who/O/ teach/O/ more/O/ than/O/ one/O/ class?/O/ 
+Find/O/ the/O/ first/O/ names/O/ of/O/ students/O/ who/O/ took/O/ exactly/O/ one/O/ class./O/ 
+What/O/ are/O/ the/O/ first/O/ names/O/ of/O/ student/O/ who/O/ only/O/ took/O/ one/O/ course?/O/ 
+Find/O/ the/O/ name/O/ of/O/ department/O/ that/O/ offers/O/ the/O/ class/O/ whose/O/ description/O/ has/O/ the/O/ word/O/ "Statistics"./O/ 
+What/O/ is/O/ the/O/ name/O/ of/O/ the/O/ department/O/ that/O/ offers/O/ a/O/ course/O/ that/O/ has/O/ a/O/ description/O/ including/O/ the/O/ word/O/ "Statistics"?/O/ 
+What/O/ is/O/ the/O/ first/O/ name/O/ of/O/ the/O/ student/O/ whose/O/ last/O/ name/O/ starting/O/ with/O/ the/O/ letter/O/ S/O/ and/O/ is/O/ taking/O/ ACCT-211/O/ class?/O/ 
+What/O/ is/O/ the/O/ first/O/ name/O/ of/O/ the/O/ student/O/ whose/O/ last/O/ name/O/ starts/O/ with/O/ the/O/ letter/O/ S/O/ and/O/ is/O/ taking/O/ ACCT-211?/O/ 

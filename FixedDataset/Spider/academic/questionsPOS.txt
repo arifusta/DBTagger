@@ -1,0 +1,181 @@
+return/VB/ me/PRP/ the/DT/ homepage/NN/ of/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ homepage/NN/ of/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ abstract/JJ/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ year/NN/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ year/NN/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ homepage/NN/ of/IN/ the/DT/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ keywords/NNS/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ organizations/NNS/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ organizations/NNS/ in/IN/ North/NNP/ America/NNP/ 
+return/VB/ me/PRP/ the/DT/ homepage/NN/ of/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ references/NNS/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ references/NNS/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ citations/NNS/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ citations/NNS/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ papers/NNS/ in/IN/ PVLDB/NN/ 2010/CD/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ papers/NNS/ in/IN/ PVLDB/NN/ after/IN/ 2010/CD/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ papers/NNS/ in/IN/ VLDB/NN/ conference/NN/ in/IN/ 2002/CD/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ papers/NNS/ in/IN/ VLDB/NN/ conference/NN/ before/IN/ 2002/CD/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ papers/NNS/ in/IN/ VLDB/NN/ conference/NN/ before/IN/ 2002/CD/ after/IN/ 1995/CD/ 
+return/VB/ me/PRP/ the/DT/ area/NN/ of/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ papers/NNS/ in/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ organization/NN/ H./NNP/ V./NNP/ Jagadish/NNP/ is/VBZ/ in/IN/ 
+return/VB/ me/PRP/ the/DT/ conferences/NN/ which/WDT/ have/VBP/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ journals/NN/ which/WDT/ have/VBP/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ domain/NN/ where/WRB/ H./NNP/ V./NNP/ Jagadish/NNP/ is/VBZ/ focused/VBN/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ conference/NN/ which/WDT/ published/VBD/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ on/IN/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ on/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ on/IN/ PVLDB/NN/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ on/IN/ VLDB/NN/ conference/NN/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ on/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ on/IN/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ on/IN/ PVLDB/NN/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ on/IN/ VLDB/NN/ conference/NN/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ area/NN/ of/IN/ the/DT/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ papers/NNS/ in/IN/ the/DT/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ keywords/NNS/ in/IN/ Databases/NNP/ area/NN/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ papers/NN/ which/WDT/ contain/VBP/ the/DT/ keyword/JJ/ Natural/JJ/ Language/NN/ 
+return/VB/ me/PRP/ the/DT/ keywords/NNS/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ keywords/NNS/ related/VBN/ to/TO/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ keywords/NNS/ in/IN/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ keywords/NNS/ in/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ keywords/NNS/ in/IN/ the/DT/ papers/NNS/ of/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ of/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ containing/VBG/ keyword/JJ/ User/NN/ Study/NN/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ in/IN/ PVLDB/NN/ containing/VBG/ keyword/JJ/ Keyword/NN/ search/NN/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ in/IN/ VLDB/NN/ conference/NN/ containing/VBG/ keyword/JJ/ Information/NN/ Retrieval/NN/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ papers/NNS/ containing/VBG/ keyword/JJ/ Relational/JJ/ Database/NN/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ organizations/NNS/ in/IN/ Databases/NNP/ area/NN/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ organizations/NNS/ in/IN/ Databases/NNP/ area/NN/ located/JJ/ in/IN/ North/NNP/ America/NNP/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ researchers/NNS/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ researchers/NNS/ in/IN/ Databases/NNP/ area/NN/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ papers/NNS/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ papers/NNS/ after/IN/ 2000/CD/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ papers/NNS/ in/IN/ VLDB/NN/ conference/NN/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ papers/NNS/ in/IN/ PVLDB/NNP/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ all/PDT/ the/DT/ papers/NNS/ in/IN/ PVLDB/NN/ after/IN/ 2000/CD/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ in/IN/ Databases/NNS/ area/NN/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ in/IN/ PVLDB/NN/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ in/IN/ VLDB/NN/ conference/NN/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ on/IN/ PVLDB/NN/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ on/IN/ VLDB/NN/ conference/NN/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ after/IN/ 2000/CD/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ after/IN/ 2000/CD/ in/IN/ Databases/NNP/ area/NN/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ after/IN/ 2000/CD/ in/IN/ PVLDB/NN/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ after/IN/ 2000/CD/ in/IN/ VLDB/NN/ conference/NN/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ conferences/NNS/ which/WDT/ have/VBP/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ journals/NNS/ which/WDT/ have/VBP/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ written/VBN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ in/IN/ each/DT/ year/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ authors/NNS/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ citations/NNS/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ in/IN/ each/DT/ year/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ citations/NNS/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ before/IN/ 2010/CD/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ on/IN/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ on/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ on/IN/ PVLDB/NN/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ on/IN/ VLDB/NN/ conference/NN/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ on/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ on/IN/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ on/IN/ PVLDB/NN/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ on/IN/ VLDB/NN/ conference/NN/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ keywords/NNS/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ keywords/NNS/ in/IN/ Databases/NNP/ area/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ which/WDT/ contain/VBP/ the/DT/ keyword/JJ/ Natural/JJ/ Language/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ the/DT/ keywords/NNS/ of/IN/ Making/VBG/ database/NN/ systems/NNS/ usable/JJ/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ the/DT/ keywords/NNS/ related/VBN/ to/TO/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ keywords/NNS/ in/IN/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ keywords/NNS/ in/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ keywords/NNS/ in/IN/ the/DT/ papers/NNS/ of/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ the/DT/ papers/NNS/ of/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ containing/VBG/ keyword/JJ/ User/NN/ Study/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ in/IN/ PVLDB/NN/ containing/VBG/ keyword/JJ/ Keyword/NN/ search/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ in/IN/ VLDB/NN/ conference/NN/ containing/VBG/ keyword/JJ/ Information/NN/ Retrieval/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ authors/NNS/ who/WP/ have/VBP/ papers/NNS/ containing/VBG/ keyword/JJ/ Relational/JJ/ Database/NN/ 
+return/VB/ me/PRP/ the/DT/ total/JJ/ citations/NNS/ of/IN/ the/DT/ papers/NNS/ containing/VBG/ keyword/JJ/ Natural/JJ/ Language/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ the/DT/ organizations/NNS/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ the/DT/ organizations/NNS/ in/IN/ North/NNP/ America/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ organizations/NNS/ in/IN/ Databases/NNP/ area/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ organizations/NNS/ in/IN/ Databases/NNP/ area/NN/ located/JJ/ in/IN/ North/NNP/ America/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ in/IN/ Databases/NNP/ area/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ after/IN/ 2000/CD/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ in/IN/ VLDB/NN/ conference/NN/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ in/IN/ PVLDB/NNP/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ in/IN/ PVLDB/NN/ after/IN/ 2000/CD/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ total/JJ/ citations/NNS/ of/IN/ the/DT/ papers/NNS/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ researchers/NNS/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ researchers/NNS/ in/IN/ Databases/NNP/ area/NN/ in/IN/ University/NNP/ of/IN/ Michigan/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ authors/NNS/ who/WP/ have/VBP/ papers/NNS/ in/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ authors/NNS/ who/WP/ have/VBP/ papers/NNS/ in/IN/ the/DT/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ published/VBN/ on/IN/ PVLDB/NN/ before/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ published/VBN/ in/IN/ the/DT/ VLDB/NN/ conference/NN/ before/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ total/JJ/ citations/NNS/ of/IN/ all/PDT/ the/DT/ papers/NNS/ in/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ citations/NNS/ of/IN/ each/DT/ paper/NN/ in/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ total/JJ/ citations/NNS/ of/IN/ papers/NNS/ in/IN/ PVLDB/NN/ in/IN/ 2005/CD/ 
+return/VB/ me/PRP/ the/DT/ total/JJ/ citations/NNS/ of/IN/ papers/NNS/ in/IN/ PVLDB/NN/ before/IN/ 2005/CD/ 
+return/VB/ me/PRP/ the/DT/ total/JJ/ citations/NNS/ of/IN/ papers/NNS/ in/IN/ PVLDB/NN/ in/IN/ each/DT/ year/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ published/VBN/ in/IN/ PVLDB/NN/ in/IN/ each/DT/ year/NN/ 
+return/VB/ me/PRP/ the/DT/ total/JJ/ citations/NNS/ of/IN/ all/PDT/ the/DT/ papers/NNS/ in/IN/ the/DT/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ citations/NNS/ of/IN/ each/DT/ paper/NN/ in/IN/ the/DT/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ total/JJ/ citations/NNS/ of/IN/ papers/NNS/ in/IN/ the/DT/ VLDB/NN/ conference/NN/ in/IN/ 2005/CD/ 
+return/VB/ me/PRP/ the/DT/ total/JJ/ citations/NNS/ of/IN/ papers/NNS/ in/IN/ the/DT/ VLDB/NN/ conference/NN/ before/IN/ 2005/CD/ 
+return/VB/ me/PRP/ the/DT/ total/JJ/ citations/NNS/ of/IN/ papers/NNS/ in/IN/ the/DT/ VLDB/NN/ conference/NN/ in/IN/ each/DT/ year/NN/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ published/VBN/ in/IN/ the/DT/ VLDB/NN/ conference/NN/ in/IN/ each/DT/ year/NN/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ cooperated/VBN/ both/DT/ with/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ and/CC/ Divesh/NNP/ Srivastava/NNP/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ cooperated/VBN/ with/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ after/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ written/VBN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ and/CC/ Divesh/NNP/ Srivastava/NNP/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ written/VBN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ and/CC/ Yunyao/NNP/ Li/NNP/ after/IN/ 2005/CD/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ written/VBN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ and/CC/ Yunyao/NNP/ Li/NNP/ on/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ written/VBN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ and/CC/ Yunyao/NNP/ Li/NNP/ on/IN/ PVLDB/NN/ after/IN/ 2005/CD/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ cooperated/VBN/ with/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ written/VBN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ and/CC/ Divesh/NNP/ Srivastava/NNP/ before/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ cited/VBN/ the/DT/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ written/VBN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ and/CC/ Divesh/NNP/ Srivastava/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ written/VBN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ and/CC/ Divesh/NNP/ Srivastava/NNP/ before/IN/ 2000/CD/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ papers/NNS/ written/VBN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ Yunyao/NNP/ Li/NNP/ and/CC/ Cong/NNP/ Yu/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ authors/NNS/ who/WP/ have/VBP/ cooperated/VBN/ with/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ number/NN/ of/IN/ authors/NNS/ who/WP/ have/VBP/ cited/VBN/ the/DT/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ written/VBN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ and/CC/ Divesh/NNP/ Srivastava/NNP/ with/IN/ more/JJR/ than/IN/ 200/CD/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ author/NN/ who/WP/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ containing/VBG/ keyword/JJ/ Relational/JJ/ Database/NN/ 
+return/VB/ me/PRP/ the/DT/ conference/NN/ that/WDT/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ containing/VBG/ keyword/JJ/ Relational/JJ/ Database/NN/ 
+return/VB/ me/PRP/ the/DT/ conference/NN/ which/WDT/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ containing/VBG/ keyword/JJ/ Relational/JJ/ Database/NN/ 
+return/VB/ me/PRP/ the/DT/ journal/NN/ that/WDT/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ containing/VBG/ keyword/JJ/ Relational/JJ/ Database/NN/ 
+return/VB/ me/PRP/ the/DT/ journal/NN/ which/WDT/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ containing/VBG/ keyword/JJ/ Relational/JJ/ Database/NN/ 
+return/VB/ me/PRP/ the/DT/ keyword/NN/ which/WDT/ have/VBP/ been/VBN/ contained/VBN/ by/IN/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ in/IN/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ keyword/NN/ which/WDT/ have/VBP/ been/VBN/ contained/VBN/ by/IN/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ in/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ keyword/NN/ which/WDT/ have/VBP/ been/VBN/ contained/VBN/ by/IN/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ author/NN/ in/IN/ the/DT/ University/NNP/ of/IN/ Michigan/NNP/ whose/WP$/ papers/NNS/ have/VBP/ the/DT/ most/RBS/ total/JJ/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ author/NN/ in/IN/ the/DT/ University/NNP/ of/IN/ Michigan/NNP/ whose/WP$/ papers/NNS/ in/IN/ Databases/NNP/ area/NN/ have/VBP/ the/DT/ most/RBS/ total/JJ/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ papers/NNS/ written/VBN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ and/CC/ Divesh/NNP/ Srivastava/NNP/ with/IN/ the/DT/ most/JJS/ number/NN/ of/IN/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ conferences/NN/ which/WDT/ have/VBP/ more/JJR/ than/IN/ 10/CD/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ conference/NN/ which/WDT/ have/VBP/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ journals/NN/ which/WDT/ have/VBP/ more/JJR/ than/IN/ 10/CD/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ journal/NN/ which/WDT/ have/VBP/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ with/IN/ the/DT/ most/JJS/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ in/IN/ Databases/NNS/ area/NN/ with/IN/ the/DT/ most/JJS/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ in/IN/ PVLDB/NN/ with/IN/ the/DT/ most/JJS/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ in/IN/ VLDB/NN/ conference/NN/ with/IN/ the/DT/ most/JJS/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ by/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ with/IN/ the/DT/ most/JJS/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ after/IN/ 2000/CD/ with/IN/ the/DT/ most/JJS/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ after/IN/ 2000/CD/ in/IN/ Databases/NNP/ area/NN/ with/IN/ the/DT/ most/JJS/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ after/IN/ 2000/CD/ in/IN/ PVLDB/NN/ with/IN/ the/DT/ most/JJS/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ paper/NN/ after/IN/ 2000/CD/ in/IN/ VLDB/NN/ conference/NN/ with/IN/ the/DT/ most/JJS/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ more/JJR/ than/IN/ 10/CD/ papers/NNS/ in/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ in/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ more/JJR/ than/IN/ 10/CD/ papers/NNS/ containing/VBG/ keyword/JJ/ Relational/JJ/ Database/NN/ 
+return/VB/ me/PRP/ the/DT/ conferences/NN/ which/WDT/ have/VBP/ more/JJR/ than/IN/ 60/CD/ papers/NNS/ containing/VBG/ keyword/JJ/ Relational/JJ/ Database/NN/ 
+return/VB/ me/PRP/ the/DT/ journals/NN/ which/WDT/ have/VBP/ more/JJR/ than/IN/ 60/CD/ papers/NNS/ containing/VBG/ keyword/JJ/ Relational/JJ/ Database/NN/ 
+return/VB/ me/PRP/ the/DT/ keywords/NN/ which/WDT/ have/VBP/ been/VBN/ contained/VBN/ by/IN/ more/JJR/ than/IN/ 100/CD/ papers/NNS/ in/IN/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ keywords/NN/ which/WDT/ have/VBP/ been/VBN/ contained/VBN/ by/IN/ more/JJR/ than/IN/ 100/CD/ papers/NNS/ in/IN/ PVLDB/NN/ 
+return/VB/ me/PRP/ the/DT/ keywords/NN/ which/WDT/ have/VBP/ been/VBN/ contained/VBN/ by/IN/ more/JJR/ than/IN/ 10/CD/ papers/NNS/ of/IN/ H./NNP/ V./NNP/ Jagadish/NNP/ 
+return/VB/ me/PRP/ the/DT/ authors/NNS/ who/WP/ have/VBP/ more/JJR/ than/IN/ 10/CD/ papers/NNS/ in/IN/ the/DT/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ author/NN/ who/WP/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ in/IN/ the/DT/ VLDB/NN/ conference/NN/ 
+return/VB/ me/PRP/ the/DT/ author/NN/ in/IN/ the/DT/ University/NNP/ of/IN/ Michigan/NNP/ whose/WP$/ papers/NNS/ have/VBP/ more/JJR/ than/IN/ 5000/CD/ total/JJ/ citations/NNS/ 
+return/VB/ me/PRP/ the/DT/ author/NN/ in/IN/ the/DT/ University/NNP/ of/IN/ Michigan/NNP/ in/IN/ Databases/NNP/ area/NN/ whose/WP$/ papers/NNS/ have/VBP/ more/JJR/ than/IN/ 5000/CD/ total/JJ/ citations/NNS/ 

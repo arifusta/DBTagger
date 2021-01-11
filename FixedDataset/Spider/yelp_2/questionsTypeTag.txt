@@ -1,0 +1,110 @@
+List/NN/ all/PDT/ the/DT/ businesses/TABLE/ with/IN/ more/JJR/ than/IN/ 4.5/CD/ stars/NNS/ 
+List/VB/ all/DT/ businesses/TABLE/ with/COND/ rating/ATTR/ 3.5/VALUE/ 
+List/VB/ all/DT/ user/ATTR/ ids/ATTR/ with/COND/ name/ATTR/ Michelle/VALUE/ 
+Find/VB/ all/DT/ states/ATTR/ in/IN/ which/COND/ there/EX/ is/VBZ/ a/DT/ Whataburger/VALUE/
+Find/VB/ all/DT/ cities/ATTR/ in/IN/ which/COND/ there/EX/ is/VBZ/ a/DT/ restaurant/VALUE/ called/VBN/ MGM/VALUE/ Grand/VALUE/ Buffet/VALUE/ 
+Find/VB/ the/DT/ cities/ATTR/ of/IN/ businesses/TABLE/ rated/ATTRREF/ below/COND/ 1.5/VALUE/
+Find/VB/ all/DT/ cities/ATTR/ which/COND/ has/VBZ/ a/DT/ Taj/VALUE/ Mahal/VALUE/ 
+List/NN/ all/PDT/ the/DT/ reviews/TABLE/ which/WDT/ rated/ATTRREF/ a/DT/ business/NN/ less/COND/ than/COND/ 1/VALUE/
+List/NN/ all/PDT/ the/DT/ restaurant/VALUE/ rated/ATTRREF/ more/COND/ than/COND/ 3.5/VALUE/ 
+find/VB/ all/DT/ cities/ATTR/ which/COND/ has/VBZ/ a/DT/ Taj/VALUE/ Mahal/VALUE/ restaurant/VALUE/ 
+list/VB/ all/PDT/ the/DT/ reviews/TABLE/ by/COND/ Niloofar/VALUE/ 
+list/VB/ all/PDT/ the/DT/ businesses/TABLE/ which/COND/ have/VBP/ a/DT/ review/TABLE/ by/COND/ Niloofar/VALUE/ 
+list/VB/ all/PDT/ the/DT/ businesses/TABLE/ which/COND/ Niloofar/VALUE/ rated/ATTRREF/ 5/VALUE/
+List/NN/ all/PDT/ the/DT/ reviews/TABLE/ by/COND/ Michelle/VALUE/ for/COND/ Italian/VALUE/ restaurant/VALUE/
+find/VB/ the/DT/ number/NN/ of/IN/ reviews/TABLE/ written/VBN/ for/COND/ Cafe/VALUE/ Zinho/VALUE/ restaurant/VALUE/ in/COND/ Texas/VALUE/ 
+List/VB/ all/DT/ 5/VALUE/ star/NN/ Italian/VALUE/ restaurant/VALUE/
+List/NN/ all/PDT/ the/DT/ neighbourhoods/TABLE/ with/COND/ Italian/VALUE/ restaurant/VALUE/ in/COND/ Madison/VALUE/
+List/NN/ all/PDT/ the/DT/ neighbourhoods/TABLE/ with/COND/ Italian/VALUE/ restaurant/VALUE/ rated/ATTRREF/ less/COND/ than/COND/ 2.5/VALUE/ in/COND/ Madison/VALUE/
+find/VB/ all/PDT/ the/DT/ restaurant/VALUE/ in/COND/ Pennsylvania/VALUE/
+List/VB/ all/DT/ businesses/TABLE/ that/WDT/ are/VBP/ restaurant/VALUE/ in/COND/ Pennsylvania/VALUE/  
+Find/VB/ all/PDT/ the/DT/ reviews/TABLE/ for/COND/ all/DT/ Pet/VALUE/ Groomers/VALUE/ with/COND/ more/COND/ than/IN/ 100/VALUE/ reviews/NNS/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ breweries/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/  
+Find/VB/ all/DT/ breweries/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/
+Find/VB/ all/DT/ breweries/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/
+Find/VB/ all/DT/ users/TABLE/ who/WP/ reviewed/TABLEREF/ restaurant/VALUE/ Mesa/VALUE/ Grill/VALUE/ 
+List/VB/ the/DT/ addresses/ATTR/ of/IN/ all/DT/ Walmart/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/VB/ all/DT/ restaurant/VALUE/ reviewed/TABLEREF/ by/COND/ Patrick/VALUE/ in/COND/ Dallas/VALUE/ 
+Which/WDT/ restaurant/VALUE/ in/COND/ Dallas/VALUE/ were/VBD/ reviewed/TABLEREF/ by/COND/ user/ATTRREF/ Patrick/VALUE/  
+Find/VB/ all/DT/ Bars/VALUE/ reviewed/TABLEREF/ by/COND/ Patrick/VALUE/
+Find/VB/ all/DT/ Bars/VALUE/ reviewed/TABLEREF/ by/COND/ Patrick/VALUE/ with/COND/ at/IN/ least/COND/ 3/VALUE/ stars/NNS/
+Find/VB/ all/DT/ users/TABLE/ who/COND/ have/VBP/ written/VBN/ tips/TABLE/ for/IN/ Barrio/VALUE/ Cafe/VALUE/ in/COND/ 2015/VALUE/ 
+Find/VB/ all/DT/ businesses/TABLE/ in/COND/ Texas/VALUE/ with/COND/ a/DT/ rating/ATTR/ below/COND/ 2/VALUE/
+Find/VB/ all/DT/ restaurant/VALUE/ Seafood/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/
+List/VB/ all/PDT/ the/DT/ Seafood/VALUE/ restaurant/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/VB/ all/DT/ restaurant/VALUE/ that/COND/ serve/VBP/ Seafood/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/VB/ all/DT/ reviews/TABLE/ by/COND/ Patrick/VALUE/ with/COND/ a/DT/ rating/ATTR/ above/COND/ 4/VALUE/ 
+Find/VB/ all/DT/ Apple/VALUE/ Store/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/VB/ all/DT/ Dallas/VALUE/ restaurant/VALUE/ with/COND/ a/DT/ rating/ATTR/ above/COND/ 4.5/VALUE/ 
+Find/VB/ all/DT/ tips/TABLE/ about/COND/ Vintner/VALUE/ Grill/VALUE/ that/WDT/ received/VBD/ more/COND/ than/COND/ 9/VALUE/ likes/NNS/ 
+Find/VB/ all/DT/ reviews/TABLE/ about/COND/ Kabob/VALUE/ Palace/VALUE/ in/COND/ year/ATTR/ 2014/VALUE/ 
+Find/VB/ all/DT/ users/TABLE/ who/COND/ have/VBP/ written/VBN/ tips/TABLE/ about/COND/ businesses/TABLE/ in/COND/ Dallas/VALUE/ 
+Find/VB/ all/DT/ cities/ATTR/ in/COND/ Texas/VALUE/ in/IN/ which/COND/ there/EX/ is/VBZ/ a/DT/ restaurant/VALUE/ called/VBN/ MGM/VALUE/ Grand/VALUE/ Buffet/VALUE/ 
+Find/VB/ the/DT/ users/TABLE/ who/COND/ have/VBP/ given/VBN/ tips/TABLE/ on/COND/ Pet/VALUE/ Groomers/VALUE/ 
+Find/VB/ all/DT/ tips/TABLE/ for/COND/ Cafe/VALUE/ Zinho/VALUE/ in/COND/ Texas/VALUE/  
+List/VB/ all/DT/ users/TABLE/ who/COND/ reviewed/TABLEREF/ businesses/TABLE/ that/COND/ are/VBP/ restaurant/VALUE/  
+List/VB/ all/DT/ tips/TABLE/ for/COND/ Cafe/VALUE/ Zinho/VALUE/ in/COND/ Pennsylvania/VALUE/ in/COND/ 2010/VALUE/  
+List/VB/ all/DT/ users/TABLE/ who/COND/ reviewed/TABLEREF/ businesses/TABLE/ that/COND/ are/VBP/ restaurant/VALUE/ in/COND/ 2010/VALUE/ 
+Find/VB/ all/PDT/ the/DT/ tips/TABLE/ from/IN/ a/DT/ user/TABLE/ who/COND/ has/VBZ/ written/VBN/ a/DT/ review/TABLE/ in/COND/ 2012/VALUE/ 
+Find/VB/ all/DT/ reviews/TABLE/ for/COND/ businesses/TABLE/ rated/ATTRREF/ 2.5/VALUE/ 
+find/VB/ the/DT/ number/NN/ of/IN/ escape/VALUE/ games/VALUE/ in/COND/ Madison/VALUE/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ escape/VALUE/ games/VALUE/ in/COND/ Madison/VALUE/ 
+How/WRB/ many/JJ/ escape/VALUE/ games/VALUE/ exist/VBP/ in/COND/ Madison/VALUE/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ escape/VALUE/ games/VALUE/ in/COND/ Madison/VALUE/  
+How/WRB/ many/JJ/ escape/VALUE/ games/VALUE/ are/VBP/ there/EX/ in/COND/ Madison/VALUE/  
+find/VB/ the/DT/ number/NN/ of/IN/ restaurant/VALUE/ rated/ATTRREF/ more/COND/ than/COND/ 3.5/VALUE/ 
+find/VB/ the/DT/ total/JJ/ checkins/TABLE/ in/COND/ Moroccan/VALUE/ restaurant/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/
+find/VB/ the/DT/ total/JJ/ checkins/TABLE/ in/COND/ Moroccan/VALUE/ restaurant/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ on/COND/ Friday/VALUE/ 
+find/VB/ the/DT/ total/JJ/ checkins/TABLE/ in/COND/ Moroccan/VALUE/ restaurant/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ per/IN/ day/ATTR/ 
+find/VB/ the/DT/ total/JJ/ checkins/TABLE/ in/COND/ Italian/VALUE/ Delis/VALUE/ in/IN/ each/DT/ state/ATTR/ on/COND/ Sunday/VALUE/ 
+How/WRB/ many/JJ/ reviews/TABLE/ has/VBZ/ Niloofar/VALUE/ written/VBN/ in/COND/ 2015/VALUE/ 
+what/WP/ is/VBZ/ the/DT/ average/JJ/ rating/ATTR/ given/VBN/ in/IN/ Michelle/VALUE/ reviews/TABLE/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ checkins/TABLE/ for/COND/ Cafe/VALUE/ Zinho/VALUE/ on/COND/ Friday/VALUE/ 
+how/WRB/ many/JJ/ users/TABLE/ reviewed/TABLEREF/ Sushi/VALUE/ Too/VALUE/ in/COND/ Pittsburgh/VALUE/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ restaurant/VALUE/ in/COND/ Pittsburgh/VALUE/ rated/ATTRREF/ 4.5/VALUE/ 
+How/WRB/ many/JJ/ tips/TABLE/ have/VBP/ been/VBN/ written/VBN/ in/COND/ 2015/VALUE/ 
+What/WP/ is/VBZ/ the/DT/ total/JJ/ likes/ATTR/ on/IN/ tips/TABLE/ from/COND/ Niloofar/VALUE/ 
+What/WP/ is/VBZ/ the/DT/ total/JJ/ likes/ATTR/ on/IN/ tips/TABLE/ about/COND/ Cafe/VALUE/ Zinho/VALUE/ 
+What/WP/ is/VBZ/ the/DT/ total/JJ/ likes/ATTR/ on/IN/ tips/TABLE/ from/COND/ Niloofar/VALUE/ about/COND/ Cafe/VALUE/ Zinho/VALUE/
+How/WRB/ many/JJ/ tips/TABLE/ has/VBZ/ Michelle/VALUE/ written/VBN/ in/COND/ 2010/VALUE/ 
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ tips/TABLE/ that/WDT/ are/VBP/ written/VBN/ by/COND/ Michelle/VALUE/ in/COND/ 2010/VALUE/  
+How/WRB/ many/JJ/ tips/TABLE/ has/VBZ/ Michelle/VALUE/ written/VBN/ in/COND/ April/VALUE/ 
+what/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ restaurant/VALUE/ in/COND/ Texas/VALUE/ 
+How/WRB/ many/JJ/ Bars/VALUE/ in/COND/ Dallas/VALUE/ have/VBP/ a/DT/ rating/ATTR/ above/COND/ 3.5/VALUE/  
+How/WRB/ many/JJ/ Bars/VALUE/ in/COND/ Dallas/VALUE/ have/VBP/ a/DT/ rating/ATTR/ above/COND/ 3.5/VALUE/  
+How/WRB/ many/JJ/ people/NNS/ reviewed/TABLEREF/ the/DT/ restaurant/VALUE/ Texas/VALUE/ de/VALUE/ Brazil/VALUE/ in/COND/ Dallas/VALUE/ Texas/VALUE/  
+How/WRB/ many/JJ/ people/NNS/ reviewed/TABLEREF/ Bistro/VALUE/ Di/VALUE/ Napoli/VALUE/ in/COND/ 2015/VALUE/  
+How/WRB/ many/JJ/ restaurant/VALUE/ are/VBP/ there/EX/ in/COND/ the/DT/ Hazelwood/VALUE/ district/NN/ of/IN/ Dallas/VALUE/  
+How/WRB/ many/JJ/ Starbucks/VALUE/ are/VBP/ there/EX/ in/COND/ Dallas/VALUE/ Texas/VALUE/  
+How/WRB/ many/JJ/ reviews/ATTR/ does/VBZ/ Acacia/VALUE/ Cafe/VALUE/ have/VB/  
+Find/VB/ the/DT/ average/JJ/ number/NN/ of/IN/ checkins/TABLE/ in/COND/ restaurant/VALUE/ Barrio/VALUE/ Cafe/VALUE/ per/IN/ day/ATTR/ 
+How/WRB/ many/JJ/ businesses/TABLE/ are/VBP/ there/EX/ in/COND/ the/DT/ Stone/VALUE/ Meadows/VALUE/ neighbourhood/ATTR/ in/COND/ Madison/VALUE/  
+How/WRB/ many/JJ/ reviews/TABLE/ has/VBZ/ Adrienne/VALUE/ written/VBN/  
+How/WRB/ many/JJ/ reviews/TABLE/ has/VBZ/ Michelle/VALUE/ written/VBN/ in/COND/ March/VALUE/ 2014/VALUE/  
+How/WRB/ many/JJ/ businesses/TABLE/ has/VBZ/ Michelle/VALUE/ reviewed/TABLEREF/ in/COND/ 2010/VALUE/  
+How/WRB/ many/JJ/ businesses/TABLE/ in/COND/ San/VALUE/ Diego/VALUE/ has/VBZ/ Christine/VALUE/ reviewed/TABLEREF/ in/COND/ 2010/VALUE/  
+How/WRB/ many/JJ/ Target/VALUE/ are/VBP/ there/EX/ in/COND/ Los/VALUE/ Angeles/VALUE/  
+How/WRB/ many/JJ/ users/TABLE/ have/VBP/ reviewed/TABLEREF/ Irish/VALUE/ Pub/VALUE/ in/COND/ Dallas/VALUE/  
+What/WP/ is/VBZ/ the/DT/ average/JJ/ rating/ATTR/ of/IN/ reviews/TABLE/ written/VBN/ in/IN/ year/ATTR/ 2014/VALUE/  
+How/WRB/ many/JJ/ people/NNS/ reviewed/TABLEREF/ restaurant/VALUE/ Vintner/VALUE/ Grill/VALUE/ in/COND/ 2010/VALUE/  
+Find/VB/ the/DT/ number/NN/ of/IN/ reviews/TABLE/ on/IN/ businesses/TABLE/ located/JJ/ in/COND/ South/VALUE/ Summerlin/VALUE/ neighbourhood/TABLE/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ users/TABLE/ called/VBN/ Michelle/VALUE/ 
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ businesses/TABLE/ that/COND/ are/VBP/ restaurant/VALUE/  
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ cities/ATTR/ that/COND/ has/VBZ/ Panda/VALUE/ Express/VALUE/  
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ tips/TABLE/ that/WDT/ are/VBP/ written/VBN/ by/COND/ Michelle/VALUE/  
+Find/VB/ the/DT/ total/JJ/ checkins/TABLE/ in/COND/ Brighton/VALUE/ Heights/VALUE/ neighbourhood/TABLE/ 
+Find/VB/ the/DT/ total/JJ/ number/NN/ of/IN/ reviews/TABLE/ written/VBN/ in/IN/ March/VALUE/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ tips/TABLE/ written/VBN/ in/IN/ each/DT/ month/ATTR/ 
+How/WRB/ many/JJ/ neighbourhoods/TABLE/ have/VBP/ a/DT/ business/TABLE/ with/COND/ rating/ATTR/ 5/VALUE/ in/COND/ Madison/VALUE/  
+Give/VB/ me/PRP/ all/PDT/ the/DT/ Moroccan/VALUE/ restaurant/VALUE/ in/COND/ Texas/VALUE/ 
+which/WDT/ business/TABLE/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ checkins/TABLE/ 
+which/WDT/ neighbourhood/TABLE/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ businesses/TABLE/ in/COND/ Madison/VALUE/ 
+Find/VB/ all/DT/ Mexican/VALUE/ restaurant/VALUE/ in/COND/ Dallas/VALUE/ with/COND/ at/COND/ least/COND/ 3.5/VALUE/ stars/NNS/ 
+Find/VB/ all/DT/ Mexican/VALUE/ restaurant/VALUE/ in/COND/ Dallas/VALUE/ with/COND/ a/DT/ rating/ATTR/ above/COND/ 3.5/VALUE/ 
+Find/VB/ all/DT/ restaurant/VALUE/ with/COND/ Valet/VALUE/ Service/VALUE/ in/COND/ Dallas/VALUE/ Texas/VALUE/ 
+Find/VB/ all/DT/ Italian/VALUE/ restaurant/VALUE/ in/COND/ the/DT/ Meadowood/VALUE/ neighbourhood/TABLE/ of/IN/ Madison/VALUE/ 
+Find/VB/ all/DT/ Bars/VALUE/ in/COND/ Los/VALUE/ Angeles/VALUE/ with/COND/ at/COND/ least/COND/ 30/VALUE/ reviews/ATTR/ and/CC/ average/JJ/ rating/ATTR/ above/COND/ 3/VALUE/ stars/NNS/ 
+How/WRB/ many/JJ/ Egyptian/VALUE/ restaurant/VALUE/ are/VBP/ there/EX/ in/COND/ Edinburgh/VALUE/  
+Find/VB/ users/TABLE/ whose/COND/ average/JJ/ review/TABLE/ rating/ATTR/ is/VBZ/ below/COND/ 3/VALUE/ 
+Find/VB/ the/DT/ business/TABLE/ with/COND/ the/COND/ most/COND/ number/COND/ of/COND/ reviews/TABLE/ in/COND/ April/VALUE/
+Find/VB/ the/DT/ business/TABLE/ which/COND/ has/VBZ/ the/COND/ most/COND/ number/COND/ of/IN/ categories/TABLE/ 

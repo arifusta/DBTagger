@@ -1,0 +1,109 @@
+What/O/ year/ATTR/ is/O/ the/O/ movie/TABLE/ The/VALUE/ Imitation/VALUE/ Game/VALUE/ from/O/ 
+What/O/ year/ATTR/ was/O/ the/O/ movie/TABLE/ The/VALUE/ Imitation/VALUE/ Game/VALUE/ produced/O/ 
+What/O/ year/ATTR/ was/O/ Benedict/VALUE/ Cumberbatch/VALUE/ born/ATTRREF/ 
+In/O/ what/O/ year/ATTR/ was/O/ Benedict/VALUE/ Cumberbatch/VALUE/ born/ATTRREF/ 
+What/O/ is/O/ the/O/ nationality/ATTR/ of/COND/ the/O/ actress/TABLE/ Christoph/VALUE/ Waltz/VALUE/ 
+What/O/ is/O/ the/O/ nationality/ATTR/ of/COND/ the/O/ actor/TABLE/ Christoph/VALUE/ Waltz/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ produced/O/ in/COND/ 2015/VALUE/ 
+Find/O/ all/O/ actors/TABLE/ born/ATTRREF/ in/COND/ Tehran/VALUE/ 
+Find/O/ all/O/ actors/TABLE/ born/ATTRREF/ in/COND/ Tehran/VALUE/ 
+Which/O/ actors/TABLE/ were/O/ born/ATTRREF/ in/COND/ Tehran/VALUE/ 
+Find/O/ all/O/ actors/TABLE/ who/O/ are/O/ from/COND/ Afghanistan/VALUE/ 
+Find/O/ all/O/ actors/TABLE/ from/COND/ Afghanistan/VALUE/ 
+Give/O/ me/O/ the/O/ name/ATTR/ of/O/ all/O/ the/O/ actors/TABLE/ from/COND/ Afghanistan/VALUE/ 
+Find/O/ all/O/ actors/TABLE/ who/O/ were/O/ born/ATTRREF/ in/COND/ 1984/VALUE/ 
+When/O/ was/O/ Kevin/VALUE/ Spacey/VALUE/ born/ATTRREF/ 
+In/O/ what/O/ year/ATTR/ was/O/ Kevin/VALUE/ Spacey/VALUE/ born/O/ 
+Where/O/ is/O/ the/O/ birth/ATTR/ place/ATTR/ of/COND/ Kevin/VALUE/ Spacey/VALUE/ 
+In/O/ what/O/ city/ATTR/ was/O/ Kevin/VALUE/ Spacey/VALUE/ born/ATTRREF/ 
+What/O/ is/O/ the/O/ nationality/ATTR/ of/COND/ Kevin/VALUE/ Spacey/VALUE/ 
+How/O/ much/O/ was/O/ the/O/ budget/ATTR/ of/COND/ Finding/VALUE/ Nemo/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ directed/TABLEREF/ by/COND/ Steven/VALUE/ Spielberg/VALUE/ after/COND/ 2006/VALUE/ 
+Who/O/ is/O/ the/O/ director/TABLE/ of/COND/ the/O/ movie/TABLE/ James/VALUE/ Bond/VALUE/ 
+Who/O/ directed/TABLEREF/ the/O/ movie/TABLE/ James/VALUE/ Bond/VALUE/ 
+List/O/ James/VALUE/ Bond/VALUE/ directors/TABLE/ 
+Find/O/ the/O/ actor/TABLE/ who/O/ played/TABLEREF/ Alan/VALUE/ Turing/VALUE/ in/COND/ the/O/ movie/TABLE/ The/VALUE/ Imitation/VALUE/ Game/VALUE/ 
+Who/O/ acted/TABLEREF/ Alan/VALUE/ Turing/VALUE/ in/COND/ the/O/ movie/TABLE/ The/VALUE/ Imitation/VALUE/ Game/VALUE/ 
+Who/O/ was/O/ the/O/ actor/TABLE/ that/O/ played/TABLEREF/ Alan/VALUE/ Turing/VALUE/ in/COND/ the/O/ movie/TABLE/ The/VALUE/ Imitation/VALUE/ Game/VALUE/ 
+Who/O/ acts/TABLEREF/ as/COND/ Alan/VALUE/ Turing/VALUE/ in/COND/ the/O/ movie/TABLE/ The/VALUE/ Imitation/VALUE/ Game/VALUE/ 
+Who/O/ is/O/ the/O/ actor/TABLE/ playing/TABLEREF/ Alan/VALUE/ Turing/VALUE/ in/COND/ The/VALUE/ Imitation/VALUE/ Game/VALUE/ 
+What/O/ is/O/ the/O/ genre/TABLE/ of/COND/ the/O/ movie/TABLE/ Jurassic/VALUE/ Park/VALUE/ 
+Who/O/ was/O/ the/O/ director/TABLE/ of/COND/ the/O/ movie/TABLE/ Joy/VALUE/ from/COND/ 2015/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ written/TABLEREF/ by/COND/ Matt/VALUE/ Damon/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ written/TABLEREF/ and/O/ produced/TABLEREF/ by/COND/ Woody/VALUE/ Allen/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ featuring/TABLEREF/ Robin/VALUE/ Wright/VALUE/ 
+What/O/ are/O/ all/O/ the/O/ movies/TABLE/ featuring/TABLEREF/ Robin/VALUE/ Wright/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ in/O/ which/O/ Robin/VALUE/ Wright/VALUE/ appears/TABLEREF/ 
+What/O/ was/O/ the/O/ budget/ATTR/ of/COND/ the/O/ movie/TABLE/ Juno/VALUE/ from/COND/ 2007/VALUE/ 
+Find/O/ all/O/ Sci-Fi/VALUE/ produced/O/ in/COND/ year/ATTR/ 2010/VALUE/ 
+List/O/ all/O/ the/O/ Sci-Fi/VALUE/ movies/TABLE/ which/O/ released/ATTRREF/ in/COND/ 2010/VALUE/ 
+Find/O/ all/O/ actors/TABLE/ born/ATTRREF/ in/COND/ Austin/VALUE/ after/COND/ 1980/VALUE/ 
+Who/O/ are/O/ the/O/ actors/TABLE/ born/ATTRREF/ in/COND/ Austin/VALUE/ after/COND/ 1980/VALUE/ 
+Find/O/ all/O/ actors/TABLE/ from/COND/ Austin/VALUE/ born/ATTRREF/ after/COND/ 1980/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ by/O/ directors/TABLE/ born/ATTRREF/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/O/ all/O/ actors/TABLE/ who/O/ were/O/ born/ATTRREF/ in/COND/ New/VALUE/ York/VALUE/ City/VALUE/ in/COND/ 1984/VALUE/ 
+Find/O/ all/O/ movies/O/ about/COND/ nuclear/VALUE/ weapons/VALUE/ 
+What/O/ are/O/ the/O/ movies/TABLE/ related/O/ to/O/ nuclear/VALUE/ weapons/VALUE/ 
+Which/O/ movies/TABLE/ did/O/ Alfred/VALUE/ Hitchcock/VALUE/ direct/TABLEREF/ 
+Find/O/ all/O/ movies/TABLE/ directed/TABLEREF/ by/COND/ Asghar/VALUE/ Farhadi/VALUE/ and/O/ featuring/TABLEREF/ Taraneh/VALUE/ Alidoosti/VALUE/ 
+What/O/ are/O/ all/O/ the/O/ movies/TABLE/ directed/TABLEREF/ by/COND/ Asghar/VALUE/ Farhadi/VALUE/ featuring/TABLEREF/ Taraneh/VALUE/ Alidoosti/VALUE/ 
+How/O/ many/O/ movies/TABLE/ are/O/ there/O/ that/O/ are/O/ directed/TABLEREF/ by/COND/ Asghar/VALUE/ Farhadi/VALUE/ and/O/ featuring/TABLEREF/ Taraneh/VALUE/ Alidoosti/VALUE/ 
+List/O/ all/O/ the/O/ movies/TABLE/ directed/TABLEREF/ by/COND/ Asghar/VALUE/ Farhadi/VALUE/ in/O/ which/O/ Taraneh/VALUE/ Alidoosti/VALUE/ played/TABLEREF/ 
+What/O/ are/O/ all/O/ the/O/ tv/TABLE/ series/TABLE/ created/TABLEREF/ by/COND/ Shonda/VALUE/ Rhimes/VALUE/ 
+Who/O/ acts/TABLEREF/ Olivia/VALUE/ Pope/VALUE/ in/COND/ the/O/ series/TABLE/ Scandal/VALUE/ 
+Who/O/ is/O/ the/O/ writer/TABLE/ of/COND/ the/O/ movie/TABLE/ The/VALUE/ Truman/VALUE/ Show/VALUE/ 
+Who/O/ is/O/ the/O/ writer/TABLE/ of/COND/ The/VALUE/ Truman/VALUE/ Show/VALUE/ 
+What/O/ are/O/ the/O/ series/TABLE/ featuring/TABLEREF/ Scott/VALUE/ Foley/VALUE/ 
+What/O/ are/O/ the/O/ series/TABLE/ in/O/ which/O/ Scott/VALUE/ Foley/VALUE/ is/O/ an/O/ actor/TABLE/ 
+Find/O/ the/O/ directors/TABLE/ of/O/ all/O/ movies/TABLE/ featuring/TABLEREF/ Kate/VALUE/ Winslet/VALUE/ 
+Find/O/ the/O/ producers/TABLE/ of/O/ all/O/ movies/TABLE/ in/O/ which/O/ Kate/VALUE/ Winslet/VALUE/ is/O/ an/O/ actor/TABLE/ 
+Who/O/ is/O/ the/O/ director/TABLE/ of/O/ the/O/ tv/TABLE/ series/TABLE/ House/VALUE/ of/VALUE/ Cards/VALUE/ from/COND/ 2013/VALUE/ 
+Find/O/ all/O/ the/O/ female/VALUE/ actors/TABLE/ from/COND/ Austin/VALUE/ 
+Find/O/ all/O/ actors/TABLE/ from/COND/ Italy/VALUE/ born/ATTRREF/ after/COND/ 1980/VALUE/ 
+Find/O/ all/O/ the/O/ female/VALUE/ actors/TABLE/ born/ATTRREF/ in/COND/ New/VALUE/ York/VALUE/ City/VALUE/ after/COND/ 1980/VALUE/ 
+Find/O/ all/O/ the/O/ female/VALUE/ actors/TABLE/ in/COND/ the/O/ movie/TABLE/ Saving/VALUE/ Private/VALUE/ Ryan/VALUE/ 
+Find/O/ all/O/ the/O/ directors/TABLE/ who/O/ are/O/ from/COND/ Afghanistan/VALUE/ 
+Find/O/ the/O/ actors/TABLE/ who/O/ played/TABLEREF/ in/COND/ the/O/ movie/TABLE/ Camp/VALUE/ X-Ray/VALUE/ 
+Find/O/ all/O/ actors/TABLE/ from/COND/ Canada/VALUE/ who/O/ acted/TABLEREF/ in/COND/ James/VALUE/ Bond/VALUE/ movies/TABLE/ 
+find/O/ all/O/ films/TABLE/ in/O/ which/O/ Rowan/VALUE/ Atkinson/VALUE/ acted/TABLEREF/ as/COND/ Mr./VALUE/ Bean/VALUE/ 
+where/O/ is/O/ the/O/ director/TABLE/ of/COND/ The/VALUE/ Past/VALUE/ from/O/ 
+who/O/ acted/TABLEREF/ the/O/ role/ATTR/ of/COND/ Mr./VALUE/ Bean/VALUE/ 
+what/O/ are/O/ the/O/ genres/TABLE/ of/O/ movies/TABLE/ directed/TABLEREF/ by/COND/ Asghar/VALUE/ Farhadi/VALUE/ 
+Which/O/ movie/TABLE/ had/O/ the/O/ character/ATTR/ Daffy/VALUE/ Duck/VALUE/ 
+What/O/ are/O/ the/O/ major/O/ roles/ATTR/ in/COND/ the/O/ movie/TABLE/ Daddy/VALUE/ Long/VALUE/ Legs/VALUE/ 
+List/O/ all/O/ the/O/ directors/TABLE/ of/O/ movies/TABLE/ about/COND/ nuclear/VALUE/ weapons/VALUE/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/TABLE/ in/O/ which/O/ Jennifer/VALUE/ Aniston/VALUE/ acted/TABLEREF/ after/COND/ 2010/VALUE/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ actors/TABLE/ in/COND/ the/O/ movie/TABLE/ Saving/VALUE/ Private/VALUE/ Ryan/VALUE/ 
+How/O/ many/O/ actors/TABLE/ are/O/ in/COND/ the/O/ movie/TABLE/ Saving/VALUE/ Privat/VALUE/ Ryan/VALUE/ 
+How/O/ many/O/ movies/TABLE/ did/O/ Steven/VALUE/ Spielberg/VALUE/ direct/TABLEREF/ 
+How/O/ many/O/ movies/TABLE/ were/O/ produced/O/ in/COND/ the/O/ year/ATTR/ 2013/VALUE/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/TABLE/ produced/O/ in/COND/ 2013/VALUE/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/TABLE/ directed/TABLEREF/ by/COND/ Woody/VALUE/ Allen/VALUE/ per/O/ year/O/ 
+How/O/ many/O/ movies/TABLE/ did/O/ Shahab/VALUE/ Hosseini/VALUE/ act/TABLEREF/ in/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/TABLE/ in/O/ which/O/ Shahab/VALUE/ Hosseini/VALUE/ acted/TABLEREF/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/TABLE/ featuring/TABLEREF/ Shahab/VALUE/ Hosseini/VALUE/ 
+How/O/ many/O/ movies/TABLE/ did/O/ Shahab/VALUE/ Hosseini/VALUE/ act/TABLEREF/ in/O/ 
+How/O/ many/O/ actors/TABLE/ were/O/ born/TABLEREF/ in/COND/ Los/VALUE/ Angeles/VALUE/ after/COND/ 2000/VALUE/ 
+How/O/ many/O/ movies/TABLE/ did/O/ Humphrey/VALUE/ Bogart/VALUE/ act/TABLEREF/ in/O/ before/COND/ 1942/VALUE/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/TABLE/ that/O/ Brad/VALUE/ Pitt/VALUE/ acts/TABLEREF/ in/O/ per/O/ year/ATTR/ 
+How/O/ many/O/ movies/TABLE/ about/COND/ Iraq/VALUE/ war/VALUE/ were/O/ produced/O/ in/COND/ 2015/VALUE/ 
+How/O/ many/O/ movies/TABLE/ about/COND/ Persians/VALUE/ were/O/ released/ATTRREF/ after/COND/ 1990/VALUE/ 
+How/O/ many/O/ movies/TABLE/ did/O/ Quentin/VALUE/ Tarantino/VALUE/ direct/TABLEREF/ after/COND/ 2010/VALUE/ 
+How/O/ many/O/ movies/TABLE/ did/O/ Quentin/VALUE/ Tarantino/VALUE/ direct/TABLEREF/ before/COND/ 2010/VALUE/ 
+How/O/ many/O/ movies/TABLE/ did/O/ Quentin/VALUE/ Tarantino/VALUE/ direct/TABLEREF/ before/COND/ 2002/VALUE/ and/O/ after/COND/ 2010/VALUE/ 
+How/O/ many/O/ female/VALUE/ actors/TABLE/ were/O/ born/ATTRREF/ in/COND/ New/VALUE/ York/VALUE/ City/VALUE/ after/COND/ 1980/VALUE/ 
+find/O/ the/O/ number/O/ of/O/ actors/TABLE/ from/COND/ Iran/VALUE/ who/O/ played/TABLEREF/ in/COND/ Jim/VALUE/ Jarmusch/VALUE/ movies/TABLE/ 
+How/O/ many/O/ actors/TABLE/ from/COND/ China/VALUE/ have/O/ acted/TABLEREF/ in/COND/ Rush/VALUE/ Hour/VALUE/ 3/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ that/O/ star/TABLEREF/ both/O/ Woody/VALUE/ Strode/VALUE/ and/O/ Jason/VALUE/ Robards/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ featuring/TABLEREF/ Woody/VALUE/ Strode/VALUE/ and/O/ Jason/VALUE/ Robards/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ featuring/TABLEREF/ both/O/ Woody/VALUE/ Strode/VALUE/ and/O/ Jason/VALUE/ Robards/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ featuring/TABLEREF/ Jason/VALUE/ Robards/VALUE/ and/O/ Woody/VALUE/ Strode/VALUE/ 
+Find/O/ all/O/ actors/TABLE/ who/O/ acted/TABLEREF/ in/O/ the/O/ same/O/ movie/TABLE/ as/COND/ Tom/VALUE/ Hanks/VALUE/ 
+What/O/ movies/TABLE/ have/O/ the/O/ same/O/ director/TABLE/ as/COND/ the/O/ movie/TABLE/ Revolutionary/VALUE/ Road/VALUE/ 
+Find/O/ the/O/ movie/TABLE/ which/O/ is/O/ classified/TABLEREF/ in/O/ the/O/ most/O/ number/O/ of/O/ genres/TABLE/ 
+which/O/ movie/TABLE/ has/O/ the/O/ most/O/ number/O/ of/O/ actors/TABLE/ from/COND/ China/VALUE/ 
+Find/O/ the/O/ actors/TABLE/ who/O/ played/TABLEREF/ in/O/ the/O/ latest/O/ movie/TABLE/ by/COND/ Quentin/VALUE/ Tarantino/VALUE/ 
+Find/O/ the/O/ name/ATTR/ and/O/ budget/ATTR/ of/O/ the/O/ latest/O/ movie/TABLE/ by/COND/ Quentin/VALUE/ Tarantino/VALUE/ 
+What/O/ is/O/ the/O/ latest/O/ movie/TABLE/ by/COND/ Jim/VALUE/ Jarmusch/VALUE/ 
+Which/O/ producer/TABLE/ has/O/ worked/O/ with/O/ the/O/ most/O/ number/O/ of/O/ directors/TABLE/ 
+Find/O/ the/O/ latest/O/ movie/TABLE/ which/O/ Gabriele/VALUE/ Ferzetti/VALUE/ acted/TABLEREF/ in/O/ 

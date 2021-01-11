@@ -1,0 +1,479 @@
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Eric/NNP/ Brewer/NNP/ have/VB/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ were/VBD/ written/VBN/ on/IN/ Question/NNP/ Answering/NNP/ in/IN/ 2016/CD/ ?/./ 
+How/WRB/ many/JJ/ citations/NNS/ does/VBZ/ Yann/NNP/ Lecun/NNP/ has/VBZ/ ?/./ 
+What/WP/ is/VBZ/ the/DT/ latest/JJS/ paper/NN/ by/IN/ Emo/NNP/ Todorov/NNP/ ?/./ 
+Textual/JJ/ Entailment/NN/ datasets/NNS/ 
+What/WDT/ conferences/NNS/ does/VBZ/ Kurtis/NNP/ Heimerl/NNP/ publish/VB/ in/IN/ ?/./ 
+main/JJ/ topics/NNS/ of/IN/ work/NN/ by/IN/ Brian/NNP/ DeRenzi/NNP/ 
+what/WP/ did/VBD/ Mark/NNP/ Guzdial/NNP/ write/VB/ ?/./ 
+Who/WP/ cites/VBZ/ Neeraj/NNP/ Jain/NNP/ most/JJS/ ?/./ 
+most/RBS/ cited/VBN/ by/IN/ Tom/NNP/ Mitchell/NNP/ and/CC/ Oren/NNP/ Etzioni/NNP/ 
+who/WP/ is/VBZ/ the/DT/ most/RBS/ cited/VBN/ author/NN/ at/IN/ CVPR/NNP/ ?/./ 
+who/WP/ published/VBD/ the/DT/ most/JJS/ papers/NNS/ in/IN/ Syntactic/NNP/ Parsing/NNP/ ?/./ 
+ACL/NN/ papers/NNS/ in/IN/ 2016/CD/ 
+What/WDT/ conferences/NNS/ does/VBZ/ Noah/NNP/ A./NN/ Smith/NNP/ publish/VB/ in/IN/ the/DT/ most/JJS/ ?/./ 
+Papers/NNP/ written/VBN/ by/IN/ James/NNP/ Fogarty/NNP/ in/IN/ 2015/CD/ 
+keywords/NNS/ shared/VBN/ by/IN/ Luke/NNP/ S/NNP/ Zettlemoyer/NNP/ and/CC/ Mirella/NNP/ Lapata/NNP/ 
+Papers/NNP/ published/VBN/ in/IN/ 2016/CD/ by/IN/ Li/NNP/ Dong/NNP/ 
+number/NN/ of/IN/ citations/NNS/ of/IN/ Michael/NNP/ I./NNP/ Jordan/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ were/VBD/ at/IN/ SIGMOD/NNP/ 2000/CD/ ?/./ 
+Who/WP/ has/VBZ/ published/VBN/ both/CC/ in/IN/ ICML/NN/ and/CC/ ACL/NN/ ?/./ 
+Which/WDT/ paper/NN/ should/MD/ I/PRP/ read/VB/ about/IN/ Dependent/JJ/ Types/NNS/ ?/./ 
+papers/NNS/ on/IN/ Program/NNP/ Slicing/NNP/ 
+papers/NNS/ by/IN/ Emina/NNP/ Torlak/NNP/ published/VBN/ at/IN/ POPL/NN/ 
+Where/WRB/ did/VBD/ Sergey/NNP/ Levine/NNP/ publish/VB/ his/PRP$/ last/JJ/ paper/NN/ ?/./ 
+What/WDT/ papers/NNS/ has/VBZ/ Ed/NNP/ Desmond/NNP/ written/VBN/ about/IN/ Semantic/JJ/ Parsing/NN/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Srinivasan/NNP/ Iyer/NNP/ have/VB/ ?/./ 
+Who/WP/ published/VBD/ the/DT/ most/JJS/ papers/NNS/ in/IN/ 2007/CD/ at/IN/ CVPR/NNP/ ?/./ 
+in/IN/ what/WP/ conferences/NNS/ does/VBZ/ Mangpo/NNP/ publish/VB/ ?/./ 
+papers/NNS/ on/IN/ Semantic/JJ/ Parsing/NN/ 
+What/WDT/ conference/NN/ does/VBZ/ Daniela/NNP/ Witten/NNP/ publish/VB/ in/IN/ ?/./ 
+papers/NNS/ from/IN/ 2014/CD/ 
+Where/WRB/ did/VBD/ Luke/NNP/ Clark/NNP/ publish/VB/ in/IN/ 2013/CD/ 
+who/WP/ publishes/VBZ/ papers/NNS/ about/IN/ Sensor/NN/ Fusion/NN/ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Huamin/NNP/ Qu/NNP/ have/VB/ ?/./ 
+List/NN/ of/IN/ papers/NNS/ in/IN/ VMCAI/NNP/ 2016/CD/ 
+In/IN/ what/WDT/ years/NNS/ did/VBD/ Pedro/NNP/ Domingos/NNP/ publish/VB/ a/DT/ paper/NN/ ?/./ 
+Kathryn/NNP/ McKinley/NNP/ s/POS/ papers/NNS/ on/IN/ Garbage/NNP/ Collection/NNP/ 
+papers/NNS/ where/WRB/ Ras/NN/ Bodik/NNP/ is/VBZ/ an/DT/ author/NN/ 
+who/WP/ authored/VBD/ papers/NNS/ at/IN/ NIPS/NNP/ ?/./ 
+papers/NNS/ by/IN/ Steve/NNP/ Seitz/NNP/ 
+keyphrases/NNS/ used/VBN/ by/IN/ Dan/NNP/ Klein/NNP/ in/IN/ his/PRP$/ EMNLP/NN/ papers/NNS/ 
+Paper/NNP/ on/IN/ Reinforcement/NNP/ Learning/NNP/ with/IN/ most/JJS/ citations/NNS/ 
+papers/NNS/ by/IN/ Emina/NNP/ Torlak/NNP/ from/IN/ 2010/CD/ 
+keyphrases/NNS/ used/VBN/ by/IN/ Ras/NN/ Bodik/NN/ 
+citation/NN/ count/NN/ of/IN/ Zachary/NNP/ Tatlock/NNP/ s/POS/ papers/NNS/ 
+What/WDT/ conferences/NNS/ does/VBZ/ Daniella/NNP/ Coelho/NNP/ publish/VB/ in/IN/ ?/./ 
+What/WDT/ papers/NNS/ has/VBZ/ James/NNP/ Fogarty/NNP/ written/VBN/ ?/./ 
+papers/NNS/ in/IN/ ACL/NN/ 2016/CD/ 
+Papers/NNP/ written/VBN/ by/IN/ Kurtis/NNP/ Heimerl/NNP/ 
+How/WRB/ many/JJ/ citations/NNS/ does/VBZ/ Luke/NNP/ Zettlemoyer/NNP/ have/VB/ per/IN/ year/NN/ 
+author/NN/ published/VBN/ ACL/NN/ 2014/CD/ 
+Which/WDT/ papers/NNS/ cite/VBP/ Daniel/NNP/ Jurafsky/NNP/ ?/./ 
+In/IN/ what/WDT/ years/NNS/ did/VBD/ Pedro/NNP/ Domingos/NNP/ publish/VB/ a/DT/ paper/NN/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ were/VBD/ accepted/VBN/ at/IN/ SIGMOD/NNP/ 2016/CD/ ?/./ 
+Srinivasan/NNP/ Iyer/NNP/ s/POS/ papers/NNS/ 
+What/WP/ is/VBZ/ the/DT/ paper/NN/ about/IN/ Semantic/JJ/ Image/NN/ Segmentation/NN/ of/IN/ the/DT/ most/JJS/ citation/NN/ ?/./ 
+tail/NN/ papers/NNS/ in/IN/ NIPS/NN/ 
+Semantic/NNP/ Parsing/NNP/ 2016/CD/ papers/NNS/ 
+papers/NNS/ using/VBG/ Wordnet/NNP/ or/CC/ Dbpedia/NNP/ 
+what/WP/ is/VBZ/ the/DT/ most/RBS/ cited/VBN/ paper/NN/ of/IN/ Ohad/NNP/ Shamir/NNP/ ?/./ 
+What/WDT/ articles/NNS/ have/VBP/ been/VBN/ published/VBN/ since/IN/ 2006/CD/ about/IN/ the/DT/ Effects/NNPS/ Of/IN/ Juicing/NNP/ For/IN/ Cancer/NNP/ Patients/NNPS/ ?/./ 
+what/WP/ are/VBP/ the/DT/ collaborations/NNS/ of/IN/ Bharath/NNP/ Hariharan/NNP/ and/CC/ Ross/NNP/ Girshick/NNP/ ?/./ 
+datasets/NNS/ in/IN/ papers/NNS/ about/IN/ KNN/NN/ Classification/NN/ 
+Sentiment/NN/ Analysis/NN/ papers/NNS/ with/IN/ most/JJS/ citations/NNS/ 
+Does/NNP/ Ali/NNP/ Farhadi/NNP/ publish/VB/ in/IN/ CVPR/NNP/ ?/./ 
+What/WDT/ papers/NNS/ talk/VBP/ about/IN/ Reinforcement/NNP/ Learning/NNP/ ?/./ 
+What/WP/ are/VBP/ some/DT/ survey/NN/ papers/NNS/ on/IN/ Multiuser/NNP/ Receiver/NNP/ problems/NNS/ in/IN/ Decision/NNP/ Feedback/NNP/ ?/./ 
+who/WP/ wrote/VBD/ papers/NNS/ in/IN/ 2015/CD/ 
+papers/NNS/ typically/RB/ cited/VBN/ by/IN/ Parsing/VBG/ papers/NNS/ 
+List/NN/ papers/NNS/ that/WDT/ has/VBZ/ a/DT/ keyword/JJ/ Depth/NN/ Map/NN/ 
+How/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Jennifer/NNP/ Widom/NNP/ published/VBN/ ?/./ 
+newest/JJS/ Deep/NNP/ Learning/NNP/ papers/NNS/ 
+Syntactic/NNP/ Parsing/NNP/ papers/NNS/ not/RB/ written/VBN/ by/IN/ Chris/NNP/ Dyer/NNP/ 
+How/WRB/ many/JJ/ paper/NN/ does/VBZ/ Samia/NNP/ Razaq/NNP/ have/VB/ ?/./ 
+Semantic/NNP/ Parsing/NNP/ papers/NNS/ in/IN/ ACL/NN/ 
+What/WP/ is/VBZ/ the/DT/ most/RBS/ popular/JJ/ paper/NN/ this/DT/ year/NN/ in/IN/ CVPR/NNP/ ?/./ 
+what/WDT/ papers/NNS/ are/VBP/ typically/RB/ cited/VBN/ by/IN/ Tom/NNP/ Mitchell/NNP/ and/CC/ Oren/NNP/ Etzioni/NNP/ 
+In/IN/ which/WDT/ conferences/NNS/ does/VBZ/ Anders/NNP/ Andersson/NNP/ typically/RB/ publish/VB/ ?/./ 
+papers/NNS/ written/VBN/ by/IN/ authors/NNS/ Richard/NNP/ Ladner/NNP/ and/CC/ Linda/NNP/ Shapiro/NNP/ 
+who/WP/ has/VBZ/ written/VBN/ the/DT/ most/JJS/ papers/NNS/ on/IN/ Semantic/NNP/ Parsing/NNP/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Chris/NNP/ Mattmann/NNP/ published/VBN/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Kentaro/NNP/ Toyama/NNP/ have/VB/ ?/./ 
+What/WP/ are/VBP/ the/DT/ latest/JJS/ publications/NNS/ on/IN/ Neutralizing/VBG/ Antibody/NN/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ were/VBD/ written/VBN/ on/IN/ Question/NNP/ Answering/NNP/ in/IN/ the/DT/ past/JJ/ 5/CD/ years/NNS/ ?/./ 
+how/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Michael/NNP/ I./NNP/ Jordan/NNP/ cite/VB/ 
+what/WP/ was/VBD/ the/DT/ first/JJ/ Deep/NNP/ Learning/NNP/ paper/NN/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Luke/NNP/ Zettlemoyer/NNP/ published/VBN/ ?/./ 
+What/WDT/ years/NNS/ did/VBD/ Alvin/NNP/ Cheung/NNP/ publish/VB/ papers/NNS/ in/IN/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ did/VBD/ Noah/NNP/ Smith/NNP/ publish/VB/ in/IN/ 2010/CD/ ?/./ 
+most/RBS/ published/VBN/ author/NN/ at/IN/ ACL/NN/ 2010/CD/ 
+co-authors/NNS/ of/IN/ Lorenzo/NNP/ Bruzzone/NNP/ 
+List/VB/ the/DT/ popular/JJ/ publications/NNS/ on/IN/ Object/NNP/ Discrimination/NNP/ 
+who/WP/ writes/VBZ/ papers/NNS/ with/IN/ Ras/NN/ Bodik/NNP/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ used/VBD/ ImageNet/NNP/ dataset/VB/ ?/./ 
+papers/NNS/ about/IN/ Semantic/JJ/ Parsing/NN/ 
+what/WP/ are/VBP/ commonly/RB/ cited/VBN/ papers/NNS/ by/IN/ Tom/NNP/ Mitchell/NNP/ and/CC/ Oren/NNP/ Etzioni/NNP/ ?/./ 
+what/WP/ are/VBP/ Syntactic/NNP/ Parsing/NNP/ papers/NNS/ not/RB/ written/VBN/ by/IN/ Chris/NNP/ Dyer/NNP/ 
+keywords/NNS/ used/VBN/ by/IN/ Luke/NNP/ Zettlemoyer/NNP/ 
+How/WRB/ many/JJ/ citations/NNS/ does/VBZ/ Christopher/NNP/ D/NNP/ Manning/NNP/ have/VB/ ?/./ 
+what/WP/ were/VBD/ some/DT/ Optimization/NNP/ based/VBN/ papers/NNS/ in/IN/ NIPS/NN/ 2016/CD/ ?/./ 
+papers/NNS/ on/IN/ Semantic/JJ/ Spaces/NNS/ appeared/VBD/ at/IN/ Arxiv/NNP/ last/JJ/ year/NN/ 
+How/WRB/ many/JJ/ publications/NNS/ were/VBD/ added/VBN/ to/TO/ the/DT/ Cell/NNP/ journal/NN/ this/DT/ year/NN/ ?/./ 
+List/NN/ today/NN/ s/POS/ journals/NNS/ 
+are/VBP/ there/EX/ Multiuser/NNP/ Receiver/NNP/ papers/NNS/ that/WDT/ use/VBP/ Decision/NNP/ Feedback/NNP/ ?/./ 
+how/WRB/ many/JJ/ papers/NNS/ accepted/VBN/ in/IN/ ACL/NN/ 2016/CD/ 
+papers/NNS/ using/VBG/ NELL/NN/ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Andrew/NNP/ King/NNP/ have/VB/ ?/./ 
+are/VBP/ there/EX/ any/DT/ Syntactic/NNP/ Parsing/NNP/ papers/NNS/ not/RB/ written/VBN/ by/IN/ Chris/NNP/ Dyer/NNP/ ?/./ 
+Who/WP/ has/VBZ/ published/VBN/ more/JJR/ papers/NNS/ in/IN/ NSDI/NNP/ ?/./ 
+who/WP/ published/VBD/ Deep/NNP/ Learning/NNP/ papers/NNS/ at/IN/ ACL/NN/ 2012/CD/ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Graham/NNP/ Neubig/NNP/ have/VB/ in/IN/ TACL/NNP/ ?/./ 
+in/IN/ what/WP/ venues/NNS/ does/VBZ/ Mangpo/NNP/ publish/VB/ ?/./ 
+ACL/NN/ papers/NNS/ in/IN/ 2012/CD/ on/IN/ Parsing/NN/ 
+ICTD/NN/ 
+who/WP/ works/VBZ/ on/IN/ Multiuser/NNP/ Receiver/NNP/ for/IN/ Decision/NNP/ Feedback/NNP/ 
+What/WDT/ papers/NNS/ has/VBZ/ Luke/NNP/ S/NNP/ Zettlemoyer/NNP/ written/VBN/ ?/./ 
+papers/NNS/ written/VBN/ by/IN/ Srinivasan/NNP/ Iyer/NNP/ 
+keyphrases/NNS/ used/VBN/ by/IN/ Luke/NNP/ Zettlemoyer/NNP/ 
+the/DT/ papers/NNS/ on/IN/ Semantic/NNP/ Parsing/NNP/ by/IN/ Li/NNP/ Dong/NNP/ at/IN/ ACL/NNP/ in/IN/ 2016/CD/ 
+which/WDT/ papers/NNS/ has/VBZ/ Michael/NNP/ I./NNP/ Jordan/NNP/ cited/VBD/ the/DT/ most/JJS/ ?/./ 
+How/WRB/ many/JJ/ citations/NNS/ does/VBZ/ Li/NNP/ Dong/NNP/ s/POS/ Semantic/NNP/ Parsing/NNP/ paper/NN/ have/VB/ ?/./ 
+papers/NNS/ published/VBN/ in/IN/ the/DT/ area/NN/ of/IN/ Computer/NNP/ Vision/NNP/ 
+authors/NNS/ of/IN/ ACL/NN/ 2014/CD/ papers/NNS/ 
+recent/JJ/ Semantic/NNP/ Parsing/NNP/ papers/NNS/ 
+What/WDT/ papers/NNS/ were/VBD/ written/VBN/ by/IN/ authors/NNS/ Richard/NNP/ Ladner/NNP/ and/CC/ Linda/NNP/ Shapiro/NNP/ 
+What/WDT/ conferences/NNS/ does/VBZ/ Noah/NNP/ A./NN/ Smith/NNP/ publish/VB/ in/IN/ ?/./ 
+author/NN/ who/WP/ wrote/VBD/ papers/NNS/ with/IN/ Emina/NNP/ Torlak/NNP/ 
+top/JJ/ author/NN/ in/IN/ Syntactic/JJ/ Parsing/NN/ 
+Monte/NNP/ Carlo/NNP/ Simulation/NNP/ papers/NNS/ since/IN/ 2011/CD/ 
+how/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Mirella/NNP/ Lapata/NNP/ written/VBN/ ?/./ 
+papers/NNS/ about/IN/ Deep/NNP/ Learning/NNP/ 
+Does/NNP/ Philipp/NNP/ Haberstock/NNP/ ever/RB/ collaborated/VBD/ with/IN/ Ludwig/NNP/ Nastansky/NNP/ ?/./ 
+how/WRB/ many/JJ/ ACL/NN/ papers/NNS/ by/IN/ author/NN/ 
+papers/NNS/ about/IN/ Wordnet/NNP/ and/CC/ Dbpedia/NNP/ 
+keyphrases/NNS/ used/VBN/ by/IN/ Luke/NNP/ S/NNP/ Zettlemoyer/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Christopher/NNP/ D/NNP/ Manning/NNP/ published/VBN/ ?/./ 
+how/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Ameet/NNP/ Soni/NNP/ published/VBN/ ?/./ 
+how/WRB/ many/JJ/ Parsing/NNP/ papers/NNS/ did/VBD/ ACL/NNP/ 2014/CD/ have/VB/ ?/./ 
+papers/NNS/ by/IN/ Mangpo/NNP/ 
+journal/NN/ papers/NNS/ for/IN/ Instance/NNP/ Segmentation/NNP/ 
+what/WDT/ venue/NN/ does/VBZ/ Luke/NNP/ Zettlemoyer/NNP/ publish/VB/ the/DT/ most/JJS/ in/IN/ 
+What/WP/ has/VBZ/ Ras/NN/ Bodik/NNP/ published/VBN/ ?/./ 
+Character/NN/ Recognition/NN/ papers/NNS/ earlier/JJR/ than/IN/ 2010/CD/ 
+keyphrases/NNS/ used/VBN/ by/IN/ Dan/NNP/ Suciu/NNP/ 
+what/WP/ topics/NNS/ does/VBZ/ Luke/NNP/ Zettlemoyer/NNP/ publish/VB/ in/IN/ 
+Papers/NNP/ by/IN/ Bevan/NNP/ Jones/NNP/ 
+I/PRP/ want/VBP/ the/DT/ papers/NNS/ on/IN/ Machine/NN/ Translation/NN/ by/IN/ Philipp/NNP/ Koehn/NNP/ 
+What/WDT/ paper/NN/ did/VBD/ Michael/NNP/ Armstrong/NNP/ wrote/VBD/ in/IN/ the/DT/ 90s/NNS/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Srinivasan/NNP/ Iyer/NNP/ have/VB/ ?/./ 
+keyphrases/NNS/ used/VBN/ by/IN/ Roni/NNP/ Rosenfeld/NNP/ 
+which/WDT/ EMNLP/NNP/ 2010/CD/ papers/NNS/ have/VBP/ the/DT/ most/JJS/ citations/NNS/ ?/./ 
+list/NN/ papers/NNS/ by/IN/ Agha/NNP/ Ali/NNP/ Raza/NNP/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ publication/NN/ titles/NNS/ by/IN/ Donald/NNP/ E/NNP/ Knuth/NNP/ ?/./ 
+What/WDT/ journals/NNS/ are/VBP/ Donald/NNP/ E/NNP/ Knuth/NNP/ s/POS/ articles/NNS/ published/VBN/ in/IN/ ?/./ 
+what/WDT/ kind/NN/ of/IN/ papers/NNS/ does/VBZ/ Shwetak/NNP/ Patel/NNP/ publish/VB/ 
+keyphrases/NNS/ used/VBN/ by/IN/ Steve/NNP/ Tanimoto/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Jeffrey/NNP/ Heer/NNP/ have/VB/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ in/IN/ ACL/NN/ 2016/CD/ ?/./ 
+Has/VBZ/ Dan/NNP/ Suciu/NNP/ published/VBD/ any/DT/ papers/NNS/ ?/./ 
+papers/NNS/ related/VBN/ to/TO/ Deep/NNP/ Learning/NNP/ 
+new/JJ/ Semantic/NNP/ Parsing/NNP/ papers/NNS/ 
+What/WDT/ year/NN/ did/VBD/ Luke/NNP/ S/NNP/ Zettlemoyer/NNP/ publish/VB/ the/DT/ most/JJS/ papers/NNS/ 
+What/WDT/ papers/NNS/ has/VBZ/ Yoav/NNP/ Artzi/NNP/ written/VBN/ ?/./ 
+Which/WDT/ authors/NNS/ published/VBD/ papers/NNS/ in/IN/ 2015/CD/ ?/./ 
+Multiuser/NNP/ Receiver/NNP/ in/IN/ Decision/NNP/ Feedback/NNP/ papers/NNS/ 
+List/VB/ the/DT/ journals/NNS/ related/VBN/ to/TO/ Temporal/JJ/ Data/NNS/ 
+papers/NNS/ about/IN/ Query/JJ/ Expansion/NN/ in/IN/ SIGIR/NNP/ 2014/CD/ 
+conferences/NNS/ that/IN/ Dan/NNP/ Weld/NNP/ has/VBZ/ published/VBN/ in/IN/ 
+what/WDT/ paper/NN/ did/VBD/ Ras/NN/ Bodik/NNP/ and/CC/ Ameet/NNP/ Soni/NNP/ write/VB/ together/RB/ ?/./ 
+What/WDT/ papers/NNS/ has/VBZ/ Adam/NNP/ Chlipala/NNP/ written/VBN/ ?/./ 
+How/WRB/ many/JJ/ citation/NN/ Richard/NNP/ Anderson/NNP/ has/VBZ/ ?/./ 
+what/WDT/ year/NN/ was/VBD/ the/DT/ first/JJ/ Deep/NNP/ Learning/NNP/ paper/NN/ published/VBN/ ?/./ 
+datasets/NNS/ in/IN/ KNN/NNP/ papers/NNS/ 
+has/VBZ/ any/DT/ paper/NN/ tried/VBD/ Multiuser/NNP/ Receiver/NNP/ for/IN/ Decision/NNP/ Feedback/NNP/ ?/./ 
+What/WDT/ papers/NNS/ were/VBD/ published/VBN/ in/IN/ ACL/NN/ in/IN/ 2015/CD/ about/IN/ Common/NNP/ Practice/NNP/ ?/./ 
+who/WP/ has/VBZ/ written/VBN/ the/DT/ most/JJS/ Information/NNP/ Retrieval/NNP/ papers/NNS/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ did/VBD/ Luke/NNP/ Campbell/NNP/ write/VB/ last/JJ/ year/NN/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Dominik/NNP/ Moritz/NNP/ written/VBN/ ?/./ 
+papers/NNS/ at/IN/ PLDI/NN/ 
+When/WRB/ was/VBD/ Benjamin/NNP/ Mako/NNP/ Hill/NNP/ s/POS/ first/JJ/ paper/NN/ written/VBN/ ?/./ 
+What/WP/ is/VBZ/ Yejin/NNP/ Choi/NNP/ s/POS/ highest/JJS/ cited/VBN/ paper/NN/ ?/./ 
+topics/NNS/ at/IN/ ACL/NN/ 2014/CD/ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ James/NNP/ Fogarty/NNP/ have/VB/ in/IN/ CHI/NNP/ ?/./ 
+Information/NNP/ Extraction/NNP/ publications/NNS/ 
+which/WDT/ year/NN/ had/VBD/ the/DT/ most/RBS/ NIPS/JJ/ papers/NNS/ ?/./ 
+what/WP/ topics/NNS/ does/VBZ/ Oren/NNP/ Etzioni/NNP/ write/VB/ about/IN/ most/JJS/ ?/./ 
+Who/WP/ has/VBZ/ coauthored/VBN/ with/IN/ Dan/NNP/ Suciu/NNP/ ?/./ 
+ACL/NN/ papers/NNS/ in/IN/ 2016/CD/ about/IN/ Semantic/JJ/ Parsing/NN/ 
+papers/NNS/ about/IN/ NELL/NN/ 
+papers/NNS/ about/IN/ ImageNet/NNP/ 
+papers/NNS/ that/WDT/ use/VBP/ ImageNet/NNP/ 
+find/VB/ me/PRP/ paper/NN/ on/IN/ using/VBG/ Neural/NNP/ for/IN/ Relation/NNP/ Extraction/NNP/ 
+how/WRB/ many/JJ/ Ras/NN/ Bodik/NNP/ papers/NNS/ are/VBP/ in/IN/ POPL/NNP/ ?/./ 
+What/WP/ are/VBP/ the/DT/ papers/NNS/ of/IN/ Ali/NNP/ Farhadi/NNP/ in/IN/ 2014/CD/ 
+papers/NNS/ in/IN/ Neural/NNP/ Networks/NNP/ 
+how/WRB/ many/JJ/ citations/NNS/ does/VBZ/ Donald/NNP/ E/NNP/ Knuth/NNP/ have/VB/ ?/./ 
+Which/WDT/ papers/NNS/ cite/VBP/ Daniel/NNP/ A/NNP/ Reed/NNP/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ have/VBP/ Dan/NNP/ Suciu/NNP/ and/CC/ Magdalena/NNP/ Balazinska/NNP/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ on/IN/ Computer/NNP/ Science/NNP/ Education/NNP/ in/IN/ 2016/CD/ ?/./ 
+Semantic/NNP/ Parsing/NNP/ top/JJ/ papers/NNS/ 
+datasets/NNS/ for/IN/ KNN/NN/ 
+which/WDT/ papers/NNS/ in/IN/ ICML/NN/ 2014/CD/ had/VBD/ Lasso/NNP/ in/IN/ them/PRP/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ did/VBD/ Brian/NNP/ DeRenzi/NNP/ publish/VB/ in/IN/ 2015/CD/ 
+papers/NNS/ by/IN/ Oren/NNP/ Etzioni/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ by/IN/ Luke/NNP/ Zettlemoyer/NNP/ contain/VBP/ the/DT/ keyphrases/NNS/ Learning/NNP/ Algorithm/NNP/ ?/./ 
+papers/NNS/ about/IN/ Object/JJ/ Recognition/NN/ 
+most/RBS/ recent/JJ/ papers/NNS/ of/IN/ Ali/NNP/ Farhadi/NNP/ 
+papers/NNS/ about/IN/ Character/NN/ Recognition/NN/ from/IN/ before/IN/ 2010/CD/ 
+Datasets/NNS/ with/IN/ Semantic/JJ/ Parsing/NN/ information/NN/ 
+How/WRB/ many/JJ/ co-authors/NNS/ has/VBZ/ Mark/NNP/ Steedman/NNP/ had/VBD/ ?/./ 
+What/WDT/ Data/NNP/ Cleaning/NNP/ paper/NN/ published/VBN/ in/IN/ VLDB/NNP/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ related/VBN/ to/TO/ Deep/NNP/ Reinforcement/NNP/ Learning/NNP/ in/IN/ NIPS/NNP/ ?/./ 
+how/WRB/ is/VBZ/ the/DT/ most/RBS/ prolific/JJ/ author/NN/ in/IN/ ACL/NNP/ ?/./ 
+keyphrases/NNS/ used/VBN/ by/IN/ Ang/NNP/ Li/NNP/ 
+What/WDT/ papers/NNS/ were/VBD/ published/VBN/ at/IN/ CVPR/NN/ in/IN/ 2015/CD/ were/VBD/ about/IN/ Semantic/JJ/ Segmentation/NN/ ?/./ 
+FAHAD/NNP/ PERVAIZ/NNP/ 
+Autoencoder/NN/ experiments/NNS/ 
+Li/NNP/ Dong/NNP/ Semantic/NNP/ Parsing/NNP/ paper/NN/ 
+How/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Christopher/NNP/ D./NNP/ Manning/NNP/ published/VBN/ ?/./ 
+what/WDT/ paper/NN/ has/VBZ/ Clifford/NNP/ Grobstein/NNP/ published/VBN/ in/IN/ Science/NNP/ ?/./ 
+Journal/NNP/ Papers/NNP/ by/IN/ Mohammad/NNP/ Rastegari/NNP/ 
+Who/WP/ has/VBZ/ published/VBN/ the/DT/ most/JJS/ number/NN/ of/IN/ papers/NNS/ with/IN/ Richard/NNP/ Sutton/NNP/ ?/./ 
+Show/NNP/ me/PRP/ the/DT/ papers/NNS/ on/IN/ Data/NNP/ Cleaning/NNP/ 
+papers/NNS/ before/IN/ 2010/CD/ about/IN/ Character/NN/ Recognition/NN/ 
+Who/WP/ has/VBZ/ coauthored/VBN/ with/IN/ Luke/NNP/ S/NNP/ Zettlemoyer/NNP/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ run/VBP/ experiments/NNS/ on/IN/ ImageNet/NNP/ ?/./ 
+papers/NNS/ by/IN/ Stefan/NNP/ Savage/NNP/ 
+papers/NNS/ that/WDT/ used/VBD/ MNIST/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Graham/NNP/ Neubig/NNP/ have/VBP/ in/IN/ TACL/NN/ 
+Does/NNP/ Hal/NNP/ Perkins/NNP/ have/VBP/ any/DT/ papers/NNS/ published/VBN/ ?/./ 
+Tail/NN/ papers/NNS/ used/VBN/ in/IN/ NIPS/NN/ 
+What/WDT/ papers/NNS/ does/VBZ/ Daphne/NNP/ Koller/NNP/ have/VB/ in/IN/ ICML/NNP/ ?/./ 
+datasets/NNS/ with/IN/ Semantic/JJ/ Parsing/NN/ 
+What/WDT/ conference/NN/ does/VBZ/ Li/NNP/ Dong/NNP/ publish/VB/ in/IN/ ?/./ 
+What/WDT/ area/NN/ cites/VBZ/ Ras/NN/ Bodik/NNP/ ?/./ 
+top/JJ/ Syntactic/JJ/ Parsing/NN/ author/NN/ 
+how/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Dan/NNP/ Klein/NNP/ have/VB/ in/IN/ EMNLP/NNP/ ?/./ 
+conference/NN/ papers/NNS/ of/IN/ Subhasis/NNP/ Chaudhuri/NNP/ 
+papers/NNS/ by/IN/ Koos/NNP/ Koole/NNP/ 
+in/IN/ what/WP/ venues/NNS/ does/VBZ/ Chasins/NNP/ publish/VB/ ?/./ 
+Who/WP/ has/VBZ/ more/JJR/ papers/NNS/ :/:/ Frank/NNP/ Keller/NNP/ or/CC/ Mirella/NNP/ Lapata/NNP/ ?/./ 
+ICML/NN/ papers/NNS/ in/IN/ 2016/CD/ in/IN/ Deep/NNP/ Learning/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ were/VBD/ written/VBN/ on/IN/ Question/NNP/ Answering/NNP/ in/IN/ 2011/CD/ through/IN/ 2016/CD/ ?/./ 
+Syntactic/NNP/ Parsing/NNP/ papers/NNS/ not/RB/ written/VBN/ by/IN/ Chris/NNP/ Dyer/NNP/ 
+citations/NNS/ for/IN/ Alex/NNP/ Snoeren/NNP/ 
+List/NN/ of/IN/ authors/NNS/ ACL/NN/ 2016/CD/ 
+Authors/NNS/ of/IN/ papers/NNS/ on/IN/ Machine/NN/ Translation/NN/ 
+Who/WP/ wrote/VBD/ Blink/NNP/ ?/./ 
+does/VBZ/ Ras/NN/ Bodik/NNP/ publish/VB/ a/DT/ lot/NN/ ?/./ 
+which/WDT/ venue/NN/ publishes/VBZ/ the/DT/ most/JJS/ papers/NNS/ about/IN/ Deep/NNP/ Learning/NNP/ 
+Show/NNP/ me/PRP/ Deep/NNP/ Learning/NNP/ papers/NNS/ ././ 
+Monte/NNP/ Carlo/NNP/ Simulation/NNP/ papers/NNS/ published/VBN/ after/IN/ 2011/CD/ 
+which/WDT/ papers/NNS/ use/VBP/ Wordnet/NNP/ or/CC/ Dbpedia/NNP/ ?/./ 
+who/WP/ does/VBZ/ Oren/NNP/ Etzioni/NNP/ cite/VB/ 
+recent/JJ/ papers/NNS/ by/IN/ Subhasis/NNP/ Chaudhuri/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ were/VBD/ written/VBN/ on/IN/ Question/NNP/ Answering/NNP/ in/IN/ the/DT/ past/JJ/ year/NN/ ?/./ 
+keyphrases/NNS/ used/VBN/ by/IN/ Jeffrey/NNP/ Heer/NNP/ ././ 
+How/WRB/ many/JJ/ papers/NNS/ were/VBD/ written/VBN/ on/IN/ the/DT/ Developing/VBG/ World/NN/ this/DT/ year/NN/ ?/./ 
+how/WRB/ many/JJ/ papers/NNS/ are/VBP/ based/VBN/ on/IN/ ImageNet/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ did/VBD/ Ali/NNP/ Farhadi/NNP/ cite/VB/ ?/./ 
+Character/NN/ Recognition/NN/ papers/NNS/ before/IN/ 2010/CD/ 
+who/WP/ published/VBD/ papers/NNS/ in/IN/ ACL/NN/ 2010/CD/ 
+what/WP/ are/VBP/ most/RBS/ cited/VBN/ papers/NNS/ of/IN/ Tom/NNP/ Mitchell/NNP/ and/CC/ Oren/NNP/ Etzioni/NNP/ ?/./ 
+datasets/NNS/ used/VBN/ in/IN/ papers/NNS/ written/VBN/ by/IN/ Oren/NNP/ Etzioni/NNP/ ?/./ 
+keyphrases/NNS/ used/VBN/ by/IN/ Yejin/NNP/ Choi/NNP/ 
+who/WP/ published/VBD/ at/IN/ ACL/NN/ 2014/CD/ ?/./ 
+top/JJ/ Reinforcement/NNP/ Learning/NNP/ papers/NNS/ 
+What/WDT/ journals/NNS/ has/VBZ/ James/NNP/ Landay/NNP/ published/VBN/ in/IN/ ?/./ 
+KNN/NN/ dataset/NN/ 
+authors/NNS/ of/IN/ ACL/NN/ 2014/CD/ papers/NNS/ 
+How/WRB/ many/JJ/ papers/NNS/ written/VBN/ on/IN/ ImageNet/NNP/ ?/./ 
+which/WDT/ papers/NNS/ used/VBD/ NELL/NNP/ ?/./ 
+How/WRB/ many/JJ/ paper/NN/ has/VBZ/ Ed/NNP/ Desmond/NNP/ written/VBN/ about/IN/ Semantic/JJ/ Parsing/NN/ ?/./ 
+In/IN/ 2010/CD/ what/WDT/ journal/NN/ published/VBD/ an/DT/ article/NN/ about/IN/ Trophic/NNP/ Cascade/NNP/ ?/./ 
+papers/NNS/ by/IN/ Oren/NNP/ Etzioni/NNP/ 
+papers/NNS/ by/IN/ authors/NNS/ Richard/NNP/ Ladner/NNP/ and/CC/ Linda/NNP/ Shapiro/NNP/ 
+Jamie/NNP/ Callan/NNP/ s/POS/ publications/NNS/ by/IN/ year/NN/ 
+What/WDT/ papers/NNS/ have/VBP/ been/VBN/ written/VBN/ by/IN/ Peter/NNP/ Mertens/NNP/ and/CC/ Dina/NNP/ Barbian/NNP/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ are/VBP/ there/EX/ ?/./ 
+How/WRB/ many/JJ/ citations/NNS/ does/VBZ/ Fahad/NNP/ Pervaiz/NNP/ have/VB/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Stefan/NNP/ Savage/NNP/ have/VB/ ?/./ 
+Who/WP/ writes/VBZ/ a/DT/ lot/NN/ of/IN/ papers/NNS/ in/IN/ Machine/NNP/ Learning/NNP/ ?/./ 
+How/WRB/ many/JJ/ ACL/NN/ papers/NNS/ did/VBD/ John/NNP/ Lee/NNP/ written/VBN/ in/IN/ the/DT/ last/JJ/ year/NN/ ?/./ 
+Show/NNP/ me/PRP/ some/DT/ recent/JJ/ papers/NNS/ on/IN/ Machine/NN/ Translation/NN/ ?/./ 
+Papers/NNP/ written/VBN/ by/IN/ Daniel/NNP/ A./NN/ Epstein/NN/ 
+What/WP/ is/VBZ/ the/DT/ most/RBS/ recent/JJ/ paper/NN/ of/IN/ Image/NN/ Understanding/VBG/ ?/./ 
+Sentiment/NN/ Analysis/NN/ papers/NNS/ that/WDT/ have/VBP/ the/DT/ most/JJS/ citations/NNS/ 
+Character/NN/ Recognition/NN/ papers/NNS/ from/IN/ before/IN/ 2010/CD/ 
+Most/JJS/ cited/VBD/ papers/NNS/ on/IN/ Parsing/NN/ 
+What/WP/ was/VBD/ the/DT/ first/JJ/ paper/NN/ on/IN/ LSTM/NN/ written/VBN/ ?/./ 
+Keyphrases/NNS/ used/VBN/ by/IN/ James/NNP/ Fogarty/NNP/ in/IN/ 2015/CD/ 
+When/WRB/ was/VBD/ Richard/NNP/ Anderson/NNP/ s/POS/ first/JJ/ publication/NN/ ?/./ 
+keyphrases/NNS/ used/VBN/ by/IN/ Dan/NNP/ Weld/NNP/ 
+What/WP/ is/VBZ/ the/DT/ highest/JJS/ cited/VBN/ paper/NN/ by/IN/ Jeff/NNP/ Dean/NNP/ ?/./ 
+count/NN/ of/IN/ ACL/NN/ papers/NNS/ by/IN/ author/NN/ 
+Brain/NN/ research/NN/ papers/NNS/ 
+Who/WP/ are/VBP/ Daphne/NNP/ Koller/NNP/ s/POS/ co-authors/NNS/ 
+What/WP/ are/VBP/ the/DT/ latest/JJS/ papers/NNS/ by/IN/ Nigam/NNP/ H./NNP/ Shah/NNP/ and/CC/ Srinivasan/NNP/ Iyer/NNP/ ?/./ 
+papers/NNS/ written/VBN/ by/IN/ Ras/NN/ Bodik/NNP/ and/CC/ Emina/NNP/ Torlak/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Jeffrey/NNP/ Heer/NNP/ ?/./ 
+keyphrases/NNS/ used/VBN/ by/IN/ Torlak/NNP/ in/IN/ 2010/CD/ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ James/NNP/ Fogarty/NNP/ have/VB/ ?/./ 
+ACL/NN/ papers/NNS/ with/IN/ less/JJR/ than/IN/ 5/CD/ citations/NNS/ 
+What/WP/ are/VBP/ some/DT/ recent/JJ/ papers/NNS/ written/VBN/ in/IN/ Stochastic/JJ/ Approximation/NN/ ?/./ 
+Papers/NNP/ by/IN/ Frank/NNP/ Keller/NNP/ and/CC/ Mirella/NNP/ Lapata/NNP/ 
+Facial/JJ/ expression/NN/ research/NN/ papers/NNS/ 
+List/NN/ prominent/JJ/ scholars/NNS/ in/IN/ Theoretical/NNP/ ?/./ 
+are/VBP/ there/EX/ any/DT/ Monte/NNP/ Carlo/NNP/ Simulation/NNP/ papers/NNS/ since/IN/ 2011/CD/ ?/./ 
+What/WP/ is/VBZ/ the/DT/ paper/NN/ with/IN/ the/DT/ most/JJS/ citation/NN/ about/IN/ AlexNet/NNP/ ?/./ 
+what/WDT/ papers/NNS/ are/VBP/ in/IN/ the/DT/ ACL/NN/ of/IN/ 2014/CD/ 
+what/WP/ papers/NNS/ have/VBP/ fewer/JJR/ than/IN/ 5/CD/ citations/NNS/ by/IN/ ACL/NN/ papers/NNS/ ?/./ 
+latest/JJS/ Deep/NNP/ Learning/NNP/ papers/NNS/ 
+how/WRB/ many/JJ/ papers/NNS/ in/IN/ EMNLP/NN/ 2016/CD/ 
+What/WP/ was/VBD/ Richard/NNP/ Anderson/NNP/ s/POS/ latest/JJS/ paper/NN/ ?/./ 
+most/RBS/ cited/VBN/ papers/NNS/ on/IN/ Stochastic/NNP/ Optimization/NNP/ 
+What/WP/ is/VBZ/ Kyunghyun/NNP/ Cho/NNP/ s/POS/ latest/JJS/ paper/NN/ ?/./ 
+how/WRB/ many/JJ/ papers/NNS/ about/IN/ Program/NNP/ Slicing/NNP/ ?/./ 
+What/WDT/ papers/NNS/ were/VBD/ published/VBN/ at/IN/ CVPR/NN/ in/IN/ 2016/CD/ about/IN/ Class/NNP/ consistent/JJ/ multi-modal/JJ/ fusion/NN/ with/IN/ binary/JJ/ features/NNS/ applied/VBN/ to/TO/ RGB-D/NNP/ Object/NNP/ Dataset/NNP/ ?/./ 
+Fetch/VB/ me/PRP/ some/DT/ papers/NNS/ on/IN/ Artificial/NNP/ Neural/NNP/ Network/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Emanuel/NNP/ Todorov/NNP/ publish/VB/ each/DT/ year/NN/ ?/./ 
+Which/WDT/ journals/NNS/ did/VBD/ Linda/NNP/ Shapiro/NNP/ submit/VB/ papers/NNS/ to/TO/ ?/./ 
+which/WDT/ papers/NNS/ has/VBZ/ Mirella/NNP/ Lapata/NNP/ written/VBN/ ?/./ 
+What/WP/ are/VBP/ the/DT/ 5/CD/ most/RBS/ recent/JJ/ papers/NNS/ of/IN/ Mirella/NNP/ Lapata/NNP/ ?/./ 
+data/NNS/ sets/NNS/ for/IN/ Textual/NNP/ Entailment/NNP/ 
+which/WDT/ author/NN/ has/VBZ/ the/DT/ largest/JJS/ number/NN/ of/IN/ publications/NNS/ ?/./ 
+what/WP/ datasets/NNS/ were/VBD/ used/VBN/ by/IN/ Oren/NNP/ Etzioni/NNP/ ?/./ 
+does/VBZ/ Li/NNP/ Dong/NNP/ or/CC/ Luke/NNP/ Zettlemoyer/NNP/ have/VBP/ more/JJR/ papers/NNS/ ?/./ 
+Papers/NNP/ authored/VBN/ by/IN/ Daniel/NNP/ S./NNP/ Weld/NNP/ in/IN/ 2011/CD/ 
+number/NN/ of/IN/ papers/NNS/ written/VBN/ by/IN/ Lorenzo/NNP/ Bruzzone/NNP/ 
+Is/VBZ/ it/PRP/ true/JJ/ that/IN/ Geoffrey/NNP/ E./NNP/ Hinton/NNP/ has/VBZ/ more/JJR/ citations/NNS/ than/IN/ Yann/NNP/ Lecun/NNP/ ?/./ 
+papers/NNS/ by/IN/ Luke/NNP/ Zettlemoyer/NNP/ 
+best/JJS/ paper/NN/ in/IN/ EMNLP/NN/ 2015/CD/ ?/./ 
+ACL/NN/ papers/NNS/ in/IN/ 2012/CD/ on/IN/ Parsing/NN/ 
+What/WDT/ papers/NNS/ has/VBZ/ Dan/NNP/ Suciu/NNP/ written/VBN/ ?/./ 
+how/WRB/ many/JJ/ Parsing/NNP/ papers/NNS/ appeared/VBD/ in/IN/ the/DT/ proceeeding/NN/ of/IN/ ACL/NN/ 2014/CD/ ?/./ 
+who/WP/ wrote/VBD/ the/DT/ most/JJS/ ACL/NN/ papers/NNS/ in/IN/ 2010/CD/ 
+what/WP/ papers/NNS/ have/VBP/ fewer/JJR/ than/IN/ 5/CD/ citations/NNS/ by/IN/ ACL/NN/ papers/NNS/ 
+papers/NNS/ on/IN/ Liquid/NN/ Automatica/NN/ 
+papers/NNS/ on/IN/ Mechanical/JJ/ Turk/NNP/ experiments/NNS/ 
+venue/NN/ for/IN/ Semantic/JJ/ Parsing/NN/ 
+What/WP/ was/VBD/ Richard/NNP/ Anderson/NNP/ s/POS/ latest/JJS/ paper/NN/ ?/./ 
+papers/NNS/ published/VBN/ in/IN/ EMNLP/NN/ 2011/CD/ by/IN/ Wei/NNP/ Lu/NNP/ 
+first/RB/ Deep/NNP/ Learning/NNP/ paper/NN/ 
+Hal/NNP/ Perkins/NNP/ papers/NNS/ 
+How/WRB/ many/JJ/ papers/NNS/ did/VBD/ Jeffrey/NNP/ Heer/NNP/ publish/VB/ at/IN/ CHI/NNP/ ?/./ 
+keyphrases/NNS/ used/VBN/ by/IN/ Kaiming/VBG/ He/PRP/ 
+ACL/NN/ papers/NNS/ by/IN/ author/NN/ 
+Which/WDT/ paper/NN/ should/MD/ I/PRP/ read/VB/ about/IN/ Dependent/JJ/ Type/NN/ ?/./ 
+Who/WP/ is/VBZ/ a/DT/ coauthor/NN/ with/IN/ Zachary/NNP/ Tatlock/NNP/ ?/./ 
+journal/NN/ articles/NNS/ by/IN/ Lorenzo/NNP/ Bruzzone/NNP/ 
+List/VB/ the/DT/ papers/NNS/ that/WDT/ used/VBD/ Caltech/NNP/ dataset/VB/ 
+What/WP/ are/VBP/ keyphrases/NNS/ by/IN/ Christof/NNP/ Dallermassl/NNP/ in/IN/ 2000/CD/ ?/./ 
+how/WRB/ many/JJ/ papers/NNS/ Richard/NNP/ Anderson/NNP/ and/CC/ Gaetano/NNP/ Borriello/NNP/ coauthored/VBN/ ?/./ 
+Who/WP/ are/VBP/ Daphne/NNP/ Koller/NNP/ s/POS/ coauthors/NNS/ 
+papers/NNS/ that/IN/ mention/NN/ Autoencoder/NN/ 
+What/WDT/ paper/NN/ by/IN/ Brian/NNP/ Curless/NNP/ has/VBZ/ the/DT/ most/JJS/ citation/NN/ ?/./ 
+authors/NNS/ with/IN/ at/IN/ least/JJS/ 5/CD/ papers/NNS/ 
+papers/NNS/ about/IN/ Program/NNP/ Slicing/NNP/ published/VBN/ at/IN/ PLDI/NN/ 
+who/WP/ has/VBZ/ the/DT/ most/JJS/ publications/NNS/ in/IN/ Question/NNP/ Answering/NNP/ ?/./ 
+What/WP/ are/VBP/ recent/JJ/ papers/NNS/ on/IN/ Visual/JJ/ Detection/NN/ ?/./ 
+where/WRB/ does/VBZ/ Li/NNP/ Dong/NNP/ publish/VB/ ?/./ 
+Where/WRB/ did/VBD/ Antoine/NNP/ Jacob/NNP/ publish/VB/ in/IN/ 2016/CD/ 
+How/WRB/ many/JJ/ papers/NNS/ are/VBP/ in/IN/ NLP/NNP/ ?/./ 
+keyphrases/NNS/ used/VBN/ by/IN/ Dan/NNP/ Weld/NNP/ 
+List/VB/ all/DT/ academic/JJ/ papers/NNS/ on/IN/ Impact/NNP/ Of/IN/ Cellphone/NNP/ Towers/NNP/ On/NNP/ Birds/NNP/ 
+What/WP/ are/VBP/ the/DT/ papers/NNS/ of/IN/ Saurabh/NNP/ Gupta/NNP/ in/IN/ Instance/NNP/ Segmentation/NNP/ ?/./ 
+What/WP/ is/VBZ/ the/DT/ most/RBS/ cited/VBN/ paper/NN/ of/IN/ Behcet/NNP/ Acikmese/NNP/ ?/./ 
+What/WDT/ papers/NNS/ have/VBP/ Richard/NNP/ Ladner/NNP/ and/CC/ Linda/NNP/ Shapiro/NNP/ written/VBN/ ?/./ 
+Who/WP/ are/VBP/ the/DT/ authors/NNS/ with/IN/ the/DT/ most/RBS/ published/JJ/ papers/NNS/ in/IN/ SIGMOD/NNP/ ?/./ 
+what/WP/ papers/NNS/ did/VBD/ NIPS/NNP/ publish/VB/ ?/./ 
+most/RBS/ cited/VBN/ papers/NNS/ for/IN/ Semantic/JJ/ Segmentation/NN/ 
+2014/CD/ papers/NNS/ using/VBG/ ImageNet/NNP/ 
+List/NN/ papers/NNS/ that/WDT/ has/VBZ/ a/DT/ keyword/JJ/ Depth/NN/ Map/NN/ 
+What/WDT/ conferences/NNS/ did/VBD/ Yejin/NNP/ Kim/NNP/ submit/VB/ to/TO/ in/IN/ 2015/CD/ ?/./ 
+keywords/NNS/ used/VBN/ by/IN/ Sachin/NNP/ Mehta/NNP/ 
+who/WP/ wrote/VBD/ the/DT/ most/JJS/ papers/NNS/ for/IN/ ACL/NN/ 2010/CD/ 
+papers/NNS/ by/IN/ Li/NNP/ Dong/NNP/ about/IN/ Semantic/NNP/ Parsing/NNP/ 
+Semantic/NNP/ Parsing/NNP/ paper/NN/ by/IN/ Li/NNP/ Dong/NNP/ 
+What/WDT/ papers/NNS/ were/VBD/ published/VBN/ during/IN/ the/DT/ conference/NN/ ACL/NN/ 2016/CD/ ?/./ 
+how/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Fahad/NNP/ Pervaiz/NNP/ have/VB/ ?/./ 
+What/WDT/ papers/NNS/ has/VBZ/ Li/NNP/ Dong/NNP/ written/VBN/ in/IN/ 2016/CD/ 
+papers/NNS/ by/IN/ Mayank/NNP/ Goel/NNP/ 
+Latest/JJS/ paper/NN/ by/IN/ Jeff/NNP/ Dean/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ were/VBD/ published/VBN/ on/IN/ Bacterial/JJ/ Wilt/NNP/ in/IN/ 2016/CD/ ?/./ 
+datasets/NNS/ for/IN/ KNN/NN/ 
+who/WP/ published/VBD/ the/DT/ most/JJS/ in/IN/ Semantic/NNP/ Parsing/NNP/ after/IN/ 2005/CD/ ?/./ 
+papers/NNS/ by/IN/ Ashutosh/NNP/ Saxena/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Jeffrey/NNP/ Heer/NNP/ ?/./ 
+What/WDT/ conference/NN/ does/VBZ/ Luke/NNP/ Zettlemoyer/NNP/ publish/VB/ the/DT/ most/JJS/ in/IN/ 
+how/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Nicola/NNP/ Dell/NNP/ have/VBP/ at/IN/ CHI/NN/ 
+How/WRB/ many/JJ/ papers/NNS/ are/VBP/ about/IN/ Deep/NNP/ Learning/NNP/ ?/./ 
+What/WP/ are/VBP/ the/DT/ 5/CD/ most/RBS/ recent/JJ/ papers/NNS/ of/IN/ Mirella/NNP/ Lapata/NNP/ ?/./ 
+What/WDT/ conferences/NNS/ did/VBD/ Noah/NNP/ A./NN/ Smith/NNP/ publish/VB/ in/RP/ in/IN/ 2016/CD/ ?/./ 
+papers/NNS/ using/VBG/ Wordnet/NNP/ and/CC/ Dbpedia/NNP/ 
+keyphrases/NNS/ used/VBN/ by/IN/ Dan/NNP/ Klein/NNP/ in/IN/ 2010/CD/ 
+who/WP/ are/VBP/ all/PDT/ the/DT/ co-authors/NNS/ of/IN/ Srinivasan/NNP/ Iyer/NNP/ ?/./ 
+What/WP/ are/VBP/ some/DT/ papers/NNS/ dealing/VBG/ with/IN/ Semantic/JJ/ data/NNS/ in/IN/ YAGO/NNP/ ?/./ 
+What/WP/ is/VBZ/ the/DT/ paper/NN/ of/IN/ both/DT/ Convolution/NNP/ and/CC/ Combinatoric/NNP/ ?/./ 
+who/WP/ does/VBZ/ Chasins/NNP/ author/NN/ with/IN/ ?/./ 
+Since/IN/ 2004/CD/ who/WP/ has/VBZ/ published/VBN/ works/NNS/ about/IN/ Fibromyalgia/NNP/ and/CC/ Diet/NNP/ ?/./ 
+what/WDT/ year/NN/ had/VBD/ the/DT/ most/RBS/ NIPS/JJ/ papers/NNS/ ?/./ 
+ACL/NN/ papers/NNS/ in/IN/ 2012/CD/ on/IN/ Parsing/NN/ 
+How/WRB/ many/JJ/ times/NNS/ was/VBD/ Alex/NNP/ Snoeren/NNP/ cited/VBD/ ?/./ 
+Where/WRB/ did/VBD/ Li/NNP/ Dong/NNP/ publish/VB/ in/IN/ 2016/CD/ ?/./ 
+papers/NNS/ written/VBN/ by/IN/ Oren/NNP/ Etzioni/NNP/ 
+what/WDT/ papers/NNS/ do/VBP/ Parsing/VBG/ papers/NNS/ typically/RB/ cite/VB/ ?/./ 
+NELL/NN/ papers/NNS/ 
+Who/WP/ writes/VBZ/ a/DT/ lot/NN/ of/IN/ papers/NNS/ in/IN/ Machine/NNP/ Learning/NNP/ ?/./ 
+What/WDT/ papers/NNS/ were/VBD/ published/VBN/ at/IN/ CVPR/FW/ 16/FW/ about/IN/ Class/NN/ consistent/JJ/ multi-modal/JJ/ fusion/NN/ with/IN/ binary/JJ/ features/NNS/ applied/VBN/ to/TO/ RGB-D/NNP/ Object/NNP/ Dataset/NNP/ ?/./ 
+papers/NNS/ by/IN/ Linda/NNP/ Shapiro/NNP/ in/IN/ 2016/CD/ 
+What/WDT/ papers/NNS/ were/VBD/ written/VBN/ on/IN/ Question/NNP/ Answering/NNP/ in/IN/ 2016/CD/ ?/./ 
+what/WDT/ year/NN/ had/VBD/ the/DT/ most/JJS/ number/NN/ of/IN/ NIPS/NN/ papers/NNS/ ?/./ 
+what/WDT/ keyphrases/NNS/ get/VBP/ most/JJS/ citations/NNS/ ?/./ 
+Donald/NNP/ Elmazi/NNP/ citation/NN/ count/NN/ 
+papers/NNS/ about/IN/ Crowdsourcing/NNP/ in/IN/ ACL/NNP/ 2015/CD/ 
+What/WDT/ papers/NNS/ has/VBZ/ written/VBN/ by/IN/ Dan/NNP/ Suciu/NNP/ ?/./ 
+how/WRB/ is/VBZ/ the/DT/ most/RBS/ cited/VBN/ author/NN/ in/IN/ ACL/NNP/ ?/./ 
+datasets/NNS/ used/VBN/ by/IN/ Textual/NNP/ Entailment/NNP/ papers/NNS/ 
+Parsing/VBG/ 2014/CD/ papers/NNS/ 
+List/NN/ of/IN/ papers/NNS/ by/IN/ Samia/NNP/ Razaq/NNP/ 
+papers/NNS/ by/IN/ Luke/NNP/ Zettlemoyer/NNP/ 
+which/WDT/ ACL/NNP/ 2014/CD/ papers/NNS/ about/IN/ Parsing/VBG/ used/VBN/ Jeopardy!/NN/ Questions/NNS/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Jeffrey/NNP/ Heer/NNP/ have/VB/ in/IN/ CHI/NNP/ ?/./ 
+papers/NNS/ on/IN/ Semantic/NNP/ Parsing/NNP/ appeared/VBD/ at/IN/ ACL/NN/ in/IN/ 2016/CD/ 
+Computer/NNP/ Model/NNP/ papers/NNS/ 
+Semantic/NNP/ Parsing/NNP/ papers/NNS/ by/IN/ Li/NNP/ Dong/NNP/ 
+papers/NNS/ related/VBN/ to/TO/ Sensor/VB/ Fusion/NN/ 
+What/WDT/ authors/NNS/ wrote/VBD/ papers/NNS/ about/IN/ Semantic/NNP/ Parsing/NNP/ in/IN/ 2016/CD/ ?/./ 
+what/WP/ are/VBP/ some/DT/ Syntactic/NNP/ Parsing/NNP/ papers/NNS/ that/IN/ Chris/NNP/ Dyer/NNP/ did/VBD/ not/RB/ write/VB/ ?/./ 
+Papers/NNP/ from/IN/ ACL/NNP/ 2016/CD/ ?/./ 
+Parsing/VBG/ papers/NNS/ using/VBG/ Jeopardy!/NN/ Questions/NNS/ published/VBN/ at/IN/ ACL/NN/ 2014/CD/ 
+conferences/NNS/ in/IN/ 2013/CD/ 
+Keyphrases/NNS/ used/VBN/ by/IN/ Jeffrey/NNP/ Heer/NNP/ 
+Does/NNP/ Brian/NNP/ Curless/NNP/ do/VB/ Convolution/NNP/ ?/./ 
+earliest/JJS/ paper/NN/ written/VBN/ by/IN/ Srinivasan/NNP/ Iyer/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ Alvin/NNP/ C/NNP/ Haver/NNP/ have/VB/ in/IN/ Iv/NNP/ Infusion/NNP/ area/NN/ ?/./ 
+What/WP/ is/VBZ/ Magda/NNP/ Balazinska/NNP/ s/POS/ latest/JJS/ paper/NN/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ related/VBN/ to/TO/ Deep/NNP/ Learning/NNP/ cited/VBD/ the/DT/ dataset/NN/ ImageNet/NNP/ ?/./ 
+How/WRB/ many/JJ/ papers/NNS/ does/VBZ/ James/NNP/ Fogarty/NNP/ have/VB/ in/IN/ UIST/NNP/ ?/./ 
+Papers/NNP/ from/IN/ Aida/NNP/ Kasumovic/NNP/ in/IN/ 2015/CD/ 
+Papers/NNP/ about/IN/ Image/NN/ Annotation/NN/ in/IN/ CHI/NN/ 
+authors/NNS/ in/IN/ Multiuser/NNP/ Receiver/NNP/ for/IN/ Decision/NNP/ Feedback/NNP/ 
+conferences/NNS/ that/WDT/ mention/VBP/ ImageNet/NNP/ 
+papers/NNS/ by/IN/ Torlak/NNP/ 
+recent/JJ/ papers/NNS/ written/VBN/ by/IN/ Sanjeev/NNP/ Arora/NNP/ 
+Semantic/NNP/ Parsing/NNP/ papers/NNS/ later/RBR/ than/IN/ 2010/CD/ 
+ACL/NN/ papers/NNS/ in/IN/ 2016/CD/ with/IN/ Neural/JJ/ Attention/NN/ in/IN/ the/DT/ title/NN/ 
+Who/WP/ cites/VBZ/ Daniel/NNP/ A/NNP/ Reed/NNP/ most/JJS/ ?/./ 
+papers/NNS/ with/IN/ more/JJR/ than/IN/ 5/CD/ citations/NNS/ 
+How/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Omer/NNP/ Lev/NNP/ written/VBN/ ?/./ 
+In/IN/ what/WDT/ year/NN/ did/VBD/ Luke/NNP/ Zettlemoyer/NNP/ publish/VB/ the/DT/ most/JJS/ papers/NNS/ 
+Which/WDT/ is/VBZ/ the/DT/ earliest/JJS/ paper/NN/ by/IN/ Aravind/NNP/ Rajeswaran/NNP/ ?/./ 
+what/WDT/ keywords/NNS/ are/VBP/ used/VBN/ by/IN/ Shwetak/NNP/ Patel/NNP/ 
+how/WRB/ many/JJ/ papers/NNS/ has/VBZ/ Jeff/NNP/ Dean/NNP/ published/VBN/ ?/./ 
+Who/WP/ cites/VBZ/ Luke/NNP/ Zettlemoyer/NNP/ the/DT/ most/JJS/ 
+papers/NNS/ from/IN/ 2014/CD/ 
+keyphrases/NNS/ used/VBN/ by/IN/ Magda/NNP/ Balazinska/NNP/ 
+Papers/NNP/ on/IN/ ImageNet/NNP/ 
+What/WDT/ papers/NNS/ has/VBZ/ Ed/NNP/ Desmond/NNP/ written/VBN/ on/IN/ Semantic/JJ/ Parsing/NN/ ?/./ 
+What/WP/ is/VBZ/ Ang/NNP/ Li/NNP/ s/POS/ latest/JJS/ paper/NN/ ?/./ 
+Papers/NNP/ about/IN/ Semantic/NNP/ Parsing/NNP/ 
+How/WRB/ many/JJ/ papers/NNS/ has/VBZ/ David/NNP/ Blei/NNP/ published/VBN/ in/IN/ NIPS/NNP/ ?/./ 
+what/WDT/ datasets/NNS/ are/VBP/ used/VBN/ in/IN/ papers/NNS/ by/IN/ Oren/NNP/ Etzioni/NNP/ 
+what/WDT/ paper/NN/ has/VBZ/ Hans/NNP/ Kerp/NNP/ published/VBN/ in/IN/ Nature/NNP/ journal/NN/ ?/./ 
+papers/NNS/ on/IN/ Semantic/JJ/ Parsing/NN/ 
+who/WP/ has/VBZ/ written/VBN/ the/DT/ most/JJS/ papers/NNS/ on/IN/ Semantic/NNP/ Parsing/NNP/ since/IN/ 2005/CD/ ?/./ 
+What/WDT/ papers/NNS/ has/VBZ/ Mirella/NNP/ Lapata/NNP/ written/VBN/ ?/./ 
+how/WRB/ many/JJ/ papers/NNS/ did/VBD/ Nicola/NNP/ Dell/NNP/ and/CC/ Brian/NNP/ DeRenzi/NNP/ write/VB/ together/RB/ 
+what/WP/ datasets/NNS/ did/VBD/ Oren/NNP/ Etzioni/NNP/ use/VB/ ?/./ 
+has/VBZ/ Ras/NN/ Bodik/NNP/ or/CC/ Sumit/NNP/ Gulwani/NNP/ published/VBD/ more/JJR/ papers/NNS/ ?/./ 
+Decision/NN/ Feedback/NN/ papers/NNS/ using/VBG/ Multiuser/NNP/ Receiver/NNP/ 
+Semantic/NNP/ Parsing/NNP/ 2016/CD/ papers/NNS/ 
+who/WP/ else/RB/ was/VBD/ on/IN/ the/DT/ paper/NN/ with/IN/ Ameet/FW/ Soni/FW/ and/CC/ Ras/NN/ Bodik/NNP/ ?/./ 
+keyphrases/NNS/ used/VBN/ by/IN/ Mirella/NNP/ Lapata/NNP/ 
+how/WRB/ many/JJ/ papers/NNS/ by/IN/ Michael/NNP/ I./NNP/ Jordan/NNP/ are/VBP/ cited/VBN/ by/IN/ Dan/NNP/ Klein/NNP/ 
+papers/NNS/ by/IN/ Richard/NNP/ Ladner/NNP/ and/CC/ Linda/NNP/ Shapiro/NNP/ 
+Ali/NNP/ Farhadi/NNP/ s/POS/ papers/NNS/ in/IN/ 2015/CD/ 
+When/WRB/ was/VBD/ Boyd/NNP/ Raccoon/NNP/ published/VBN/ ?/./ 
+What/WP/ did/VBD/ Luke/NNP/ S/NNP/ Zettlemoyer/NNP/ published/VBN/ in/IN/ 2009/CD/ ?/./ 

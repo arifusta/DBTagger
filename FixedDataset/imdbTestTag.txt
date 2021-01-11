@@ -1,0 +1,27 @@
+find/O/ the/O/ number/O/ of/O/ actors/TABLE/ from/COND/ Iran/VALUE/ who/O/ played/TABLEREF/ in/COND/ Jim/VALUE/ Jarmusch/VALUE/ movies/TABLE/ 
+Who/O/ is/O/ the/O/ director/TABLE/ of/O/ the/O/ series/TABLE/ House/VALUE/ of/VALUE/ Cards/VALUE/ produced/TABLEREF/ by/O/ Netflix/VALUE/ ?/O/ 
+Find/O/ all/O/ actors/TABLE/ born/O/ in/COND/ Los/VALUE/ Angeles/VALUE/ 
+Find/O/ the/O/ name/ATTR/ and/O/ budget/ATTR/ of/O/ the/O/ latest/COND/ movie/TABLE/ by/O/ Quentin/VALUE/ Tarantino/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ featuring/TABLEREF/ Kevin/VALUE/ Spacey/VALUE/ 
+Find/O/ the/O/ latest/COND/ movie/TABLE/ which/O/ Gabriele/VALUE/ Ferzetti/VALUE/ acted/TABLEREF/ in/O/ 
+Find/O/ all/O/ movies/TABLE/ produced/TABLEREF/ by/O/ Walt/VALUE/ Disney/VALUE/ after/COND/ 2010/VALUE/ 
+What/O/ are/O/ the/O/ series/TABLE/ featuring/TABLEREF/ Kerry/VALUE/ Washington/VALUE/ ?/O/ 
+List/O/ James/VALUE/ Bond/VALUE/ directors/TABLE/ 
+Who/O/ directed/TABLEREF/ the/O/ movie/TABLE/ Inglourious/VALUE/ Basterds/VALUE/ ?/O/ 
+Find/O/ all/O/ movies/TABLE/ featuring/TABLEREF/ Kate/VALUE/ Winslet/VALUE/ 
+Find/O/ the/O/ number/O/ of/O/ companies/TABLE/ which/O/ worked/TABLEREF/ with/O/ Gabriele/VALUE/ Ferzetti/VALUE/ 
+Who/O/ acts/TABLEREF/ Olivia/VALUE/ Pope/VALUE/ in/COND/ the/O/ series/TABLE/ Scandal/VALUE/ ?/O/ 
+How/O/ many/O/ movies/TABLE/ about/O/ Persians/VALUE/ were/O/ released/ATTRREF/ after/COND/ 1990/VALUE/ ?/O/ 
+How/O/ many/O/ movies/TABLE/ did/O/ Shahab/VALUE/ Hosseini/VALUE/ act/TABLEREF/ in/O/ 
+Find/O/ all/O/ movies/TABLE/ about/O/ Autism/VALUE/ 
+find/O/ all/O/ films/TABLE/ in/O/ which/O/ Rowan/VALUE/ Atkinson/VALUE/ acted/TABLEREF/ as/O/ Mr./VALUE/ Bean/VALUE/ 
+What/O/ are/O/ all/O/ the/O/ movies/TABLE/ directed/TABLEREF/ by/O/ Quentin/VALUE/ Tarantino/VALUE/ featuring/TABLEREF/ Christoph/VALUE/ Waltz/VALUE/ ?/O/ 
+What/O/ are/O/ the/O/ major/O/ roles/ATTR/ in/COND/ the/O/ movie/TABLE/ Daddy/VALUE/ Long/VALUE/ Legs/VALUE/ 
+Which/O/ movies/TABLE/ did/O/ Alfred/VALUE/ Hitchcock/VALUE/ direct/TABLEREF/ ?/O/ 
+Find/O/ all/O/ actors/TABLE/ from/COND/ Italy/VALUE/ born/O/ after/COND/ 1980/VALUE/ 
+Find/O/ all/O/ movies/TABLE/ featuring/TABLEREF/ both/O/ Matt/VALUE/ Damon/VALUE/ and/O/ Ben/VALUE/ Affleck/VALUE/ 
+What/O/ was/O/ the/O/ budget/ATTR/ of/O/ the/O/ movie/TABLE/ Juno/VALUE/ from/COND/ 2007/VALUE/ ?/O/ 
+What/O/ is/O/ the/O/ latest/COND/ movie/TABLE/ by/O/ Jim/VALUE/ Jarmusch/VALUE/ 
+Find/O/ all/O/ the/O/ female/VALUE/ actors/TABLE/ from/COND/ Austin/VALUE/ 
+How/O/ many/O/ actors/TABLE/ are/O/ in/COND/ the/O/ movie/TABLE/ Saving/VALUE/ Private/VALUE/ Ryan/VALUE/ ?/O/ 
+Which/O/ producer/TABLE/ has/O/ worked/TABLEREF/ with/O/ the/O/ most/COND/ number/O/ of/O/ directors/TABLE/ ?/O/ 

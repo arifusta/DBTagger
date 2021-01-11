@@ -1,0 +1,104 @@
+What/O/ year/movie.release_year/ is/O/ the/O/ movie/movie/ Dead/movie.title/ Poets/movie.title/ Society/movie.title/ from/O/ ?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/movie/ in/COND/ which/O/ Jennifer/person.name/ Aniston/person.name/ acted/cast/ after/COND/ 2010/movie.release_year/ ?/O/ 
+which/O/ movie/movie/ has/O/ the/O/ most/O/ number/O/ of/O/ actors/actor/ from/COND/ China/person.nationality/ ?/O/ 
+Find/O/ all/O/ movies/movie/ produced/O/ in/COND/ 2015/movie.release_year/ 
+Find/O/ all/O/ movies/movie/ produced/copyright/ by/O/ Netflix/company.name/ 
+What/O/ year/person.birth_year/ was/O/ Ellen/person.name/ Page/person.name/ born/O/ ?/O/ 
+What/O/ are/O/ the/O/ series/tv_series/ in/O/ which/O/ Scott/person.name/ Foley/person.name/ is/O/ an/O/ actor/cast/ ?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/movie/ produced/O/ in/COND/ 2013/movie.release_year/ ?/O/ 
+How/O/ many/O/ movies/movie/ are/O/ there/O/ that/O/ are/O/ directed/directed_by/ by/O/ Steven/person.name/ Spielberg/person.name/ and/O/ featuring/cast/ Matt/person.name/ Damon/person.name/ ?/O/ 
+Find/O/ the/O/ movie/movie/ which/O/ is/O/ classified/O/ in/O/ the/O/ most/O/ number/O/ of/O/ genres/genre/ 
+who/O/ acted/actor/ the/O/ role/cast.role/ of/O/ Mr./cast.role/ Bean/cast.role/ 
+Find/O/ all/O/ movies/movie/ about/O/ Persians/keyword.keyword/ 
+In/O/ what/O/ year/person.birth_year/ was/O/ Benedict/person.name/ Cumberbatch/person.name/ born/O/ 
+How/O/ many/O/ companies/company/ participated/copyright/ in/O/ producing/O/ Camp/movie.title/ X-Ray/movie.title/ 
+What/O/ is/O/ the/O/ nationality/person.nationality/ of/O/ Kevin/person.name/ Spacey/person.name/ ?/O/ 
+what/O/ are/O/ the/O/ genres/genre/ of/O/ movies/movie/ directed/directed_by/ by/O/ Asghar/person.name/ Farhadi/person.name/ 
+Who/O/ was/O/ the/O/ actor/actor/ that/O/ played/cast/ Vinny/cast.role/ Gambini/cast.role/ in/COND/ the/O/ movie/movie/ My/movie.title/ Cousin/movie.title/ Vinny/movie.title/ ?/O/ 
+Which/O/ actors/actor/ were/O/ born/O/ in/COND/ Tehran/person.birth_city/ 
+Who/O/ was/O/ the/O/ director/director/ of/O/ the/O/ movie/movie/ Joy/movie.title/ from/COND/ 2015/movie.release_year/ ?/O/ 
+Which/O/ movie/movie/ had/O/ the/O/ character/cast/ Daffy/cast.role/ Duck/cast.role/ 
+What/O/ company/company/ produced/copyright/ the/O/ movie/movie/ Juno/movie.title/ ?/O/ 
+List/O/ all/O/ the/O/ movies/movie/ directed/directed_by/ by/O/ Asghar/person.name/ Farhadi/person.name/ in/COND/ which/O/ Taraneh/person.name/ Alidoosti/person.name/ played/cast/ 
+Who/O/ is/O/ the/O/ writer/writer/ of/O/ the/O/ movie/movie/ Django/movie.title/ Unchained/movie.title/ 
+Find/O/ all/O/ actors/actor/ who/O/ were/O/ born/O/ in/COND/ 1984/person.birth_year/ 
+Who/O/ is/O/ the/O/ writer/writer/ of/O/ The/movie.title/ Truman/movie.title/ Show/movie.title/ 
+How/O/ many/O/ movies/movie/ did/O/ Ronald/person.name/ Reagan/person.name/ act/cast/ in/O/ ?/O/ 
+Find/O/ the/O/ producers/producer/ of/O/ all/O/ movies/movie/ in/O/ which/O/ Kate/person.name/ Winslet/person.name/ is/O/ an/O/ actor/actor/ 
+Find/O/ all/O/ the/O/ directors/director/ who/O/ are/O/ from/COND/ Afghanistan/person.nationality/ 
+Who/O/ acted/cast/ John/cast.role/ Nash/cast.role/ in/COND/ the/O/ movie/movie/ A/movie.title/ Beautiful/movie.title/ Mind/movie.title/ ?/O/ 
+Find/O/ all/O/ tv/tv_series/ series/tv_series/ produced/copyright/ by/O/ Netflix/company.name/ 
+Find/O/ all/O/ actors/actor/ born/O/ in/COND/ Milan/person.birth_city/ 
+Find/O/ all/O/ movies/movie/ that/O/ were/O/ produced/copyright/ by/O/ Netflix/company.name/ 
+List/O/ all/O/ male/person.gender/ directors/director/ who/O/ worked/copyright/ with/O/ the/O/ NBCUniversal/company.name/ company/company/ 
+Find/O/ all/O/ movies/movie/ in/O/ which/O/ Robin/person.name/ Wright/person.name/ appears/cast/ 
+Who/O/ is/O/ the/O/ actor/actor/ playing/cast/ Alan/cast.role/ Turing/cast.role/ in/COND/ The/movie.title/ Imitation/movie.title/ Game/movie.title/ ?/O/ 
+Find/O/ all/O/ actors/actor/ from/COND/ Canada/person.nationality/ who/O/ acted/cast/ in/COND/ James/movie.title/ Bond/movie.title/ movies/movie/ 
+Find/O/ all/O/ actors/actor/ from/COND/ Austin/person.birth_city/ born/O/ after/COND/ 1980/person.birth_year/ 
+What/O/ is/O/ the/O/ maximum/O/ number/O/ of/O/ movies/movie/ in/O/ which/O/ Brad/person.name/ Pitt/person.name/ act/cast/ in/O/ a/O/ given/O/ year/movie.release_year/ ?/O/ 
+which/O/ company/company/ funded/copyright/ the/O/ Mickey/tv_series.title/ Mouse/tv_series.title/ series/tv_series/ 
+Give/O/ me/O/ the/O/ name/person.name/ of/O/ all/O/ the/O/ actors/actor/ from/COND/ Afghanistan/person.nationality/ 
+In/O/ what/O/ year/person.birth_year/ was/O/ Kevin/person.name/ Spacey/person.name/ born/O/ ?/O/ 
+Find/O/ the/O/ actors/actor/ who/O/ played/cast/ in/O/ the/O/ latest/COND/ movie/movie/ by/O/ Quentin/person.name/ Tarantino/person.name/ 
+Find/O/ all/O/ movies/movie/ by/O/ directors/director/ born/O/ in/COND/ Los/person.birth_city/ Angeles/person.birth_city/ 
+Find/O/ all/O/ actors/actor/ who/O/ were/O/ born/O/ in/COND/ New/person.birth_city/ York/person.birth_city/ City/person.birth_city/ in/COND/ 1984/person.birth_year/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/movie/ featuring/cast/ Brad/person.name/ Pitt/person.name/ ?/O/ 
+List/O/ all/O/ the/O/ directors/director/ of/O/ movies/movie/ about/O/ nuclear/keyword.keyword/ weapons/keyword.keyword/ 
+Find/O/ all/O/ movies/movie/ about/O/ Iraq/keyword.keyword/ war/keyword.keyword/ 
+What/O/ are/O/ the/O/ movies/movie/ related/tags/ to/O/ nuclear/keyword.keyword/ weapons/keyword.keyword/ 
+Find/O/ all/O/ the/O/ female/person.gender/ actors/actor/ born/O/ in/COND/ New/person.birth_city/ York/person.birth_city/ City/person.birth_city/ after/COND/ 1980/person.birth_year/ 
+How/O/ many/O/ movies/movie/ did/O/ Quentin/person.name/ Tarantino/person.name/ direct/O/ after/COND/ 2010/movie.release_year/ ?/O/ 
+How/O/ many/O/ actors/actor/ were/O/ born/O/ in/COND/ Los/person.birth_city/ Angeles/person.birth_city/ after/COND/ 2000/person.birth_year/ ?/O/ 
+How/O/ many/O/ movies/movie/ were/O/ produced/O/ in/COND/ the/O/ year/movie.release_year/ 2012/movie.release_year/ ?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/movie/ directed/directed_by/ by/O/ Woody/person.name/ Allen/person.name/ per/O/ year/movie.release_year/ ?/O/ 
+How/O/ many/O/ female/person.gender/ actors/actor/ were/O/ born/O/ in/COND/ New/person.birth_city/ York/person.birth_city/ City/person.birth_city/ after/COND/ 1980/person.birth_year/ ?/O/ 
+What/O/ are/O/ all/O/ the/O/ movies/movie/ featuring/cast/ Kerry/person.name/ Washington/person.name/ ?/O/ 
+Find/O/ the/O/ actors/actor/ who/O/ played/cast/ in/COND/ the/O/ movie/movie/ Camp/movie.title/ X-Ray/movie.title/ 
+Who/O/ acts/actor/ as/COND/ Alan/cast.role/ Turing/cast.role/ in/COND/ the/O/ movie/movie/ The/movie.title/ Imitation/movie.title/ Game/movie.title/ ?/O/ 
+How/O/ many/O/ movies/movie/ did/O/ Netflix/company.name/ produce/O/ ?/O/ 
+Find/O/ all/O/ movies/movie/ written/written_by/ and/O/ produced/made_by/ by/O/ Woody/person.name/ Allen/person.name/ 
+Find/O/ all/O/ comedies/genre.genre/ produced/O/ in/COND/ year/movie.release_year/ 2015/movie.release_year/ 
+Find/O/ all/O/ actors/actor/ who/O/ are/O/ from/COND/ Canada/person.nationality/ 
+Who/O/ is/O/ the/O/ director/director/ of/O/ the/O/ tv/tv_series/ series/tv_series/ House/tv_series.title/ of/tv_series.title/ Cards/tv_series.title/ from/COND/ 2013/tv_series.release_year/ ?/O/ 
+Who/O/ are/O/ the/O/ actors/actor/ born/O/ in/COND/ New/person.birth_city/ York/person.birth_city/ City/person.birth_city/ after/COND/ 1990/person.birth_year/ ?/O/ 
+What/O/ is/O/ the/O/ genre/genre/ of/O/ the/O/ movie/movie/ Jurassic/movie.title/ Park/movie.title/ ?/O/ 
+How/O/ many/O/ movies/movie/ did/O/ Humphrey/person.name/ Bogart/person.name/ act/cast/ in/O/ before/COND/ 1942/movie.release_year/ ?/O/ 
+where/O/ is/O/ the/O/ director/director/ of/O/ The/movie.title/ Past/movie.title/ from/O/ 
+Find/O/ all/O/ movies/movie/ directed/directed_by/ by/O/ Woody/person.name/ Allen/person.name/ and/O/ featuring/cast/ Scarlett/person.name/ Johansson/person.name/ 
+Find/O/ all/O/ the/O/ female/person.gender/ actors/actor/ in/COND/ the/O/ movie/movie/ Saving/movie.title/ Private/movie.title/ Ryan/movie.title/ 
+Find/O/ all/O/ movies/movie/ featuring/cast/ Benedict/person.name/ Cumberbatch/person.name/ 
+Find/O/ the/O/ actor/actor/ who/O/ played/cast/ Captain/cast.role/ Miller/cast.role/ in/COND/ the/O/ movie/movie/ Saving/movie.title/ Private/movie.title/ Ryan/movie.title/ 
+What/O/ is/O/ the/O/ nationality/person.nationality/ of/O/ the/O/ actress/actor/ Ellen/person.name/ Page/person.name/ ?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ actors/actor/ in/COND/ the/O/ movie/movie/ Grumpier/movie.title/ Old/movie.title/ Men/movie.title/ ?/O/ 
+What/O/ company/company/ produced/copyright/ the/O/ series/tv_series/ Scandal/tv_series.title/ ?/O/ 
+What/O/ year/movie.release_year/ was/O/ the/O/ movie/movie/ The/movie.title/ Imitation/movie.title/ Game/movie.title/ produced/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/movie/ in/O/ which/O/ Tom/person.name/ Cruise/person.name/ acted/cast/ ?/O/ 
+How/O/ many/O/ actors/actor/ from/COND/ China/person.nationality/ have/O/ acted/cast/ in/COND/ Rush/movie.title/ Hour/movie.title/ 3/movie.title/ 
+Find/O/ all/O/ movies/movie/ featuring/cast/ Benedict/person.name/ Cumberbatch/person.name/ and/O/ Keira/person.name/ Knightley/person.name/ 
+Who/O/ is/O/ the/O/ director/director/ of/O/ the/O/ movie/movie/ Catch/movie.title/ Me/movie.title/ If/movie.title/ You/movie.title/ Can/movie.title/ ?/O/ 
+What/O/ is/O/ the/O/ nationality/person.nationality/ of/O/ the/O/ actor/actor/ Christoph/person.name/ Waltz/person.name/ ?/O/ 
+How/O/ many/O/ movies/movie/ did/O/ Quentin/person.name/ Tarantino/person.name/ direct/directed_by/ before/COND/ 2010/movie.release_year/ ?/O/ 
+Find/O/ the/O/ directors/director/ of/O/ all/O/ movies/movie/ featuring/cast/ Kate/person.name/ Winslet/person.name/ 
+Find/O/ all/O/ movies/movie/ directed/directed_by/ by/O/ Steven/person.name/ Spielberg/person.name/ after/COND/ 2006/movie.release_year/ 
+What/O/ are/O/ all/O/ the/O/ tv/tv_series/ series/tv_series/ created/made_by/ by/O/ Shonda/person.name/ Rhimes/person.name/ ?/O/ 
+Who/O/ is/O/ directed/director/ the/O/ latest/COND/ movie/movie/ by/O/ NBCUniversal/company.name/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ movies/movie/ that/O/ Brad/person.name/ Pitt/person.name/ acts/cast/ in/O/ per/O/ year/movie.release_year/ ?/O/ 
+Find/O/ all/O/ movies/movie/ featuring/cast/ Jason/person.name/ Robards/person.name/ and/O/ Woody/person.name/ Strode/person.name/ 
+When/O/ was/O/ Kevin/person.name/ Spacey/person.name/ born/O/ ?/O/ 
+Who/O/ acted/actor/ in/O/ the/O/ most/O/ number/O/ of/O/ movies/movie/ directed/directed_by/ by/O/ Jim/person.name/ Jarmusch/person.name/ 
+Find/O/ all/O/ movies/movie/ written/written_by/ by/O/ Matt/person.name/ Damon/person.name/ 
+How/O/ many/O/ movies/movie/ did/O/ Quentin/person.name/ Tarantino/person.name/ direct/directed_by/ before/COND/ 2002/movie.release_year/ and/O/ after/COND/ 2010/movie.release_year/ ?/O/ 
+How/O/ many/O/ movies/movie/ about/O/ Iraq/keyword.keyword/ war/keyword.keyword/ were/O/ produced/O/ in/COND/ 2015/movie.release_year/ ?/O/ 
+In/O/ what/O/ city/person.birth_city/ was/O/ Kevin/person.name/ Spacey/person.name/ born/O/ ?/O/ 
+How/O/ many/O/ movies/movie/ did/O/ Alfred/person.name/ Hitchcock/person.name/ direct/directed_by/ ?/O/ 
+Find/O/ all/O/ actors/actor/ from/COND/ Italy/person.nationality/ 
+What/O/ movies/movie/ have/O/ the/O/ same/COND/ director/director/ as/O/ the/O/ movie/movie/ Revolutionary/movie.title/ Road/movie.title/ ?/O/ 
+Find/O/ all/O/ actors/actor/ who/O/ acted/cast/ in/O/ the/O/ same/COND/ movie/movie/ as/O/ Tom/person.name/ Hanks/person.name/ 
+Find/O/ all/O/ actors/actor/ born/O/ in/COND/ Los/person.birth_city/ Angeles/person.birth_city/ after/COND/ 1980/person.birth_year/ 
+Where/O/ is/O/ the/O/ birth/person.birth_city/ place/person.birth_city/ of/O/ Kevin/person.name/ Spacey/person.name/ 
+How/O/ many/O/ movies/movie/ did/O/ Steven/person.name/ Spielberg/person.name/ direct/directed_by/ ?/O/ 
+How/O/ much/O/ was/O/ the/O/ budget/movie.budget/ of/O/ Finding/movie.title/ Nemo/movie.title/ 
+Find/O/ the/O/ actor/actor/ with/O/ most/O/ number/O/ of/O/ films/movie/ 
+Find/O/ all/O/ movies/movie/ that/O/ star/cast/ both/O/ Angelina/person.name/ Jolie/person.name/ and/O/ Brad/person.name/ Pitt/person.name/ 
+List/O/ all/O/ the/O/ Sci-Fi/genre.genre/ movies/movie/ which/O/ released/movie.release_year/ in/COND/ 2010/movie.release_year/ 
+How/O/ many/O/ movies/movie/ did/O/ Matt/person.name/ Damon/person.name/ direct/O/ ?/O/ 

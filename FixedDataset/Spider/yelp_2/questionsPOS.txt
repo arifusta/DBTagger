@@ -1,0 +1,110 @@
+List/NN/ all/PDT/ the/DT/ businesses/NNS/ with/IN/ more/JJR/ than/IN/ 4.5/CD/ stars/NNS/ 
+List/VB/ all/DT/ businesses/NNS/ with/IN/ rating/NN/ 3.5/CD/ 
+List/VB/ all/DT/ user/NN/ ids/NNS/ with/IN/ name/NN/ Michelle/NNP/ 
+Find/VB/ all/DT/ states/NNS/ in/IN/ which/WDT/ there/EX/ is/VBZ/ a/DT/ Whataburger/NN/ 
+Find/VB/ all/DT/ cities/NNS/ in/IN/ which/WDT/ there/EX/ is/VBZ/ a/DT/ restaurant/NN/ called/VBN/ MGM/NNP/ Grand/NNP/ Buffet/NNP/  
+Find/VB/ the/DT/ cities/NNS/ of/IN/ businesses/NNS/ rated/VBN/ below/IN/ 1.5/CD/ 
+Find/VB/ all/DT/ cities/NNS/ which/WDT/ has/VBZ/ a/DT/ Taj/NNP/ Mahal/NNP/   
+List/NN/ all/PDT/ the/DT/ reviews/NNS/ which/WDT/ rated/VBD/ a/DT/ business/NN/ less/JJR/ than/IN/ 1/CD/ 
+List/NN/ all/PDT/ the/DT/ restaurant/NN/ rated/VBD/ more/JJR/ than/IN/ 3.5/CD/ 
+find/VB/ all/DT/ cities/NNS/ which/WDT/ has/VBZ/ a/DT/ Taj/NNP/ Mahal/NNP/ restaurant/NN/ 
+list/VB/ all/PDT/ the/DT/ reviews/NNS/ by/IN/ Niloofar/NN/ 
+list/VB/ all/PDT/ the/DT/ businesses/NNS/ which/WDT/ have/VBP/ a/DT/ review/NN/ by/IN/ Niloofar/NN/ 
+list/VB/ all/PDT/ the/DT/ businesses/NNS/ which/WDT/ Niloofar/NNP/ rated/VBD/ 5/CD/ 
+List/NN/ all/PDT/ the/DT/ reviews/NNS/ by/IN/ Michelle/NNP/ for/IN/ Italian/JJ/ restaurant/NN/ 
+find/VB/ the/DT/ number/NN/ of/IN/ reviews/NNS/ written/VBN/ for/IN/ Cafe/NNP/ Zinho/NNP/ restaurant/NN/ in/IN/ Texas/NNP/ 
+List/VB/ all/DT/ 5/CD/ star/NN/ Italian/JJ/ restaurant/NN/ 
+List/NN/ all/PDT/ the/DT/ neighbourhoods/NNS/ with/IN/ Italian/JJ/ restaurant/NN/ in/IN/ Madison/NNP/ 
+List/NN/ all/PDT/ the/DT/ neighbourhoods/NNS/ with/IN/ Italian/JJ/ restaurant/NN/ rated/VBD/ less/JJR/ than/IN/ 2.5/CD/ in/IN/ Madison/NNP/ 
+find/VB/ all/PDT/ the/DT/ restaurant/NN/ in/IN/ Pennsylvania/NNP/ 
+List/VB/ all/DT/ businesses/NNS/ that/WDT/ are/VBP/ restaurant/NN/ in/IN/ Pennsylvania/NNP/  
+Find/VB/ all/PDT/ the/DT/ reviews/NNS/ for/IN/ all/DT/ Pet/NNP/ Groomers/NNPS/ with/IN/ more/JJR/ than/IN/ 100/CD/ reviews/NNS/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ breweries/NNS/ in/IN/ Los/NNP/ Angeles/NNP/   
+Find/VB/ all/DT/ breweries/NNS/ in/IN/ Los/NNP/ Angeles/NNP/ 
+Find/VB/ all/DT/ breweries/NNS/ in/IN/ Los/NNP/ Angeles/NNP/  
+Find/VB/ all/DT/ users/NNS/ who/WP/ reviewed/VBD/ restaurant/NN/  Mesa/NNP/ Grill/NNP/  
+List/VB/ the/DT/ addresses/NNS/ of/IN/ all/DT/ Walmart/NNP/ in/IN/ Los/NNP/ Angeles/NNP/  
+Find/VB/ all/DT/ restaurant/NN/ reviewed/VBN/ by/IN/ Patrick/NNP/ in/IN/ Dallas/NNP/  
+Which/WDT/ restaurant/NN/ in/IN/ Dallas/NNP/ were/VBD/ reviewed/VBN/ by/IN/ user/NN/ Patrick/NNP/  
+Find/VB/ all/DT/ Bars/NNS/ reviewed/VBN/ by/IN/ Patrick/NNP/ 
+Find/VB/ all/DT/ Bars/NNS/ reviewed/VBN/ by/IN/ Patrick/NNP/ with/IN/ at/IN/ least/JJS/ 3/CD/ stars/NNS/ 
+Find/VB/ all/DT/ users/NNS/ who/WP/ have/VBP/ written/VBN/ tips/NNS/ for/IN/ Barrio/NNP/ Cafe/NNP/  in/IN/ 2015/CD/ 
+Find/VB/ all/DT/ businesses/NNS/ in/IN/ Texas/NNP/ with/IN/ a/DT/ rating/NN/ below/IN/ 2/CD/ 
+Find/VB/ all/DT/ restaurant/NN/ Seafood/NNP/ in/IN/ Los/NNP/ Angeles/NNP/ 
+List/VB/ all/PDT/ the/DT/ Seafood/NNP/ restaurant/NN/ in/IN/ Los/NNP/ Angeles/NNP/  
+Find/VB/ all/DT/ restaurant/NN/ that/WDT/ serve/VBP/ Seafood/NN/ in/IN/ Los/NNP/ Angeles/NNP/  
+Find/VB/ all/DT/ reviews/NNS/ by/IN/ Patrick/NNP/ with/IN/ a/DT/ rating/NN/ above/IN/ 4/CD/ 
+Find/VB/ all/DT/ Apple/NNP/ Store/NNP/ in/IN/ Los/NNP/ Angeles/NNP/  
+Find/VB/ all/DT/ Dallas/NNP/ restaurant/NN/ with/IN/ a/DT/ rating/NN/ above/IN/ 4.5/CD/ 
+Find/VB/ all/DT/ tips/NNS/ about/IN/ Vintner/NNP/ Grill/NNP/  that/WDT/ received/VBD/ more/JJR/ than/IN/ 9/CD/ likes/NNS/ 
+Find/VB/ all/DT/ reviews/NNS/ about/IN/ Kabob/NNP/ Palace/NNP/  in/IN/ year/NN/ 2014/CD/ 
+Find/VB/ all/DT/ users/NNS/ who/WP/ have/VBP/ written/VBN/ tips/NNS/ about/IN/ businesses/NNS/ in/IN/ Dallas/NNP/ 
+Find/VB/ all/DT/ cities/NNS/ in/IN/ Texas/NNP/ in/IN/ which/WDT/ there/EX/ is/VBZ/ a/DT/ restaurant/NN/ called/VBN/ MGM/NNP/ Grand/NNP/ Buffet/NNP/  
+Find/VB/ the/DT/ users/NNS/ who/WP/ have/VBP/ given/VBN/ tips/NNS/ on/IN/ Pet/NNP/ Groomers/NNPS/ 
+Find/VB/ all/DT/ tips/NNS/ for/IN/ Cafe/NNP/ Zinho/NNP/  in/IN/ Texas/NNP/  
+List/VB/ all/DT/ users/NNS/ who/WP/ reviewed/VBD/ businesses/NNS/ that/WDT/ are/VBP/ restaurant/NN/  
+List/VB/ all/DT/ tips/NNS/ for/IN/ Cafe/NNP/ Zinho/NNP/  in/IN/ Pennsylvania/NNP/ in/IN/ 2010/CD/  
+List/VB/ all/DT/ users/NNS/ who/WP/ reviewed/VBD/ businesses/NNS/ that/WDT/ are/VBP/ restaurant/NN/ in/IN/ 2010/CD/  
+Find/VB/ all/PDT/ the/DT/ tips/NNS/ from/IN/ a/DT/ user/NN/ who/WP/ has/VBZ/ written/VBN/ a/DT/ review/NN/ in/IN/ 2012/CD/ 
+Find/VB/ all/DT/ reviews/NNS/ for/IN/ businesses/NNS/ rated/VBD/ 2.5/CD/ 
+find/VB/ the/DT/ number/NN/ of/IN/ escape/NN/ games/NNS/ in/IN/ Madison/NNP/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ escape/NN/ games/NNS/ in/IN/ Madison/NNP/ 
+How/WRB/ many/JJ/ escape/NN/ games/NNS/ exist/VBP/ in/IN/ Madison/NNP/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ escape/NN/ games/NNS/ in/IN/ Madison/NNP/   
+How/WRB/ many/JJ/ escape/NN/ games/NNS/ are/VBP/ there/EX/ in/IN/ Madison/NNP/  
+find/VB/ the/DT/ number/NN/ of/IN/ restaurant/NN/ rated/VBD/ more/JJR/ than/IN/ 3.5/CD/ 
+find/VB/ the/DT/ total/JJ/ checkins/NNS/ in/IN/ Moroccan/JJ/ restaurant/NN/ in/IN/ Los/NNP/ Angeles/NNP/  
+find/VB/ the/DT/ total/JJ/ checkins/NNS/ in/IN/ Moroccan/JJ/ restaurant/NN/ in/IN/ Los/NNP/ Angeles/NNP/  on/IN/ Friday/NNP/ 
+find/VB/ the/DT/ total/JJ/ checkins/NNS/ in/IN/ Moroccan/JJ/ restaurant/NN/ in/IN/ Los/NNP/ Angeles/NNP/  per/IN/ day/NN/ 
+find/VB/ the/DT/ total/JJ/ checkins/NNS/ in/IN/ Italian/NNP/ Delis/NNP/ in/IN/ each/DT/ state/NN/ on/IN/ Sunday/NNP/ 
+How/WRB/ many/JJ/ reviews/NNS/ has/VBZ/ Niloofar/NNP/ written/VBN/ in/IN/ 2015/CD/ 
+what/WP/ is/VBZ/ the/DT/ average/JJ/ rating/NN/ given/VBN/ in/IN/ Michelle/NNP/ reviews/NNS/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ checkins/NNS/ for/IN/ Cafe/NNP/ Zinho/NNP/  on/IN/ Friday/NNP/ 
+how/WRB/ many/JJ/ users/NNS/ reviewed/VBN/ Sushi/NNP/ Too/NNP/  in/IN/ Pittsburgh/NNP/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ restaurant/NN/ in/IN/ Pittsburgh/NNP/ rated/VBD/ 4.5/CD/ 
+How/WRB/ many/JJ/ tips/NNS/ have/VBP/ been/VBN/ written/VBN/ in/IN/ 2015/CD/ 
+What/WP/ is/VBZ/ the/DT/ total/JJ/ likes/NN/ on/IN/ tips/NNS/ from/IN/ Niloofar/NNP/ 
+What/WP/ is/VBZ/ the/DT/ total/JJ/ likes/NN/ on/IN/ tips/NNS/ about/IN/ Cafe/NNP/ Zinho/NNP/  
+What/WP/ is/VBZ/ the/DT/ total/JJ/ likes/NN/ on/IN/ tips/NNS/ from/IN/ Niloofar/NNP/ about/IN/ Cafe/NNP/ Zinho/NNP/  
+How/WRB/ many/JJ/ tips/NNS/ has/VBZ/ Michelle/NNP/ written/VBN/ in/IN/ 2010/CD/ 
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ tips/NNS/ that/WDT/ are/VBP/ written/VBN/ by/IN/ Michelle/NNP/ in/IN/ 2010/CD/  
+How/WRB/ many/JJ/ tips/NNS/ has/VBZ/ Michelle/NNP/ written/VBN/ in/IN/ April/NNP/ 
+what/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ restaurant/NN/ in/IN/ Texas/NNP/ 
+How/WRB/ many/JJ/ Bars/NNS/ in/IN/ Dallas/NNP/  have/VBP/ a/DT/ rating/NN/ above/IN/ 3.5/CD/  
+How/WRB/ many/JJ/ Bars/NNS/ in/IN/ Dallas/NNP/ have/VBP/ a/DT/ rating/NN/ above/IN/ 3.5/CD/  
+How/WRB/ many/JJ/ people/NNS/ reviewed/VBD/ the/DT/ restaurant/NN/  Texas/NNP/ de/IN/ Brazil/NNP/  in/IN/ Dallas/NNP/ Texas/NNP/  
+How/WRB/ many/JJ/ people/NNS/ reviewed/VBN/ Bistro/NNP/ Di/NNP/ Napoli/NNP/  in/IN/ 2015/CD/  
+How/WRB/ many/JJ/ restaurant/NN/ are/VBP/ there/EX/ in/IN/ the/DT/ Hazelwood/NNP/ district/NN/ of/IN/ Dallas/NNP/  
+How/WRB/ many/JJ/ Starbucks/NNS/ are/VBP/ there/EX/ in/IN/ Dallas/NNP/ Texas/NNP/  
+How/WRB/ many/JJ/ reviews/NNS/ does/VBZ/ Acacia/NNP/ Cafe/NNP/  have/VB/  
+Find/VB/ the/DT/ average/JJ/ number/NN/ of/IN/ checkins/NNS/ in/IN/ restaurant/NN/  Barrio/NNP/ Cafe/NNP/  per/IN/ day/NN/ 
+How/WRB/ many/JJ/ businesses/NNS/ are/VBP/ there/EX/ in/IN/ the/DT/ Stone/NNP/ Meadows/NNP/ neighbourhood/NN/ in/IN/ Madison/NNP/  
+How/WRB/ many/JJ/ reviews/NNS/ has/VBZ/ Adrienne/NNP/ written/VBN/  
+How/WRB/ many/JJ/ reviews/NNS/ has/VBZ/ Michelle/NNP/ written/VBN/ in/IN/ March/NNP/ 2014/CD/  
+How/WRB/ many/JJ/ businesses/NNS/ has/VBZ/ Michelle/NNP/ reviewed/VBN/ in/IN/ 2010/CD/  
+How/WRB/ many/JJ/ businesses/NNS/ in/IN/ San/NNP/ Diego/NNP/  has/VBZ/ Christine/NNP/ reviewed/VBN/ in/IN/ 2010/CD/  
+How/WRB/ many/JJ/ Target/NN/ are/VBP/ there/EX/ in/IN/ Los/NNP/ Angeles/NNP/   
+How/WRB/ many/JJ/ users/NNS/ have/VBP/ reviewed/VBN/ Irish/NNP/ Pub/NNP/ in/IN/ Dallas/NNP/  
+What/WP/ is/VBZ/ the/DT/ average/JJ/ rating/NN/ of/IN/ reviews/NNS/ written/VBN/ in/IN/ year/NN/ 2014/CD/  
+How/WRB/ many/JJ/ people/NNS/ reviewed/VBD/ restaurant/NN/  Vintner/NNP/ Grill/NNP/  in/IN/ 2010/CD/  
+Find/VB/ the/DT/ number/NN/ of/IN/ reviews/NNS/ on/IN/ businesses/NNS/ located/JJ/ in/IN/ South/NNP/ Summerlin/NNP/ neighbourhood/NN/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ users/NNS/ called/VBN/ Michelle/NNP/ 
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ businesses/NNS/ that/WDT/ are/VBP/ restaurant/NN/  
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ cities/NNS/ that/WDT/ has/VBZ/ Panda/NNP/ Express/NNP/   
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ tips/NNS/ that/WDT/ are/VBP/ written/VBN/ by/IN/ Michelle/NNP/  
+Find/VB/ the/DT/ total/JJ/ checkins/NNS/ in/IN/ Brighton/NNP/ Heights/NNP/ neighbourhood/NN/ 
+Find/VB/ the/DT/ total/JJ/ number/NN/ of/IN/ reviews/NNS/ written/VBN/ in/IN/ March/NNP/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ tips/NNS/ written/VBN/ in/IN/ each/DT/ month/NN/ 
+How/WRB/ many/JJ/ neighbourhoods/NNS/ have/VBP/ a/DT/ business/NN/ with/IN/ rating/NN/ 5/CD/ in/IN/ Madison/NNP/  
+Give/VB/ me/PRP/ all/PDT/ the/DT/ Moroccan/JJ/ restaurant/NN/ in/IN/ Texas/NNP/ 
+which/WDT/ business/NN/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ checkins/NNS/ 
+which/WDT/ neighbourhood/NN/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ businesses/NNS/ in/IN/ Madison/NNP/ 
+Find/VB/ all/DT/ Mexican/JJ/ restaurant/NN/ in/IN/ Dallas/NNP/ with/IN/ at/IN/ least/JJS/ 3.5/CD/ stars/NNS/ 
+Find/VB/ all/DT/ Mexican/JJ/ restaurant/NN/ in/IN/ Dallas/NNP/ with/IN/ a/DT/ rating/NN/ above/IN/ 3.5/CD/ 
+Find/VB/ all/DT/ restaurant/NN/ with/IN/ Valet/NNP/ Service/NNP/ in/IN/ Dallas/NNP/ Texas/NNP/ 
+Find/VB/ all/DT/ Italian/JJ/ restaurant/NN/ in/IN/ the/DT/ Meadowood/NNP/ neighbourhood/NN/ of/IN/ Madison/NNP/ 
+Find/VB/ all/DT/ Bars/NNS/ in/IN/ Los/NNP/ Angeles/NNP/  with/IN/ at/IN/ least/JJS/ 30/CD/ reviews/NNS/ and/CC/ average/JJ/ rating/NN/ above/IN/ 3/CD/ stars/NNS/ 
+How/WRB/ many/JJ/ Egyptian/JJ/ restaurant/NN/ are/VBP/ there/EX/ in/IN/ Edinburgh/NNP/  
+Find/VB/ users/NNS/ whose/WP$/ average/JJ/ review/NN/ rating/NN/ is/VBZ/ below/IN/ 3/CD/ 
+Find/VB/ the/DT/ business/NN/ with/IN/ the/DT/ most/JJS/ number/NN/ of/IN/ reviews/NNS/ in/IN/ April/NNP/ 
+Find/VB/ the/DT/ business/NN/ which/WDT/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ categories/NNS/ 

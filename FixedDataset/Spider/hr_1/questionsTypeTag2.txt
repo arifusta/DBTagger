@@ -1,0 +1,124 @@
+Display/O/ the/O/ first/ATTR/ name/ATTR/ and/O/ department/ATTR/ name/ATTR/ for/O/ each/O/ employee/TABLE/ 
+What/O/ are/O/ the/O/ first/ATTR/ name/ATTR/ and/O/ department/ATTR/ name/ATTR/ of/O/ all/O/ employees/TABLE/ 
+List/O/ the/O/ full/O/ name/ATTR/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ and/O/ salary/ATTR/ for/O/ those/O/ employees/TABLE/ who/O/ earn/O/ below/COND/ 6000/VALUE/ 
+What/O/ are/O/ the/O/ full/O/ names/ATTR/ and/O/ salaries/ATTR/ for/O/ any/O/ employees/TABLE/ earning/O/ less/COND/ than/O/ 6000/VALUE/ 
+Display/O/ the/O/ first/ATTR/ name/ATTR/ and/O/ department/ATTR/ number/ATTR/ for/O/ all/O/ employees/TABLE/ whose/O/ last/ATTR/ name/ATTR/ is/COND/ McEwen/VALUE/ 
+What/O/ are/O/ the/O/ first/ATTR/ names/ATTR/ and/O/ department/ATTR/ numbers/ATTR/ for/O/ employees/TABLE/ with/COND/ last/ATTR/ name/ATTR/ McEwen/VALUE/ 
+Return/O/ all/O/ the/O/ information/O/ for/O/ all/O/ employees/TABLE/ without/COND/ any/O/ department/ATTR/ number/ATTR/ 
+What/O/ are/O/ all/O/ the/O/ employees/TABLE/ without/O/ a/O/ department/ATTR/ number/ATTR/ 
+Display/O/ all/O/ the/O/ information/O/ about/O/ the/O/ department/TABLE/ Marketing/VALUE/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ about/COND/ the/O/ Marketing/VALUE/ department/TABLE/ 
+when/O/ is/O/ the/O/ hire/ATTR/ date/ATTR/ for/O/ those/O/ employees/TABLE/ whose/O/ first/ATTR/ name/ATTR/ does/O/ not/COND/ containing/COND/ the/O/ letter/O/ M/VALUE/ 
+On/O/ what/O/ dates/ATTR/ were/O/ employees/TABLE/ without/COND/ the/O/ letter/O/ M/VALUE/ in/COND/ their/O/ first/ATTR/ names/ATTR/ hired/ATTR/ 
+display/O/ the/O/ full/O/ name/ATTR/ first/ATTR/ and/O/ last/ATTR/ hire/ATTR/ date/ATTR/ salary/ATTR/ and/O/ department/ATTR/ number/ATTR/ for/O/ those/O/ employees/TABLE/ whose/O/ first/ATTR/ name/ATTR/ does/O/ not/COND/ containing/COND/ the/O/ letter/O/ M/VALUE/ 
+What/O/ are/O/ the/O/ full/O/ name/ATTR/ hire/ATTR/ date/ATTR/ salary/ATTR/ and/O/ department/ATTR/ id/ATTR/ for/O/ employees/TABLE/ without/COND/ the/O/ letter/O/ M/VALUE/ in/COND/ their/O/ first/ATTR/ name/ATTR/ 
+display/O/ the/O/ full/O/ name/ATTR/ first/ATTR/ and/O/ last/ATTR/ hire/ATTR/ date/ATTR/ salary/ATTR/ and/O/ department/ATTR/ number/ATTR/ for/O/ those/O/ employees/TABLE/ whose/O/ first/ATTR/ name/ATTR/ does/O/ not/COND/ containing/COND/ the/O/ letter/O/ M/VALUE/ and/O/ make/O/ the/O/ result/O/ set/O/ in/O/ ascending/COND/ order/O/ by/O/ department/ATTR/ number/ATTR/ 
+What/O/ are/O/ the/O/ full/O/ name/ATTR/ hire/ATTR/ date/ATTR/ salary/ATTR/ and/O/ department/ATTR/ id/ATTR/ for/O/ employees/TABLE/ without/COND/ the/O/ letter/O/ M/VALUE/ in/COND/ their/O/ first/ATTR/ name/ATTR/ ordered/O/ by/O/ ascending/COND/ department/ATTR/ id/ATTR/ 
+what/O/ is/O/ the/O/ phone/ATTR/ number/ATTR/ of/O/ employees/TABLE/ whose/O/ salary/ATTR/ is/O/ in/O/ the/O/ range/COND/ of/O/ 8000/VALUE/ and/O/ 12000/VALUE/ 
+Return/O/ the/O/ phone/ATTR/ numbers/ATTR/ of/O/ employees/TABLE/ with/O/ salaries/ATTR/ between/COND/ 8000/VALUE/ and/O/ 12000/VALUE/ 
+display/O/ all/O/ the/O/ information/O/ of/O/ employees/TABLE/ whose/O/ salary/ATTR/ is/O/ in/O/ the/O/ range/COND/ of/O/ 8000/VALUE/ and/O/ 12000/VALUE/ and/O/ commission/ATTR/ is/COND/ not/COND/ null/VALUE/ or/O/ department/ATTR/ number/ATTR/ does/O/ not/COND/ equal/COND/ to/O/ 40/VALUE/ 
+Return/O/ all/O/ information/O/ about/O/ employees/TABLE/ with/O/ salaries/ATTR/ between/COND/ 8000/VALUE/ and/O/ 12000/VALUE/ for/O/ which/O/ commission/ATTR/ is/COND/ not/COND/ null/VALUE/ or/O/ where/O/ their/O/ department/ATTR/ id/ATTR/ is/COND/ not/COND/ 40/VALUE/ 
+What/O/ are/O/ the/O/ full/O/ name/ATTR/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ and/O/ salary/ATTR/ for/O/ all/O/ employees/TABLE/ who/O/ does/O/ not/COND/ have/COND/ any/O/ value/O/ for/O/ commission/ATTR/ 
+Return/O/ the/O/ full/O/ names/ATTR/ and/O/ salaries/ATTR/ of/O/ employees/TABLE/ with/COND/ null/VALUE/ commissions/ATTR/ 
+Display/O/ the/O/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ and/O/ salary/ATTR/ for/O/ those/O/ employees/TABLE/ whose/O/ first/ATTR/ name/ATTR/ is/O/ ending/COND/ with/COND/ the/O/ letter/O/ m/VALUE/ 
+Return/O/ the/O/ full/O/ names/ATTR/ and/O/ salaries/ATTR/ for/O/ employees/TABLE/ with/O/ first/ATTR/ names/ATTR/ that/O/ end/COND/ with/COND/ the/O/ letter/O/ m/VALUE/ 
+Find/O/ job/ATTR/ id/ATTR/ and/O/ date/ATTR/ of/O/ hire/ATTR/ for/O/ those/O/ employees/TABLE/ who/O/ was/O/ hired/ATTRREF/ between/COND/ November/VALUE/ 5th/VALUE/ 2007/VALUE/ and/O/ July/VALUE/ 5th/VALUE/ 2009/VALUE/ 
+What/O/ are/O/ the/O/ job/ATTR/ ids/ATTR/ and/O/ dates/ATTR/ of/O/ hire/ATTR/ for/O/ employees/TABLE/ hired/ATTRREF/ after/COND/ November/VALUE/ 5th/VALUE/ 2007/VALUE/ and/O/ before/COND/ July/VALUE/ 5th/VALUE/ 2009/VALUE/ 
+What/O/ are/O/ the/O/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ for/O/ those/O/ employees/TABLE/ who/O/ works/O/ either/O/ in/COND/ department/ATTR/ 70/VALUE/ or/O/ 90/VALUE/ 
+What/O/ are/O/ the/O/ full/O/ names/ATTR/ of/O/ employees/TABLE/ who/O/ with/O/ in/COND/ department/ATTR/ 70/VALUE/ or/O/ 90/VALUE/ 
+Find/O/ the/O/ salary/ATTR/ and/O/ manager/ATTR/ number/ATTR/ for/O/ those/O/ employees/TABLE/ who/O/ is/O/ working/O/ under/COND/ a/O/ manager/ATTR/ 
+What/O/ are/O/ the/O/ salaries/ATTR/ and/O/ manager/ATTR/ ids/ATTR/ for/O/ employees/O/ who/O/ have/COND/ managers/ATTR/ 
+display/O/ all/O/ the/O/ details/O/ from/O/ Employees/TABLE/ table/O/ for/O/ those/O/ employees/O/ who/O/ was/O/ hired/ATTRREF/ before/COND/ 2002-06-21/VALUE/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ about/O/ employees/O/ hired/ATTRREF/ before/COND/ June/VALUE/ 21/VALUE/ 2002/VALUE/ 
+display/O/ all/O/ the/O/ information/O/ for/O/ all/O/ employees/TABLE/ who/O/ have/O/ the/O/ letters/O/ D/VALUE/ or/O/ S/VALUE/ in/COND/ their/O/ first/ATTR/ name/ATTR/ and/O/ also/O/ arrange/O/ the/O/ result/O/ in/O/ descending/COND/ order/O/ by/O/ salary/ATTR/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ about/O/ employees/TABLE/ with/O/ D/VALUE/ or/O/ S/VALUE/ in/COND/ their/O/ first/ATTR/ name/ATTR/ ordered/O/ by/O/ salary/ATTR/ descending/COND/ 
+display/O/ those/O/ employees/TABLE/ who/O/ joined/ATTRREF/ after/COND/ 7th/VALUE/ September/VALUE/ 1987/VALUE/ 
+Which/O/ employees/TABLE/ were/O/ hired/ATTRREF/ after/COND/ September/VALUE/ 7th/VALUE/ 1987/VALUE/ 
+display/O/ the/O/ job/ATTR/ title/ATTR/ of/O/ jobs/TABLE/ which/O/ minimum/ATTR/ salary/ATTR/ is/O/ greater/COND/ than/O/ 9000/VALUE/ 
+Which/O/ job/ATTR/ titles/ATTR/ correspond/O/ to/O/ jobs/TABLE/ with/O/ salaries/ATTR/ over/COND/ 9000/VALUE/ 
+display/O/ job/ATTR/ Title/ATTR/ the/O/ difference/COND/ between/O/ minimum/ATTR/ and/O/ maximum/ATTR/ salaries/ATTR/ for/O/ those/O/ jobs/TABLE/ which/O/ max/ATTR/ salary/ATTR/ within/O/ the/O/ range/COND/ 12000/VALUE/ to/O/ 18000/VALUE/ 
+What/O/ are/O/ the/O/ job/ATTR/ titles/ATTR/ and/O/ range/O/ of/O/ salaries/ATTR/ for/O/ jobs/TABLE/ with/O/ maximum/ATTR/ salary/ATTR/ between/COND/ 12000/VALUE/ and/O/ 18000/VALUE/ 
+display/O/ the/O/ emails/ATTR/ of/O/ the/O/ employees/TABLE/ who/O/ have/COND/ no/COND/ commission/ATTR/ percentage/ATTR/ and/O/ salary/ATTR/ within/O/ the/O/ range/COND/ 7000/VALUE/ to/O/ 12000/VALUE/ and/O/ works/O/ in/COND/ that/O/ department/ATTR/ which/O/ number/ATTR/ is/O/ 50/VALUE/ 
+What/O/ are/O/ the/O/ emails/ATTR/ of/O/ employees/TABLE/ with/COND/ null/VALUE/ commission/ATTR/ salary/ATTR/ between/COND/ 7000/VALUE/ and/O/ 12000/VALUE/ and/O/ who/O/ work/O/ in/COND/ department/ATTR/ 50/VALUE/ 
+display/O/ the/O/ employee/ATTR/ ID/ATTR/ for/O/ each/O/ employee/O/ and/O/ the/O/ date/ATTR/ on/O/ which/O/ he/O/ ended/ATTRREF/ his/O/ previous/O/ job/TABLE/ 
+What/O/ are/O/ the/O/ employee/ATTR/ ids/ATTR/ for/O/ each/O/ employee/TABLE/ and/O/ final/ATTR/ dates/ATTR/ of/O/ employment/TABLEREF/ at/O/ their/O/ last/O/ job/TABLE/ 
+display/O/ those/O/ departments/ATTR/ where/O/ more/COND/ than/O/ ten/O/ employees/TABLE/ work/O/ who/O/ got/COND/ a/O/ commission/ATTR/ percentage/ATTR/ 
+What/O/ are/O/ the/O/ department/ATTR/ ids/ATTR/ for/O/ which/O/ more/COND/ than/O/ 10/O/ employees/TABLE/ had/COND/ a/O/ commission/ATTR/ 
+Find/O/ the/O/ ids/ATTR/ of/O/ the/O/ departments/ATTR/ where/O/ any/O/ manager/ATTR/ is/O/ managing/O/ 4/O/ or/O/ more/COND/ employees/TABLE/ 
+What/O/ are/O/ department/ATTR/ ids/ATTR/ for/O/ departments/TABLE/ with/O/ managers/ATTR/ managing/O/ more/COND/ than/O/ 3/O/ employees/TABLE/ 
+display/O/ the/O/ average/O/ salary/ATTR/ of/O/ employees/TABLE/ for/O/ each/O/ department/ATTR/ who/O/ gets/COND/ a/O/ commission/ATTR/ percentage/ATTR/ 
+What/O/ is/O/ the/O/ average/O/ salary/ATTR/ of/O/ employees/TABLE/ who/O/ have/O/ a/O/ commission/ATTR/ percentage/ATTR/ that/O/ is/COND/ not/COND/ null/VALUE/ 
+display/O/ the/O/ country/ATTR/ ID/ATTR/ and/O/ number/O/ of/O/ cities/O/ for/O/ each/O/ country/ATTR/ 
+Give/O/ the/O/ country/ATTR/ id/ATTR/ and/O/ corresponding/O/ count/O/ of/O/ cities/O/ in/O/ each/O/ country/ATTR/ 
+display/O/ job/ATTR/ ID/ATTR/ for/O/ those/O/ jobs/TABLE/ that/O/ were/O/ done/TABLEREF/ by/O/ two/O/ or/O/ more/COND/ for/O/ more/COND/ than/O/ 300/O/ days/O/ 
+What/O/ are/O/ the/O/ job/ATTR/ ids/ATTR/ for/O/ jobs/TABLE/ done/TABLEREF/ more/COND/ than/O/ once/O/ for/O/ a/O/ period/O/ of/O/ more/COND/ than/O/ 300/O/ days/O/ 
+display/O/ the/O/ ID/ATTR/ for/O/ those/O/ employees/ATTR/ who/O/ did/TABLEREF/ two/O/ or/O/ more/COND/ jobs/TABLE/ in/O/ the/O/ past/TABLEREF/ 
+What/O/ are/O/ the/O/ employee/ATTR/ ids/ATTR/ for/O/ employees/TABLE/ who/O/ have/O/ held/TABLEREF/ two/O/ or/O/ more/COND/ jobs/TABLE/ 
+Find/O/ employee/ATTR/ with/O/ ID/ATTR/ and/O/ name/ATTR/ of/O/ the/O/ country/ATTR/ presently/O/ where/O/ (s)he/O/ is/O/ working/O/ 
+What/O/ are/O/ all/O/ the/O/ employee/ATTR/ ids/ATTR/ and/O/ the/O/ names/ATTR/ of/O/ the/O/ countries/ATTR/ in/O/ which/O/ they/O/ work/O/ 
+display/O/ the/O/ department/ATTR/ name/ATTR/ and/O/ number/O/ of/O/ employees/TABLE/ in/O/ each/O/ of/O/ the/O/ department/ATTR/ 
+Give/O/ the/O/ name/ATTR/ of/O/ each/O/ department/ATTR/ and/O/ the/O/ number/O/ of/O/ employees/TABLE/ in/O/ each/O/ 
+Can/O/ you/O/ return/O/ all/O/ detailed/O/ info/O/ of/O/ jobs/TABLE/ which/O/ was/O/ done/TABLEREF/ by/O/ any/O/ of/O/ the/O/ employees/TABLE/ who/O/ is/O/ presently/O/ earning/O/ a/O/ salary/ATTR/ on/COND/ and/O/ above/COND/ 12000/VALUE/ 
+What/O/ is/O/ all/O/ the/O/ job/TABLE/ history/TABLE/ info/O/ done/O/ by/O/ employees/TABLE/ earning/O/ a/O/ salary/ATTR/ greater/COND/ than/O/ or/O/ equal/COND/ to/O/ 12000/VALUE/ 
+display/O/ job/ATTR/ title/ATTR/ and/O/ average/O/ salary/ATTR/ of/O/ employees/TABLE/ 
+What/O/ is/O/ the/O/ average/O/ salary/ATTR/ for/O/ each/O/ job/ATTR/ title/ATTR/ 
+What/O/ is/O/ the/O/ full/O/ name/ATTR/ /O/ first/ATTR/ name/ATTR/ and/O/ last/ATTR/ name/ATTR/ /O/ for/O/ those/O/ employees/TABLE/ who/O/ gets/O/ more/COND/ salary/ATTR/ than/O/ the/O/ employee/ATTR/ whose/O/ id/ATTR/ is/COND/ 163/VALUE/ 
+Provide/O/ the/O/ full/O/ names/ATTR/ of/O/ employees/TABLE/ earning/ATTRREF/ more/COND/ than/O/ the/O/ employee/ATTR/ with/COND/ id/ATTR/ 163/VALUE/ 
+return/O/ the/O/ smallest/O/ salary/ATTR/ for/O/ every/O/ departments/ATTR/ 
+What/O/ is/O/ the/O/ minimum/O/ salary/ATTR/ in/O/ each/O/ department/ATTR/ 
+Find/O/ the/O/ first/ATTR/ name/ATTR/ and/O/ last/ATTR/ name/ATTR/ and/O/ department/ATTR/ id/ATTR/ for/O/ those/O/ employees/TABLE/ who/O/ earn/O/ such/O/ amount/O/ of/O/ salary/ATTR/ which/O/ is/COND/ the/O/ smallest/COND/ salary/ATTR/ of/O/ any/O/ of/O/ the/O/ departments/ATTR/ 
+What/O/ are/O/ the/O/ full/O/ names/ATTR/ and/O/ department/ATTR/ ids/ATTR/ for/O/ the/O/ lowest/COND/ paid/ATTRREF/ employees/TABLE/ across/O/ all/O/ departments/ATTR/ 
+Find/O/ the/O/ employee/ATTR/ id/ATTR/ for/O/ all/O/ employees/TABLE/ who/O/ earn/O/ more/COND/ than/O/ the/O/ average/O/ salary/ATTR/ 
+What/O/ are/O/ the/O/ employee/ATTR/ ids/ATTR/ for/O/ employees/TABLE/ who/O/ make/ATTRREF/ more/COND/ than/O/ the/O/ average/O/ 
+display/O/ the/O/ employee/ATTR/ id/ATTR/ and/O/ salary/ATTR/ of/O/ all/O/ employees/TABLE/ who/O/ report/ATTRREF/ to/O/ Payam/VALUE/ first/ATTR/ name/ATTR/ 
+What/O/ are/O/ the/O/ employee/ATTR/ ids/ATTR/ of/O/ employees/TABLE/ who/O/ report/ATTRREF/ to/O/ Payam/VALUE/ and/O/ what/O/ are/O/ their/O/ salaries/ATTR/ 
+find/O/ the/O/ name/ATTR/ of/O/ all/O/ departments/ATTR/ that/O/ do/O/ actually/O/ have/O/ one/O/ or/O/ more/COND/ employees/TABLE/ assigned/O/ to/O/ them/O/ 
+What/O/ are/O/ the/O/ names/ATTR/ of/O/ departments/ATTR/ that/O/ have/O/ at/COND/ least/COND/ one/O/ employee/TABLE/ 
+get/O/ the/O/ details/O/ of/O/ employees/TABLE/ who/O/ manage/ATTRREF/ a/O/ department/TABLE/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ regarding/O/ employees/TABLE/ who/O/ are/O/ managers/ATTR/ 
+display/O/ all/O/ the/O/ information/O/ about/O/ the/O/ department/TABLE/ Marketing/VALUE/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ about/O/ the/O/ Marketing/VALUE/ department/TABLE/ 
+display/O/ the/O/ ID/ATTR/ for/O/ those/O/ employees/ATTR/ who/O/ did/TABLEREF/ two/O/ or/O/ more/COND/ jobs/TABLE/ in/O/ the/O/ past/TABLEREF/ 
+What/O/ are/O/ the/O/ employee/ATTR/ ids/ATTR/ for/O/ those/O/ who/O/ had/TABLEREF/ two/O/ or/O/ more/COND/ jobs/TABLE/ 
+What/O/ are/O/ the/O/ unique/O/ ids/ATTR/ of/O/ those/O/ departments/ATTR/ where/O/ any/O/ manager/ATTR/ is/O/ managing/O/ 4/O/ or/O/ more/COND/ employees/TABLE/ 
+Give/O/ the/O/ distinct/O/ department/ATTR/ ids/ATTR/ of/O/ departments/TABLE/ in/O/ which/O/ a/O/ manager/ATTR/ is/O/ in/O/ charge/O/ of/O/ 4/O/ or/O/ more/COND/ employees/TABLE/ 
+Find/O/ the/O/ job/ATTR/ ID/ATTR/ for/O/ those/O/ jobs/TABLE/ which/O/ average/O/ salary/ATTR/ is/O/ above/COND/ 8000/VALUE/ 
+What/O/ are/O/ the/O/ job/ATTR/ ids/ATTR/ corresponding/O/ to/O/ jobs/TABLE/ with/O/ average/O/ salary/ATTR/ above/COND/ 8000/VALUE/ 
+display/O/ the/O/ employee/ATTR/ ID/ATTR/ and/O/ job/ATTR/ name/ATTR/ for/O/ all/O/ those/O/ jobs/TABLE/ in/O/ department/ATTR/ 80/VALUE/ 
+what/O/ are/O/ the/O/ employee/ATTR/ ids/ATTR/ and/O/ job/ATTR/ titles/ATTR/ for/O/ employees/TABLE/ in/O/ department/ATTR/ 80/VALUE/ 
+What/O/ is/O/ the/O/ first/ATTR/ name/ATTR/ and/O/ job/ATTR/ id/ATTR/ for/O/ all/O/ employees/TABLE/ in/COND/ the/O/ Finance/VALUE/ department/ATTR/ 
+Give/O/ the/O/ first/ATTR/ name/ATTR/ and/O/ job/ATTR/ id/ATTR/ for/O/ all/O/ employees/TABLE/ in/COND/ the/O/ Finance/VALUE/ department/ATTR/ 
+display/O/ all/O/ the/O/ information/O/ of/O/ the/O/ employees/TABLE/ whose/O/ salary/ATTR/ is/O/ within/COND/ the/O/ range/COND/ of/O/ smallest/COND/ salary/ATTR/ and/O/ 2500/VALUE/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ regarding/O/ employees/TABLE/ with/O/ salaries/ATTR/ above/COND/ the/O/ minimum/COND/ and/O/ under/COND/ 2500/VALUE/ 
+Find/O/ the/O/ ids/ATTR/ of/O/ the/O/ employees/ATTR/ who/O/ does/O/ not/O/ work/O/ in/O/ those/O/ departments/ATTR/ where/O/ some/O/ employees/TABLE/ works/O/ whose/O/ manager/ATTR/ id/ATTR/ within/COND/ the/O/ range/COND/ 100/VALUE/ and/O/ 200/VALUE/ 
+What/O/ are/O/ the/O/ ids/ATTR/ for/O/ employees/ATTR/ who/O/ do/O/ not/O/ work/O/ in/O/ departments/ATTR/ with/O/ managers/ATTR/ that/O/ have/O/ ids/ATTR/ between/COND/ 100/VALUE/ and/O/ 200/VALUE/ 
+display/O/ the/O/ employee/TABLE/ name/ATTR/ /O/ first/ATTR/ name/ATTR/ and/O/ last/ATTR/ name/ATTR/ /O/ and/O/ hire/ATTR/ date/ATTR/ for/O/ all/O/ employees/TABLE/ in/O/ the/O/ same/O/ department/ATTR/ as/COND/ Clara/VALUE/ 
+What/O/ are/O/ the/O/ full/O/ names/ATTR/ and/O/ hire/ATTR/ dates/ATTR/ for/O/ employees/TABLE/ in/O/ the/O/ same/O/ department/ATTR/ as/O/ someone/O/ with/COND/ the/O/ first/ATTR/ name/ATTR/ Clara/VALUE/ 
+display/O/ the/O/ employee/TABLE/ name/ATTR/ /O/ first/ATTR/ name/ATTR/ and/O/ last/ATTR/ name/ATTR/ /O/ and/O/ hire/ATTR/ date/ATTR/ for/O/ all/O/ employees/TABLE/ in/O/ the/O/ same/O/ department/ATTR/ as/COND/ Clara/VALUE/ excluding/COND/ Clara/VALUE/ 
+What/O/ are/O/ the/O/ full/O/ names/ATTR/ and/O/ hire/ATTR/ dates/ATTR/ for/O/ employees/TABLE/ in/O/ the/O/ same/O/ department/ATTR/ as/O/ someone/O/ with/COND/ the/O/ first/ATTR/ name/ATTR/ Clara/VALUE/ not/COND/ including/COND/ Clara/VALUE/ 
+display/O/ the/O/ employee/ATTR/ number/ATTR/ and/O/ name/ATTR/ first/ATTR/ name/ATTR/ and/O/ last/ATTR/ name/ATTR/ /O/ for/O/ all/O/ employees/TABLE/ who/O/ work/O/ in/O/ a/O/ department/ATTR/ with/O/ any/O/ employee/TABLE/ whose/O/ name/ATTR/ contains/COND/ a/O/ T/VALUE/ 
+What/O/ are/O/ the/O/ ids/ATTR/ and/O/ full/O/ names/ATTR/ for/O/ employees/ATTR/ who/O/ work/O/ in/O/ a/O/ department/ATTR/ that/O/ has/O/ someone/O/ with/O/ a/O/ first/ATTR/ name/ATTR/ that/O/ contains/COND/ the/O/ letter/O/ T/VALUE/ 
+display/O/ the/O/ employee/ATTR/ number/ATTR/ name/ATTR/ first/ATTR/ name/ATTR/ and/O/ last/ATTR/ name/ATTR/ /O/ and/O/ salary/ATTR/ for/O/ all/O/ employees/TABLE/ who/O/ earn/O/ more/COND/ than/O/ the/O/ average/O/ salary/ATTR/ and/O/ who/O/ work/O/ in/COND/ a/O/ department/ATTR/ with/O/ any/O/ employee/TABLE/ with/O/ a/O/ J/VALUE/ in/COND/ their/O/ first/ATTR/ name/ATTR/ 
+What/O/ are/O/ the/O/ ids/ATTR/ full/O/ names/ATTR/ and/O/ salaries/ATTR/ for/O/ employees/TABLE/ making/O/ more/COND/ than/O/ average/O/ and/O/ who/O/ work/O/ in/COND/ a/O/ department/ATTR/ with/O/ employees/TABLE/ who/O/ have/O/ the/O/ letter/O/ J/VALUE/ in/COND/ their/O/ first/ATTR/ name/ATTR/ 
+display/O/ the/O/ employee/ATTR/ number/ATTR/ and/O/ job/ATTR/ id/ATTR/ for/O/ all/O/ employees/TABLE/ whose/O/ salary/ATTR/ is/O/ smaller/COND/ than/O/ any/O/ salary/ATTR/ of/O/ those/O/ employees/TABLE/ whose/O/ job/ATTR/ title/ATTR/ is/COND/ MKMAN/VALUE/ 
+What/O/ are/O/ the/O/ employee/ATTR/ ids/ATTR/ and/O/ job/ATTR/ ids/ATTR/ for/O/ employees/TABLE/ who/O/ make/ATTRREF/ less/COND/ than/O/ the/O/ lowest/O/ earning/ATTRREF/ employee/TABLE/ with/COND/ title/ATTR/ MKMAN/VALUE/ 
+display/O/ the/O/ employee/ATTR/ number/ATTR/ name/ATTR/ first/ATTR/ name/ATTR/ and/O/ last/ATTR/ name/ATTR/ /O/ and/O/ job/ATTR/ title/ATTR/ for/O/ all/O/ employees/TABLE/ whose/O/ salary/ATTR/ is/O/ more/COND/ than/O/ any/O/ salary/ATTR/ of/O/ those/O/ employees/TABLE/ whose/O/ job/ATTR/ title/ATTR/ is/COND/ PUMAN/VALUE/ 
+What/O/ are/O/ the/O/ employee/ATTR/ ids/ATTR/ full/O/ names/ATTR/ and/O/ job/ATTR/ ids/ATTR/ for/O/ employees/TABLE/ who/O/ make/ATTRREF/ more/COND/ than/O/ the/O/ highest/O/ earning/ATTRREF/ employee/TABLE/ with/COND/ title/ATTR/ PUMAN/VALUE/ 
+display/O/ the/O/ department/ATTR/ id/ATTR/ and/O/ the/O/ total/O/ salary/ATTR/ for/O/ those/O/ departments/ATTR/ which/O/ contains/O/ at/COND/ least/COND/ two/O/ employees/TABLE/ 
+What/O/ are/O/ total/O/ salaries/ATTR/ and/O/ department/ATTR/ id/ATTR/ for/O/ each/O/ department/ATTR/ that/O/ has/O/ more/COND/ than/O/ 2/O/ employees/TABLE/ 
+display/O/ all/O/ the/O/ information/O/ of/O/ those/O/ employees/TABLE/ who/O/ did/O/ not/COND/ have/TABLEREF/ any/O/ job/TABLE/ in/O/ the/O/ past/TABLEREF/ 
+What/O/ is/O/ all/O/ the/O/ information/O/ about/O/ employees/TABLE/ who/O/ have/O/ never/COND/ had/TABLEREF/ a/O/ job/TABLE/ in/O/ the/O/ past/TABLEREF/ 
+display/O/ the/O/ department/ATTR/ ID/ATTR/ full/O/ name/ATTR/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ salary/ATTR/ for/O/ those/O/ employees/TABLE/ who/O/ is/O/ highest/COND/ salary/ATTR/ in/O/ every/O/ department/ATTR/ 
+What/O/ are/O/ the/O/ department/ATTR/ ids/ATTR/ full/O/ names/ATTR/ and/O/ salaries/ATTR/ for/O/ employees/TABLE/ who/O/ make/ATTRREF/ the/O/ most/COND/ in/O/ their/O/ departments/ATTR/ 
+display/O/ the/O/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ department/ATTR/ city/ATTR/ and/O/ state/ATTR/ province/ATTR/ for/O/ each/O/ employee/TABLE/ 
+What/O/ are/O/ the/O/ full/O/ names/ATTR/ departments/ATTR/ cities/ATTR/ and/O/ state/ATTR/ provinces/ATTR/ for/O/ each/O/ employee/TABLE/ 
+display/O/ those/O/ employees/TABLE/ who/O/ contain/COND/ a/O/ letter/O/ z/VALUE/ to/O/ their/O/ first/ATTR/ name/ATTR/ and/O/ also/O/ display/O/ their/O/ last/ATTR/ name/ATTR/ city/ATTR/ 
+What/O/ are/O/ the/O/ full/O/ names/ATTR/ and/O/ cities/ATTR/ of/O/ employees/TABLE/ who/O/ have/O/ the/O/ letter/O/ Z/VALUE/ in/COND/ their/O/ first/ATTR/ names/ATTR/ 
+display/O/ the/O/ department/ATTR/ name/ATTR/ city/ATTR/ and/O/ state/ATTR/ province/ATTR/ for/O/ each/O/ department/TABLE/ 
+What/O/ are/O/ the/O/ department/ATTR/ names/ATTR/ cities/ATTR/ and/O/ state/ATTR/ provinces/ATTR/ for/O/ each/O/ department/TABLE/ 
+display/O/ the/O/ full/O/ name/ATTR/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ /O/ of/O/ employee/TABLE/ with/O/ ID/ATTR/ and/O/ name/ATTR/ of/O/ the/O/ country/ATTR/ presently/O/ where/O/ (s)he/O/ is/O/ working/O/ 
+What/O/ the/O/ full/O/ names/ATTR/ ids/ATTR/ of/O/ each/O/ employee/TABLE/ and/O/ the/O/ name/ATTR/ of/O/ the/O/ country/ATTR/ they/O/ are/O/ in/O/ 
+display/O/ the/O/ department/ATTR/ name/ATTR/ and/O/ number/O/ of/O/ employees/TABLE/ in/O/ each/O/ of/O/ the/O/ department/ATTR/ 
+What/O/ are/O/ the/O/ department/ATTR/ names/ATTR/ and/O/ how/O/ many/O/ employees/TABLE/ work/O/ in/O/ each/O/ of/O/ them/ATTRREF/ 
+display/O/ the/O/ full/O/ name/ATTR/ first/ATTR/ and/O/ last/ATTR/ name/ATTR/ and/O/ salary/ATTR/ of/O/ those/O/ employees/TABLE/ who/O/ working/O/ in/O/ any/O/ department/TABLE/ located/TABLEREF/ in/COND/ London/VALUE/ 
+What/O/ are/O/ full/O/ names/ATTR/ and/O/ salaries/ATTR/ of/O/ employees/TABLE/ working/O/ in/O/ the/O/ city/ATTR/ of/COND/ London/VALUE/ 

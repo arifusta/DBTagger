@@ -1,0 +1,200 @@
+O O paper O writes COND keyphrase.keyphraseName keyphrase.keyphraseName COND paper.year O
+
+O venue O author.authorName author.authorName author.authorName paper O O O O
+
+paper paper COND paper.year O author.authorName author.authorName
+
+paper COND paper.year
+
+keyphrase O O author.authorName author.authorName COND O venue.venueName paper
+
+O O O paper O keyphrase.keyphraseName keyphrase.keyphraseName keyphrase.keyphraseName O O O cite O
+
+O paper O O paper COND paper.year O O paper.title paper.title keyphrase.keyphraseName keyphrase.keyphraseName keyphrase.keyphraseName keyphrase.keyphraseName O
+
+dataset O paper O keyphrase.keyphraseName keyphrase.keyphraseName
+
+O paper O O keyphrase.keyphraseName keyphrase.keyphraseName O
+
+O writes paper COND paper.year
+
+keyphrase.keyphraseName keyphrase.keyphraseName paper O writes O author.authorName author.authorName
+
+O O venue O author.authorName author.authorName O paper O
+
+O O paper O author.authorName author.authorName paper O
+
+O O paper O author.authorName author.authorName author.authorName cite
+
+O paper author O venue.venueName paper.year
+
+O O paper O paper COND venue.venueName O
+
+O paper keyphrase.keyphraseName keyphrase.keyphraseName paper O venue.venueName paper.year
+
+O O cite O author.authorName author.authorName O keyphrase.keyphraseName keyphrase.keyphraseName paper O O
+
+O keyphrase.keyphraseName keyphrase.keyphraseName paper
+
+O author.authorName author.authorName O O O author.authorName author.authorName O
+
+keyphrase O O author.authorName author.authorName author.authorName
+
+O O paper O author.authorName author.authorName paper O
+
+O O author.authorName author.authorName paper O
+
+keyphrase.keyphraseName keyphrase.keyphraseName paper COND O paper.year
+
+paper.year O O paper COND keyphrase.keyphraseName keyphrase.keyphraseName O author.authorName author.authorName
+
+O O O O paper paper O author.authorName author.authorName author.authorName O
+
+keyphrase O O author.authorName author.authorName
+
+O O paper COND venue.venueName paper.year O
+
+paper O O keyphrase.keyphraseName keyphrase.keyphraseName
+
+venue O author.authorName author.authorName O paper COND
+
+O paper.year O O O keyphrase.keyphraseName keyphrase.keyphraseName paper paper O
+
+dataset COND keyphrase.keyphraseName paper
+
+O O paper O author.authorName author.authorName writes O paper.year O
+
+O O author.authorName author.authorName O O cite paper O
+
+O O paper O author.authorName author.authorName O COND venue.venueName O
+
+paper O venue.venueName
+
+paper COND keyphrase.keyphraseName keyphrase.keyphraseName
+
+O O paper COND keyphrase.keyphraseName keyphrase.keyphraseName keyphrase.keyphraseName COND paper.year O
+
+dataset O keyphrase.keyphraseName
+
+O O paper O author.authorName author.authorName O O keyphrase keyphrase.keyphraseName keyphrase.keyphraseName O
+
+paper O keyphrase.keyphraseName keyphrase.keyphraseName
+
+O O O O O author COND venue.venueName O
+
+O O paper O O O O paper O author.authorName author.authorName O
+
+O O O paper COND keyphrase.keyphraseName keyphrase.keyphraseName
+
+paper COND paper.year O keyphrase.keyphraseName keyphrase.keyphraseName
+
+paper O author.authorName author.authorName
+
+paper O O venue.venueName
+
+dataset O keyphrase.keyphraseName keyphrase.keyphraseName
+
+O keyphrase.keyphraseName keyphrase.keyphraseName author
+
+cite O author.authorName author.authorName
+
+author O paper COND keyphrase.keyphraseName keyphrase.keyphraseName
+
+O author.authorName author.authorName paper O O O
+
+O O paper O O COND dataset.datasetName
+
+O paper O venue.venueName paper.year O
+
+dataset.datasetName dataset
+
+O O paper O author.authorName author.authorName O O
+
+O O venue.venueName paper O author
+
+O O O O paper O author.authorName author.authorName author.authorName O author.authorName author.authorName O
+
+keyphrase O O author.authorName COND paper.year
+
+O paper O COND O venue.venueName O paper.year
+
+O keyphrase.keyphraseName keyphrase.keyphraseName paper
+
+O cite paper COND keyphrase.keyphraseName keyphrase.keyphraseName
+
+O journal O author.authorName author.authorName O paper O O
+
+O O O O O O paper O author.authorName author.authorName O
+
+paper O author.authorName author.authorName
+
+O keyphrase.keyphraseName keyphrase.keyphraseName paper
+
+O O paper O author.authorName author.authorName paper O venue.venueName O
+
+keyphrase O O author.authorName author.authorName
+
+keyphrase O O author.authorName author.authorName
+
+O O O paper O author.authorName author.authorName COND keyphrase.keyphraseName keyphrase.keyphraseName O
+
+O O O author O O O paper paper COND venue.venueName O
+
+O paper O author.authorName author.authorName
+
+O venue O author.authorName author.authorName paper O O O
+
+keyphrase O O author.authorName author.authorName COND paper.year
+
+O O O O author O author.authorName author.authorName O
+
+author.authorName author.authorName cite O
+
+dataset O O keyphrase.keyphraseName keyphrase.keyphraseName paper
+
+O O paper O author.authorName author.authorName O COND venue.venueName O
+
+O O author.authorName author.authorName O O paper O
+
+paper O keyphrase.keyphraseName keyphrase.keyphraseName O venue.venueName
+
+O paper writes O author.authorName author.authorName
+
+paper O COND O O cite
+
+paper COND dataset.datasetName
+
+O O writes O O paper COND keyphrase.keyphraseName keyphrase.keyphraseName COND paper.year O
+
+O dataset O author.authorName author.authorName O O
+
+paper O author.authorName author.authorName O author.authorName author.authorName
+
+keyphrase O O paper writes O author.authorName author.authorName
+
+paper O venue.venueName O O keyphrase.keyphraseName keyphrase.keyphraseName
+
+O paper O author.authorName author.authorName O author.authorName O author O
+
+keyphrase O O author.authorName author.authorName author.authorName O O paper.year
+
+paper paper O venue.venueName paper.year
+
+O keyphrase.keyphraseName keyphrase.keyphraseName paper
+
+O O paper O author.authorName O keyphrase.keyphraseName O O
+
+paper O O author.authorName author.authorName author.authorName COND paper.year
+
+O dataset O keyphrase.keyphraseName keyphrase.keyphraseName
+
+paper O venue.venueName paper.year venue
+
+O O keyphrase.keyphraseName venue O
+
+O O author.authorName author.authorName paper O O venue.venueName paper O
+
+O O paper O author.authorName author.authorName cite O
+
+O paper O COND O O cite O venue.venueName paper
+

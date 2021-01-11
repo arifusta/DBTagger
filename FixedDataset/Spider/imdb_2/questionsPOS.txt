@@ -1,0 +1,109 @@
+What/WDT/ year/NN/ is/VBZ/ the/DT/ movie/NN/ The/DT/ Imitation/NN/ Game/NN/ from/IN/  
+What/WDT/ year/NN/ was/VBD/ the/DT/ movie/NN/ The/DT/ Imitation/NN/ Game/NN/ produced/VBD/ 
+What/WDT/ year/NN/ was/VBD/ Benedict/NNP/ Cumberbatch/NNP/ born/VBN/  
+In/IN/ what/WDT/ year/NN/ was/VBD/ Benedict/NNP/ Cumberbatch/NNP/ born/VBN/ 
+What/WP/ is/VBZ/ the/DT/ nationality/NN/ of/IN/ the/DT/ actress/NN/ Christoph/NNP/ Waltz/NNP/  
+What/WP/ is/VBZ/ the/DT/ nationality/NN/ of/IN/ the/DT/ actor/NN/ Christoph/NNP/ Waltz/NNP/  
+Find/VB/ all/DT/ movies/NNS/ produced/VBN/ in/IN/ 2015/CD/ 
+Find/VB/ all/DT/ actors/NNS/ born/VBN/ in/IN/ Tehran/NNP/ 
+Find/VB/ all/DT/ actors/NNS/ born/VBN/ in/IN/ Tehran/NNP/ 
+Which/WDT/ actors/NNS/ were/VBD/ born/VBN/ in/IN/ Tehran/NNP/ 
+Find/VB/ all/DT/ actors/NNS/ who/WP/ are/VBP/ from/IN/ Afghanistan/NNP/ 
+Find/VB/ all/DT/ actors/NNS/ from/IN/ Afghanistan/NNP/ 
+Give/VB/ me/PRP/ the/DT/ name/NN/ of/IN/ all/PDT/ the/DT/ actors/NNS/ from/IN/ Afghanistan/NNP/ 
+Find/VB/ all/DT/ actors/NNS/ who/WP/ were/VBD/ born/VBN/ in/IN/ 1984/CD/ 
+When/WRB/ was/VBD/ Kevin/NNP/ Spacey/NNP/ born/VBN/  
+In/IN/ what/WDT/ year/NN/ was/VBD/ Kevin/NNP/ Spacey/NNP/ born/VBN/  
+Where/WRB/ is/VBZ/ the/DT/ birth/NN/ place/NN/ of/IN/ Kevin/NNP/ Spacey/NNP/ 
+In/IN/ what/WDT/ city/NN/ was/VBD/ Kevin/NNP/ Spacey/NNP/ born/VBN/  
+What/WP/ is/VBZ/ the/DT/ nationality/NN/ of/IN/ Kevin/NNP/ Spacey/NNP/  
+How/WRB/ much/RB/ was/VBD/ the/DT/ budget/NN/ of/IN/ Finding/NNP/ Nemo/NNP/ 
+Find/VB/ all/DT/ movies/NNS/ directed/VBN/ by/IN/ Steven/NNP/ Spielberg/NNP/ after/IN/ 2006/CD/ 
+Who/WP/ is/VBZ/ the/DT/ director/NN/ of/IN/ the/DT/ movie/NN/ James/NNP/ Bond/NNP/  
+Who/WP/ directed/VBD/ the/DT/ movie/NN/ James/NNP/ Bond/NNP/  
+List/NN/ James/NNP/ Bond/NNP/ directors/NNS/ 
+Find/VB/ the/DT/ actor/NN/ who/WP/ played/VBD/ Alan/NNP/ Turing/NNP/ in/IN/ the/DT/ movie/NN/ The/DT/ Imitation/NNP/ Game/NNP/ 
+Who/WP/ acted/VBD/ Alan/NNP/ Turing/NNP/ in/IN/ the/DT/ movie/NN/ The/DT/ Imitation/NN/ Game/NN/  
+Who/WP/ was/VBD/ the/DT/ actor/NN/ that/WDT/ played/VBD/ Alan/NNP/ Turing/NNP/ in/IN/ the/DT/ movie/NN/ The/DT/ Imitation/NN/ Game/NN/  
+Who/WP/ acts/VBZ/ as/IN/ Alan/NNP/ Turing/NNP/ in/IN/ the/DT/ movie/NN/ The/DT/ Imitation/NN/ Game/NN/  
+Who/WP/ is/VBZ/ the/DT/ actor/NN/ playing/VBG/ Alan/NNP/ Turing/NNP/ in/IN/ The/DT/ Imitation/NN/ Game/NN/  
+What/WP/ is/VBZ/ the/DT/ genre/NN/ of/IN/ the/DT/ movie/NN/ Jurassic/JJ/ Park/NN/  
+Who/WP/ was/VBD/ the/DT/ director/NN/ of/IN/ the/DT/ movie/NN/ Joy/NNP/ from/IN/ 2015/CD/  
+Find/VB/ all/DT/ movies/NNS/ written/VBN/ by/IN/ Matt/NNP/ Damon/NNP/ 
+Find/VB/ all/DT/ movies/NNS/ written/VBN/ and/CC/ produced/VBN/ by/IN/ Woody/NNP/ Allen/NNP/ 
+Find/VB/ all/DT/ movies/NNS/ featuring/VBG/ Robin/NNP/ Wright/NNP/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ movies/NNS/ featuring/VBG/ Robin/NNP/ Wright/NNP/  
+Find/VB/ all/DT/ movies/NNS/ in/IN/ which/WDT/ Robin/NNP/ Wright/NNP/ appears/VBZ/ 
+What/WP/ was/VBD/ the/DT/ budget/NN/ of/IN/ the/DT/ movie/NN/ Juno/NNP/ from/IN/ 2007/CD/  
+Find/VB/ all/DT/ Sci-Fi/NNS/ produced/VBN/ in/IN/ year/NN/ 2010/CD/ 
+List/NN/ all/PDT/ the/DT/ Sci-Fi/NN/ movies/NNS/ which/WDT/ released/VBD/ in/IN/ 2010/CD/ 
+Find/VB/ all/DT/ actors/NNS/ born/VBN/ in/IN/ Austin/NNP/ after/IN/ 1980/CD/ 
+Who/WP/ are/VBP/ the/DT/ actors/NNS/ born/VBN/ in/IN/ Austin/NNP/ after/IN/ 1980/CD/  
+Find/VB/ all/DT/ actors/NNS/ from/IN/ Austin/NNP/ born/VBN/ after/IN/ 1980/CD/ 
+Find/VB/ all/DT/ movies/NNS/ by/IN/ directors/NNS/ born/VBN/ in/IN/ Los/NNP/ Angeles/NNP/ 
+Find/VB/ all/DT/ actors/NNS/ who/WP/ were/VBD/ born/VBN/ in/IN/ New/NNP/ York/NNP/ City/NNP/ in/IN/ 1984/CD/ 
+Find/VB/ all/DT/ movies/NNS/ about/IN/ nuclear/JJ/ weapons/NNS/ 
+What/WP/ are/VBP/ the/DT/ movies/NNS/ related/VBN/ to/TO/ nuclear/JJ/ weapons/NNS/ 
+Which/WDT/ movies/NNS/ did/VBD/ Alfred/NNP/ Hitchcock/NNP/ direct/JJ/  
+Find/VB/ all/DT/ movies/NNS/ directed/VBN/ by/IN/ Asghar/NNP/ Farhadi/NNP/ and/CC/ featuring/VBG/ Taraneh/NNP/ Alidoosti/NNP/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ movies/NNS/ directed/VBN/ by/IN/ Asghar/NNP/ Farhadi/NNP/ featuring/VBG/ Taraneh/FW/ Alidoosti/FW/  
+How/WRB/ many/JJ/ movies/NNS/ are/VBP/ there/EX/ that/WDT/ are/VBP/ directed/VBN/ by/IN/ Asghar/NNP/ Farhadi/NNP/ and/CC/ featuring/VBG/ Taraneh/NNP/ Alidoosti/NNP/  
+List/NN/ all/PDT/ the/DT/ movies/NNS/ directed/VBN/ by/IN/ Asghar/NNP/ Farhadi/NNP/ in/IN/ which/WDT/ Taraneh/NNP/ Alidoosti/NNP/ played/VBD/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ tv/NN/ series/NN/ created/VBN/ by/IN/ Shonda/NNP/ Rhimes/NNP/  
+Who/WP/ acts/VBZ/ Olivia/NNP/ Pope/NNP/ in/IN/ the/DT/ series/NN/ Scandal/NNP/  
+Who/WP/ is/VBZ/ the/DT/ writer/NN/ of/IN/ the/DT/ movie/NN/ The/DT/ Truman/NNP/ Show/NNP/ 
+Who/WP/ is/VBZ/ the/DT/ writer/NN/ of/IN/ The/NNP/ Truman/NNP/ Show/NNP/ 
+What/WP/ are/VBP/ the/DT/ series/NN/ featuring/VBG/ Scott/NNP/ Foley/NNP/  
+What/WP/ are/VBP/ the/DT/ series/NN/ in/IN/ which/WDT/ Scott/NNP/ Foley/NNP/ is/VBZ/ an/DT/ actor/NN/  
+Find/VB/ the/DT/ directors/NNS/ of/IN/ all/DT/ movies/NNS/ featuring/VBG/ Kate/NNP/ Winslet/NNP/ 
+Find/VB/ the/DT/ producers/NNS/ of/IN/ all/DT/ movies/NNS/ in/IN/ which/WDT/ Kate/NNP/ Winslet/NNP/ is/VBZ/ an/DT/ actor/NN/ 
+Who/WP/ is/VBZ/ the/DT/ director/NN/ of/IN/ the/DT/ tv/NN/ series/NN/ House/NNP/ of/IN/ Cards/NNP/ from/IN/ 2013/CD/  
+Find/VB/ all/PDT/ the/DT/ female/JJ/ actors/NNS/ from/IN/ Austin/NNP/ 
+Find/VB/ all/DT/ actors/NNS/ from/IN/ Italy/NNP/ born/VBN/ after/IN/ 1980/CD/ 
+Find/VB/ all/PDT/ the/DT/ female/JJ/ actors/NNS/ born/VBN/ in/IN/ New/NNP/ York/NNP/ City/NNP/ after/IN/ 1980/CD/ 
+Find/VB/ all/PDT/ the/DT/ female/JJ/ actors/NNS/ in/IN/ the/DT/ movie/NN/ Saving/NNP/ Private/NNP/ Ryan/NNP/ 
+Find/VB/ all/PDT/ the/DT/ directors/NNS/ who/WP/ are/VBP/ from/IN/ Afghanistan/NNP/ 
+Find/VB/ the/DT/ actors/NNS/ who/WP/ played/VBD/ in/IN/ the/DT/ movie/NN/ Camp/NNP/ X-Ray/NN/ 
+Find/VB/ all/DT/ actors/NNS/ from/IN/ Canada/NNP/ who/WP/ acted/VBD/ in/IN/ James/NNP/ Bond/NNP/ movies/NNS/ 
+find/VB/ all/DT/ films/NNS/ in/IN/ which/WDT/ Rowan/NNP/ Atkinson/NNP/ acted/VBD/ as/IN/ Mr./NNP/ Bean/NNP/ 
+where/WRB/ is/VBZ/ the/DT/ director/NN/ of/IN/ The/NNP/ Past/NNP/ from/IN/ 
+who/WP/ acted/VBD/ the/DT/ role/NN/ of/IN/ Mr./NNP/ Bean/NNP/ 
+what/WP/ are/VBP/ the/DT/ genres/NNS/ of/IN/ movies/NNS/ directed/VBN/ by/IN/ Asghar/NNP/ Farhadi/NNP/ 
+Which/WDT/ movie/NN/ had/VBD/ the/DT/ character/NN/ Daffy/JJ/ Duck/NN/ 
+What/WP/ are/VBP/ the/DT/ major/JJ/ roles/NNS/ in/IN/ the/DT/ movie/NN/ Daddy/NNP/ Long/NNP/ Legs/NNP/ 
+List/NN/ all/PDT/ the/DT/ directors/NNS/ of/IN/ movies/NNS/ about/IN/ nuclear/JJ/ weapons/NNS/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/NNS/ in/IN/ which/WDT/ Jennifer/NNP/ Aniston/NNP/ acted/VBD/ after/IN/ 2010/CD/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ actors/NNS/ in/IN/ the/DT/ movie/NN/ Saving/NNP/ Private/NNP/ Ryan/NNP/  
+How/WRB/ many/JJ/ actors/NNS/ are/VBP/ in/IN/ the/DT/ movie/NN/ Saving/NNP/ Private/NNP/ Ryan/NNP/  
+How/WRB/ many/JJ/ movies/NNS/ did/VBD/ Steven/NNP/ Spielberg/NNP/ direct/JJ/  
+How/WRB/ many/JJ/ movies/NNS/ were/VBD/ produced/VBN/ in/IN/ the/DT/ year/NN/ 2013/CD/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/NNS/ produced/VBN/ in/IN/ 2013/CD/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/NNS/ directed/VBN/ by/IN/ Woody/NNP/ Allen/NNP/ per/IN/ year/NN/  
+How/WRB/ many/JJ/ movies/NNS/ did/VBD/ Shahab/NNP/ Hosseini/NNP/ act/VB/ in/IN/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/NNS/ in/IN/ which/WDT/ Shahab/FW/ Hosseini/FW/ acted/VBN/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/NNS/ featuring/VBG/ Shahab/NNP/ Hosseini/NNP/  
+How/WRB/ many/JJ/ movies/NNS/ did/VBD/ Shahab/NNP/ Hosseini/NNP/ act/NN/ in/IN/ 
+How/WRB/ many/JJ/ actors/NNS/ were/VBD/ born/VBN/ in/IN/ Los/NNP/ Angeles/NNP/ after/IN/ 2000/CD/  
+How/WRB/ many/JJ/ movies/NNS/ did/VBD/ Humphrey/NNP/ Bogart/NNP/ act/NN/ in/IN/ before/IN/ 1942/CD/  
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ movies/NNS/ that/IN/ Brad/NNP/ Pitt/NNP/ acts/VBZ/ in/FW/ per/FW/ year/NN/  
+How/WRB/ many/JJ/ movies/NNS/ about/IN/ Iraq/NNP/ war/NN/ were/VBD/ produced/VBN/ in/IN/ 2015/CD/  
+How/WRB/ many/JJ/ movies/NNS/ about/IN/ Persians/NNPS/ were/VBD/ released/VBN/ after/IN/ 1990/CD/  
+How/WRB/ many/JJ/ movies/NNS/ did/VBD/ Quentin/NNP/ Tarantino/NNP/ direct/JJ/ after/IN/ 2010/CD/  
+How/WRB/ many/JJ/ movies/NNS/ did/VBD/ Quentin/NNP/ Tarantino/NNP/ direct/JJ/ before/IN/ 2010/CD/  
+How/WRB/ many/JJ/ movies/NNS/ did/VBD/ Quentin/NNP/ Tarantino/NNP/ direct/JJ/ before/IN/ 2002/CD/ and/CC/ after/IN/ 2010/CD/  
+How/WRB/ many/JJ/ female/JJ/ actors/NNS/ were/VBD/ born/VBN/ in/IN/ New/NNP/ York/NNP/ City/NNP/ after/IN/ 1980/CD/  
+find/VB/ the/DT/ number/NN/ of/IN/ actors/NNS/ from/IN/ Iran/NNP/ who/WP/ played/VBD/ in/IN/ Jim/NNP/ Jarmusch/NNP/ movies/NNS/ 
+How/WRB/ many/JJ/ actors/NNS/ from/IN/ China/NNP/ have/VBP/ acted/VBN/ in/IN/ Rush/NNP/ Hour/NNP/ 3/CD/ 
+Find/VB/ all/DT/ movies/NNS/ that/WDT/ star/VBP/ both/DT/ Woody/NNP/ Strode/NNP/ and/CC/ Jason/NNP/ Robards/NNP/ 
+Find/VB/ all/DT/ movies/NNS/ featuring/VBG/ Woody/NNP/ Strode/NNP/ and/CC/ Jason/NNP/ Robards/NNP/ 
+Find/VB/ all/DT/ movies/NNS/ featuring/VBG/ both/DT/ Woody/NNP/ Strode/NNP/ and/CC/ Jason/NNP/ Robards/NNP/ 
+Find/VB/ all/DT/ movies/NNS/ featuring/VBG/ Jason/NNP/ Robards/NNP/ and/CC/ Woody/NNP/ Strode/NNP/ 
+Find/VB/ all/DT/ actors/NNS/ who/WP/ acted/VBD/ in/IN/ the/DT/ same/JJ/ movie/NN/ as/IN/ Tom/NNP/ Hanks/NNP/ 
+What/WDT/ movies/NNS/ have/VBP/ the/DT/ same/JJ/ director/NN/ as/IN/ the/DT/ movie/NN/ Revolutionary/NNP/ Road/NNP/  
+Find/VB/ the/DT/ movie/NN/ which/WDT/ is/VBZ/ classified/VBN/ in/IN/ the/DT/ most/JJS/ number/NN/ of/IN/ genres/NNS/ 
+which/WDT/ movie/NN/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ actors/NNS/ from/IN/ China/NNP/  
+Find/VB/ the/DT/ actors/NNS/ who/WP/ played/VBD/ in/IN/ the/DT/ latest/JJS/ movie/NN/ by/IN/ Quentin/NNP/ Tarantino/NNP/ 
+Find/VB/ the/DT/ name/NN/ and/CC/ budget/NN/ of/IN/ the/DT/ latest/JJS/ movie/NN/ by/IN/ Quentin/NNP/ Tarantino/NNP/ 
+What/WP/ is/VBZ/ the/DT/ latest/JJS/ movie/NN/ by/IN/ Jim/NNP/ Jarmusch/NNP/ 
+Which/WDT/ producer/NN/ has/VBZ/ worked/VBN/ with/IN/ the/DT/ most/JJS/ number/NN/ of/IN/ directors/NNS/  
+Find/VB/ the/DT/ latest/JJS/ movie/NN/ which/WDT/ Gabriele/NNP/ Ferzetti/NNP/ acted/VBD/ in/IN/ 

@@ -1,0 +1,164 @@
+Find/O/ the/O/ number/O/ of/O/ professors/professor/ in/COND/ accounting/department.DEPT_NAME/ department/department/ 
+How/O/ many/O/ professors/professor/ are/O/ in/COND/ the/O/ accounting/department.DEPT_NAME/ dept/department/ 
+How/O/ many/O/ professors/O/ are/O/ teaching/O/ class/CLASS/ with/COND/ code/CLASS.CRS_CODE/ ACCT-211/CLASS.CRS_CODE/ 
+How/O/ many/O/ professors/O/ teach/O/ a/O/ class/CLASS/ with/COND/ the/O/ code/CLASS.CRS_CODE/ ACCT-211/CLASS.CRS_CODE/ 
+What/O/ is/O/ the/O/ first/employee.EMP_FNAME/ and/O/ last/employee.EMP_LNAME/ name/employee.EMP_LNAME/ of/O/ the/O/ professor/professor/ in/COND/ biology/department.DEPT_NAME/ department/department/ 
+What/O/ are/O/ the/O/ first/employee.EMP_FNAME/ and/O/ last/employee.EMP_LNAME/ name/employee.EMP_LNAME/ of/O/ all/O/ biology/department.DEPT_NAME/ professors/professor/ 
+What/O/ are/O/ the/O/ first/employee.EMP_FNAME/ names/employee.EMP_FNAME/ and/O/ date/employee.EMP_DOB/ of/employee.EMP_DOB/ birth/employee.EMP_DOB/ of/O/ professors/employee/ teaching/O/ course/CLASS/ ACCT-211/CLASS.CRS_CODE/ 
+What/O/ are/O/ the/O/ first/employee.EMP_FNAME/ names/employee.EMP_FNAME/ and/O/ birthdates/employee.EMP_DOB/ of/O/ the/O/ professors/employee/ in/IN/ charge/NN/ of/O/ ACCT-211/CLASS.CRS_CODE/ 
+How/O/ many/O/ classes/CLASS/ are/O/ professor/employee/ whose/O/ last/employee.EMP_LNAME/ name/employee.EMP_LNAME/ is/O/ Graztevski/employee.EMP_LNAME/ has/O/ 
+How/O/ many/O/ classes/CLASS/ does/O/ the/O/ professor/employee/ whose/O/ last/employee.EMP_LNAME/ name/employee.EMP_LNAME/ is/O/ Graztevski/employee.EMP_LNAME/ teach/O/ 
+What/O/ is/O/ the/O/ code/department.school_code/ of/department.school_code/ the/department.school_code/ school/department.school_code/ where/O/ the/O/ accounting/department.DEPT_NAME/ department/department/ belongs/O/ to/O/ 
+What/O/ is/O/ the/O/ school/department.school_code/ code/department.school_code/ of/O/ the/O/ accounting/department.DEPT_NAME/ department/department/ 
+How/O/ many/O/ credits/course.crs_credit/ does/O/ course/course/ CIS-220/course.crs_code/ have/O/ and/O/ what/O/ its/O/ description/course.crs_description/ 
+What/O/ is/O/ the/O/ description/course.crs_description/ for/O/ the/O/ CIS-220/course.crs_code/ and/O/ how/O/ many/O/ credits/course.crs_credit/ does/O/ it/O/ have/O/ 
+what/O/ is/O/ the/O/ address/department.dept_address/ of/O/ history/department.DEPT_NAME/ department/department/ 
+Where/O/ is/O/ the/O/ history/department.DEPT_NAME/ department/department/ 
+How/O/ many/O/ different/O/ locations/department.dept_address/ does/O/ the/O/ school/department/ with/O/ code/department.school_code/ BUS/department.school_code/ has/O/ 
+What/O/ are/O/ the/O/ different/O/ locations/department.dept_address/ of/O/ the/O/ school/department/ with/O/ the/O/ code/department.school_code/ BUS/department.school_code/ 
+How/O/ many/O/ different/O/ locations/department.dept_address/ does/O/ each/O/ school/department/ have/O/ 
+Count/O/ different/O/ addresses/O/ of/O/ each/O/ school/department/ 
+Find/O/ the/O/ description/course.crs_description/ and/O/ credit/course.crs_credit/ for/O/ the/O/ course/course/ QM-261/course.crs_code/ 
+What/O/ is/O/ the/O/ course/course.crs_description/ description/course.crs_description/ and/O/ number/O/ of/O/ credits/course.crs_credit/ for/O/ QM-261/course.crs_code/ 
+Find/O/ the/O/ number/O/ of/O/ departments/department/ in/O/ each/O/ school/department.school_code/ 
+How/O/ many/O/ departments/department/ are/O/ in/O/ each/O/ school/department.school_code/ 
+Find/O/ the/O/ number/O/ of/O/ different/O/ departments/department/ in/O/ each/O/ school/department.school_code/ whose/O/ number/O/ of/O/ different/O/ departments/department/ is/O/ less/COND/ than/O/ 5/department.DEPT_NAME/ 
+How/O/ many/O/ different/O/ departments/department/ are/O/ there/O/ in/O/ each/O/ school/department.school_code/ that/O/ has/O/ less/COND/ than/O/ 5/department.DEPT_NAME/ apartments/O/ 
+How/O/ many/O/ sections/CLASS.crs_code/ does/O/ each/O/ course/CLASS/ has/O/ 
+How/O/ many/O/ sections/CLASS.crs_code/ does/O/ each/O/ course/CLASS/ have/O/ 
+What/O/ is/O/ the/O/ total/O/ credit/course/ does/O/ each/O/ department/course.dept_code/ offer/O/ 
+How/O/ many/O/ credits/course/ does/O/ the/O/ department/course.dept_code/ offer/O/ 
+Find/O/ the/O/ number/O/ of/O/ classes/CLASS/ offered/O/ for/O/ all/O/ class/CLASS.class_room/ rooms/CLASS.class_room/ that/O/ held/O/ at/COND/ least/COND/ 2/CLASS.class_room/ classes/O/ 
+For/O/ each/O/ classroom/O/ with/O/ at/COND/ least/COND/ 2/CLASS.class_room/ classes/O/ how/O/ many/O/ classes/O/ are/O/ offered/O/ 
+Find/O/ the/O/ number/O/ of/O/ classes/CLASS/ in/O/ each/O/ department/course.dept_code/ 
+How/O/ many/O/ classes/CLASS/ are/O/ held/O/ in/O/ each/O/ department/course.dept_code/ 
+Find/O/ the/O/ number/O/ of/O/ classes/CLASS/ in/O/ each/O/ school/department.school_code/ 
+How/O/ many/O/ classes/CLASS/ exist/O/ for/O/ each/O/ school/department.school_code/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ professors/professor/ for/O/ different/O/ school/department.school_code/ 
+How/O/ many/O/ different/O/ professors/professor/ are/O/ there/O/ for/O/ the/O/ different/O/ schools/department.school_code/ 
+Find/O/ the/O/ count/O/ and/O/ code/employee.emp_jobcode/ of/employee.emp_jobcode/ the/employee.emp_jobcode/ job/employee.emp_jobcode/ has/O/ most/O/ employees/employee/ 
+What/O/ is/O/ the/O/ count/O/ and/O/ code/employee.emp_jobcode/ of/employee.emp_jobcode/ the/employee.emp_jobcode/ job/employee.emp_jobcode/ with/O/ the/O/ most/O/ employee/employee/ 
+Which/O/ school/department.school_code/ has/O/ the/O/ smallest/O/ amount/O/ of/O/ professors/professor/ 
+Which/O/ school/department.school_code/ has/O/ the/O/ fewest/O/ professors/professor/ 
+Find/O/ the/O/ number/O/ of/O/ professors/professor/ with/O/ a/O/ Ph.D./professor.prof_high_degree/ degree/O/ in/O/ each/O/ department/professor.dept_code/ 
+How/O/ many/O/ professors/professor/ have/O/ a/O/ Ph.D./professor.prof_high_degree/ in/O/ each/O/ department/professor.dept_code/ 
+Find/O/ the/O/ number/O/ of/O/ students/student/ for/O/ each/O/ department/student.dept_code/ 
+How/O/ many/O/ students/student/ are/O/ in/O/ each/O/ department/student.dept_code/ 
+Find/O/ the/O/ total/O/ number/O/ of/O/ hours/student.stu_hrs/ have/O/ done/O/ for/O/ all/O/ students/student/ in/O/ each/O/ department/student.dept_code/ 
+How/O/ many/O/ hours/student.stu_hrs/ do/O/ the/O/ students/student/ spend/O/ studying/O/ in/O/ each/O/ department/student.dept_code/ 
+Find/O/ the/O/ max/O/ average/O/ and/O/ minimum/O/ gpa/student.stu_gpa/ of/O/ all/O/ students/student/ in/O/ each/O/ department/student.dept_code/ 
+What/O/ is/O/ the/O/ highest/O/ lowest/O/ and/O/ average/O/ student/student/ GPA/student.stu_gpa/ for/O/ every/O/ department/student.dept_code/ 
+What/O/ is/O/ the/O/ name/department.dept_name/ and/O/ the/O/ average/O/ gpa/student.stu_gpa/ of/O/ department/student.dept_code/ whose/O/ students/student/ have/O/ the/O/ highest/O/ average/O/ gpa/student.stu_gpa/ 
+Which/O/ department/student.dept_code/ has/O/ the/O/ highest/O/ average/O/ student/student/ GPA/student.stu_gpa/ and/O/ what/O/ is/O/ the/O/ average/O/ gpa/student.stu_gpa/ 
+how/O/ many/O/ schools/department/ exist/O/ in/O/ total/O/ 
+How/O/ many/O/ schools/department.school_code/ are/O/ there/O/ in/O/ the/O/ department/department/ 
+How/O/ many/O/ different/O/ classes/CLASS/ are/O/ there/O/ 
+How/O/ many/O/ unique/O/ classes/CLASS/ are/O/ offered/O/ 
+How/O/ many/O/ courses/CLASS/ are/O/ offered/O/ 
+What/O/ are/O/ the/O/ number/O/ of/O/ different/O/ course/CLASS/ codes/CLASS.crs_code/ 
+How/O/ many/O/ departments/department.dept_name/ does/O/ the/O/ college/department/ has/O/ 
+How/O/ many/O/ different/O/ departments/department/ are/O/ there/O/ 
+How/O/ many/O/ courses/course/ are/O/ offered/O/ by/O/ the/O/ Computer/department.DEPT_NAME/ Info/department.DEPT_NAME/ Systems/department.DEPT_NAME/ department/department/ 
+How/O/ many/O/ courses/course/ does/O/ the/O/ department/department/ of/O/ Computer/department.DEPT_NAME/ Information/department.DEPT_NAME/ Systmes/department.DEPT_NAME/ offer/O/ 
+How/O/ many/O/ sections/CLASS.class_section/ does/O/ course/CLASS/ ACCT-211/CLASS.CRS_CODE/ has/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ different/O/ class/CLASS/ sections/CLASS.class_section/ offered/O/ in/O/ the/O/ course/O/ ACCT-211/CLASS.CRS_CODE/ 
+Find/O/ the/O/ total/O/ credits/course.crs_credit/ of/O/ all/O/ classes/CLASS/ offered/O/ by/O/ each/O/ department/course.dept_code/ 
+What/O/ are/O/ the/O/ total/O/ number/O/ of/O/ credits/course.crs_credit/ offered/O/ by/O/ each/O/ department/course.dept_code/ 
+Find/O/ the/O/ name/department.dept_name/ of/O/ the/O/ department/department/ that/O/ offers/O/ the/O/ largest/O/ number/O/ of/O/ credits/course.crs_credit/ of/O/ all/O/ classes/CLASS/ 
+Which/O/ department/department/ offers/O/ the/O/ most/O/ credits/course.crs_credit/ all/O/ together/O/ 
+How/O/ many/O/ students/O/ enrolled/enroll/ in/COND/ class/CLASS/ ACCT-211/CLASS.CRS_CODE/ 
+What/O/ are/O/ the/O/ total/O/ number/O/ of/O/ students/O/ enrolled/enroll/ in/COND/ ACCT-211/CLASS.CRS_CODE/ 
+What/O/ is/O/ the/O/ first/student.stu_fname/ name/student.stu_fname/ of/O/ each/O/ student/student/ enrolled/enroll/ in/O/ class/CLASS/ ACCT-211/CLASS.CRS_CODE/ 
+What/O/ are/O/ the/O/ first/student.stu_fname/ names/student.stu_fname/ of/O/ all/O/ students/student/ in/COND/ course/CLASS/ ACCT-211/CLASS.CRS_CODE/ 
+What/O/ is/O/ the/O/ first/student.stu_fname/ name/student.stu_fname/ of/O/ students/student/ enrolled/enroll/ in/COND/ class/CLASS/ ACCT-211/CLASS.CRS_CODE/ and/O/ got/O/ grade/enroll.enroll_grade/ C/enroll.enroll_grade/ 
+What/O/ are/O/ the/O/ first/student.stu_fname/ names/student.stu_fname/ of/O/ all/O/ students/student/ who/O/ took/enroll/ ACCT-211/CLASS.CRS_CODE/ and/O/ received/O/ a/O/ C/enroll.enroll_grade/ 
+Find/O/ the/O/ total/O/ number/O/ of/O/ employees/employee/ 
+How/O/ many/O/ employees/employee/ are/O/ there/O/ all/O/ together/O/ 
+How/O/ many/O/ professors/professor/ do/O/ have/O/ a/O/ Ph.D./professor.prof_high_degree/ degree/professor.prof_high_degree/ 
+What/O/ is/O/ the/O/ total/O/ number/O/ of/O/ professors/professor/ with/O/ a/O/ Ph.D./professor.prof_high_degree/ 
+How/O/ many/O/ students/O/ are/O/ enrolled/enroll/ in/O/ the/O/ class/CLASS/ taught/O/ by/O/ some/O/ professor/O/ from/O/ the/O/ accounting/department.DEPT_NAME/ department/department/ 
+How/O/ many/O/ students/O/ are/O/ enrolled/enroll/ in/O/ some/O/ classes/CLASS/ that/O/ are/O/ taught/O/ by/O/ an/O/ accounting/department.DEPT_NAME/ professor/O/ 
+What/O/ is/O/ the/O/ name/department.dept_name/ of/O/ the/O/ department/department/ that/O/ has/O/ the/O/ largest/O/ number/O/ of/O/ students/O/ enrolled/enroll/ 
+What/O/ is/O/ the/O/ name/department.dept_name/ of/O/ the/O/ department/department/ with/O/ the/O/ most/O/ students/O/ enrolled/enroll/ 
+list/O/ names/department.dept_name/ of/O/ all/O/ departments/department/ ordered/O/ by/O/ their/O/ names/department.dept_name/ 
+What/O/ are/O/ the/O/ names/department.dept_name/ of/O/ all/O/ departments/department/ in/O/ alphabetical/O/ order/O/ 
+List/O/ the/O/ codes/CLASS.class_code/ of/O/ all/O/ courses/CLASS/ that/O/ take/O/ place/O/ in/COND/ room/CLASS.class_room/ KLR209/CLASS.class_room/ 
+What/O/ are/O/ the/O/ codes/CLASS.class_code/ of/O/ all/O/ the/O/ courses/CLASS/ that/O/ are/O/ located/O/ in/COND/ room/CLASS.class_room/ KLR209/CLASS.class_room/ 
+List/O/ the/O/ first/employee.emp_fname/ name/employee.emp_fname/ of/O/ all/O/ employees/employee/ with/O/ job/employee.emp_jobcode/ code/employee.emp_jobcode/ PROF/employee.emp_jobcode/ ordered/O/ by/O/ their/O/ date/employee.emp_dob/ of/employee.emp_dob/ birth/employee.emp_dob/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ all/O/ employees/employee/ that/O/ are/O/ professors/employee.emp_jobcode/ ordered/O/ by/O/ date/employee.emp_dob/ of/employee.emp_dob/ birth/employee.emp_dob/ 
+Find/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ and/O/ offices/professor.prof_office/ of/O/ all/O/ professors/professor/ sorted/O/ by/O/ alphabetical/O/ order/O/ of/O/ their/O/ first/employee.emp_fname/ name/employee.emp_fname/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ and/O/ office/professor.prof_office/ locations/O/ for/O/ all/O/ professors/professor/ sorted/O/ alphabetically/O/ by/O/ first/employee.emp_fname/ name/employee.emp_fname/ 
+What/O/ is/O/ the/O/ first/employee.emp_fname/ and/O/ last/employee.emp_lname/ name/employee.emp_Lname/ of/O/ the/O/ oldest/employee.emp_dob/ employee/employee/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ and/O/ last/employee.emp_lname/ names/employee.emp_lname/ of/O/ the/O/ employee/employee/ with/O/ the/O/ earliest/O/ date/employee.emp_dob/ of/employee.emp_dob/ birth/employee.emp_dob/ 
+What/O/ is/O/ the/O/ first/student.stu_fname/ last/student.stu_lname/ name/student.stu_lname/ gpa/student.stu_gpa/ of/O/ the/O/ youngest/O/ one/O/ among/O/ students/student/ whose/O/ GPA/student.stu_gpa/ is/O/ above/COND/ 3/student.stu_gpa/ 
+What/O/ is/O/ the/O/ first/student.stu_fname/ and/O/ last/student.stu_lname/ name/student.stu_lname/ of/O/ the/O/ youngest/O/ student/student/ with/O/ a/O/ GPA/student.stu_gpa/ above/COND/ 3/student.stu_gpa/ and/O/ what/O/ is/O/ their/O/ GPA/student.stu_gpa/ 
+What/O/ is/O/ the/O/ first/student.stu_fname/ name/student.stu_fname/ of/O/ students/student/ who/O/ got/O/ grade/enroll.enroll_grade/ C/enroll.enroll_grade/ in/O/ any/O/ class/O/ 
+What/O/ are/O/ the/O/ first/student.stu_fname/ names/student.stu_fname/ of/O/ all/O/ students/student/ who/O/ got/O/ a/O/ grade/enroll.enroll_grade/ C/enroll.enroll_grade/ in/O/ a/O/ class/O/ 
+What/O/ is/O/ the/O/ name/department.dept_name/ of/O/ department/department/ where/O/ has/O/ the/O/ smallest/O/ number/O/ of/O/ professors/professor/ 
+What/O/ is/O/ the/O/ name/department.dept_name/ of/O/ the/O/ department/department/ with/O/ the/O/ fewest/O/ professors/professor/ 
+What/O/ is/O/ the/O/ name/department.dept_name/ of/O/ department/department/ where/O/ has/O/ the/O/ largest/O/ number/O/ of/O/ professors/professor/ with/COND/ a/O/ Ph.D./professor.prof_high_degree/ degree/professor.prof_high_degree/ 
+Which/O/ department/department/ has/O/ the/O/ most/O/ professors/professor/ with/COND/ a/O/ Ph.D./professor.prof_high_degree/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ the/O/ professors/employee/ who/O/ do/O/ not/COND/ teach/VB/ a/O/ class/CLASS/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ all/O/ professors/employee/ not/COND/ teaching/VBG/ any/O/ classes/CLASS/ 
+What/O/ is/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ the/O/ professors/professor/ from/O/ the/O/ history/department.DEPT_NAME/ department/department/ who/O/ do/O/ not/O/ teach/employee/ a/O/ class/O/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ all/O/ history/department.DEPT_NAME/ professors/professor/ who/O/ do/O/ not/O/ teach/employee/ 
+What/O/ is/O/ the/O/ last/employee.emp_lname/ name/employee.emp_lname/ and/O/ office/professor.prof_office/ of/O/ the/O/ professor/professor/ from/O/ the/O/ history/department.DEPT_NAME/ department/department/ 
+What/O/ are/O/ the/O/ last/employee.emp_lname/ name/employee.emp_lname/ and/O/ office/professor.prof_office/ of/O/ all/O/ history/department.DEPT_NAME/ professors/professor/ 
+What/O/ is/O/ department/department.dept_name/ name/department.dept_name/ and/O/ office/professor.prof_office/ for/O/ the/O/ professor/professor/ whose/O/ last/employee.emp_lname/ name/employee.emp_lname/ is/O/ Heffington/employee.emp_lname/ 
+What/O/ is/O/ the/O/ name/department.dept_name/ of/O/ the/O/ department/department/ and/O/ office/professor.prof_office/ location/O/ for/O/ the/O/ professor/professor/ with/O/ the/O/ last/employee.emp_lname/ name/employee.emp_lname/ of/O/ Heffington/employee.emp_lname/ 
+Find/O/ the/O/ last/employee.emp_lname/ name/employee.emp_lname/ and/O/ hire/employee.emp_hiredate/ date/employee.emp_hiredate/ of/O/ the/O/ professor/professor/ who/O/ is/O/ in/O/ office/professor.prof_office/ DRE/professor.prof_office/ 102/professor.prof_office/ 
+What/O/ is/O/ the/O/ last/employee.emp_lname/ name/employee.emp_lname/ of/O/ the/O/ professor/professor/ whose/O/ office/professor.prof_office/ is/O/ located/O/ in/O/ DRE/professor.prof_office/ 102/professor.prof_office/ and/O/ when/O/ were/O/ they/O/ hired/employee.emp_hiredate/ 
+What/O/ is/O/ the/O/ code/CLASS.crs_code/ of/CLASS.crs_code/ the/CLASS.crs_code/ course/CLASS.crs_code/ which/O/ the/O/ student/student/ whose/O/ last/O/ name/O/ is/O/ Smithson/student.stu_lname/ took/enroll/ 
+What/O/ are/O/ the/O/ course/CLASS.crs_code/ codes/CLASS.crs_code/ for/O/ every/O/ class/CLASS/ that/O/ the/O/ student/student/ with/O/ the/O/ last/student.stu_lname/ name/student.stu_lname/ Smithson/student.stu_lname/ took/enroll/ 
+What/O/ are/O/ the/O/ description/course.crs_description/ and/O/ credit/course.crs_credit/ of/O/ the/O/ course/course/ which/O/ the/O/ student/student/ whose/O/ last/student.stu_lname/ name/student.stu_lname/ is/O/ Smithson/student.stu_lname/ took/enroll/ 
+How/O/ many/O/ credits/course.crs_credit/ is/O/ the/O/ course/course/ that/O/ the/O/ student/student/ with/O/ the/O/ last/student.stu_lname/ name/student.stu_lname/ Smithson/student.stu_lname/ took/enroll/ and/O/ what/O/ is/O/ its/O/ description/course.crs_description/ 
+How/O/ many/O/ professors/professor/ who/O/ has/O/ a/O/ either/O/ Ph.D./professor.prof_high_degree/ or/O/ MA/professor.prof_high_degree/ degree/professor.prof_high_degree/ 
+How/O/ many/O/ professors/professor/ attained/O/ either/O/ Ph.D./professor.prof_high_degree/ or/O/ Masters/professor.prof_high_degree/ degrees/professor.prof_high_degree/ 
+How/O/ many/O/ professors/professor/ who/O/ are/O/ from/O/ either/O/ Accounting/department.DEPT_NAME/ or/O/ Biology/department.DEPT_NAME/ department/department/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ professors/professor/ who/O/ are/O/ in/O/ the/O/ Accounting/department.DEPT_NAME/ or/O/ Biology/department.DEPT_NAME/ departments/department/ 
+Find/O/ the/O/ first/employee.emp_fname/ name/employee.emp_fname/ of/O/ the/O/ professor/employee/ who/O/ is/O/ teaching/O/ two/O/ courses/CLASS/ with/O/ code/CLASS.CRS_CODE/ CIS-220/CLASS.CRS_CODE/ and/O/ QM-261/CLASS.CRS_CODE/ 
+What/O/ is/O/ the/O/ first/employee.emp_fname/ name/employee.emp_fname/ of/O/ the/O/ professor/employee/ who/O/ is/O/ teaching/O/ CIS-220/CLASS.CRS_CODE/ and/O/ QM-261/CLASS.CRS_CODE/ 
+Find/O/ the/O/ first/student.stu_fname/ name/student.stu_fname/ of/O/ student/student/ who/O/ is/O/ taking/enroll/ classes/CLASS/ from/O/ accounting/department.DEPT_NAME/ and/O/ Computer/department.DEPT_NAME/ Info/department.DEPT_NAME/ Systems/department.DEPT_NAME/ departments/department/ 
+What/O/ are/O/ the/O/ first/student.stu_fname/ names/student.stu_fname/ of/O/ all/O/ students/student/ taking/enroll/ accoutning/department.DEPT_NAME/ and/O/ Computer/department.DEPT_NAME/ Information/department.DEPT_NAME/ Systems/department.DEPT_NAME/ classes/CLASS/ 
+What/O/ is/O/ the/O/ average/O/ gpa/student.stu_gpa/ of/O/ the/O/ students/student/ enrolled/enroll/ in/O/ the/O/ course/CLASS/ with/O/ code/CLASS.CRS_CODE/ ACCT-211/CLASS.CRS_CODE/ 
+What/O/ is/O/ the/O/ average/O/ GPA/student.stu_gpa/ of/O/ students/student/ taking/enroll/ ACCT-211/CLASS.CRS_CODE/ 
+What/O/ is/O/ the/O/ first/student.stu_fname/ name/student.stu_fname/ gpa/student.stu_gpa/ and/O/ phone/student.stu_phone/ number/student.stu_phone/ of/O/ the/O/ top/O/ 5/O/ students/student/ with/O/ highest/O/ gpa/student.stu_gpa/ 
+What/O/ is/O/ the/O/ first/student.stu_fname/ name/student.stu_fname/ GPA/student.stu_gpa/ and/O/ phone/student.stu_phone/ number/student.stu_phone/ of/O/ the/O/ students/student/ with/O/ the/O/ top/O/ 5/O/ GPAs/student.stu_gpa/ 
+What/O/ is/O/ the/O/ department/department.dept_name/ name/department.dept_name/ of/O/ the/O/ students/student/ with/O/ lowest/O/ gpa/student.stu_gpa/ belongs/O/ to/O/ 
+What/O/ is/O/ the/O/ name/department.dept_name/ of/O/ the/O/ department/department/ with/O/ the/O/ student/student/ that/O/ has/O/ the/O/ lowest/O/ GPA/student.stu_gpa/ 
+Find/O/ the/O/ first/student.stu_fname/ name/student.stu_fname/ and/O/ gpa/student.stu_gpa/ of/O/ the/O/ students/student/ whose/O/ gpa/student.stu_gpa/ is/O/ lower/COND/ than/O/ the/O/ average/O/ gpa/student.stu_gpa/ of/O/ all/O/ students/student/ 
+What/O/ is/O/ the/O/ first/student.stu_fname/ name/student.stu_fname/ and/O/ GPA/student.stu_gpa/ of/O/ every/O/ student/student/ that/O/ has/O/ a/O/ GPA/student.stu_gpa/ lower/COND/ than/O/ average/O/ 
+Find/O/ the/O/ name/department.dept_name/ and/O/ address/department.dept_address/ of/O/ the/O/ department/department/ that/O/ has/O/ the/O/ highest/O/ number/O/ of/O/ students/student/ 
+What/O/ is/O/ the/O/ name/department.dept_name/ and/O/ address/department.dept_address/ of/O/ the/O/ department/department/ with/O/ the/O/ most/O/ students/student/ 
+Find/O/ the/O/ name/department.dept_name/ address/department.dept_address/ number/O/ of/O/ students/student/ in/O/ the/O/ departments/department/ that/O/ have/O/ the/O/ top/O/ 3/O/ highest/O/ number/O/ of/O/ students/O/ 
+What/O/ is/O/ the/O/ name/department.dept_name/ address/department.dept_address/ and/O/ number/O/ of/O/ students/student/ in/O/ the/O/ departments/department/ that/O/ have/O/ the/O/ 3/O/ most/O/ students/O/ 
+Find/O/ the/O/ first/employee.emp_fname/ name/employee.emp_fname/ and/O/ office/professor.prof_office/ of/O/ the/O/ professor/professor/ who/O/ is/O/ in/O/ the/O/ history/department.DEPT_NAME/ department/department/ and/O/ has/O/ a/O/ Ph.D./professor.prof_high_degree/ degree/professor.prof_high_degree/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ and/O/ office/professor.prof_office/ of/O/ the/O/ professors/professor/ who/O/ are/O/ in/O/ the/O/ history/department.DEPT_NAME/ department/department/ and/O/ have/O/ a/O/ Ph.D./professor.prof_high_degree/ 
+Find/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ all/O/ instructors/professor/ who/O/ have/O/ taught/O/ some/O/ course/CLASS/ and/O/ the/O/ course/CLASS.crs_code/ code/CLASS.crs_code/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ all/O/ teachers/employee/ who/O/ have/O/ taught/O/ a/O/ course/CLASS/ and/O/ the/O/ corresponding/O/ course/CLASS.crs_code/ codes/CLASS.crs_code/ 
+Find/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ all/O/ instructors/employee/ who/O/ have/O/ taught/O/ some/O/ course/CLASS/ and/O/ the/O/ course/course.crs_description/ description/course.crs_description/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ all/O/ teachers/employee/ who/O/ have/O/ taught/O/ a/O/ course/CLASS/ and/O/ the/O/ corresponding/O/ descriptions/course.crs_description/ 
+Find/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ and/O/ offices/professor.prof_office/ of/O/ all/O/ instructors/employee/ who/O/ have/O/ taught/O/ some/O/ course/course/ and/O/ also/O/ find/O/ the/O/ course/course.crs_description/ description/course.crs_description/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ office/professor.prof_office/ locations/O/ of/O/ all/O/ lecturers/employee/ who/O/ have/O/ taught/O/ some/O/ course/course/ 
+Find/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ and/O/ offices/professor.prof_office/ of/O/ all/O/ instructors/employee/ who/O/ have/O/ taught/O/ some/O/ course/course/ and/O/ the/O/ course/course.crs_description/ description/course.crs_description/ and/O/ the/O/ department/department/ name/department.dept_name/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ office/professor.prof_office/ locations/O/ and/O/ departments/department.dept_name/ of/O/ all/O/ instructors/employee/ and/O/ also/O/ what/O/ are/O/ the/O/ descriptions/course.crs_description/ of/O/ the/O/ courses/course/ they/O/ teach/O/ 
+Find/O/ names/student.stu_lname/ of/O/ all/O/ students/student/ who/O/ took/enroll/ some/O/ course/course/ and/O/ the/O/ course/course.crs_description/ description/course.crs_description/ 
+What/O/ are/O/ the/O/ names/student.stu_lname/ of/O/ all/O/ students/student/ who/O/ took/enroll/ a/O/ class/CLASS/ and/O/ the/O/ corresponding/O/ course/course.crs_description/ descriptions/course.crs_description/ 
+Find/O/ names/student.stu_lname/ of/O/ all/O/ students/student/ who/O/ took/enroll/ some/O/ course/O/ and/O/ got/O/ A/enroll.enroll_grade/ or/O/ C/enroll.enroll_grade/ 
+What/O/ are/O/ the/O/ names/student.stu_lname/ of/O/ all/O/ students/student/ taking/enroll/ a/O/ course/O/ who/O/ received/O/ an/O/ A/enroll.enroll_grade/ or/O/ C/enroll.enroll_grade/ 
+Find/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ all/O/ professors/professor/ in/COND/ the/O/ Accounting/department.DEPT_NAME/ department/department/ who/O/ is/O/ teaching/O/ some/O/ course/CLASS/ and/O/ the/O/ class/CLASS.class_room/ room/CLASS.class_room/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ all/O/ Accounting/department.DEPT_NAME/ professors/professor/ who/O/ teach/O/ and/O/ what/O/ are/O/ the/O/ classrooms/CLASS.class_room/ of/O/ the/O/ courses/CLASS/ they/O/ teach/O/ 
+Find/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ and/O/ degree/professor.prof_high_degree/ of/O/ all/O/ professors/professor/ who/O/ are/O/ teaching/O/ some/O/ class/CLASS/ in/O/ Computer/department.DEPT_NAME/ Info/department.DEPT_NAME/ Systems/department.DEPT_NAME/ department/department/ 
+What/O/ are/O/ the/O/ different/O/ first/employee.emp_fname/ names/employee.emp_fname/ and/O/ highest/O/ degree/professor.prof_high_degree/ attained/O/ for/O/ professors/professor/ teaching/O/ in/O/ the/O/ Computer/department.DEPT_NAME/ Information/department.DEPT_NAME/ Systems/department.DEPT_NAME/ department/department/ 
+What/O/ is/O/ the/O/ last/student.stu_lname/ name/student.stu_lname/ of/O/ the/O/ student/student/ who/O/ got/O/ a/O/ grade/enroll.enroll_grade/ A/enroll.enroll_grade/ in/O/ the/O/ class/O/ with/O/ code/enroll.class_code/ 10018/enroll.class_code/ 
+What/O/ is/O/ the/O/ last/student.stu_lname/ name/student.stu_lname/ of/O/ the/O/ student/student/ who/O/ received/O/ an/O/ A/enroll.enroll_grade/ in/O/ the/O/ class/O/ with/O/ the/O/ code/enroll.class_code/ 10018/enroll.class_code/ 
+Find/O/ the/O/ first/employee.emp_fname/ name/employee.emp_fname/ and/O/ office/professor.prof_office/ of/O/ history/department.DEPT_NAME/ professor/professor/ who/O/ did/O/ not/COND/ get/O/ a/O/ Ph.D./professor.prof_high_degree/ degree/professor.prof_high_degree/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ and/O/ offices/professor.prof_office/ of/O/ history/department.DEPT_NAME/ professors/professor/ who/O/ dont/O/ have/O/ Ph.D.s/professor.prof_high_degree/ 
+Find/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ professors/employee/ who/O/ are/O/ teaching/O/ more/COND/ than/O/ one/O/ class/CLASS/ 
+What/O/ are/O/ the/O/ first/employee.emp_fname/ names/employee.emp_fname/ of/O/ all/O/ professors/employee/ who/O/ teach/O/ more/COND/ than/O/ one/O/ class/CLASS/ 
+Find/O/ the/O/ first/student.stu_fname/ names/student.stu_fname/ of/O/ students/student/ who/O/ took/enroll/ exactly/COND/ one/O/ class/O/ 
+What/O/ are/O/ the/O/ first/student.stu_fname/ names/student.stu_fname/ of/O/ student/student/ who/O/ only/COND/ took/enroll/ one/O/ course/O/ 
+Find/O/ the/O/ name/department.dept_name/ of/O/ department/department/ that/O/ offers/O/ the/O/ class/course/ whose/O/ description/course.crs_description/ has/O/ the/O/ word/O/ Statistics/course.crs_description/ 
+What/O/ is/O/ the/O/ name/department.dept_name/ of/O/ the/O/ department/department/ that/O/ offers/O/ a/O/ course/course/ that/O/ has/O/ a/O/ description/course.crs_description/ including/O/ the/O/ word/O/ Statistics/course.crs_description/ 
+What/O/ is/O/ the/O/ first/student.stu_fname/ name/student.stu_fname/ of/O/ the/O/ student/student/ whose/O/ last/student.stu_lname/ name/student.stu_lname/ starting/O/ with/O/ the/O/ letter/O/ S/student.stu_lname/ and/O/ is/O/ taking/enroll/ ACCT-211/CLASS.CRS_CODE/ class/CLASS/ 
+What/O/ is/O/ the/O/ first/student.stu_fname/ name/student.stu_fname/ of/O/ the/O/ student/student/ whose/O/ last/student.stu_lname/ name/student.stu_lname/ starts/O/ with/O/ the/O/ letter/O/ S/student.stu_lname/ and/O/ is/O/ taking/enroll/ ACCT-211/CLASS.CRS_CODE/ 

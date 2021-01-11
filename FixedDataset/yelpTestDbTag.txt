@@ -1,0 +1,26 @@
+what/O/ is/O/ the/O/ number/O/ of/O/ restaurant/category.category_name/ in/COND/ Texas/business.state/ 
+Return/O/ me/O/ the/O/ number/O/ of/O/ tips/tip/ that/O/ are/O/ written/O/ by/O/ Michelle/user.name/ in/COND/ 2010/tip.year/ ./O/ 
+which/O/ neighbourhood/neighbourhood/ has/O/ the/O/ most/COND/ number/O/ of/O/ businesses/business/ in/COND/ Madison/business.city/ 
+Find/O/ all/O/ cities/business.city/ in/COND/ Texas/business.state/ in/O/ which/O/ there/O/ is/O/ a/O/ restaurant/category.category_name/ called/O/ MGM/business.name/ Grand/business.name/ Buffet/business.name/ 
+Find/O/ all/O/ restaurant/category.category_name/ reviewed/review/ by/O/ Patrick/user.name/ in/COND/ Los/business.city/ Angeles/business.city/ 
+find/O/ all/O/ the/O/ restaurant/category.category_name/ in/COND/ Texas/business.state/ 
+Which/O/ restaurant/category.category_name/ in/COND/ Dallas/business.city/ were/O/ reviewed/review/ by/O/ user/user/ Patrick/user.name/ ?/O/ 
+Find/O/ all/O/ bakeries/category.category_name/ in/COND/ Los/business.city/ Angeles/business.city/ 
+How/O/ many/O/ escape/category.category_name/ games/category.category_name/ are/O/ there/O/ in/COND/ Madison/business.city/ ?/O/ 
+What/O/ is/O/ the/O/ average/O/ rating/business.rating/ of/O/ reviews/review/ written/O/ in/COND/ year/review.year/ 2014/review.year/ ?/O/ 
+Find/O/ all/O/ tips/tip/ for/O/ Cafe/business.name/ Zinho/business.name/ in/COND/ Texas/business.state/ ./O/ 
+Find/O/ all/O/ businesses/business/ in/COND/ Texas/business.state/ with/O/ a/O/ rating/business.rating/ below/COND/ 2/business.rating/ 
+Find/O/ the/O/ total/O/ checkins/checkin/ in/COND/ Brighton/neighbourhood.neighbourhood_name/ Heights/neighbourhood.neighbourhood_name/ neighbourhood/neighbourhood/ 
+List/O/ all/O/ tips/tip/ for/O/ Cafe/business.name/ Zinho/business.name/ in/COND/ Pennsylvania/business.state/ in/COND/ 2010/tip.year/ ./O/ 
+Which/O/ Indian/category.category_name/ restaurant/category.category_name/ in/COND/ Dallas/business.city/ has/O/ the/O/ most/COND/ number/O/ of/O/ reviews/review/ ?/O/ 
+What/O/ neighbourhood/neighbourhood/ is/O/ restaurant/category.category_name/ Flat/business.name/ Top/business.name/ Grill/business.name/ in/O/ ?/O/ 
+List/O/ all/O/ the/O/ Italian/category.category_name/ restaurant/category.category_name/ in/COND/ Los/business.city/ Angeles/business.city/ 
+Find/O/ the/O/ number/O/ of/O/ reviews/review/ on/O/ businesses/business/ located/O/ in/COND/ South/neighbourhood.neighbourhood_name/ Summerlin/neighbourhood.neighbourhood_name/ neighbourhood/neighbourhood/ 
+Find/O/ all/O/ Chinese/category.category_name/ restaurant/category.category_name/ in/COND/ Dallas/business.city/ with/O/ at/O/ least/COND/ 4/business.rating/ stars/business.rating/ 
+How/O/ many/O/ reviews/review/ has/O/ Adrienne/user.name/ written/O/ ?/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ pet/category.category_name/ groomers/category.category_name/ in/COND/ Edinburgh/business.city/ 
+How/O/ many/O/ businesses/business/ are/O/ there/O/ in/COND/ the/O/ Stone/neighbourhood.neighbourhood_name/ Meadows/neighbourhood.neighbourhood_name/ neighbourhood/neighbourhood/ in/COND/ Madison/business.city/ ?/O/ 
+Which/O/ Thai/category.category_name/ restaurant/category.category_name/ has/O/ the/O/ most/COND/ number/O/ of/O/ reviews/review/ 
+How/O/ many/O/ dentists/category.category_name/ in/COND/ Los/business.city/ Angeles/business.city/ have/O/ a/O/ rating/business.rating/ above/COND/ 4/business.rating/ ?/O/ 
+Find/O/ all/O/ bars/category.category_name/ reviewed/review/ by/O/ Patrick/user.name/ with/O/ at/O/ least/COND/ 3/business.rating/ stars/business.rating/ 
+Return/O/ me/O/ the/O/ number/O/ of/O/ businesses/business/ that/O/ are/O/ restaurant/category.category_name/ ./O/ 

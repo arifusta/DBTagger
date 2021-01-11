@@ -1,0 +1,164 @@
+Find/VB/ the/DT/ number/NN/ of/IN/ professors/NNS/ in/IN/ accounting/NN/ department/NN/ 
+How/WRB/ many/JJ/ professors/NNS/ are/VBP/ in/IN/ the/DT/ accounting/NN/ dept/NN/ 
+How/WRB/ many/JJ/ professors/NNS/ are/VBP/ teaching/VBG/ class/NN/ with/IN/ code/NN/ ACCT-211/NN/ 
+How/WRB/ many/JJ/ professors/NNS/ teach/VBP/ a/DT/ class/NN/ with/IN/ the/DT/ code/NN/ ACCT-211/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ and/CC/ last/JJ/ name/NN/ of/IN/ the/DT/ professor/NN/ in/IN/ biology/NN/ department/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ and/CC/ last/JJ/ name/NN/ of/IN/ all/DT/ biology/NN/ professors/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ and/CC/ date/NN/ of/IN/ birth/NN/ of/IN/ professors/NNS/ teaching/VBG/ course/NN/ ACCT-211/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ and/CC/ birthdates/NNS/ of/IN/ the/DT/ professors/NNS/ in/IN/ charge/NN/ of/IN/ ACCT-211/NN/ 
+How/WRB/ many/JJ/ classes/NNS/ are/VBP/ professor/NN/ whose/WP$/ last/JJ/ name/NN/ is/VBZ/ Graztevski/FW/ has/FW/ 
+How/WRB/ many/JJ/ classes/NNS/ does/VBZ/ the/DT/ professor/NN/ whose/WP$/ last/JJ/ name/NN/ is/VBZ/ Graztevski/FW/ teach/FW/ 
+What/WP/ is/VBZ/ the/DT/ code/NN/ of/IN/ the/DT/ school/NN/ where/WRB/ the/DT/ accounting/NN/ department/NN/ belongs/VBZ/ to/NN/ 
+What/WP/ is/VBZ/ the/DT/ school/NN/ code/NN/ of/IN/ the/DT/ accounting/NN/ department/NN/ 
+How/WRB/ many/JJ/ credits/NNS/ does/VBZ/ course/NN/ CIS-220/NN/ have/NN/ and/CC/ what/WP/ its/PRP$/ description/NN/ 
+What/WP/ is/VBZ/ the/DT/ description/NN/ for/IN/ the/DT/ CIS-220/NN/ and/CC/ how/WRB/ many/JJ/ credits/NNS/ does/VBZ/ it/PRP/ have/VB/ 
+what/WP/ is/VBZ/ the/DT/ address/NN/ of/IN/ history/NN/ department/NN/ 
+Where/WRB/ is/VBZ/ the/DT/ history/NN/ department/NN/ 
+How/WRB/ many/JJ/ different/JJ/ locations/NNS/ does/VBZ/ the/DT/ school/NN/ with/IN/ code/NN/ BUS/NN/ has/NN/ 
+What/WP/ are/VBP/ the/DT/ different/JJ/ locations/NNS/ of/IN/ the/DT/ school/NN/ with/IN/ the/DT/ code/NN/ BUS/NN/ 
+How/WRB/ many/JJ/ different/JJ/ locations/NNS/ does/VBZ/ each/DT/ school/NN/ have/NN/ 
+Count/VB/ different/JJ/ addresses/NNS/ of/IN/ each/DT/ school/NN/ 
+Find/VB/ the/DT/ description/NN/ and/CC/ credit/NN/ for/IN/ the/DT/ course/NN/ QM-261/NN/ 
+What/WP/ is/VBZ/ the/DT/ course/NN/ description/NN/ and/CC/ number/NN/ of/IN/ credits/NNS/ for/IN/ QM-261/NN/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ departments/NNS/ in/IN/ each/DT/ school/NN/ 
+How/WRB/ many/JJ/ departments/NNS/ are/VBP/ in/IN/ each/DT/ school/NN/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ different/JJ/ departments/NNS/ in/IN/ each/DT/ school/NN/ whose/WP$/ number/NN/ of/IN/ different/JJ/ departments/NNS/ is/VBZ/ less/JJR/ than/IN/ 5/LS/ 
+How/WRB/ many/JJ/ different/JJ/ departments/NNS/ are/VBP/ there/EX/ in/IN/ each/DT/ school/NN/ that/WDT/ has/VBZ/ less/JJR/ than/IN/ 5/CD/ apartments/NN/ 
+How/WRB/ many/JJ/ sections/NNS/ does/VBZ/ each/DT/ course/NN/ has/NN/ 
+How/WRB/ many/JJ/ sections/NNS/ does/VBZ/ each/DT/ course/NN/ have/NN/ 
+What/WP/ is/VBZ/ the/DT/ total/JJ/ credit/NN/ does/VBZ/ each/DT/ department/NN/ offer/NN/ 
+How/WRB/ many/JJ/ credits/NNS/ does/VBZ/ the/DT/ department/NN/ offer/NN/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ classes/NNS/ offered/VBN/ for/IN/ all/DT/ class/NN/ rooms/NNS/ that/WDT/ held/VBD/ at/IN/ least/JJS/ 2/CD/ classes/NN/ 
+For/IN/ each/DT/ classroom/NN/ with/IN/ at/IN/ least/JJS/ 2/CD/ classes/NN/ how/WRB/ many/JJ/ classes/NNS/ are/VBP/ offered/NN/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ classes/NNS/ in/IN/ each/DT/ department/NN/ 
+How/WRB/ many/JJ/ classes/NNS/ are/VBP/ held/VBN/ in/IN/ each/DT/ department/NN/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ classes/NNS/ in/IN/ each/DT/ school/NN/ 
+How/WRB/ many/JJ/ classes/NNS/ exist/VBP/ for/IN/ each/DT/ school/NN/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ professors/NNS/ for/IN/ different/JJ/ school/NN/ 
+How/WRB/ many/JJ/ different/JJ/ professors/NNS/ are/VBP/ there/EX/ for/IN/ the/DT/ different/JJ/ schools/NN/ 
+Find/VB/ the/DT/ count/NN/ and/CC/ code/NN/ of/IN/ the/DT/ job/NN/ has/VBZ/ most/JJS/ employees/NN/ 
+What/WP/ is/VBZ/ the/DT/ count/NN/ and/CC/ code/NN/ of/IN/ the/DT/ job/NN/ with/IN/ the/DT/ most/JJS/ employee/NN/ 
+Which/WDT/ school/NN/ has/VBZ/ the/DT/ smallest/JJS/ amount/NN/ of/IN/ professors/NN/ 
+Which/WDT/ school/NN/ has/VBZ/ the/DT/ fewest/JJS/ professors/NN/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ professors/NNS/ with/IN/ a/DT/ Ph.D./NN/ degree/NN/ in/IN/ each/DT/ department/NN/ 
+How/WRB/ many/JJ/ professors/NNS/ have/VBP/ a/DT/ Ph.D./NN/ in/IN/ each/DT/ department/NN/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ students/NNS/ for/IN/ each/DT/ department/NN/ 
+How/WRB/ many/JJ/ students/NNS/ are/VBP/ in/IN/ each/DT/ department/NN/ 
+Find/VB/ the/DT/ total/JJ/ number/NN/ of/IN/ hours/NNS/ have/VBP/ done/VBN/ for/IN/ all/DT/ students/NNS/ in/IN/ each/DT/ department/NN/ 
+How/WRB/ many/JJ/ hours/NNS/ do/VBP/ the/DT/ students/NNS/ spend/VBP/ studying/VBG/ in/IN/ each/DT/ department/NN/ 
+Find/VB/ the/DT/ max/FW/ average/FW/ and/CC/ minimum/JJ/ gpa/NN/ of/IN/ all/DT/ students/NNS/ in/IN/ each/DT/ department/NN/ 
+What/WP/ is/VBZ/ the/DT/ highest/FW/ lowest/FW/ and/CC/ average/JJ/ student/NN/ GPA/NN/ for/IN/ every/DT/ department/NN/ 
+What/WP/ is/VBZ/ the/DT/ name/NN/ and/CC/ the/DT/ average/JJ/ gpa/NN/ of/IN/ department/NN/ whose/WP$/ students/NNS/ have/VBP/ the/DT/ highest/JJS/ average/JJ/ gpa/NN/ 
+Which/WDT/ department/NN/ has/VBZ/ the/DT/ highest/JJS/ average/JJ/ student/NN/ GPA/NN/ and/CC/ what/WP/ is/VBZ/ the/DT/ average/JJ/ gpa/NN/ 
+how/WRB/ many/JJ/ schools/NNS/ exist/VBP/ in/IN/ total/NN/ 
+How/WRB/ many/JJ/ schools/NNS/ are/VBP/ there/EX/ in/IN/ the/DT/ department/NN/ 
+How/WRB/ many/JJ/ different/JJ/ classes/NNS/ are/VBP/ there/NN/ 
+How/WRB/ many/JJ/ unique/JJ/ classes/NNS/ are/VBP/ offered/NN/ 
+How/WRB/ many/JJ/ courses/NNS/ are/VBP/ offered/NN/ 
+What/WP/ are/VBP/ the/DT/ number/NN/ of/IN/ different/JJ/ course/NN/ codes/NN/ 
+How/WRB/ many/JJ/ departments/NNS/ does/VBZ/ the/DT/ college/NN/ has/NN/ 
+How/WRB/ many/JJ/ different/JJ/ departments/NNS/ are/VBP/ there/NN/ 
+How/WRB/ many/JJ/ courses/NNS/ are/VBP/ offered/VBN/ by/IN/ the/DT/ Computer/NNP/ Info/NNP/ Systems/NNPS/ department/NN/ 
+How/WRB/ many/JJ/ courses/NNS/ does/VBZ/ the/DT/ department/NN/ of/IN/ Computer/NNP/ Information/NNP/ Systmes/FW/ offer/FW/ 
+How/WRB/ many/JJ/ sections/NNS/ does/VBZ/ course/NN/ ACCT-211/NN/ has/NN/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ different/JJ/ class/NN/ sections/NNS/ offered/VBN/ in/IN/ the/DT/ course/NN/ ACCT-211/NN/ 
+Find/VB/ the/DT/ total/JJ/ credits/NNS/ of/IN/ all/DT/ classes/NNS/ offered/VBN/ by/IN/ each/DT/ department/NN/ 
+What/WP/ are/VBP/ the/DT/ total/JJ/ number/NN/ of/IN/ credits/NNS/ offered/VBN/ by/IN/ each/DT/ department/NN/ 
+Find/VB/ the/DT/ name/NN/ of/IN/ the/DT/ department/NN/ that/WDT/ offers/VBZ/ the/DT/ largest/JJS/ number/NN/ of/IN/ credits/NNS/ of/IN/ all/DT/ classes/NN/ 
+Which/WDT/ department/NN/ offers/VBZ/ the/DT/ most/JJS/ credits/NNS/ all/DT/ together/NN/ 
+How/WRB/ many/JJ/ students/NNS/ enrolled/VBN/ in/IN/ class/NN/ ACCT-211/NN/ 
+What/WP/ are/VBP/ the/DT/ total/JJ/ number/NN/ of/IN/ students/NNS/ enrolled/VBN/ in/IN/ ACCT-211/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ name/NN/ of/IN/ each/DT/ student/NN/ enrolled/VBN/ in/IN/ class/NN/ ACCT-211/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ students/NNS/ in/IN/ course/NN/ ACCT-211/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ name/NN/ of/IN/ students/NNS/ enrolled/VBN/ in/IN/ class/NN/ ACCT-211/NN/ and/CC/ got/VBD/ grade/NN/ C/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ students/NNS/ who/WP/ took/VBD/ ACCT-211/NN/ and/CC/ received/VBD/ a/DT/ C/NN/ 
+Find/VB/ the/DT/ total/JJ/ number/NN/ of/IN/ employees/NN/ 
+How/WRB/ many/JJ/ employees/NNS/ are/VBP/ there/EX/ all/DT/ together/NN/ 
+How/WRB/ many/JJ/ professors/NNS/ do/VBP/ have/VB/ a/DT/ Ph.D./NN/ degree/NN/ 
+What/WP/ is/VBZ/ the/DT/ total/JJ/ number/NN/ of/IN/ professors/NNS/ with/IN/ a/DT/ Ph.D./NN/ 
+How/WRB/ many/JJ/ students/NNS/ are/VBP/ enrolled/VBN/ in/IN/ the/DT/ class/NN/ taught/VBN/ by/IN/ some/DT/ professor/NN/ from/IN/ the/DT/ accounting/NN/ department/NN/ 
+How/WRB/ many/JJ/ students/NNS/ are/VBP/ enrolled/VBN/ in/IN/ some/DT/ classes/NNS/ that/WDT/ are/VBP/ taught/VBN/ by/IN/ an/DT/ accounting/NN/ professor/NN/ 
+What/WP/ is/VBZ/ the/DT/ name/NN/ of/IN/ the/DT/ department/NN/ that/WDT/ has/VBZ/ the/DT/ largest/JJS/ number/NN/ of/IN/ students/NNS/ enrolled/NN/ 
+What/WP/ is/VBZ/ the/DT/ name/NN/ of/IN/ the/DT/ department/NN/ with/IN/ the/DT/ most/JJS/ students/NNS/ enrolled/VBP/ 
+list/NN/ names/NNS/ of/IN/ all/DT/ departments/NNS/ ordered/VBN/ by/IN/ their/PRP$/ names/NN/ 
+What/WP/ are/VBP/ the/DT/ names/NNS/ of/IN/ all/DT/ departments/NNS/ in/IN/ alphabetical/JJ/ order/NN/ 
+List/VB/ the/DT/ codes/NNS/ of/IN/ all/DT/ courses/NNS/ that/WDT/ take/VBP/ place/NN/ in/IN/ room/NN/ KLR209/NN/ 
+What/WP/ are/VBP/ the/DT/ codes/NNS/ of/IN/ all/PDT/ the/DT/ courses/NNS/ that/WDT/ are/VBP/ located/JJ/ in/IN/ room/NN/ KLR209/NN/ 
+List/VB/ the/DT/ first/JJ/ name/NN/ of/IN/ all/DT/ employees/NNS/ with/IN/ job/NN/ code/NN/ PROF/NN/ ordered/VBN/ by/IN/ their/PRP$/ date/NN/ of/IN/ birth/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ employees/NNS/ that/WDT/ are/VBP/ professors/NNS/ ordered/VBN/ by/IN/ date/NN/ of/IN/ birth/NN/ 
+Find/VB/ the/DT/ first/JJ/ names/NNS/ and/CC/ offices/NNS/ of/IN/ all/DT/ professors/NNS/ sorted/VBN/ by/IN/ alphabetical/JJ/ order/NN/ of/IN/ their/PRP$/ first/JJ/ name/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ and/CC/ office/NN/ locations/NNS/ for/IN/ all/DT/ professors/NNS/ sorted/VBD/ alphabetically/RB/ by/IN/ first/JJ/ name/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ and/CC/ last/JJ/ name/NN/ of/IN/ the/DT/ oldest/JJS/ employee/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ and/CC/ last/JJ/ names/NNS/ of/IN/ the/DT/ employee/NN/ with/IN/ the/DT/ earliest/JJS/ date/NN/ of/IN/ birth/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/NN/ last/JJ/ name/NN/ gpa/NN/ of/IN/ the/DT/ youngest/JJS/ one/NN/ among/IN/ students/NNS/ whose/WP$/ GPA/NN/ is/VBZ/ above/IN/ 3/CD/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ and/CC/ last/JJ/ name/NN/ of/IN/ the/DT/ youngest/JJS/ student/NN/ with/IN/ a/DT/ GPA/NN/ above/IN/ 3/CD/ and/CC/ what/WP/ is/VBZ/ their/PRP$/ GPA/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ name/NN/ of/IN/ students/NNS/ who/WP/ got/VBD/ grade/NN/ C/NN/ in/IN/ any/DT/ class/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ students/NNS/ who/WP/ got/VBD/ a/DT/ grade/NN/ C/NN/ in/IN/ a/DT/ class/NN/ 
+What/WP/ is/VBZ/ the/DT/ name/NN/ of/IN/ department/NN/ where/WRB/ has/VBZ/ the/DT/ smallest/JJS/ number/NN/ of/IN/ professors/NN/ 
+What/WP/ is/VBZ/ the/DT/ name/NN/ of/IN/ the/DT/ department/NN/ with/IN/ the/DT/ fewest/JJS/ professors/NN/ 
+What/WP/ is/VBZ/ the/DT/ name/NN/ of/IN/ department/NN/ where/WRB/ has/VBZ/ the/DT/ largest/JJS/ number/NN/ of/IN/ professors/NNS/ with/IN/ a/DT/ Ph.D./NN/ degree/NN/ 
+Which/WDT/ department/NN/ has/VBZ/ the/DT/ most/JJS/ professors/NNS/ with/IN/ a/DT/ Ph.D./NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ the/DT/ professors/NNS/ who/WP/ do/VBP/ not/RB/ teach/VB/ a/DT/ class/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ professors/NNS/ not/RB/ teaching/VBG/ any/DT/ classes/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ names/NNS/ of/IN/ the/DT/ professors/NNS/ from/IN/ the/DT/ history/NN/ department/NN/ who/WP/ do/VBP/ not/RB/ teach/VB/ a/DT/ class/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ history/NN/ professors/NNS/ who/WP/ do/VBP/ not/RB/ teach/VB/ 
+What/WP/ is/VBZ/ the/DT/ last/JJ/ name/NN/ and/CC/ office/NN/ of/IN/ the/DT/ professor/NN/ from/IN/ the/DT/ history/NN/ department/NN/ 
+What/WP/ are/VBP/ the/DT/ last/JJ/ name/NN/ and/CC/ office/NN/ of/IN/ all/DT/ history/NN/ professors/NN/ 
+What/WP/ is/VBZ/ department/NN/ name/NN/ and/CC/ office/NN/ for/IN/ the/DT/ professor/NN/ whose/WP$/ last/JJ/ name/NN/ is/VBZ/ Heffington/NN/ 
+What/WP/ is/VBZ/ the/DT/ name/NN/ of/IN/ the/DT/ department/NN/ and/CC/ office/NN/ location/NN/ for/IN/ the/DT/ professor/NN/ with/IN/ the/DT/ last/JJ/ name/NN/ of/IN/ Heffington/NN/ 
+Find/VB/ the/DT/ last/JJ/ name/NN/ and/CC/ hire/NN/ date/NN/ of/IN/ the/DT/ professor/NN/ who/WP/ is/VBZ/ in/IN/ office/NN/ DRE/NN/ 102/CD/ 
+What/WP/ is/VBZ/ the/DT/ last/JJ/ name/NN/ of/IN/ the/DT/ professor/NN/ whose/WP$/ office/NN/ is/VBZ/ located/JJ/ in/IN/ DRE/NN/ 102/CD/ and/CC/ when/WRB/ were/VBD/ they/PRP/ hired/VBP/ 
+What/WP/ is/VBZ/ the/DT/ code/NN/ of/IN/ the/DT/ course/NN/ which/WDT/ the/DT/ student/NN/ whose/WP$/ last/JJ/ name/NN/ is/VBZ/ Smithson/NNP/ took/NN/ 
+What/WP/ are/VBP/ the/DT/ course/NN/ codes/NNS/ for/IN/ every/DT/ class/NN/ that/IN/ the/DT/ student/NN/ with/IN/ the/DT/ last/JJ/ name/NN/ Smithson/FW/ took/FW/ 
+What/WP/ are/VBP/ the/DT/ description/NN/ and/CC/ credit/NN/ of/IN/ the/DT/ course/NN/ which/WDT/ the/DT/ student/NN/ whose/WP$/ last/JJ/ name/NN/ is/VBZ/ Smithson/NNP/ took/NN/ 
+How/WRB/ many/JJ/ credits/NNS/ is/VBZ/ the/DT/ course/NN/ that/IN/ the/DT/ student/NN/ with/IN/ the/DT/ last/JJ/ name/NN/ Smithson/FW/ took/FW/ and/CC/ what/WP/ is/VBZ/ its/PRP$/ description/NN/ 
+How/WRB/ many/JJ/ professors/NNS/ who/WP/ has/VBZ/ a/DT/ either/CC/ Ph.D./NN/ or/CC/ MA/NN/ degree/NN/ 
+How/WRB/ many/JJ/ professors/NNS/ attained/VBD/ either/CC/ Ph.D./NN/ or/CC/ Masters/NN/ degrees/NN/ 
+How/WRB/ many/JJ/ professors/NNS/ who/WP/ are/VBP/ from/IN/ either/CC/ Accounting/NN/ or/CC/ Biology/NN/ department/NN/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ professors/NNS/ who/WP/ are/VBP/ in/IN/ the/DT/ Accounting/NN/ or/CC/ Biology/NN/ departments/NN/ 
+Find/VB/ the/DT/ first/JJ/ name/NN/ of/IN/ the/DT/ professor/NN/ who/WP/ is/VBZ/ teaching/VBG/ two/CD/ courses/NNS/ with/IN/ code/NN/ CIS-220/NN/ and/CC/ QM-261/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ name/NN/ of/IN/ the/DT/ professor/NN/ who/WP/ is/VBZ/ teaching/VBG/ CIS-220/NN/ and/CC/ QM-261/NN/ 
+Find/VB/ the/DT/ first/JJ/ name/NN/ of/IN/ student/NN/ who/WP/ is/VBZ/ taking/VBG/ classes/NNS/ from/IN/ accounting/NN/ and/CC/ Computer/NNP/ Info/NNP/ Systems/NNP/ departments/NNS/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ students/NNS/ taking/VBG/ accoutning/NN/ and/CC/ Computer/NNP/ Information/NNP/ Systems/NNPS/ classes/NN/ 
+What/WP/ is/VBZ/ the/DT/ average/JJ/ gpa/NN/ of/IN/ the/DT/ students/NNS/ enrolled/VBN/ in/IN/ the/DT/ course/NN/ with/IN/ code/NN/ ACCT-211/NN/ 
+What/WP/ is/VBZ/ the/DT/ average/JJ/ GPA/NN/ of/IN/ students/NNS/ taking/VBG/ ACCT-211/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ name/NN/ gpa/NN/ and/CC/ phone/NN/ number/NN/ of/IN/ the/DT/ top/JJ/ 5/CD/ students/NNS/ with/IN/ highest/JJS/ gpa/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ name/NN/ GPA/NN/ and/CC/ phone/NN/ number/NN/ of/IN/ the/DT/ students/NNS/ with/IN/ the/DT/ top/JJ/ 5/CD/ GPAs/NN/ 
+What/WP/ is/VBZ/ the/DT/ department/NN/ name/NN/ of/IN/ the/DT/ students/NNS/ with/IN/ lowest/JJS/ gpa/NN/ belongs/VBZ/ to/NN/ 
+What/WP/ is/VBZ/ the/DT/ name/NN/ of/IN/ the/DT/ department/NN/ with/IN/ the/DT/ student/NN/ that/WDT/ has/VBZ/ the/DT/ lowest/JJS/ GPA/NN/ 
+Find/VB/ the/DT/ first/JJ/ name/NN/ and/CC/ gpa/NN/ of/IN/ the/DT/ students/NNS/ whose/WP$/ gpa/NN/ is/VBZ/ lower/JJR/ than/IN/ the/DT/ average/JJ/ gpa/NN/ of/IN/ all/DT/ students/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ name/NN/ and/CC/ GPA/NN/ of/IN/ every/DT/ student/NN/ that/WDT/ has/VBZ/ a/DT/ GPA/NN/ lower/JJR/ than/IN/ average/NN/ 
+Find/VB/ the/DT/ name/NN/ and/CC/ address/NN/ of/IN/ the/DT/ department/NN/ that/WDT/ has/VBZ/ the/DT/ highest/JJS/ number/NN/ of/IN/ students/NN/ 
+What/WP/ is/VBZ/ the/DT/ name/NN/ and/CC/ address/NN/ of/IN/ the/DT/ department/NN/ with/IN/ the/DT/ most/JJS/ students/NN/ 
+Find/VB/ the/DT/ name/FW/ address/FW/ number/NN/ of/IN/ students/NNS/ in/IN/ the/DT/ departments/NNS/ that/WDT/ have/VBP/ the/DT/ top/JJ/ 3/CD/ highest/JJS/ number/NN/ of/IN/ students/NN/ 
+What/WP/ is/VBZ/ the/DT/ name/FW/ address/FW/ and/CC/ number/NN/ of/IN/ students/NNS/ in/IN/ the/DT/ departments/NNS/ that/WDT/ have/VBP/ the/DT/ 3/CD/ most/JJS/ students/NN/ 
+Find/VB/ the/DT/ first/JJ/ name/NN/ and/CC/ office/NN/ of/IN/ the/DT/ professor/NN/ who/WP/ is/VBZ/ in/IN/ the/DT/ history/NN/ department/NN/ and/CC/ has/VBZ/ a/DT/ Ph.D./NN/ degree/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ and/CC/ office/NN/ of/IN/ the/DT/ professors/NNS/ who/WP/ are/VBP/ in/IN/ the/DT/ history/NN/ department/NN/ and/CC/ have/VBP/ a/DT/ Ph.D./NN/ 
+Find/VB/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ instructors/NNS/ who/WP/ have/VBP/ taught/VBN/ some/DT/ course/NN/ and/CC/ the/DT/ course/NN/ code/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ teachers/NNS/ who/WP/ have/VBP/ taught/VBN/ a/DT/ course/NN/ and/CC/ the/DT/ corresponding/JJ/ course/NN/ codes/NN/ 
+Find/VB/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ instructors/NNS/ who/WP/ have/VBP/ taught/VBN/ some/DT/ course/NN/ and/CC/ the/DT/ course/NN/ description/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ teachers/NNS/ who/WP/ have/VBP/ taught/VBN/ a/DT/ course/NN/ and/CC/ the/DT/ corresponding/JJ/ descriptions/NN/ 
+Find/VB/ the/DT/ first/JJ/ names/NNS/ and/CC/ offices/NNS/ of/IN/ all/DT/ instructors/NNS/ who/WP/ have/VBP/ taught/VBN/ some/DT/ course/NN/ and/CC/ also/RB/ find/VB/ the/DT/ course/NN/ description/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NN/ office/NN/ locations/NNS/ of/IN/ all/DT/ lecturers/NNS/ who/WP/ have/VBP/ taught/VBN/ some/DT/ course/NN/ 
+Find/VB/ the/DT/ first/JJ/ names/NNS/ and/CC/ offices/NNS/ of/IN/ all/DT/ instructors/NNS/ who/WP/ have/VBP/ taught/VBN/ some/DT/ course/NN/ and/CC/ the/DT/ course/NN/ description/NN/ and/CC/ the/DT/ department/NN/ name/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NN/ office/NN/ locations/NN/ and/CC/ departments/NNS/ of/IN/ all/DT/ instructors/NN/ and/CC/ also/RB/ what/WP/ are/VBP/ the/DT/ descriptions/NNS/ of/IN/ the/DT/ courses/NNS/ they/PRP/ teach/VBP/ 
+Find/VB/ names/NNS/ of/IN/ all/DT/ students/NNS/ who/WP/ took/VBD/ some/DT/ course/NN/ and/CC/ the/DT/ course/NN/ description/NN/ 
+What/WP/ are/VBP/ the/DT/ names/NNS/ of/IN/ all/DT/ students/NNS/ who/WP/ took/VBD/ a/DT/ class/NN/ and/CC/ the/DT/ corresponding/JJ/ course/NN/ descriptions/NN/ 
+Find/VB/ names/NNS/ of/IN/ all/DT/ students/NNS/ who/WP/ took/VBD/ some/DT/ course/NN/ and/CC/ got/VBD/ A/NNP/ or/CC/ C/NNP/ 
+What/WP/ are/VBP/ the/DT/ names/NNS/ of/IN/ all/DT/ students/NNS/ taking/VBG/ a/DT/ course/NN/ who/WP/ received/VBD/ an/DT/ A/NN/ or/CC/ C/NN/ 
+Find/VB/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ professors/NNS/ in/IN/ the/DT/ Accounting/NNP/ department/NN/ who/WP/ is/VBZ/ teaching/VBG/ some/DT/ course/NN/ and/CC/ the/DT/ class/NN/ room/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ Accounting/NNP/ professors/NNS/ who/WP/ teach/VBP/ and/CC/ what/WP/ are/VBP/ the/DT/ classrooms/NNS/ of/IN/ the/DT/ courses/NNS/ they/PRP/ teach/VBP/ 
+Find/VB/ the/DT/ first/JJ/ names/NNS/ and/CC/ degree/NN/ of/IN/ all/DT/ professors/NNS/ who/WP/ are/VBP/ teaching/VBG/ some/DT/ class/NN/ in/IN/ Computer/NNP/ Info/NNP/ Systems/NNPS/ department/NN/ 
+What/WP/ are/VBP/ the/DT/ different/JJ/ first/JJ/ names/NNS/ and/CC/ highest/JJS/ degree/NN/ attained/VBD/ for/IN/ professors/NNS/ teaching/VBG/ in/IN/ the/DT/ Computer/NNP/ Information/NNP/ Systems/NNPS/ department/NN/ 
+What/WP/ is/VBZ/ the/DT/ last/JJ/ name/NN/ of/IN/ the/DT/ student/NN/ who/WP/ got/VBD/ a/DT/ grade/NN/ A/NN/ in/IN/ the/DT/ class/NN/ with/IN/ code/NN/ 10018/CD/ 
+What/WP/ is/VBZ/ the/DT/ last/JJ/ name/NN/ of/IN/ the/DT/ student/NN/ who/WP/ received/VBD/ an/DT/ A/NN/ in/IN/ the/DT/ class/NN/ with/IN/ the/DT/ code/NN/ 10018/CD/ 
+Find/VB/ the/DT/ first/JJ/ name/NN/ and/CC/ office/NN/ of/IN/ history/NN/ professor/NN/ who/WP/ did/VBD/ not/RB/ get/VB/ a/DT/ Ph.D./NN/ degree/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ and/CC/ offices/NNS/ of/IN/ history/NN/ professors/NNS/ who/WP/ don't/VBP/ have/VB/ Ph.D.s/NN/ 
+Find/VB/ the/DT/ first/JJ/ names/NNS/ of/IN/ professors/NNS/ who/WP/ are/VBP/ teaching/VBG/ more/JJR/ than/IN/ one/CD/ class/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ all/DT/ professors/NNS/ who/WP/ teach/VBP/ more/JJR/ than/IN/ one/CD/ class/NN/ 
+Find/VB/ the/DT/ first/JJ/ names/NNS/ of/IN/ students/NNS/ who/WP/ took/VBD/ exactly/RB/ one/CD/ class/NN/ 
+What/WP/ are/VBP/ the/DT/ first/JJ/ names/NNS/ of/IN/ student/NN/ who/WP/ only/RB/ took/VBD/ one/CD/ course/NN/ 
+Find/VB/ the/DT/ name/NN/ of/IN/ department/NN/ that/WDT/ offers/VBZ/ the/DT/ class/NN/ whose/WP$/ description/NN/ has/VBZ/ the/DT/ word/NN/ Statistics/NN/ 
+What/WP/ is/VBZ/ the/DT/ name/NN/ of/IN/ the/DT/ department/NN/ that/WDT/ offers/VBZ/ a/DT/ course/NN/ that/WDT/ has/VBZ/ a/DT/ description/NN/ including/VBG/ the/DT/ word/NN/ Statistics/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ name/NN/ of/IN/ the/DT/ student/NN/ whose/WP$/ last/JJ/ name/NN/ starting/VBG/ with/IN/ the/DT/ letter/NN/ S/NN/ and/CC/ is/VBZ/ taking/VBG/ ACCT-211/NN/ class/NN/ 
+What/WP/ is/VBZ/ the/DT/ first/JJ/ name/NN/ of/IN/ the/DT/ student/NN/ whose/WP$/ last/JJ/ name/NN/ starts/VBZ/ with/IN/ the/DT/ letter/NN/ S/NN/ and/CC/ is/VBZ/ taking/VBG/ ACCT-211/NN/ 

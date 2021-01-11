@@ -1,0 +1,479 @@
+How/O/ many/O/ papers/paper/ does/O/ Eric/author.authorName/ Brewer/author.authorName/ have/O/ ?/O/ 
+How/O/ many/O/ papers/paper/ were/O/ written/O/ on/COND/ Question/keyphrase.keyphraseName/ Answering/keyphrase.keyphraseName/ in/COND/ 2016/paper.year/ ?/O/ 
+How/O/ many/O/ citations/cite/ does/O/ Yann/author.authorName/ Lecun/author.authorName/ has/O/ ?/O/ 
+What/O/ is/O/ the/O/ latest/O/ paper/paper/ by/O/ Emo/author.authorName/ Todorov/author.authorName/ ?/O/ 
+Textual/dataset.datasetName/ Entailment/dataset.datasetName/ datasets/dataset/ 
+What/O/ conferences/venue/ does/O/ Kurtis/author.authorName/ Heimerl/author.authorName/ publish/paper/ in/O/ ?/O/ 
+main/O/ topics/keyphrase/ of/O/ work/paper/ by/O/ Brian/author.authorName/ DeRenzi/author.authorName/ 
+what/O/ did/O/ Mark/author.authorName/ Guzdial/author.authorName/ write/writes/ ?/O/ 
+Who/O/ cites/cite/ Neeraj/author.authorName/ Jain/author.authorName/ most/O/ ?/O/ 
+most/O/ cited/cite/ by/O/ Tom/author.authorName/ Mitchell/author.authorName/ and/O/ Oren/author.authorName/ Etzioni/author.authorName/ 
+who/O/ is/O/ the/O/ most/O/ cited/cite/ author/author/ at/O/ CVPR/venue.venueName/ ?/O/ 
+who/O/ published/paper/ the/O/ most/O/ papers/paper/ in/COND/ Syntactic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ ?/O/ 
+ACL/venue.venueName/ papers/paper/ in/COND/ 2016/paper.year/ 
+What/O/ conferences/venue/ does/O/ Noah/author.authorName/ A./author.authorName/ Smith/author.authorName/ publish/paper/ in/O/ the/O/ most/O/ ?/O/ 
+Papers/paper/ written/O/ by/O/ James/author.authorName/ Fogarty/author.authorName/ in/COND/ 2015/paper.year/ 
+keywords/keyphrase/ shared/O/ by/O/ Luke/author.authorName/ S/author.authorName/ Zettlemoyer/author.authorName/ and/O/ Mirella/author.authorName/ Lapata/author.authorName/ 
+Papers/paper/ published/paper/ in/COND/ 2016/paper.year/ by/O/ Li/author.authorName/ Dong/author.authorName/ 
+number/O/ of/O/ citations/cite/ of/O/ Michael/author.authorName/ I./author.authorName/ Jordan/author.authorName/ 
+How/O/ many/O/ papers/paper/ were/O/ at/O/ SIGMOD/venue.venueName/ 2000/paper.year/ ?/O/ 
+Who/O/ has/O/ published/paper/ both/O/ in/COND/ ICML/venue.venueName/ and/O/ ACL/venue.venueName/ ?/O/ 
+Which/O/ paper/paper/ should/O/ I/O/ read/O/ about/O/ Dependent/keyphrase.keyphraseName/ Types/keyphrase.keyphraseName/ ?/O/ 
+papers/paper/ on/COND/ Program/keyphrase.keyphraseName/ Slicing/keyphrase.keyphraseName/ 
+papers/paper/ by/O/ Emina/author.authorName/ Torlak/author.authorName/ published/paper/ at/COND/ POPL/venue.venueName/ 
+Where/O/ did/O/ Sergey/author.authorName/ Levine/author.authorName/ publish/paper/ his/O/ last/O/ paper/paper/ ?/O/ 
+What/O/ papers/paper/ has/O/ Ed/author.authorName/ Desmond/author.authorName/ written/writes/ about/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ ?/O/ 
+How/O/ many/O/ papers/paper/ does/O/ Srinivasan/author.authorName/ Iyer/author.authorName/ have/O/ ?/O/ 
+Who/O/ published/paper/ the/O/ most/O/ papers/paper/ in/COND/ 2007/paper.year/ at/O/ CVPR/venue.venueName/ ?/O/ 
+in/O/ what/O/ conferences/venue/ does/O/ Mangpo/author.authorName/ publish/paper/ ?/O/ 
+papers/paper/ on/COND/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ 
+What/O/ conference/venue/ does/O/ Daniela/author.authorName/ Witten/author.authorName/ publish/paper/ in/O/ ?/O/ 
+papers/paper/ from/COND/ 2014/paper.year/ 
+Where/O/ did/O/ Luke/author.authorName/ Clark/author.authorName/ publish/paper/ in/COND/ 2013/paper.year/ 
+who/O/ publishes/paper/ papers/paper/ about/O/ Sensor/keyphrase.keyphraseName/ Fusion/keyphrase.keyphraseName/ 
+How/O/ many/O/ papers/paper/ does/O/ Huamin/author.authorName/ Qu/author.authorName/ have/O/ ?/O/ 
+List/O/ of/O/ papers/paper/ in/COND/ VMCAI/venue.venueName/ 2016/paper.year/ 
+In/O/ what/O/ years/paper.year/ did/O/ Pedro/author.authorName/ Domingos/author.authorName/ publish/paper/ a/O/ paper/paper/ ?/O/ 
+Kathryn/author.authorName/ McKinley/author.authorName/ s/O/ papers/paper/ on/COND/ Garbage/keyphrase.keyphraseName/ Collection/keyphrase.keyphraseName/ 
+papers/paper/ where/O/ Ras/author.authorName/ Bodik/author.authorName/ is/O/ an/O/ author/author/ 
+who/O/ authored/author/ papers/paper/ at/O/ NIPS/venue.venueName/ ?/O/ 
+papers/paper/ by/O/ Steve/author.authorName/ Seitz/author.authorName/ 
+keyphrases/keyphrase/ used/O/ by/O/ Dan/author.authorName/ Klein/author.authorName/ in/O/ his/O/ EMNLP/venue.venueName/ papers/paper/ 
+Paper/paper/ on/COND/ Reinforcement/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ with/O/ most/O/ citations/cite/ 
+papers/paper/ by/O/ Emina/author.authorName/ Torlak/author.authorName/ from/COND/ 2010/paper.year/ 
+keyphrases/keyphrase/ used/O/ by/O/ Ras/author.authorName/ Bodik/author.authorName/ 
+citation/cite/ count/O/ of/O/ Zachary/author.authorName/ Tatlock/author.authorName/ s/O/ papers/paper/ 
+What/O/ conferences/venue/ does/O/ Daniella/author.authorName/ Coelho/author.authorName/ publish/paper/ in/O/ ?/O/ 
+What/O/ papers/paper/ has/O/ James/author.authorName/ Fogarty/author.authorName/ written/writes/ ?/O/ 
+papers/paper/ in/COND/ ACL/venue.venueName/ 2016/paper.year/ 
+Papers/paper/ written/writes/ by/O/ Kurtis/author.authorName/ Heimerl/author.authorName/ 
+How/O/ many/O/ citations/cite/ does/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ have/O/ per/O/ year/paper.year/ 
+author/author/ published/paper/ ACL/venue.venueName/ 2014/paper.year/ 
+Which/O/ papers/paper/ cite/cite/ Daniel/author.authorName/ Jurafsky/author.authorName/ ?/O/ 
+In/O/ what/O/ years/paper.year/ did/O/ Pedro/author.authorName/ Domingos/author.authorName/ publish/paper/ a/O/ paper/paper/ ?/O/ 
+How/O/ many/O/ papers/paper/ were/O/ accepted/O/ at/O/ SIGMOD/venue.venueName/ 2016/paper.year/ ?/O/ 
+Srinivasan/author.authorName/ Iyer/author.authorName/ s/O/ papers/paper/ 
+What/O/ is/O/ the/O/ paper/paper/ about/O/ Semantic/keyphrase.keyphraseName/ Image/keyphrase.keyphraseName/ Segmentation/keyphrase.keyphraseName/ of/O/ the/O/ most/O/ citation/cite/ ?/O/ 
+tail/keyphrase.keyphraseName/ papers/paper/ in/COND/ NIPS/venue.venueName/ 
+Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ 2016/paper.year/ papers/paper/ 
+papers/paper/ using/O/ Wordnet/dataset.datasetName/ or/O/ Dbpedia/dataset.datasetName/ 
+what/O/ is/O/ the/O/ most/O/ cited/cite/ paper/paper/ of/O/ Ohad/author.authorName/ Shamir/author.authorName/ ?/O/ 
+What/O/ articles/paper/ have/O/ been/O/ published/paper/ since/COND/ 2006/paper.year/ about/O/ the/O/ Effects/paper.title/ Of/paper.title/ Juicing/paper.title/ For/paper.title/ Cancer/paper.title/ Patients/paper.title/ ?/O/ 
+what/O/ are/O/ the/O/ collaborations/O/ of/O/ Bharath/author.authorName/ Hariharan/author.authorName/ and/O/ Ross/author.authorName/ Girshick/author.authorName/ ?/O/ 
+datasets/dataset/ in/O/ papers/paper/ about/O/ KNN/keyphrase.keyphraseName/ Classification/keyphrase.keyphraseName/ 
+Sentiment/keyphrase.keyphraseName/ Analysis/keyphrase.keyphraseName/ papers/paper/ with/O/ most/O/ citations/cite/ 
+Does/O/ Ali/author.authorName/ Farhadi/author.authorName/ publish/paper/ in/COND/ CVPR/venue.venueName/ ?/O/ 
+What/O/ papers/paper/ talk/O/ about/O/ Reinforcement/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ ?/O/ 
+What/O/ are/O/ some/O/ survey/paper/ papers/paper/ on/COND/ Multiuser/keyphrase.keyphraseName/ Receiver/keyphrase.keyphraseName/ problems/O/ in/O/ Decision/keyphrase.keyphraseName/ Feedback/keyphrase.keyphraseName/ ?/O/ 
+who/O/ wrote/writes/ papers/paper/ in/COND/ 2015/paper.year/ 
+papers/paper/ typically/O/ cited/cite/ by/O/ Parsing/keyphrase.keyphraseName/ papers/paper/ 
+List/O/ papers/paper/ that/O/ has/O/ a/O/ keyword/keyphrase/ Depth/keyphrase.keyphraseName/ Map/keyphrase.keyphraseName/ 
+How/O/ many/O/ papers/paper/ has/O/ Jennifer/author.authorName/ Widom/author.authorName/ published/paper/ ?/O/ 
+newest/O/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ papers/paper/ 
+Syntactic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ papers/paper/ not/O/ written/writes/ by/O/ Chris/author.authorName/ Dyer/author.authorName/ 
+How/O/ many/O/ paper/paper/ does/O/ Samia/author.authorName/ Razaq/author.authorName/ have/O/ ?/O/ 
+Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ papers/paper/ in/COND/ ACL/venue.venueName/ 
+What/O/ is/O/ the/O/ most/O/ popular/O/ paper/paper/ this/O/ year/paper.year/ in/COND/ CVPR/venue.venueName/ ?/O/ 
+what/O/ papers/paper/ are/O/ typically/O/ cited/cite/ by/O/ Tom/author.authorName/ Mitchell/author.authorName/ and/O/ Oren/author.authorName/ Etzioni/author.authorName/ 
+In/O/ which/O/ conferences/venue/ does/O/ Anders/author.authorName/ Andersson/author.authorName/ typically/O/ publish/paper/ ?/O/ 
+papers/paper/ written/O/ by/O/ authors/author/ Richard/author.authorName/ Ladner/author.authorName/ and/O/ Linda/author.authorName/ Shapiro/author.authorName/ 
+who/O/ has/O/ written/writes/ the/O/ most/O/ papers/paper/ on/COND/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ ?/O/ 
+How/O/ many/O/ papers/paper/ has/O/ Chris/author.authorName/ Mattmann/author.authorName/ published/paper/ ?/O/ 
+How/O/ many/O/ papers/paper/ does/O/ Kentaro/author.authorName/ Toyama/author.authorName/ have/O/ ?/O/ 
+What/O/ are/O/ the/O/ latest/O/ publications/paper/ on/COND/ Neutralizing/keyphrase.keyphraseName/ Antibody/keyphrase.keyphraseName/ ?/O/ 
+How/O/ many/O/ papers/paper/ were/O/ written/writes/ on/COND/ Question/keyphrase.keyphraseName/ Answering/keyphrase.keyphraseName/ in/O/ the/O/ past/O/ 5/paper.year/ years/paper.year/ ?/O/ 
+how/O/ many/O/ papers/paper/ does/O/ Michael/author.authorName/ I./author.authorName/ Jordan/author.authorName/ cite/cite/ 
+what/O/ was/O/ the/O/ first/O/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ paper/paper/ ?/O/ 
+How/O/ many/O/ papers/paper/ has/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ published/paper/ ?/O/ 
+What/O/ years/paper.year/ did/O/ Alvin/author.authorName/ Cheung/author.authorName/ publish/paper/ papers/paper/ in/O/ ?/O/ 
+How/O/ many/O/ papers/paper/ did/O/ Noah/author.authorName/ Smith/author.authorName/ publish/paper/ in/COND/ 2010/paper.year/ ?/O/ 
+most/O/ published/paper/ author/author/ at/O/ ACL/venue.venueName/ 2010/paper.year/ 
+co-authors/author/ of/O/ Lorenzo/author.authorName/ Bruzzone/author.authorName/ 
+List/O/ the/O/ popular/O/ publications/paper/ on/COND/ Object/keyphrase.keyphraseName/ Discrimination/keyphrase.keyphraseName/ 
+who/O/ writes/writes/ papers/paper/ with/O/ Ras/author.authorName/ Bodik/author.authorName/ ?/O/ 
+How/O/ many/O/ papers/paper/ used/O/ ImageNet/dataset.datasetName/ dataset/dataset/ ?/O/ 
+papers/paper/ about/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ 
+what/O/ are/O/ commonly/O/ cited/cite/ papers/paper/ by/O/ Tom/author.authorName/ Mitchell/author.authorName/ and/O/ Oren/author.authorName/ Etzioni/author.authorName/ ?/O/ 
+what/O/ are/O/ Syntactic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ papers/paper/ not/O/ written/writes/ by/O/ Chris/author.authorName/ Dyer/author.authorName/ 
+keywords/keyphrase/ used/O/ by/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ 
+How/O/ many/O/ citations/cite/ does/O/ Christopher/author.authorName/ D/author.authorName/ Manning/author.authorName/ have/O/ ?/O/ 
+what/O/ were/O/ some/O/ Optimization/keyphrase.keyphraseName/ based/O/ papers/paper/ in/COND/ NIPS/venue.venueName/ 2016/paper.year/ ?/O/ 
+papers/paper/ on/COND/ Semantic/keyphrase.keyphraseName/ Spaces/keyphrase.keyphraseName/ appeared/O/ at/O/ Arxiv/venue.venueName/ last/O/ year/paper.year/ 
+How/O/ many/O/ publications/paper/ were/O/ added/O/ to/O/ the/O/ Cell/journal.journalName/ journal/journal/ this/O/ year/paper.year/ ?/O/ 
+List/O/ today/O/ s/O/ journals/journal/ 
+are/O/ there/O/ Multiuser/keyphrase.keyphraseName/ Receiver/keyphrase.keyphraseName/ papers/paper/ that/O/ use/O/ Decision/keyphrase.keyphraseName/ Feedback/keyphrase.keyphraseName/ ?/O/ 
+how/O/ many/O/ papers/paper/ accepted/O/ in/COND/ ACL/venue.venueName/ 2016/paper.year/ 
+papers/paper/ using/O/ NELL/venue.venueName/ 
+How/O/ many/O/ papers/paper/ does/O/ Andrew/author.authorName/ King/author.authorName/ have/O/ ?/O/ 
+are/O/ there/O/ any/O/ Syntactic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ papers/paper/ not/O/ written/writes/ by/O/ Chris/author.authorName/ Dyer/author.authorName/ ?/O/ 
+Who/O/ has/O/ published/paper/ more/COND/ papers/paper/ in/COND/ NSDI/venue.venueName/ ?/O/ 
+who/O/ published/paper/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ papers/paper/ at/O/ ACL/venue.venueName/ 2012/paper.year/ 
+How/O/ many/O/ papers/paper/ does/O/ Graham/author.authorName/ Neubig/author.authorName/ have/O/ in/COND/ TACL/venue.venueName/ ?/O/ 
+in/O/ what/O/ venues/venue/ does/O/ Mangpo/author.authorName/ publish/paper/ ?/O/ 
+ACL/venue.venueName/ papers/paper/ in/COND/ 2012/paper.year/ on/COND/ Parsing/keyphrase.keyphraseName/ 
+ICTD/venue.venueName/ 
+who/O/ works/O/ on/COND/ Multiuser/keyphrase.keyphraseName/ Receiver/keyphrase.keyphraseName/ for/O/ Decision/keyphrase.keyphraseName/ Feedback/keyphrase.keyphraseName/ 
+What/O/ papers/paper/ has/O/ Luke/author.authorName/ S/author.authorName/ Zettlemoyer/author.authorName/ written/writes/ ?/O/ 
+papers/paper/ written/writes/ by/O/ Srinivasan/author.authorName/ Iyer/author.authorName/ 
+keyphrases/keyphrase/ used/O/ by/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ 
+the/O/ papers/paper/ on/COND/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ by/O/ Li/author.authorName/ Dong/author.authorName/ at/COND/ ACL/venue.venueName/ in/COND/ 2016/paper.year/ 
+which/O/ papers/paper/ has/O/ Michael/author.authorName/ I./author.authorName/ Jordan/author.authorName/ cited/cite/ the/O/ most/O/ ?/O/ 
+How/O/ many/O/ citations/cite/ does/O/ Li/author.authorName/ Dong/author.authorName/ s/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ paper/paper/ have/O/ ?/O/ 
+papers/paper/ published/paper/ in/COND/ the/O/ area/keyphrase/ of/O/ Computer/keyphrase.keyphraseName/ Vision/keyphrase.keyphraseName/ 
+authors/author/ of/O/ ACL/venue.venueName/ 2014/paper.year/ papers/paper/ 
+recent/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ papers/paper/ 
+What/O/ papers/paper/ were/O/ written/writes/ by/O/ authors/author/ Richard/author.authorName/ Ladner/author.authorName/ and/O/ Linda/author.authorName/ Shapiro/author.authorName/ 
+What/O/ conferences/venue/ does/O/ Noah/author.authorName/ A./author.authorName/ Smith/author.authorName/ publish/paper/ in/O/ ?/O/ 
+author/author/ who/O/ wrote/writes/ papers/paper/ with/O/ Emina/author.authorName/ Torlak/author.authorName/ 
+top/O/ author/author/ in/O/ Syntactic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ 
+Monte/keyphrase.keyphraseName/ Carlo/keyphrase.keyphraseName/ Simulation/keyphrase.keyphraseName/ papers/paper/ since/COND/ 2011/paper.year/ 
+how/O/ many/O/ papers/paper/ has/O/ Mirella/author.authorName/ Lapata/author.authorName/ written/writes/ ?/O/ 
+papers/paper/ about/O/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ 
+Does/O/ Philipp/author.authorName/ Haberstock/author.authorName/ ever/O/ collaborated/writes/ with/O/ Ludwig/author.authorName/ Nastansky/author.authorName/ ?/O/ 
+how/O/ many/O/ ACL/venue.venueName/ papers/paper/ by/O/ author/author/ 
+papers/paper/ about/O/ Wordnet/dataset.datasetName/ and/O/ Dbpedia/dataset.datasetName/ 
+keyphrases/keyphrase/ used/O/ by/O/ Luke/author.authorName/ S/author.authorName/ Zettlemoyer/author.authorName/ 
+How/O/ many/O/ papers/paper/ has/O/ Christopher/author.authorName/ D/author.authorName/ Manning/author.authorName/ published/paper/ ?/O/ 
+how/O/ many/O/ papers/paper/ has/O/ Ameet/author.authorName/ Soni/author.authorName/ published/paper/ ?/O/ 
+how/O/ many/O/ Parsing/keyphrase.keyphraseName/ papers/paper/ did/O/ ACL/venue.venueName/ 2014/paper.year/ have/O/ ?/O/ 
+papers/paper/ by/O/ Mangpo/author.authorName/ 
+journal/paper/ papers/paper/ for/O/ Instance/keyphrase.keyphraseName/ Segmentation/keyphrase.keyphraseName/ 
+what/O/ venue/venue/ does/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ publish/paper/ the/O/ most/O/ in/O/ 
+What/O/ has/O/ Ras/author.authorName/ Bodik/author.authorName/ published/paper/ ?/O/ 
+Character/keyphrase.keyphraseName/ Recognition/keyphrase.keyphraseName/ papers/paper/ earlier/COND/ than/O/ 2010/paper.year/ 
+keyphrases/keyphrase/ used/O/ by/O/ Dan/author.authorName/ Suciu/author.authorName/ 
+what/O/ topics/keyphrase/ does/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ publish/paper/ in/O/ 
+Papers/paper/ by/O/ Bevan/author.authorName/ Jones/author.authorName/ 
+I/O/ want/O/ the/O/ papers/paper/ on/COND/ Machine/keyphrase.keyphraseName/ Translation/keyphrase.keyphraseName/ by/O/ Philipp/author.authorName/ Koehn/author.authorName/ 
+What/O/ paper/paper/ did/O/ Michael/author.authorName/ Armstrong/author.authorName/ wrote/writes/ in/O/ the/O/ 90s/paper.year/ ?/O/ 
+How/O/ many/O/ papers/paper/ does/O/ Srinivasan/author.authorName/ Iyer/author.authorName/ have/O/ ?/O/ 
+keyphrases/keyphrase/ used/O/ by/O/ Roni/author.authorName/ Rosenfeld/author.authorName/ 
+which/O/ EMNLP/venue.venueName/ 2010/paper.year/ papers/paper/ have/O/ the/O/ most/O/ citations/cite/ ?/O/ 
+list/O/ papers/paper/ by/O/ Agha/author.authorName/ Ali/author.authorName/ Raza/author.authorName/ 
+What/O/ are/O/ all/O/ the/O/ publication/paper/ titles/paper.title/ by/O/ Donald/author.authorName/ E/author.authorName/ Knuth/author.authorName/ ?/O/ 
+What/O/ journals/journal/ are/O/ Donald/author.authorName/ E/author.authorName/ Knuth/author.authorName/ s/O/ articles/paper/ published/paper/ in/O/ ?/O/ 
+what/O/ kind/keyphrase.keyphraseName/ of/O/ papers/paper/ does/O/ Shwetak/author.authorName/ Patel/author.authorName/ publish/paper/ 
+keyphrases/keyphrase/ used/O/ by/O/ Steve/author.authorName/ Tanimoto/author.authorName/ 
+How/O/ many/O/ papers/paper/ does/O/ Jeffrey/author.authorName/ Heer/author.authorName/ have/O/ ?/O/ 
+How/O/ many/O/ papers/paper/ in/COND/ ACL/venue.venueName/ 2016/paper.year/ ?/O/ 
+Has/O/ Dan/author.authorName/ Suciu/author.authorName/ published/paper/ any/O/ papers/paper/ ?/O/ 
+papers/paper/ related/O/ to/O/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ 
+new/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ papers/paper/ 
+What/O/ year/paper.year/ did/O/ Luke/author.authorName/ S/author.authorName/ Zettlemoyer/author.authorName/ publish/paper/ the/O/ most/O/ papers/paper/ 
+What/O/ papers/paper/ has/O/ Yoav/author.authorName/ Artzi/author.authorName/ written/writes/ ?/O/ 
+Which/O/ authors/author/ published/paper/ papers/paper/ in/COND/ 2015/paper.year/ ?/O/ 
+Multiuser/keyphrase.keyphraseName/ Receiver/keyphrase.keyphraseName/ in/COND/ Decision/keyphrase.keyphraseName/ Feedback/keyphrase.keyphraseName/ papers/paper/ 
+List/O/ the/O/ journals/journal/ related/O/ to/O/ Temporal/keyphrase.keyphraseName/ Data/keyphrase.keyphraseName/ 
+papers/paper/ about/O/ Query/keyphrase.keyphraseName/ Expansion/keyphrase.keyphraseName/ in/COND/ SIGIR/venue.venueName/ 2014/paper.year/ 
+conferences/venue/ that/O/ Dan/author.authorName/ Weld/author.authorName/ has/O/ published/paper/ in/O/ 
+what/O/ paper/paper/ did/O/ Ras/author.authorName/ Bodik/author.authorName/ and/O/ Ameet/author.authorName/ Soni/author.authorName/ write/writes/ together/O/ ?/O/ 
+What/O/ papers/paper/ has/O/ Adam/author.authorName/ Chlipala/author.authorName/ written/writes/ ?/O/ 
+How/O/ many/O/ citation/cite/ Richard/author.authorName/ Anderson/author.authorName/ has/O/ ?/O/ 
+what/O/ year/paper.year/ was/O/ the/O/ first/O/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ paper/paper/ published/paper/ ?/O/ 
+datasets/dataset/ in/COND/ KNN/keyphrase.keyphraseName/ papers/paper/ 
+has/O/ any/O/ paper/paper/ tried/O/ Multiuser/keyphrase.keyphraseName/ Receiver/keyphrase.keyphraseName/ for/O/ Decision/keyphrase.keyphraseName/ Feedback/keyphrase.keyphraseName/ ?/O/ 
+What/O/ papers/paper/ were/O/ published/paper/ in/COND/ ACL/venue.venueName/ in/COND/ 2015/paper.year/ about/O/ Common/keyphrase.keyphraseName/ Practice/keyphrase.keyphraseName/ ?/O/ 
+who/O/ has/O/ written/writes/ the/O/ most/O/ Information/keyphrase.keyphraseName/ Retrieval/keyphrase.keyphraseName/ papers/paper/ ?/O/ 
+How/O/ many/O/ papers/paper/ did/O/ Luke/author.authorName/ Campbell/author.authorName/ write/writes/ last/O/ year/paper.year/ ?/O/ 
+How/O/ many/O/ papers/paper/ has/O/ Dominik/author.authorName/ Moritz/author.authorName/ written/writes/ ?/O/ 
+papers/paper/ at/O/ PLDI/venue.venueName/ 
+When/O/ was/O/ Benjamin/author.authorName/ Mako/author.authorName/ Hill/author.authorName/ s/O/ first/O/ paper/paper/ written/writes/ ?/O/ 
+What/O/ is/O/ Yejin/author.authorName/ Choi/author.authorName/ s/O/ highest/O/ cited/cite/ paper/paper/ ?/O/ 
+topics/keyphrase/ at/O/ ACL/venue.venueName/ 2014/paper.year/ 
+How/O/ many/O/ papers/paper/ does/O/ James/author.authorName/ Fogarty/author.authorName/ have/O/ in/COND/ CHI/venue.venueName/ ?/O/ 
+Information/keyphrase.keyphraseName/ Extraction/keyphrase.keyphraseName/ publications/paper/ 
+which/O/ year/paper.year/ had/O/ the/O/ most/O/ NIPS/venue.venueName/ papers/paper/ ?/O/ 
+what/O/ topics/keyphrase/ does/O/ Oren/author.authorName/ Etzioni/author.authorName/ write/writes/ about/O/ most/O/ ?/O/ 
+Who/O/ has/O/ coauthored/author/ with/O/ Dan/author.authorName/ Suciu/author.authorName/ ?/O/ 
+ACL/venue.venueName/ papers/paper/ in/COND/ 2016/paper.year/ about/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ 
+papers/paper/ about/O/ NELL/venue.venueName/ 
+papers/paper/ about/O/ ImageNet/dataset.datasetName/ 
+papers/paper/ that/O/ use/O/ ImageNet/dataset.datasetName/ 
+find/O/ me/O/ paper/paper/ on/COND/ using/O/ Neural/keyphrase.keyphraseName/ for/O/ Relation/keyphrase.keyphraseName/ Extraction/keyphrase.keyphraseName/ 
+how/O/ many/O/ Ras/author.authorName/ Bodik/author.authorName/ papers/paper/ are/O/ in/COND/ POPL/venue.venueName/ ?/O/ 
+What/O/ are/O/ the/O/ papers/paper/ of/O/ Ali/author.authorName/ Farhadi/author.authorName/ in/COND/ 2014/paper.year/ 
+papers/paper/ in/O/ Neural/keyphrase.keyphraseName/ Networks/keyphrase.keyphraseName/ 
+how/O/ many/O/ citations/cite/ does/O/ Donald/author.authorName/ E/author.authorName/ Knuth/author.authorName/ have/O/ ?/O/ 
+Which/O/ papers/paper/ cite/cite/ Daniel/author.authorName/ A/author.authorName/ Reed/author.authorName/ ?/O/ 
+How/O/ many/O/ papers/paper/ have/O/ Dan/author.authorName/ Suciu/author.authorName/ and/O/ Magdalena/author.authorName/ Balazinska/author.authorName/ ?/O/ 
+How/O/ many/O/ papers/paper/ on/COND/ Computer/journal.journalName/ Science/journal.journalName/ Education/journal.journalName/ in/COND/ 2016/paper.year/ ?/O/ 
+Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ top/O/ papers/paper/ 
+datasets/dataset/ for/O/ KNN/keyphrase.keyphraseName/ 
+which/O/ papers/paper/ in/COND/ ICML/venue.venueName/ 2014/paper.year/ had/O/ Lasso/keyphrase.keyphraseName/ in/O/ them/O/ ?/O/ 
+How/O/ many/O/ papers/paper/ did/O/ Brian/author.authorName/ DeRenzi/author.authorName/ publish/paper/ in/COND/ 2015/paper.year/ 
+papers/paper/ by/O/ Oren/author.authorName/ Etzioni/author.authorName/ 
+How/O/ many/O/ papers/paper/ by/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ contain/O/ the/O/ keyphrases/keyphrase/ Learning/keyphrase.keyphraseName/ Algorithm/keyphrase.keyphraseName/ ?/O/ 
+papers/paper/ about/O/ Object/keyphrase.keyphraseName/ Recognition/keyphrase.keyphraseName/ 
+most/O/ recent/O/ papers/paper/ of/O/ Ali/author.authorName/ Farhadi/author.authorName/ 
+papers/paper/ about/O/ Character/keyphrase.keyphraseName/ Recognition/keyphrase.keyphraseName/ from/O/ before/COND/ 2010/paper.year/ 
+Datasets/dataset/ with/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ information/keyphrase.keyphraseName/ 
+How/O/ many/O/ co-authors/author/ has/O/ Mark/author.authorName/ Steedman/author.authorName/ had/O/ ?/O/ 
+What/O/ Data/keyphrase.keyphraseName/ Cleaning/keyphrase.keyphraseName/ paper/paper/ published/paper/ in/COND/ VLDB/venue.venueName/ ?/O/ 
+How/O/ many/O/ papers/paper/ related/O/ to/O/ Deep/keyphrase.keyphraseName/ Reinforcement/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ in/COND/ NIPS/venue.venueName/ ?/O/ 
+how/O/ is/O/ the/O/ most/O/ prolific/O/ author/author/ in/COND/ ACL/venue.venueName/ ?/O/ 
+keyphrases/keyphrase/ used/O/ by/O/ Ang/author.authorName/ Li/author.authorName/ 
+What/O/ papers/paper/ were/O/ published/paper/ at/O/ CVPR/venue.venueName/ in/COND/ 2015/paper.year/ were/O/ about/O/ Semantic/keyphrase.keyphraseName/ Segmentation/keyphrase.keyphraseName/ ?/O/ 
+FAHAD/author.authorName/ PERVAIZ/author.authorName/ 
+Autoencoder/keyphrase.keyphraseName/ experiments/O/ 
+Li/author.authorName/ Dong/author.authorName/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ paper/paper/ 
+How/O/ many/O/ papers/paper/ has/O/ Christopher/author.authorName/ D./author.authorName/ Manning/author.authorName/ published/paper/ ?/O/ 
+what/O/ paper/paper/ has/O/ Clifford/author.authorName/ Grobstein/author.authorName/ published/paper/ in/COND/ Science/journal.journalName/ ?/O/ 
+Journal/journal/ Papers/paper/ by/O/ Mohammad/author.authorName/ Rastegari/author.authorName/ 
+Who/O/ has/O/ published/paper/ the/O/ most/O/ number/O/ of/O/ papers/paper/ with/O/ Richard/author.authorName/ Sutton/author.authorName/ ?/O/ 
+Show/O/ me/O/ the/O/ papers/paper/ on/COND/ Data/keyphrase.keyphraseName/ Cleaning/keyphrase.keyphraseName/ 
+papers/paper/ before/COND/ 2010/paper.year/ about/O/ Character/keyphrase.keyphraseName/ Recognition/keyphrase.keyphraseName/ 
+Who/O/ has/O/ coauthored/author/ with/O/ Luke/author.authorName/ S/author.authorName/ Zettlemoyer/author.authorName/ ?/O/ 
+How/O/ many/O/ papers/paper/ run/O/ experiments/O/ on/COND/ ImageNet/dataset.datasetName/ ?/O/ 
+papers/paper/ by/O/ Stefan/author.authorName/ Savage/author.authorName/ 
+papers/paper/ that/O/ used/O/ MNIST/dataset.datasetName/ 
+How/O/ many/O/ papers/paper/ does/O/ Graham/author.authorName/ Neubig/author.authorName/ have/O/ in/COND/ TACL/venue.venueName/ 
+Does/O/ Hal/author.authorName/ Perkins/author.authorName/ have/O/ any/O/ papers/paper/ published/paper/ ?/O/ 
+Tail/keyphrase.keyphraseName/ papers/paper/ used/O/ in/COND/ NIPS/venue.venueName/ 
+What/O/ papers/paper/ does/O/ Daphne/author.authorName/ Koller/author.authorName/ have/O/ in/COND/ ICML/venue.venueName/ ?/O/ 
+datasets/dataset/ with/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ 
+What/O/ conference/venue/ does/O/ Li/author.authorName/ Dong/author.authorName/ publish/paper/ in/O/ ?/O/ 
+What/O/ area/O/ cites/cite/ Ras/author.authorName/ Bodik/author.authorName/ ?/O/ 
+top/O/ Syntactic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ author/author/ 
+how/O/ many/O/ papers/paper/ does/O/ Dan/author.authorName/ Klein/author.authorName/ have/O/ in/COND/ EMNLP/venue.venueName/ ?/O/ 
+conference/venue/ papers/paper/ of/O/ Subhasis/author.authorName/ Chaudhuri/author.authorName/ 
+papers/paper/ by/O/ Koos/author.authorName/ Koole/author.authorName/ 
+in/O/ what/O/ venues/venue/ does/O/ Chasins/author.authorName/ publish/paper/ ?/O/ 
+Who/O/ has/O/ more/O/ papers/paper/ :/O/ Frank/author.authorName/ Keller/author.authorName/ or/O/ Mirella/author.authorName/ Lapata/author.authorName/ ?/O/ 
+ICML/venue.venueName/ papers/paper/ in/COND/ 2016/paper.year/ in/COND/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ 
+How/O/ many/O/ papers/paper/ were/O/ written/writes/ on/COND/ Question/keyphrase.keyphraseName/ Answering/keyphrase.keyphraseName/ in/COND/ 2011/paper.year/ through/O/ 2016/paper.year/ ?/O/ 
+Syntactic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ papers/paper/ not/O/ written/writes/ by/O/ Chris/author.authorName/ Dyer/author.authorName/ 
+citations/cite/ for/O/ Alex/author.authorName/ Snoeren/author.authorName/ 
+List/O/ of/O/ authors/author/ ACL/venue.venueName/ 2016/paper.year/ 
+Authors/author/ of/O/ papers/paper/ on/COND/ Machine/keyphrase.keyphraseName/ Translation/keyphrase.keyphraseName/ 
+Who/O/ wrote/writes/ Blink/keyphrase.keyphraseName/ ?/O/ 
+does/O/ Ras/author.authorName/ Bodik/author.authorName/ publish/paper/ a/O/ lot/O/ ?/O/ 
+which/O/ venue/venue/ publishes/paper/ the/O/ most/O/ papers/paper/ about/O/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ 
+Show/O/ me/O/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ papers/paper/ ./O/ 
+Monte/keyphrase.keyphraseName/ Carlo/keyphrase.keyphraseName/ Simulation/keyphrase.keyphraseName/ papers/paper/ published/paper/ after/COND/ 2011/paper.year/ 
+which/O/ papers/paper/ use/O/ Wordnet/dataset.datasetName/ or/O/ Dbpedia/dataset.datasetName/ ?/O/ 
+who/O/ does/O/ Oren/author.authorName/ Etzioni/author.authorName/ cite/cite/ 
+recent/O/ papers/paper/ by/O/ Subhasis/author.authorName/ Chaudhuri/author.authorName/ 
+How/O/ many/O/ papers/paper/ were/O/ written/writes/ on/COND/ Question/keyphrase.keyphraseName/ Answering/keyphrase.keyphraseName/ in/COND/ the/O/ past/O/ year/paper.year/ ?/O/ 
+keyphrases/keyphrase/ used/O/ by/O/ Jeffrey/author.authorName/ Heer/author.authorName/ ./O/ 
+How/O/ many/O/ papers/paper/ were/O/ written/writes/ on/COND/ the/O/ Developing/keyphrase.keyphraseName/ World/keyphrase.keyphraseName/ this/O/ year/paper.year/ ?/O/ 
+how/O/ many/O/ papers/paper/ are/O/ based/O/ on/COND/ ImageNet/dataset.datasetName/ 
+How/O/ many/O/ papers/paper/ did/O/ Ali/author.authorName/ Farhadi/author.authorName/ cite/cite/ ?/O/ 
+Character/keyphrase.keyphraseName/ Recognition/keyphrase.keyphraseName/ papers/paper/ before/COND/ 2010/paper.year/ 
+who/O/ published/paper/ papers/paper/ in/COND/ ACL/venue.venueName/ 2010/paper.year/ 
+what/O/ are/O/ most/O/ cited/cite/ papers/paper/ of/O/ Tom/author.authorName/ Mitchell/author.authorName/ and/O/ Oren/author.authorName/ Etzioni/author.authorName/ ?/O/ 
+datasets/dataset/ used/O/ in/O/ papers/paper/ written/writes/ by/O/ Oren/author.authorName/ Etzioni/author.authorName/ ?/O/ 
+keyphrases/keyphrase/ used/O/ by/O/ Yejin/author.authorName/ Choi/author.authorName/ 
+who/O/ published/paper/ at/COND/ ACL/venue.venueName/ 2014/paper.year/ ?/O/ 
+top/O/ Reinforcement/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ papers/paper/ 
+What/O/ journals/journal/ has/O/ James/author.authorName/ Landay/author.authorName/ published/paper/ in/O/ ?/O/ 
+KNN/keyphrase.keyphraseName/ dataset/dataset/ 
+authors/author/ of/O/ ACL/venue.venueName/ 2014/paper.year/ papers/paper/ 
+How/O/ many/O/ papers/paper/ written/writes/ on/COND/ ImageNet/dataset.datasetName/ ?/O/ 
+which/O/ papers/paper/ used/O/ NELL/venue.venueName/ ?/O/ 
+How/O/ many/O/ paper/paper/ has/O/ Ed/author.authorName/ Desmond/author.authorName/ written/O/ about/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ ?/O/ 
+In/COND/ 2010/paper.year/ what/O/ journal/journal/ published/paper/ an/O/ article/paper/ about/O/ Trophic/keyphrase.keyphraseName/ Cascade/keyphrase.keyphraseName/ ?/O/ 
+papers/paper/ by/O/ Oren/author.authorName/ Etzioni/author.authorName/ 
+papers/paper/ by/O/ authors/author/ Richard/author.authorName/ Ladner/author.authorName/ and/O/ Linda/author.authorName/ Shapiro/author.authorName/ 
+Jamie/author.authorName/ Callan/author.authorName/ s/O/ publications/paper/ by/O/ year/paper.year/ 
+What/O/ papers/paper/ have/O/ been/O/ written/writes/ by/O/ Peter/author.authorName/ Mertens/author.authorName/ and/O/ Dina/author.authorName/ Barbian/author.authorName/ ?/O/ 
+How/O/ many/O/ papers/paper/ are/O/ there/O/ ?/O/ 
+How/O/ many/O/ citations/cite/ does/O/ Fahad/author.authorName/ Pervaiz/author.authorName/ have/O/ ?/O/ 
+How/O/ many/O/ papers/paper/ does/O/ Stefan/author.authorName/ Savage/author.authorName/ have/O/ ?/O/ 
+Who/O/ writes/writes/ a/O/ lot/O/ of/O/ papers/paper/ in/COND/ Machine/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ ?/O/ 
+How/O/ many/O/ ACL/venue.venueName/ papers/paper/ did/O/ John/author.authorName/ Lee/author.authorName/ written/writes/ in/COND/ the/O/ last/O/ year/paper.year/ ?/O/ 
+Show/O/ me/O/ some/O/ recent/O/ papers/paper/ on/COND/ Machine/keyphrase.keyphraseName/ Translation/keyphrase.keyphraseName/ ?/O/ 
+Papers/paper/ written/O/ by/O/ Daniel/author.authorName/ A./author.authorName/ Epstein/author.authorName/ 
+What/O/ is/O/ the/O/ most/O/ recent/O/ paper/paper/ of/O/ Image/keyphrase.keyphraseName/ Understanding/keyphrase.keyphraseName/ ?/O/ 
+Sentiment/keyphrase.keyphraseName/ Analysis/keyphrase.keyphraseName/ papers/paper/ that/O/ have/O/ the/O/ most/O/ citations/cite/ 
+Character/keyphrase.keyphraseName/ Recognition/keyphrase.keyphraseName/ papers/paper/ from/O/ before/COND/ 2010/paper.year/ 
+Most/O/ cited/cite/ papers/paper/ on/COND/ Parsing/keyphrase.keyphraseName/ 
+What/O/ was/O/ the/O/ first/O/ paper/paper/ on/COND/ LSTM/keyphrase.keyphraseName/ written/writes/ ?/O/ 
+Keyphrases/keyphrase/ used/O/ by/O/ James/author.authorName/ Fogarty/author.authorName/ in/COND/ 2015/paper.year/ 
+When/O/ was/O/ Richard/author.authorName/ Anderson/author.authorName/ s/O/ first/O/ publication/paper/ ?/O/ 
+keyphrases/keyphrase/ used/O/ by/O/ Dan/author.authorName/ Weld/author.authorName/ 
+What/O/ is/O/ the/O/ highest/O/ cited/cite/ paper/paper/ by/O/ Jeff/author.authorName/ Dean/author.authorName/ ?/O/ 
+count/O/ of/O/ ACL/venue.venueName/ papers/paper/ by/O/ author/author/ 
+Brain/keyphrase.keyphraseName/ research/keyphrase.keyphraseName/ papers/paper/ 
+Who/O/ are/O/ Daphne/author.authorName/ Koller/author.authorName/ s/O/ co-authors/author/ 
+What/O/ are/O/ the/O/ latest/O/ papers/paper/ by/O/ Nigam/author.authorName/ H./author.authorName/ Shah/author.authorName/ and/O/ Srinivasan/author.authorName/ Iyer/author.authorName/ ?/O/ 
+papers/paper/ written/writes/ by/O/ Ras/author.authorName/ Bodik/author.authorName/ and/O/ Emina/author.authorName/ Torlak/author.authorName/ 
+How/O/ many/O/ papers/paper/ has/O/ Jeffrey/author.authorName/ Heer/author.authorName/ ?/O/ 
+keyphrases/keyphrase/ used/O/ by/O/ Torlak/author.authorName/ in/COND/ 2010/paper.year/ 
+How/O/ many/O/ papers/paper/ does/O/ James/author.authorName/ Fogarty/author.authorName/ have/O/ ?/O/ 
+ACL/venue.venueName/ papers/paper/ with/O/ less/COND/ than/O/ 5/O/ citations/cite/ 
+What/O/ are/O/ some/O/ recent/O/ papers/paper/ written/writes/ in/COND/ Stochastic/keyphrase.keyphraseName/ Approximation/keyphrase.keyphraseName/ ?/O/ 
+Papers/paper/ by/O/ Frank/author.authorName/ Keller/author.authorName/ and/O/ Mirella/author.authorName/ Lapata/author.authorName/ 
+Facial/keyphrase.keyphraseName/ expression/keyphrase.keyphraseName/ research/O/ papers/paper/ 
+List/O/ prominent/O/ scholars/author/ in/COND/ Theoretical/keyphrase.keyphraseName/ ?/O/ 
+are/O/ there/O/ any/O/ Monte/keyphrase.keyphraseName/ Carlo/keyphrase.keyphraseName/ Simulation/keyphrase.keyphraseName/ papers/paper/ since/COND/ 2011/paper.year/ ?/O/ 
+What/O/ is/O/ the/O/ paper/paper/ with/O/ the/O/ most/O/ citation/cite/ about/O/ AlexNet/dataset.datasetName/ ?/O/ 
+what/O/ papers/paper/ are/O/ in/O/ the/O/ ACL/venue.venueName/ of/O/ 2014/paper.year/ 
+what/O/ papers/paper/ have/O/ fewer/COND/ than/O/ 5/O/ citations/cite/ by/O/ ACL/venue.venueName/ papers/paper/ ?/O/ 
+latest/O/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ papers/paper/ 
+how/O/ many/O/ papers/paper/ in/COND/ EMNLP/venue.venueName/ 2016/paper.year/ 
+What/O/ was/O/ Richard/author.authorName/ Anderson/author.authorName/ s/O/ latest/O/ paper/paper/ ?/O/ 
+most/O/ cited/cite/ papers/paper/ on/COND/ Stochastic/keyphrase.keyphraseName/ Optimization/keyphrase.keyphraseName/ 
+What/O/ is/O/ Kyunghyun/author.authorName/ Cho/author.authorName/ s/O/ latest/O/ paper/paper/ ?/O/ 
+how/O/ many/O/ papers/paper/ about/O/ Program/keyphrase.keyphraseName/ Slicing/keyphrase.keyphraseName/ ?/O/ 
+What/O/ papers/paper/ were/O/ published/paper/ at/COND/ CVPR/venue.venueName/ in/COND/ 2016/paper.year/ about/O/ Class/paper.title/ consistent/paper.title/ multi-modal/paper.title/ fusion/paper.title/ with/paper.title/ binary/paper.title/ features/paper.title/ applied/O/ to/O/ RGB-D/dataset.datasetName/ Object/dataset.datasetName/ Dataset/dataset/ ?/O/ 
+Fetch/O/ me/O/ some/O/ papers/paper/ on/COND/ Artificial/keyphrase.keyphraseName/ Neural/keyphrase.keyphraseName/ Network/keyphrase.keyphraseName/ 
+How/O/ many/O/ papers/paper/ does/O/ Emanuel/author.authorName/ Todorov/author.authorName/ publish/paper/ each/O/ year/paper.year/ ?/O/ 
+Which/O/ journals/journal/ did/O/ Linda/author.authorName/ Shapiro/author.authorName/ submit/O/ papers/paper/ to/O/ ?/O/ 
+which/O/ papers/paper/ has/O/ Mirella/author.authorName/ Lapata/author.authorName/ written/writes/ ?/O/ 
+What/O/ are/O/ the/O/ 5/O/ most/O/ recent/O/ papers/paper/ of/O/ Mirella/author.authorName/ Lapata/author.authorName/ ?/O/ 
+data/dataset/ sets/dataset/ for/O/ Textual/keyphrase.keyphraseName/ Entailment/keyphrase.keyphraseName/ 
+which/O/ author/author/ has/O/ the/O/ largest/O/ number/O/ of/O/ publications/paper/ ?/O/ 
+what/O/ datasets/dataset/ were/O/ used/O/ by/O/ Oren/author.authorName/ Etzioni/author.authorName/ ?/O/ 
+does/O/ Li/author.authorName/ Dong/author.authorName/ or/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ have/O/ more/O/ papers/paper/ ?/O/ 
+Papers/paper/ authored/author/ by/O/ Daniel/author.authorName/ S./author.authorName/ Weld/author.authorName/ in/COND/ 2011/paper.year/ 
+number/O/ of/O/ papers/paper/ written/writes/ by/O/ Lorenzo/author.authorName/ Bruzzone/author.authorName/ 
+Is/O/ it/O/ true/O/ that/O/ Geoffrey/author.authorName/ E./author.authorName/ Hinton/author.authorName/ has/O/ more/COND/ citations/cite/ than/O/ Yann/author.authorName/ Lecun/author.authorName/ ?/O/ 
+papers/paper/ by/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ 
+best/O/ paper/paper/ in/COND/ EMNLP/venue.venueName/ 2015/paper.year/ ?/O/ 
+ACL/venue.venueName/ papers/paper/ in/COND/ 2012/paper.year/ on/COND/ Parsing/keyphrase.keyphraseName/ 
+What/O/ papers/paper/ has/O/ Dan/author.authorName/ Suciu/author.authorName/ written/writes/ ?/O/ 
+how/O/ many/O/ Parsing/keyphrase.keyphraseName/ papers/paper/ appeared/O/ in/O/ the/O/ proceeeding/O/ of/O/ ACL/venue.venueName/ 2014/paper.year/ ?/O/ 
+who/O/ wrote/O/ the/O/ most/O/ ACL/venue.venueName/ papers/paper/ in/COND/ 2010/paper.year/ 
+what/O/ papers/paper/ have/O/ fewer/COND/ than/O/ 5/O/ citations/cite/ by/O/ ACL/venue.venueName/ papers/paper/ 
+papers/paper/ on/COND/ Liquid/keyphrase.keyphraseName/ Automatica/keyphrase.keyphraseName/ 
+papers/paper/ on/COND/ Mechanical/keyphrase.keyphraseName/ Turk/keyphrase.keyphraseName/ experiments/O/ 
+venue/venue/ for/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ 
+What/O/ was/O/ Richard/author.authorName/ Anderson/author.authorName/ s/O/ latest/O/ paper/paper/ ?/O/ 
+papers/paper/ published/paper/ in/COND/ EMNLP/venue.venueName/ 2011/paper.year/ by/O/ Wei/author.authorName/ Lu/author.authorName/ 
+first/O/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ paper/paper/ 
+Hal/author.authorName/ Perkins/author.authorName/ papers/paper/ 
+How/O/ many/O/ papers/paper/ did/O/ Jeffrey/author.authorName/ Heer/author.authorName/ publish/paper/ at/O/ CHI/venue.venueName/ ?/O/ 
+keyphrases/keyphrase/ used/O/ by/O/ Kaiming/author.authorName/ He/author.authorName/ 
+ACL/venue.venueName/ papers/paper/ by/O/ author/author/ 
+Which/O/ paper/paper/ should/O/ I/O/ read/O/ about/O/ Dependent/keyphrase.keyphraseName/ Type/keyphrase.keyphraseName/ ?/O/ 
+Who/O/ is/O/ a/O/ coauthor/author/ with/O/ Zachary/author.authorName/ Tatlock/author.authorName/ ?/O/ 
+journal/paper/ articles/paper/ by/O/ Lorenzo/author.authorName/ Bruzzone/author.authorName/ 
+List/O/ the/O/ papers/paper/ that/O/ used/O/ Caltech/dataset.datasetName/ dataset/dataset/ 
+What/O/ are/O/ keyphrases/keyphrase/ by/O/ Christof/author.authorName/ Dallermassl/author.authorName/ in/COND/ 2000/paper.year/ ?/O/ 
+how/O/ many/O/ papers/paper/ Richard/author.authorName/ Anderson/author.authorName/ and/O/ Gaetano/author.authorName/ Borriello/author.authorName/ coauthored/author/ ?/O/ 
+Who/O/ are/O/ Daphne/author.authorName/ Koller/author.authorName/ s/O/ coauthors/author/ 
+papers/paper/ that/O/ mention/paperKeyphrase/ Autoencoder/keyphrase.keyphraseName/ 
+What/O/ paper/paper/ by/O/ Brian/author.authorName/ Curless/author.authorName/ has/O/ the/O/ most/O/ citation/cite/ ?/O/ 
+authors/author/ with/O/ at/O/ least/COND/ 5/O/ papers/paper/ 
+papers/paper/ about/O/ Program/keyphrase.keyphraseName/ Slicing/keyphrase.keyphraseName/ published/paper/ at/O/ PLDI/venue.venueName/ 
+who/O/ has/O/ the/O/ most/O/ publications/paper/ in/COND/ Question/keyphrase.keyphraseName/ Answering/keyphrase.keyphraseName/ ?/O/ 
+What/O/ are/O/ recent/O/ papers/paper/ on/COND/ Visual/keyphrase.keyphraseName/ Detection/keyphrase.keyphraseName/ ?/O/ 
+where/O/ does/O/ Li/author.authorName/ Dong/author.authorName/ publish/paper/ ?/O/ 
+Where/O/ did/O/ Antoine/author.authorName/ Jacob/author.authorName/ publish/paper/ in/COND/ 2016/paper.year/ 
+How/O/ many/O/ papers/paper/ are/O/ in/COND/ NLP/keyphrase.keyphraseName/ ?/O/ 
+keyphrases/keyphrase/ used/O/ by/O/ Dan/author.authorName/ Weld/author.authorName/ 
+List/O/ all/O/ academic/paper/ papers/paper/ on/COND/ Impact/paper.title/ Of/paper.title/ Cellphone/paper.title/ Towers/paper.title/ On/paper.title/ Birds/paper.title/ 
+What/O/ are/O/ the/O/ papers/paper/ of/O/ Saurabh/author.authorName/ Gupta/author.authorName/ in/COND/ Instance/keyphrase.keyphraseName/ Segmentation/keyphrase.keyphraseName/ ?/O/ 
+What/O/ is/O/ the/O/ most/O/ cited/cite/ paper/paper/ of/O/ Behcet/author.authorName/ Acikmese/author.authorName/ ?/O/ 
+What/O/ papers/paper/ have/O/ Richard/author.authorName/ Ladner/author.authorName/ and/O/ Linda/author.authorName/ Shapiro/author.authorName/ written/writes/ ?/O/ 
+Who/O/ are/O/ the/O/ authors/author/ with/O/ the/O/ most/O/ published/O/ papers/paper/ in/COND/ SIGMOD/venue.venueName/ ?/O/ 
+what/O/ papers/paper/ did/O/ NIPS/venue.venueName/ publish/paper/ ?/O/ 
+most/O/ cited/cite/ papers/paper/ for/O/ Semantic/keyphrase.keyphraseName/ Segmentation/keyphrase.keyphraseName/ 
+2014/paper.year/ papers/paper/ using/O/ ImageNet/dataset.datasetName/ 
+List/O/ papers/paper/ that/O/ has/O/ a/O/ keyword/keyphrase/ Depth/keyphrase.keyphraseName/ Map/keyphrase.keyphraseName/ 
+What/O/ conferences/venue/ did/O/ Yejin/author.authorName/ Kim/author.authorName/ submit/O/ to/O/ in/COND/ 2015/paper.year/ ?/O/ 
+keywords/keyphrase/ used/O/ by/O/ Sachin/author.authorName/ Mehta/author.authorName/ 
+who/O/ wrote/writes/ the/O/ most/O/ papers/paper/ for/O/ ACL/venue.venueName/ 2010/paper.year/ 
+papers/paper/ by/O/ Li/author.authorName/ Dong/author.authorName/ about/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ 
+Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ paper/paper/ by/O/ Li/author.authorName/ Dong/author.authorName/ 
+What/O/ papers/paper/ were/O/ published/paper/ during/O/ the/O/ conference/venue/ ACL/venue.venueName/ 2016/paper.year/ ?/O/ 
+how/O/ many/O/ papers/paper/ does/O/ Fahad/author.authorName/ Pervaiz/author.authorName/ have/O/ ?/O/ 
+What/O/ papers/paper/ has/O/ Li/author.authorName/ Dong/author.authorName/ written/writes/ in/COND/ 2016/paper.year/ 
+papers/paper/ by/O/ Mayank/author.authorName/ Goel/author.authorName/ 
+Latest/O/ paper/paper/ by/O/ Jeff/author.authorName/ Dean/author.authorName/ 
+How/O/ many/O/ papers/paper/ were/O/ published/paper/ on/COND/ Bacterial/keyphrase.keyphraseName/ Wilt/keyphrase.keyphraseName/ in/COND/ 2016/paper.year/ ?/O/ 
+datasets/dataset/ for/O/ KNN/keyphrase.keyphraseName/ 
+who/O/ published/paper/ the/O/ most/O/ in/COND/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ after/COND/ 2005/paper.year/ ?/O/ 
+papers/paper/ by/O/ Ashutosh/author.authorName/ Saxena/author.authorName/ 
+How/O/ many/O/ papers/paper/ has/O/ Jeffrey/author.authorName/ Heer/author.authorName/ ?/O/ 
+What/O/ conference/venue/ does/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ publish/paper/ the/O/ most/O/ in/O/ 
+how/O/ many/O/ papers/paper/ does/O/ Nicola/author.authorName/ Dell/author.authorName/ have/O/ at/O/ CHI/venue.venueName/ 
+How/O/ many/O/ papers/paper/ are/O/ about/O/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ ?/O/ 
+What/O/ are/O/ the/O/ 5/O/ most/O/ recent/O/ papers/paper/ of/O/ Mirella/author.authorName/ Lapata/author.authorName/ ?/O/ 
+What/O/ conferences/venue/ did/O/ Noah/author.authorName/ A./author.authorName/ Smith/author.authorName/ publish/paper/ in/O/ in/COND/ 2016/paper.year/ ?/O/ 
+papers/paper/ using/O/ Wordnet/dataset.datasetName/ and/O/ Dbpedia/dataset.datasetName/ 
+keyphrases/keyphrase/ used/O/ by/O/ Dan/author.authorName/ Klein/author.authorName/ in/COND/ 2010/paper.year/ 
+who/O/ are/O/ all/O/ the/O/ co-authors/author/ of/O/ Srinivasan/author.authorName/ Iyer/author.authorName/ ?/O/ 
+What/O/ are/O/ some/O/ papers/paper/ dealing/O/ with/O/ Semantic/keyphrase.keyphraseName/ data/keyphrase.keyphraseName/ in/COND/ YAGO/dataset.datasetName/ ?/O/ 
+What/O/ is/O/ the/O/ paper/paper/ of/O/ both/O/ Convolution/keyphrase.keyphraseName/ and/O/ Combinatoric/keyphrase.keyphraseName/ ?/O/ 
+who/O/ does/O/ Chasins/author.authorName/ author/author/ with/O/ ?/O/ 
+Since/COND/ 2004/paper.year/ who/O/ has/O/ published/paper/ works/O/ about/O/ Fibromyalgia/keyphrase.keyphraseName/ and/O/ Diet/keyphrase.keyphraseName/ ?/O/ 
+what/O/ year/paper.year/ had/O/ the/O/ most/O/ NIPS/venue.venueName/ papers/paper/ ?/O/ 
+ACL/venue.venueName/ papers/paper/ in/COND/ 2012/paper.year/ on/COND/ Parsing/keyphrase.keyphraseName/ 
+How/O/ many/O/ times/O/ was/O/ Alex/author.authorName/ Snoeren/author.authorName/ cited/cite/ ?/O/ 
+Where/O/ did/O/ Li/author.authorName/ Dong/author.authorName/ publish/paper/ in/COND/ 2016/paper.year/ ?/O/ 
+papers/paper/ written/writes/ by/O/ Oren/author.authorName/ Etzioni/author.authorName/ 
+what/O/ papers/paper/ do/O/ Parsing/keyphrase.keyphraseName/ papers/paper/ typically/O/ cite/cite/ ?/O/ 
+NELL/venue.venueName/ papers/paper/ 
+Who/O/ writes/writes/ a/O/ lot/O/ of/O/ papers/paper/ in/COND/ Machine/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ ?/O/ 
+What/O/ papers/paper/ were/O/ published/paper/ at/COND/ CVPR/venue.venueName/ 16/paper.year/ about/O/ Class/paper.title/ consistent/paper.title/ multi-modal/paper.title/ fusion/paper.title/ with/paper.title/ binary/paper.title/ features/paper.title/ applied/O/ to/O/ RGB-D/dataset.datasetName/ Object/dataset.datasetName/ Dataset/dataset/ ?/O/ 
+papers/paper/ by/O/ Linda/author.authorName/ Shapiro/author.authorName/ in/COND/ 2016/paper.year/ 
+What/O/ papers/paper/ were/O/ written/writes/ on/COND/ Question/keyphrase.keyphraseName/ Answering/keyphrase.keyphraseName/ in/COND/ 2016/paper.year/ ?/O/ 
+what/O/ year/paper.year/ had/O/ the/O/ most/O/ number/O/ of/O/ NIPS/venue.venueName/ papers/paper/ ?/O/ 
+what/O/ keyphrases/keyphrase/ get/O/ most/O/ citations/cite/ ?/O/ 
+Donald/author.authorName/ Elmazi/author.authorName/ citation/cite/ count/O/ 
+papers/paper/ about/O/ Crowdsourcing/keyphrase.keyphraseName/ in/COND/ ACL/venue.venueName/ 2015/paper.year/ 
+What/O/ papers/paper/ has/O/ written/writes/ by/O/ Dan/author.authorName/ Suciu/author.authorName/ ?/O/ 
+how/O/ is/O/ the/O/ most/O/ cited/cite/ author/author/ in/COND/ ACL/venue.venueName/ ?/O/ 
+datasets/dataset/ used/O/ by/O/ Textual/keyphrase.keyphraseName/ Entailment/keyphrase.keyphraseName/ papers/paper/ 
+Parsing/keyphrase.keyphraseName/ 2014/paper.year/ papers/paper/ 
+List/O/ of/O/ papers/paper/ by/O/ Samia/author.authorName/ Razaq/author.authorName/ 
+papers/paper/ by/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ 
+which/O/ ACL/venue.venueName/ 2014/paper.year/ papers/paper/ about/O/ Parsing/keyphrase.keyphraseName/ used/O/ Jeopardy!/dataset.datasetName/ Questions/dataset.datasetName/ ?/O/ 
+How/O/ many/O/ papers/paper/ does/O/ Jeffrey/author.authorName/ Heer/author.authorName/ have/O/ in/COND/ CHI/venue.venueName/ ?/O/ 
+papers/paper/ on/COND/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ appeared/O/ at/O/ ACL/venue.venueName/ in/COND/ 2016/paper.year/ 
+Computer/keyphrase.keyphraseName/ Model/keyphrase.keyphraseName/ papers/paper/ 
+Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ papers/paper/ by/O/ Li/author.authorName/ Dong/author.authorName/ 
+papers/paper/ related/O/ to/O/ Sensor/keyphrase.keyphraseName/ Fusion/keyphrase.keyphraseName/ 
+What/O/ authors/author/ wrote/writes/ papers/paper/ about/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ in/COND/ 2016/paper.year/ ?/O/ 
+what/O/ are/O/ some/O/ Syntactic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ papers/paper/ that/O/ Chris/author.authorName/ Dyer/author.authorName/ did/O/ not/O/ write/writes/ ?/O/ 
+Papers/paper/ from/O/ ACL/venue.venueName/ 2016/paper.year/ ?/O/ 
+Parsing/keyphrase.keyphraseName/ papers/paper/ using/O/ Jeopardy!/dataset.datasetName/ Questions/dataset.datasetName/ published/paper/ at/O/ ACL/venue.venueName/ 2014/paper.year/ 
+conferences/venue/ in/COND/ 2013/paper.year/ 
+Keyphrases/keyphrase/ used/O/ by/O/ Jeffrey/author.authorName/ Heer/author.authorName/ 
+Does/O/ Brian/author.authorName/ Curless/author.authorName/ do/O/ Convolution/keyphrase.keyphraseName/ ?/O/ 
+earliest/O/ paper/paper/ written/writes/ by/O/ Srinivasan/author.authorName/ Iyer/author.authorName/ 
+How/O/ many/O/ papers/paper/ does/O/ Alvin/author.authorName/ C/author.authorName/ Haver/author.authorName/ have/O/ in/COND/ Iv/keyphrase.keyphraseName/ Infusion/keyphrase.keyphraseName/ area/keyphrase/ ?/O/ 
+What/O/ is/O/ Magda/author.authorName/ Balazinska/author.authorName/ s/O/ latest/O/ paper/paper/ ?/O/ 
+How/O/ many/O/ papers/paper/ related/O/ to/O/ Deep/keyphrase.keyphraseName/ Learning/keyphrase.keyphraseName/ cited/cite/ the/O/ dataset/dataset/ ImageNet/dataset.datasetName/ ?/O/ 
+How/O/ many/O/ papers/paper/ does/O/ James/author.authorName/ Fogarty/author.authorName/ have/O/ in/COND/ UIST/venue.venueName/ ?/O/ 
+Papers/paper/ from/O/ Aida/author.authorName/ Kasumovic/author.authorName/ in/COND/ 2015/paper.year/ 
+Papers/paper/ about/O/ Image/keyphrase.keyphraseName/ Annotation/keyphrase.keyphraseName/ in/COND/ CHI/venue.venueName/ 
+authors/author/ in/COND/ Multiuser/keyphrase.keyphraseName/ Receiver/keyphrase.keyphraseName/ for/O/ Decision/keyphrase.keyphraseName/ Feedback/keyphrase.keyphraseName/ 
+conferences/venue/ that/O/ mention/paperDataset/ ImageNet/dataset.datasetName/ 
+papers/paper/ by/O/ Torlak/author.authorName/ 
+recent/O/ papers/paper/ written/writes/ by/O/ Sanjeev/author.authorName/ Arora/author.authorName/ 
+Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ papers/paper/ later/COND/ than/O/ 2010/paper.year/ 
+ACL/venue.venueName/ papers/paper/ in/COND/ 2016/paper.year/ with/O/ Neural/keyphrase.keyphraseName/ Attention/keyphrase.keyphraseName/ in/O/ the/O/ title/paper.title/ 
+Who/O/ cites/cite/ Daniel/author.authorName/ A/author.authorName/ Reed/author.authorName/ most/O/ ?/O/ 
+papers/paper/ with/O/ more/COND/ than/O/ 5/O/ citations/cite/ 
+How/O/ many/O/ papers/paper/ has/O/ Omer/author.authorName/ Lev/author.authorName/ written/writes/ ?/O/ 
+In/O/ what/O/ year/paper.year/ did/O/ Luke/author.authorName/ Zettlemoyer/author.authorName/ publish/paper/ the/O/ most/O/ papers/paper/ 
+Which/O/ is/O/ the/O/ earliest/O/ paper/paper/ by/O/ Aravind/author.authorName/ Rajeswaran/author.authorName/ ?/O/ 
+what/O/ keywords/keyphrase/ are/O/ used/O/ by/O/ Shwetak/author.authorName/ Patel/author.authorName/ 
+how/O/ many/O/ papers/paper/ has/O/ Jeff/author.authorName/ Dean/author.authorName/ published/paper/ ?/O/ 
+Who/O/ cites/cite/ Luke/author.authorName/ Zettlemoyer/author.authorName/ the/O/ most/O/ 
+papers/paper/ from/COND/ 2014/paper.year/ 
+keyphrases/keyphrase/ used/O/ by/O/ Magda/author.authorName/ Balazinska/author.authorName/ 
+Papers/paper/ on/COND/ ImageNet/dataset.datasetName/ 
+What/O/ papers/paper/ has/O/ Ed/author.authorName/ Desmond/author.authorName/ written/writes/ on/COND/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ ?/O/ 
+What/O/ is/O/ Ang/author.authorName/ Li/author.authorName/ s/O/ latest/O/ paper/paper/ ?/O/ 
+Papers/paper/ about/O/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ 
+How/O/ many/O/ papers/paper/ has/O/ David/author.authorName/ Blei/author.authorName/ published/paper/ in/COND/ NIPS/venue.venueName/ ?/O/ 
+what/O/ datasets/dataset/ are/O/ used/O/ in/O/ papers/paper/ by/O/ Oren/author.authorName/ Etzioni/author.authorName/ 
+what/O/ paper/paper/ has/O/ Hans/author.authorName/ Kerp/author.authorName/ published/paper/ in/COND/ Nature/journal.journalName/ journal/journal/ ?/O/ 
+papers/paper/ on/COND/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ 
+who/O/ has/O/ written/writes/ the/O/ most/O/ papers/paper/ on/COND/ Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ since/COND/ 2005/paper.year/ ?/O/ 
+What/O/ papers/paper/ has/O/ Mirella/author.authorName/ Lapata/author.authorName/ written/writes/ ?/O/ 
+how/O/ many/O/ papers/paper/ did/O/ Nicola/author.authorName/ Dell/author.authorName/ and/O/ Brian/author.authorName/ DeRenzi/author.authorName/ write/writes/ together/O/ 
+what/O/ datasets/dataset/ did/O/ Oren/author.authorName/ Etzioni/author.authorName/ use/O/ ?/O/ 
+has/O/ Ras/author.authorName/ Bodik/author.authorName/ or/O/ Sumit/author.authorName/ Gulwani/author.authorName/ published/paper/ more/O/ papers/paper/ ?/O/ 
+Decision/keyphrase.keyphraseName/ Feedback/keyphrase.keyphraseName/ papers/paper/ using/O/ Multiuser/keyphrase.keyphraseName/ Receiver/keyphrase.keyphraseName/ 
+Semantic/keyphrase.keyphraseName/ Parsing/keyphrase.keyphraseName/ 2016/paper.year/ papers/paper/ 
+who/O/ else/O/ was/O/ on/COND/ the/O/ paper/paper/ with/O/ Ameet/author.authorName/ Soni/author.authorName/ and/O/ Ras/author.authorName/ Bodik/author.authorName/ ?/O/ 
+keyphrases/keyphrase/ used/O/ by/O/ Mirella/author.authorName/ Lapata/author.authorName/ 
+how/O/ many/O/ papers/paper/ by/O/ Michael/author.authorName/ I./author.authorName/ Jordan/author.authorName/ are/O/ cited/cite/ by/O/ Dan/author.authorName/ Klein/author.authorName/ 
+papers/paper/ by/O/ Richard/author.authorName/ Ladner/author.authorName/ and/O/ Linda/author.authorName/ Shapiro/author.authorName/ 
+Ali/author.authorName/ Farhadi/author.authorName/ s/O/ papers/paper/ in/COND/ 2015/paper.year/ 
+When/O/ was/O/ Boyd/author.authorName/ Raccoon/author.authorName/ published/paper/ ?/O/ 
+What/O/ did/O/ Luke/author.authorName/ S/author.authorName/ Zettlemoyer/author.authorName/ published/paper/ in/COND/ 2009/paper.year/ ?/O/ 

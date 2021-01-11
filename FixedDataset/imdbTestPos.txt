@@ -1,0 +1,27 @@
+find/VB/ the/DT/ number/NN/ of/IN/ actors/NNS/ from/IN/ Iran/NNP/ who/WP/ played/VBD/ in/IN/ Jim/NNP/ Jarmusch/NNP/ movies/NNS/ 
+Who/WP/ is/VBZ/ the/DT/ director/NN/ of/IN/ the/DT/ series/NN/ House/NNP/ of/IN/ Cards/NNP/ produced/VBN/ by/IN/ Netflix/NNP/ ?/./ 
+Find/VB/ all/DT/ actors/NNS/ born/VBN/ in/IN/ Los/NNP/ Angeles/NNP/ 
+Find/VB/ the/DT/ name/NN/ and/CC/ budget/NN/ of/IN/ the/DT/ latest/JJS/ movie/NN/ by/IN/ Quentin/NNP/ Tarantino/NNP/ 
+Find/VB/ all/DT/ movies/NNS/ featuring/VBG/ Kevin/NNP/ Spacey/NNP/ 
+Find/VB/ the/DT/ latest/JJS/ movie/NN/ which/WDT/ Gabriele/NNP/ Ferzetti/NNP/ acted/VBD/ in/IN/ 
+Find/VB/ all/DT/ movies/NNS/ produced/VBN/ by/IN/ Walt/NNP/ Disney/NNP/ after/IN/ 2010/CD/ 
+What/WP/ are/VBP/ the/DT/ series/NN/ featuring/VBG/ Kerry/NNP/ Washington/NNP/ ?/./ 
+List/NN/ James/NNP/ Bond/NNP/ directors/NNS/ 
+Who/WP/ directed/VBD/ the/DT/ movie/NN/ Inglourious/FW/ Basterds/FW/ ?/./ 
+Find/VB/ all/DT/ movies/NNS/ featuring/VBG/ Kate/NNP/ Winslet/NNP/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ companies/NNS/ which/WDT/ worked/VBD/ with/IN/ Gabriele/NNP/ Ferzetti/NNP/ 
+Who/WP/ acts/VBZ/ Olivia/NNP/ Pope/NNP/ in/IN/ the/DT/ series/NN/ Scandal/NNP/ ?/./ 
+How/WRB/ many/JJ/ movies/NNS/ about/IN/ Persians/NNPS/ were/VBD/ released/VBN/ after/IN/ 1990/CD/ ?/./ 
+How/WRB/ many/JJ/ movies/NNS/ did/VBD/ Shahab/NNP/ Hosseini/NNP/ act/NN/ in/IN/ 
+Find/VB/ all/DT/ movies/NNS/ about/IN/ Autism/NN/ 
+find/VB/ all/DT/ films/NNS/ in/IN/ which/WDT/ Rowan/NNP/ Atkinson/NNP/ acted/VBD/ as/IN/ Mr./NNP/ Bean/NNP/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ movies/NNS/ directed/VBN/ by/IN/ Quentin/NNP/ Tarantino/NNP/ featuring/VBG/ Christoph/NNP/ Waltz/NNP/ ?/./ 
+What/WP/ are/VBP/ the/DT/ major/JJ/ roles/NNS/ in/IN/ the/DT/ movie/NN/ Daddy/NNP/ Long/NNP/ Legs/NNP/ 
+Which/WDT/ movies/NNS/ did/VBD/ Alfred/NNP/ Hitchcock/NNP/ direct/JJ/ ?/./ 
+Find/VB/ all/DT/ actors/NNS/ from/IN/ Italy/NNP/ born/VBN/ after/IN/ 1980/CD/ 
+Find/VB/ all/DT/ movies/NNS/ featuring/VBG/ both/DT/ Matt/NNP/ Damon/NNP/ and/CC/ Ben/NNP/ Affleck/NNP/ 
+What/WP/ was/VBD/ the/DT/ budget/NN/ of/IN/ the/DT/ movie/NN/ Juno/NNP/ from/IN/ 2007/CD/ ?/./ 
+What/WP/ is/VBZ/ the/DT/ latest/JJS/ movie/NN/ by/IN/ Jim/NNP/ Jarmusch/NNP/ 
+Find/VB/ all/PDT/ the/DT/ female/JJ/ actors/NNS/ from/IN/ Austin/NNP/ 
+How/WRB/ many/JJ/ actors/NNS/ are/VBP/ in/IN/ the/DT/ movie/NN/ Saving/NNP/ Private/NNP/ Ryan/NNP/ ?/./ 
+Which/WDT/ producer/NN/ has/VBZ/ worked/VBN/ with/IN/ the/DT/ most/JJS/ number/NN/ of/IN/ directors/NNS/ ?/./ 

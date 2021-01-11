@@ -1,0 +1,181 @@
+return/O/ me/O/ the/O/ homepage/journal.homepage/ of/O/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ homepage/journal.homepage/ of/O/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ abstract/publication.abstract/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ year/publication.year/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ year/publication.year/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ papers/publication/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ homepage/journal.homepage/ of/O/ the/O/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ all/O/ the/O/ keywords/keyword/ 
+return/O/ me/O/ all/O/ the/O/ organizations/organization/ 
+return/O/ me/O/ all/O/ the/O/ organizations/organization/ in/O/ North/organization.continent/ America/organization.continent/ 
+return/O/ me/O/ the/O/ homepage/journal.homepage/ of/O/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ number/publication.reference_num/ of/publication.reference_num/ references/publication.reference_num/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ references/publication.reference_num/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ number/publication.citation_num/ of/publication.citation_num/ citations/publication.citation_num/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ citations/publication.citation_num/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ paper/publication/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ papers/publication/ in/COND/ PVLDB/journal.name/ 2010/publication.year/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ papers/publication/ in/COND/ PVLDB/journal.name/ after/COND/ 2010/CD/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ papers/publication/ in/COND/ VLDB/conference.name/ conference/conference/ in/COND/ 2002/publication.year/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ papers/publication/ in/COND/ VLDB/conference.name/ conference/conference/ before/COND/ 2002/publication.year/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ papers/publication/ in/COND/ VLDB/conference.name/ conference/conference/ before/COND/ 2002/publication.year/ after/COND/ 1995/publication.year/ 
+return/O/ me/O/ the/O/ area/domain/ of/O/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ papers/publication/ in/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ organization/organization/ H./author.name/ V./author.name/ Jagadish/author.name/ is/O/ in/O/ 
+return/O/ me/O/ the/O/ conferences/conference/ which/O/ have/O/ papers/publication/ by/O/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ journals/journal/ which/O/ have/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ domain/domain/ where/O/ H./author.name/ V./author.name/ Jagadish/author.name/ is/O/ focused/O/ 
+return/O/ me/O/ the/O/ authors/author/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ conference/conference/ which/O/ published/publication/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ papers/publication/ on/COND/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ papers/publication/ on/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ papers/publication/ on/COND/ PVLDB/journal.name/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ papers/publication/ on/COND/ VLDB/conference.name/ conference/conference/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ on/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ on/COND/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ on/COND/ PVLDB/journal.name/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ on/O/ VLDB/conference.name/ conference/conference/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ area/domain/ of/O/ the/O/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ papers/publication/ in/COND/ the/O/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ all/O/ the/O/ keywords/keyword/ in/COND/ Databases/domain.name/ area/domain/ 
+return/O/ me/O/ all/O/ the/O/ papers/publication/ which/O/ contain/O/ the/O/ keyword/keyword/ Natural/keyword.keyword/ Language/keyword.keyword/ 
+return/O/ me/O/ the/O/ keywords/keyword/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ keywords/keyword/ related/O/ to/O/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ keywords/keyword/ in/COND/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ keywords/keyword/ in/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ keywords/keyword/ in/O/ the/O/ papers/publication/ of/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ papers/publication/ of/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ containing/publication_keyword/ keyword/keyword/ User/keyword.keyword/ Study/keyword.keyword/ 
+return/O/ me/O/ the/O/ papers/publication/ in/COND/ PVLDB/journal.name/ containing/publication_keyword/ keyword/keyword/ Keyword/keyword.keyword/ search/keyword.keyword/ 
+return/O/ me/O/ the/O/ papers/publication/ in/COND/ VLDB/conference.name/ conference/conference/ containing/publication_keyword/ keyword/keyword/ Information/keyword.keyword/ Retrieval/keyword.keyword/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ papers/publication/ containing/publication_keyword/ keyword/keyword/ Relational/keyword.keyword/ Database/keyword.keyword/ 
+return/O/ me/O/ all/O/ the/O/ organizations/organization/ in/COND/ Databases/domain.name/ area/domain/ 
+return/O/ me/O/ all/O/ the/O/ organizations/organization/ in/COND/ Databases/domain.name/ area/domain/ located/O/ in/COND/ North/organization.continent/ America/organization.continent/ 
+return/O/ me/O/ all/O/ the/O/ researchers/author/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ all/O/ the/O/ researchers/author/ in/COND/ Databases/domain.name/ area/domain/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ all/O/ the/O/ papers/publication/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ all/O/ the/O/ papers/publication/ after/COND/ 2000/publication.year/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ all/O/ the/O/ papers/publication/ in/COND/ VLDB/O/ conference/conference/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ all/O/ the/O/ papers/publication/ in/COND/ PVLDB/journal.name/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ all/O/ the/O/ papers/publication/ in/COND/ PVLDB/journal.name/ after/COND/ 2000/publication.year/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ paper/publication/ in/COND/ Databases/domain.name/ area/domain/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ in/COND/ PVLDB/journal.name/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ in/COND/ VLDB/conference.name/ conference/conference/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ on/COND/ PVLDB/journal.name/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ on/COND/ VLDB/conference.name/ conference/conference/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ after/COND/ 2000/publication.year/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ after/COND/ 2000/publication.year/ in/COND/ Databases/domain.name/ area/domain/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ after/COND/ 2000/publication.year/ in/COND/ PVLDB/journal.name/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ after/COND/ 2000/publication.year/ in/COND/ VLDB/conference.name/ conference/conference/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ conferences/conference/ which/O/ have/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ journals/journal/ which/O/ have/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ written/writes/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ in/O/ each/O/ year/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/author/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ citations/cite/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ in/O/ each/O/ year/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ citations/cite/ of/O/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ before/COND/ 2010/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ on/COND/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ on/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ on/COND/ PVLDB/journal.name/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ on/COND/ VLDB/conference.name/ conference/conference/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ on/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ on/COND/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ on/COND/ PVLDB/journal.name/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ on/COND/ VLDB/conference.name/ conference/conference/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ keywords/keyword/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ keywords/keyword/ in/COND/ Databases/domain.name/ area/domain/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ which/O/ contain/O/ the/O/ keyword/keyword/ Natural/keyword.keyword/ Language/keyword.keyword/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ the/O/ keywords/keyword/ of/COND/ Making/publication.title/ database/publication.title/ systems/publication.title/ usable/publication.title/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ the/O/ keywords/keyword/ related/O/ to/O/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ keywords/keyword/ in/COND/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ keywords/keyword/ in/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ keywords/keyword/ in/COND/ the/O/ papers/publication/ of/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ the/O/ papers/publication/ of/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ containing/publication_keyword/ keyword/keyword/ User/keyword.keyword/ Study/keyword.keyword/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ in/COND/ PVLDB/journal.name/ containing/publication_keyword/ keyword/keyword/ Keyword/keyword.keyword/ search/keyword.keyword/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ in/COND/ VLDB/conference.name/ conference/conference/ containing/publication_keyword/ keyword/keyword/ Information/keyword.keyword/ Retrieval/keyword.keyword/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/author/ who/O/ have/O/ papers/publication/ containing/publication_keyword/ keyword/keyword/ Relational/keyword.keyword/ Database/keyword.keyword/ 
+return/O/ me/O/ the/O/ total/O/ citations/publication.citation_num/ of/O/ the/O/ papers/publication/ containing/publication_keyword/ keyword/keyword/ Natural/keyword.keyword/ Language/keyword.keyword/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ the/O/ organizations/organization/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ the/O/ organizations/organization/ in/COND/ North/organization.continent/ America/organization.continent/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ organizations/organization/ in/COND/ Databases/domain.name/ area/domain/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ organizations/organization/ in/COND/ Databases/domain.name/ area/domain/ located/O/ in/COND/ North/organization.continent/ America/organization.continent/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ in/COND/ Databases/domain.name/ area/domain/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ after/COND/ 2000/publication.year/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ in/COND/ VLDB/conference.name/ conference/conference/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ in/COND/ PVLDB/journal.name/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ in/COND/ PVLDB/journal.name/ after/COND/ 2000/publication.year/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ total/O/ citations/publication.citation_num/ of/O/ the/O/ papers/publication/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ researchers/author/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ researchers/author/ in/COND/ Databases/domain.name/ area/domain/ in/COND/ University/organization.name/ of/organization.name/ Michigan/organization.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/author/ who/O/ have/O/ papers/publication/ in/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/author/ who/O/ have/O/ papers/publication/ in/COND/ the/O/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ published/publication/ on/COND/ PVLDB/journal.name/ before/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ published/publication/ in/COND/ the/O/ VLDB/conference.name/ conference/conference/ before/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ total/O/ citations/publication.citation_num/ of/O/ all/O/ the/O/ papers/publication/ in/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ citations/publication.citation_num/ of/O/ each/O/ paper/publication/ in/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ total/O/ citations/publication.citation_num/ of/O/ papers/publication/ in/COND/ PVLDB/journal.name/ in/COND/ 2005/publication.year/ 
+return/O/ me/O/ the/O/ total/O/ citations/publication.citation_num/ of/O/ papers/publication/ in/COND/ PVLDB/journal.name/ before/COND/ 2005/publication.year/ 
+return/O/ me/O/ the/O/ total/O/ citations/publication.citation_num/ of/O/ papers/publication/ in/COND/ PVLDB/journal.name/ in/O/ each/O/ year/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ published/publication/ in/COND/ PVLDB/journal.name/ in/O/ each/O/ year/publication.year/ 
+return/O/ me/O/ the/O/ total/O/ citations/publication.citation_num/ of/O/ all/O/ the/O/ papers/publication/ in/COND/ the/O/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ citations/publication.citation_num/ of/O/ each/O/ paper/publication/ in/COND/ the/O/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ total/O/ citations/publication.citation_num/ of/O/ papers/publication/ in/COND/ the/O/ VLDB/conference.name/ conference/conference/ in/COND/ 2005/publication.year/ 
+return/O/ me/O/ the/O/ total/O/ citations/publication.citation_num/ of/O/ papers/publication/ in/COND/ the/O/ VLDB/conference.name/ conference/conference/ before/COND/ 2005/publication.year/ 
+return/O/ me/O/ the/O/ total/O/ citations/publication.citation_num/ of/O/ papers/publication/ in/COND/ the/O/ VLDB/conference.name/ conference/conference/ in/O/ each/O/ year/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ published/publication/ in/COND/ the/O/ VLDB/conference.name/ conference/conference/ in/O/ each/O/ year/publication.year/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ cooperated/writes/ both/O/ with/O/ H./author.name/ V./author.name/ Jagadish/author.name/ and/O/ Divesh/author.name/ Srivastava/author.name/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ cooperated/writes/ with/O/ H./author.name/ V./author.name/ Jagadish/author.name/ after/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ papers/publication/ written/writes/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ and/O/ Divesh/author.name/ Srivastava/author.name/ 
+return/O/ me/O/ the/O/ papers/publication/ written/writes/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ and/O/ Yunyao/author.name/ Li/author.name/ after/COND/ 2005/publication.year/ 
+return/O/ me/O/ the/O/ papers/publication/ written/writes/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ and/O/ Yunyao/author.name/ Li/author.name/ on/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ papers/publication/ written/writes/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ and/O/ Yunyao/author.name/ Li/author.name/ on/COND/ PVLDB/journal.name/ after/COND/ 2005/publication.year/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ cooperated/writes/ with/O/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ papers/publication/ written/writes/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ and/O/ Divesh/author.name/ Srivastava/author.name/ before/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ cited/cite/ the/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ written/writes/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ and/O/ Divesh/author.name/ Srivastava/author.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ written/writes/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ and/O/ Divesh/author.name/ Srivastava/author.name/ before/COND/ 2000/publication.year/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ papers/publication/ written/writes/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ Yunyao/author.name/ Li/author.name/ and/O/ Cong/author.name/ Yu/author.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/author/ who/O/ have/O/ cooperated/writes/ with/O/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ number/O/ of/O/ authors/author/ who/O/ have/O/ cited/cite/ the/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ papers/publication/ written/writes/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ and/O/ Divesh/author.name/ Srivastava/author.name/ with/O/ more/COND/ than/O/ 200/publication.citation_num/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ author/author/ who/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ containing/O/ keyword/keyword/ Relational/keyword.keyword/ Database/keyword.keyword/ 
+return/O/ me/O/ the/O/ conference/conference/ that/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ containing/O/ keyword/keyword/ Relational/keyword.keyword/ Database/keyword.keyword/ 
+return/O/ me/O/ the/O/ conference/conference/ which/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ containing/O/ keyword/keyword/ Relational/keyword.keyword/ Database/keyword.keyword/ 
+return/O/ me/O/ the/O/ journal/journal/ that/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ containing/O/ keyword/keyword/ Relational/keyword.keyword/ Database/keyword.keyword/ 
+return/O/ me/O/ the/O/ journal/journal/ which/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ containing/O/ keyword/keyword/ Relational/keyword.keyword/ Database/keyword.keyword/ 
+return/O/ me/O/ the/O/ keyword/keyword/ which/O/ have/O/ been/O/ contained/publication_keyword/ by/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ in/COND/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ keyword/keyword/ which/O/ have/O/ been/O/ contained/publication_keyword/ by/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ in/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ keyword/keyword/ which/O/ have/O/ been/O/ contained/publication_keyword/ by/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ author/author/ in/COND/ the/O/ University/organization.name/ of/organization.name/ Michigan/organization.name/ whose/O/ papers/publication/ have/O/ the/O/ most/O/ total/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ author/author/ in/COND/ the/O/ University/organization.name/ of/organization.name/ Michigan/organization.name/ whose/O/ papers/publication/ in/COND/ Databases/domain.name/ area/domain/ have/O/ the/O/ most/O/ total/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ papers/publication/ written/writes/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ and/O/ Divesh/author.name/ Srivastava/author.name/ with/O/ the/O/ most/O/ number/O/ of/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ conferences/conference/ which/O/ have/O/ more/O/ than/O/ 10/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ conference/conference/ which/O/ have/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ journals/journal/ which/O/ have/O/ more/O/ than/O/ 10/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ journal/journal/ which/O/ have/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ paper/publication/ with/O/ the/O/ most/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ in/COND/ Databases/domain.name/ area/domain/ with/O/ the/O/ most/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ in/COND/ PVLDB/journal.name/ with/O/ the/O/ most/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ in/COND/ VLDB/conference.name/ conference/conference/ with/O/ the/O/ most/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ by/COND/ H./author.name/ V./author.name/ Jagadish/author.name/ with/O/ the/O/ most/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ after/COND/ 2000/publication.year/ with/O/ the/O/ most/O/ citations/O/ 
+return/O/ me/O/ the/O/ paper/publication/ after/COND/ 2000/publication.year/ in/COND/ Databases/domain.name/ area/domain/ with/O/ the/O/ most/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ after/COND/ 2000/publication.year/ in/COND/ PVLDB/journal.name/ with/O/ the/O/ most/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ paper/publication/ after/COND/ 2000/publication.year/ in/COND/ VLDB/conference.name/ conference/conference/ with/O/ the/O/ most/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ more/O/ than/O/ 10/O/ papers/publication/ in/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ in/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ more/O/ than/O/ 10/O/ papers/publication/ containing/O/ keyword/keyword/ Relational/keyword.keyword/ Database/keyword.keyword/ 
+return/O/ me/O/ the/O/ conferences/conference/ which/O/ have/O/ more/O/ than/O/ 60/O/ papers/publication/ containing/O/ keyword/keyword/ Relational/keyword.keyword/ Database/keyword.keyword/ 
+return/O/ me/O/ the/O/ journals/journal/ which/O/ have/O/ more/O/ than/O/ 60/O/ papers/publication/ containing/O/ keyword/keyword/ Relational/keyword.keyword/ Database/keyword.keyword/ 
+return/O/ me/O/ the/O/ keywords/keyword/ which/O/ have/O/ been/O/ contained/publication_keyword/ by/O/ more/O/ than/O/ 100/O/ papers/publication/ in/COND/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ keywords/keyword/ which/O/ have/O/ been/O/ contained/publication_keyword/ by/O/ more/O/ than/O/ 100/O/ papers/publication/ in/COND/ PVLDB/journal.name/ 
+return/O/ me/O/ the/O/ keywords/keyword/ which/O/ have/O/ been/O/ contained/O/ by/O/ more/O/ than/O/ 10/O/ papers/publication/ of/O/ H./author.name/ V./author.name/ Jagadish/author.name/ 
+return/O/ me/O/ the/O/ authors/author/ who/O/ have/O/ more/O/ than/O/ 10/O/ papers/publication/ in/COND/ the/O/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ author/author/ who/O/ has/O/ the/O/ most/O/ number/O/ of/O/ papers/publication/ in/COND/ the/O/ VLDB/conference.name/ conference/conference/ 
+return/O/ me/O/ the/O/ author/author/ in/COND/ the/O/ University/organization.name/ of/organization.name/ Michigan/organization.name/ whose/O/ papers/publication/ have/O/ more/O/ than/O/ 5000/O/ total/O/ citations/publication.citation_num/ 
+return/O/ me/O/ the/O/ author/author/ in/COND/ the/O/ University/organization.name/ of/organization.name/ Michigan/organization.name/ in/COND/ Databases/domain.name/ area/domain/ whose/O/ papers/publication/ have/O/ more/O/ than/O/ 5000/O/ total/O/ citations/publication.citation_num/ 

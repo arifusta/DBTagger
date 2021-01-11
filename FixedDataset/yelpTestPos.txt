@@ -1,0 +1,26 @@
+what/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ restaurant/NN/ in/IN/ Texas/NNP/ 
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ tips/NNS/ that/WDT/ are/VBP/ written/VBN/ by/IN/ Michelle/NNP/ in/IN/ 2010/CD/ ././ 
+which/WDT/ neighbourhood/NN/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ businesses/NNS/ in/IN/ Madison/NNP/ 
+Find/VB/ all/DT/ cities/NNS/ in/IN/ Texas/NNP/ in/IN/ which/WDT/ there/EX/ is/VBZ/ a/DT/ restaurant/NN/ called/VBN/ MGM/NNP/ Grand/NNP/ Buffet/NNP/ 
+Find/VB/ all/DT/ restaurant/NN/ reviewed/VBN/ by/IN/ Patrick/NNP/ in/IN/ Los/NNP/ Angeles/NNP/ 
+find/VB/ all/PDT/ the/DT/ restaurant/NN/ in/IN/ Texas/NNP/ 
+Which/WDT/ restaurant/NN/ in/IN/ Dallas/NNP/ were/VBD/ reviewed/VBN/ by/IN/ user/NN/ Patrick/NNP/ ?/./ 
+Find/VB/ all/DT/ bakeries/NNS/ in/IN/ Los/NNP/ Angeles/NNP/ 
+How/WRB/ many/JJ/ escape/NN/ games/NNS/ are/VBP/ there/EX/ in/IN/ Madison/NNP/ ?/./ 
+What/WP/ is/VBZ/ the/DT/ average/JJ/ rating/NN/ of/IN/ reviews/NNS/ written/VBN/ in/IN/ year/NN/ 2014/CD/ ?/./ 
+Find/VB/ all/DT/ tips/NNS/ for/IN/ Cafe/NNP/ Zinho/NNP/ in/IN/ Texas/NNP/ ././ 
+Find/VB/ all/DT/ businesses/NNS/ in/IN/ Texas/NNP/ with/IN/ a/DT/ rating/NN/ below/IN/ 2/CD/ 
+Find/VB/ the/DT/ total/JJ/ checkins/NNS/ in/IN/ Brighton/NNP/ Heights/NNP/ neighbourhood/NN/ 
+List/VB/ all/DT/ tips/NNS/ for/IN/ Cafe/NNP/ Zinho/NNP/ in/IN/ Pennsylvania/NNP/ in/IN/ 2010/CD/ ././ 
+Which/WDT/ Indian/JJ/ restaurant/NN/ in/IN/ Dallas/NNP/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ reviews/NNS/ ?/./ 
+What/WDT/ neighbourhood/NN/ is/VBZ/ restaurant/NN/ Flat/NNP/ Top/NNP/ Grill/NNP/ in/IN/ ?/./ 
+List/NN/ all/PDT/ the/DT/ Italian/JJ/ restaurant/NN/ in/IN/ Los/NNP/ Angeles/NNP/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ reviews/NNS/ on/IN/ businesses/NNS/ located/JJ/ in/IN/ South/NNP/ Summerlin/NNP/ neighbourhood/NN/ 
+Find/VB/ all/DT/ Chinese/JJ/ restaurant/NN/ in/IN/ Dallas/NNP/ with/IN/ at/IN/ least/JJS/ 4/CD/ stars/NNS/ 
+How/WRB/ many/JJ/ reviews/NNS/ has/VBZ/ Adrienne/NNP/ written/VBN/ ?/./ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ pet/JJ/ groomers/NNS/ in/IN/ Edinburgh/NNP/ 
+How/WRB/ many/JJ/ businesses/NNS/ are/VBP/ there/EX/ in/IN/ the/DT/ Stone/NNP/ Meadows/NNP/ neighbourhood/NN/ in/IN/ Madison/NNP/ ?/./ 
+Which/WDT/ Thai/NNP/ restaurant/NN/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ reviews/NNS/ 
+How/WRB/ many/JJ/ dentists/NNS/ in/IN/ Los/NNP/ Angeles/NNP/ have/VBP/ a/DT/ rating/NN/ above/IN/ 4/CD/ ?/./ 
+Find/VB/ all/DT/ bars/NNS/ reviewed/VBN/ by/IN/ Patrick/NNP/ with/IN/ at/IN/ least/JJS/ 3/CD/ stars/NNS/ 
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ businesses/NNS/ that/WDT/ are/VBP/ restaurant/NN/ ././ 

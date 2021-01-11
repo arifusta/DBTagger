@@ -1,0 +1,479 @@
+How/O/ many/O/ papers/TABLE/ does/O/ Eric/VALUE/ Brewer/VALUE/ have/O/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ were/O/ written/O/ on/COND/ Question/VALUE/ Answering/VALUE/ in/COND/ 2016/VALUE/ ?/O/ 
+How/O/ many/O/ citations/TABLE/ does/O/ Yann/VALUE/ Lecun/VALUE/ has/O/ ?/O/ 
+What/O/ is/O/ the/O/ latest/O/ paper/TABLE/ by/O/ Emo/VALUE/ Todorov/VALUE/ ?/O/ 
+Textual/VALUE/ Entailment/VALUE/ datasets/TABLE/ 
+What/O/ conferences/TABLE/ does/O/ Kurtis/VALUE/ Heimerl/VALUE/ publish/TABLEREF/ in/O/ ?/O/ 
+main/O/ topics/ATTR/ of/O/ work/TABLEREF/ by/O/ Brian/VALUE/ DeRenzi/VALUE/ 
+what/O/ did/O/ Mark/VALUE/ Guzdial/VALUE/ write/TABLEREF/ ?/O/ 
+Who/O/ cites/TABLEREF/ Neeraj/VALUE/ Jain/VALUE/ most/O/ ?/O/ 
+most/O/ cited/TABLEREF/ by/O/ Tom/VALUE/ Mitchell/VALUE/ and/O/ Oren/VALUE/ Etzioni/VALUE/ 
+who/O/ is/O/ the/O/ most/O/ cited/TABLEREF/ author/TABLE/ at/O/ CVPR/VALUE/ ?/O/ 
+who/O/ published/TABLEREF/ the/O/ most/O/ papers/TABLE/ in/COND/ Syntactic/VALUE/ Parsing/VALUE/ ?/O/ 
+ACL/VALUE/ papers/TABLE/ in/COND/ 2016/VALUE/ 
+What/O/ conferences/TABLE/ does/O/ Noah/VALUE/ A./VALUE/ Smith/VALUE/ publish/TABLEREF/ in/O/ the/O/ most/O/ ?/O/ 
+Papers/TABLE/ written/O/ by/O/ James/VALUE/ Fogarty/VALUE/ in/COND/ 2015/VALUE/ 
+keywords/TABLE/ shared/O/ by/O/ Luke/VALUE/ S/VALUE/ Zettlemoyer/VALUE/ and/O/ Mirella/VALUE/ Lapata/VALUE/ 
+Papers/TABLE/ published/TABLEREF/ in/COND/ 2016/VALUE/ by/O/ Li/VALUE/ Dong/VALUE/ 
+number/O/ of/O/ citations/TABLE/ of/O/ Michael/VALUE/ I./VALUE/ Jordan/VALUE/ 
+How/O/ many/O/ papers/TABLE/ were/O/ at/O/ SIGMOD/VALUE/ 2000/VALUE/ ?/O/ 
+Who/O/ has/O/ published/TABLEREF/ both/O/ in/COND/ ICML/VALUE/ and/O/ ACL/VALUE/ ?/O/ 
+Which/O/ paper/TABLE/ should/O/ I/O/ read/O/ about/O/ Dependent/VALUE/ Types/VALUE/ ?/O/ 
+papers/TABLE/ on/COND/ Program/VALUE/ Slicing/VALUE/ 
+papers/TABLE/ by/O/ Emina/VALUE/ Torlak/VALUE/ published/TABLEREF/ at/COND/ POPL/VALUE/ 
+Where/O/ did/O/ Sergey/VALUE/ Levine/VALUE/ publish/TABLEREF/ his/O/ last/O/ paper/TABLE/ ?/O/ 
+What/O/ papers/TABLE/ has/O/ Ed/VALUE/ Desmond/VALUE/ written/TABLEREF/ about/O/ Semantic/VALUE/ Parsing/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Srinivasan/VALUE/ Iyer/VALUE/ have/O/ ?/O/ 
+Who/O/ published/TABLEREF/ the/O/ most/O/ papers/TABLE/ in/COND/ 2007/VALUE/ at/O/ CVPR/VALUE/ ?/O/ 
+in/O/ what/O/ conferences/TABLE/ does/O/ Mangpo/VALUE/ publish/TABLEREF/ ?/O/ 
+papers/TABLE/ on/COND/ Semantic/VALUE/ Parsing/VALUE/ 
+What/O/ conference/TABLE/ does/O/ Daniela/VALUE/ Witten/VALUE/ publish/TABLEREF/ in/O/ ?/O/ 
+papers/TABLE/ from/COND/ 2014/VALUE/ 
+Where/O/ did/O/ Luke/VALUE/ Clark/VALUE/ publish/TABLEREF/ in/COND/ 2013/VALUE/ 
+who/O/ publishes/TABLEREF/ papers/TABLE/ about/O/ Sensor/VALUE/ Fusion/VALUE/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Huamin/VALUE/ Qu/VALUE/ have/O/ ?/O/ 
+List/O/ of/O/ papers/TABLE/ in/COND/ VMCAI/VALUE/ 2016/VALUE/ 
+In/O/ what/O/ years/ATTR/ did/O/ Pedro/VALUE/ Domingos/VALUE/ publish/TABLEREF/ a/O/ paper/TABLE/ ?/O/ 
+Kathryn/VALUE/ McKinley/VALUE/ s/O/ papers/TABLE/ on/COND/ Garbage/VALUE/ Collection/VALUE/ 
+papers/TABLE/ where/O/ Ras/VALUE/ Bodik/VALUE/ is/O/ an/O/ author/TABLE/ 
+who/O/ authored/TABLEREF/ papers/TABLE/ at/O/ NIPS/VALUE/ ?/O/ 
+papers/TABLE/ by/O/ Steve/VALUE/ Seitz/VALUE/ 
+keyphrases/TABLE/ used/O/ by/O/ Dan/VALUE/ Klein/VALUE/ in/O/ his/O/ EMNLP/VALUE/ papers/TABLE/ 
+Paper/TABLE/ on/COND/ Reinforcement/VALUE/ Learning/VALUE/ with/O/ most/O/ citations/TABLE/ 
+papers/TABLE/ by/O/ Emina/VALUE/ Torlak/VALUE/ from/COND/ 2010/VALUE/ 
+keyphrases/TABLE/ used/O/ by/O/ Ras/VALUE/ Bodik/VALUE/ 
+citation/TABLE/ count/O/ of/O/ Zachary/VALUE/ Tatlock/VALUE/ s/O/ papers/TABLE/ 
+What/O/ conferences/TABLE/ does/O/ Daniella/VALUE/ Coelho/VALUE/ publish/TABLEREF/ in/O/ ?/O/ 
+What/O/ papers/TABLE/ has/O/ James/VALUE/ Fogarty/VALUE/ written/TABLEREF/ ?/O/ 
+papers/TABLE/ in/COND/ ACL/VALUE/ 2016/VALUE/ 
+Papers/TABLE/ written/TABLEREF/ by/O/ Kurtis/VALUE/ Heimerl/VALUE/ 
+How/O/ many/O/ citations/TABLE/ does/O/ Luke/VALUE/ Zettlemoyer/VALUE/ have/O/ per/O/ year/ATTR/ 
+author/TABLE/ published/TABLEREF/ ACL/VALUE/ 2014/VALUE/ 
+Which/O/ papers/TABLE/ cite/TABLE/ Daniel/VALUE/ Jurafsky/VALUE/ ?/O/ 
+In/O/ what/O/ years/ATTR/ did/O/ Pedro/VALUE/ Domingos/VALUE/ publish/TABLEREF/ a/O/ paper/TABLE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ were/O/ accepted/O/ at/O/ SIGMOD/VALUE/ 2016/VALUE/ ?/O/ 
+Srinivasan/VALUE/ Iyer/VALUE/ s/O/ papers/TABLE/ 
+What/O/ is/O/ the/O/ paper/TABLE/ about/O/ Semantic/VALUE/ Image/VALUE/ Segmentation/VALUE/ of/O/ the/O/ most/O/ citation/TABLE/ ?/O/ 
+tail/VALUE/ papers/TABLE/ in/COND/ NIPS/VALUE/ 
+Semantic/VALUE/ Parsing/VALUE/ 2016/VALUE/ papers/TABLE/ 
+papers/TABLE/ using/O/ Wordnet/VALUE/ or/O/ Dbpedia/VALUE/ 
+what/O/ is/O/ the/O/ most/O/ cited/TABLEREF/ paper/TABLE/ of/O/ Ohad/VALUE/ Shamir/VALUE/ ?/O/ 
+What/O/ articles/TABLE/ have/O/ been/O/ published/TABLEREF/ since/COND/ 2006/VALUE/ about/O/ the/O/ Effects/VALUE/ Of/VALUE/ Juicing/VALUE/ For/VALUE/ Cancer/VALUE/ Patients/VALUE/ ?/O/ 
+what/O/ are/O/ the/O/ collaborations/O/ of/O/ Bharath/VALUE/ Hariharan/VALUE/ and/O/ Ross/VALUE/ Girshick/VALUE/ ?/O/ 
+datasets/TABLE/ in/O/ papers/TABLE/ about/O/ KNN/VALUE/ Classification/VALUE/ 
+Sentiment/VALUE/ Analysis/VALUE/ papers/TABLE/ with/O/ most/O/ citations/TABLE/ 
+Does/O/ Ali/VALUE/ Farhadi/VALUE/ publish/TABLEREF/ in/COND/ CVPR/VALUE/ ?/O/ 
+What/O/ papers/TABLE/ talk/O/ about/O/ Reinforcement/VALUE/ Learning/VALUE/ ?/O/ 
+What/O/ are/O/ some/O/ survey/TABLE/ papers/TABLE/ on/COND/ Multiuser/VALUE/ Receiver/VALUE/ problems/O/ in/O/ Decision/VALUE/ Feedback/VALUE/ ?/O/ 
+who/O/ wrote/TABLEREF/ papers/TABLE/ in/COND/ 2015/VALUE/ 
+papers/TABLE/ typically/O/ cited/TABLEREF/ by/O/ Parsing/VALUE/ papers/TABLE/ 
+List/O/ papers/TABLE/ that/O/ has/O/ a/O/ keyword/TABLE/ Depth/VALUE/ Map/VALUE/ 
+How/O/ many/O/ papers/TABLE/ has/O/ Jennifer/VALUE/ Widom/VALUE/ published/TABLEREF/ ?/O/ 
+newest/O/ Deep/VALUE/ Learning/VALUE/ papers/TABLE/ 
+Syntactic/VALUE/ Parsing/VALUE/ papers/TABLE/ not/O/ written/TABLEREF/ by/O/ Chris/VALUE/ Dyer/VALUE/ 
+How/O/ many/O/ paper/TABLE/ does/O/ Samia/VALUE/ Razaq/VALUE/ have/O/ ?/O/ 
+Semantic/VALUE/ Parsing/VALUE/ papers/TABLE/ in/COND/ ACL/VALUE/ 
+What/O/ is/O/ the/O/ most/O/ popular/O/ paper/TABLE/ this/O/ year/ATTR/ in/COND/ CVPR/VALUE/ ?/O/ 
+what/O/ papers/TABLE/ are/O/ typically/O/ cited/TABLEREF/ by/O/ Tom/VALUE/ Mitchell/VALUE/ and/O/ Oren/VALUE/ Etzioni/VALUE/ 
+In/O/ which/O/ conferences/TABLE/ does/O/ Anders/VALUE/ Andersson/VALUE/ typically/O/ publish/TABLEREF/ ?/O/ 
+papers/TABLE/ written/O/ by/O/ authors/TABLE/ Richard/VALUE/ Ladner/VALUE/ and/O/ Linda/VALUE/ Shapiro/VALUE/ 
+who/O/ has/O/ written/TABLEREF/ the/O/ most/O/ papers/TABLE/ on/COND/ Semantic/VALUE/ Parsing/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ has/O/ Chris/VALUE/ Mattmann/VALUE/ published/TABLEREF/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Kentaro/VALUE/ Toyama/VALUE/ have/O/ ?/O/ 
+What/O/ are/O/ the/O/ latest/O/ publications/TABLE/ on/COND/ Neutralizing/VALUE/ Antibody/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ were/O/ written/TABLEREF/ on/COND/ Question/VALUE/ Answering/VALUE/ in/O/ the/O/ past/O/ 5/VALUE/ years/ATTR/ ?/O/ 
+how/O/ many/O/ papers/TABLE/ does/O/ Michael/VALUE/ I./VALUE/ Jordan/VALUE/ cite/TABLEREF/ 
+what/O/ was/O/ the/O/ first/O/ Deep/VALUE/ Learning/VALUE/ paper/TABLE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ has/O/ Luke/VALUE/ Zettlemoyer/VALUE/ published/TABLEREF/ ?/O/ 
+What/O/ years/ATTR/ did/O/ Alvin/VALUE/ Cheung/VALUE/ publish/TABLEREF/ papers/TABLE/ in/O/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ did/O/ Noah/VALUE/ Smith/VALUE/ publish/TABLEREF/ in/COND/ 2010/VALUE/ ?/O/ 
+most/O/ published/TABLEREF/ author/TABLE/ at/O/ ACL/VALUE/ 2010/VALUE/ 
+co-authors/TABLE/ of/O/ Lorenzo/VALUE/ Bruzzone/VALUE/ 
+List/O/ the/O/ popular/O/ publications/TABLE/ on/COND/ Object/VALUE/ Discrimination/VALUE/ 
+who/O/ writes/TABLEREF/ papers/TABLE/ with/O/ Ras/VALUE/ Bodik/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ used/O/ ImageNet/VALUE/ dataset/TABLE/ ?/O/ 
+papers/TABLE/ about/O/ Semantic/VALUE/ Parsing/VALUE/ 
+what/O/ are/O/ commonly/O/ cited/TABLEREF/ papers/TABLE/ by/O/ Tom/VALUE/ Mitchell/VALUE/ and/O/ Oren/VALUE/ Etzioni/VALUE/ ?/O/ 
+what/O/ are/O/ Syntactic/VALUE/ Parsing/VALUE/ papers/TABLE/ not/O/ written/TABLEREF/ by/O/ Chris/VALUE/ Dyer/VALUE/ 
+keywords/TABLE/ used/O/ by/O/ Luke/VALUE/ Zettlemoyer/VALUE/ 
+How/O/ many/O/ citations/TABLE/ does/O/ Christopher/VALUE/ D/VALUE/ Manning/VALUE/ have/O/ ?/O/ 
+what/O/ were/O/ some/O/ Optimization/VALUE/ based/O/ papers/TABLE/ in/COND/ NIPS/VALUE/ 2016/VALUE/ ?/O/ 
+papers/TABLE/ on/COND/ Semantic/VALUE/ Spaces/VALUE/ appeared/O/ at/O/ Arxiv/VALUE/ last/O/ year/ATTR/ 
+How/O/ many/O/ publications/TABLE/ were/O/ added/O/ to/O/ the/O/ Cell/VALUE/ journal/TABLE/ this/O/ year/ATTR/ ?/O/ 
+List/O/ today/O/ s/O/ journals/TABLE/ 
+are/O/ there/O/ Multiuser/VALUE/ Receiver/VALUE/ papers/TABLE/ that/O/ use/O/ Decision/VALUE/ Feedback/VALUE/ ?/O/ 
+how/O/ many/O/ papers/TABLE/ accepted/O/ in/COND/ ACL/VALUE/ 2016/VALUE/ 
+papers/TABLE/ using/O/ NELL/VALUE/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Andrew/VALUE/ King/VALUE/ have/O/ ?/O/ 
+are/O/ there/O/ any/O/ Syntactic/VALUE/ Parsing/VALUE/ papers/TABLE/ not/O/ written/TABLEREF/ by/O/ Chris/VALUE/ Dyer/VALUE/ ?/O/ 
+Who/O/ has/O/ published/TABLEREF/ more/COND/ papers/TABLE/ in/COND/ NSDI/VALUE/ ?/O/ 
+who/O/ published/TABLEREF/ Deep/VALUE/ Learning/VALUE/ papers/TABLE/ at/O/ ACL/VALUE/ 2012/VALUE/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Graham/VALUE/ Neubig/VALUE/ have/O/ in/COND/ TACL/VALUE/ ?/O/ 
+in/O/ what/O/ venues/TABLE/ does/O/ Mangpo/VALUE/ publish/TABLEREF/ ?/O/ 
+ACL/VALUE/ papers/TABLE/ in/COND/ 2012/VALUE/ on/COND/ Parsing/VALUE/ 
+ICTD/VALUE/ 
+who/O/ works/O/ on/COND/ Multiuser/VALUE/ Receiver/VALUE/ for/O/ Decision/VALUE/ Feedback/VALUE/ 
+What/O/ papers/TABLE/ has/O/ Luke/VALUE/ S/VALUE/ Zettlemoyer/VALUE/ written/TABLEREF/ ?/O/ 
+papers/TABLE/ written/TABLEREF/ by/O/ Srinivasan/VALUE/ Iyer/VALUE/ 
+keyphrases/TABLE/ used/O/ by/O/ Luke/VALUE/ Zettlemoyer/VALUE/ 
+the/O/ papers/TABLE/ on/COND/ Semantic/VALUE/ Parsing/VALUE/ by/O/ Li/VALUE/ Dong/VALUE/ at/COND/ ACL/VALUE/ in/COND/ 2016/VALUE/ 
+which/O/ papers/TABLE/ has/O/ Michael/VALUE/ I./VALUE/ Jordan/VALUE/ cited/TABLEREF/ the/O/ most/O/ ?/O/ 
+How/O/ many/O/ citations/TABLE/ does/O/ Li/VALUE/ Dong/VALUE/ s/O/ Semantic/VALUE/ Parsing/VALUE/ paper/TABLE/ have/O/ ?/O/ 
+papers/TABLE/ published/TABLEREF/ in/COND/ the/O/ area/TABLE/ of/O/ Computer/VALUE/ Vision/VALUE/ 
+authors/TABLE/ of/O/ ACL/VALUE/ 2014/VALUE/ papers/TABLE/ 
+recent/O/ Semantic/VALUE/ Parsing/VALUE/ papers/TABLE/ 
+What/O/ papers/TABLE/ were/O/ written/TABLEREF/ by/O/ authors/TABLE/ Richard/VALUE/ Ladner/VALUE/ and/O/ Linda/VALUE/ Shapiro/VALUE/ 
+What/O/ conferences/TABLE/ does/O/ Noah/VALUE/ A./VALUE/ Smith/VALUE/ publish/TABLEREF/ in/O/ ?/O/ 
+author/TABLE/ who/O/ wrote/TABLEREF/ papers/TABLE/ with/O/ Emina/VALUE/ Torlak/VALUE/ 
+top/O/ author/TABLE/ in/O/ Syntactic/VALUE/ Parsing/VALUE/ 
+Monte/VALUE/ Carlo/VALUE/ Simulation/VALUE/ papers/TABLE/ since/COND/ 2011/VALUE/ 
+how/O/ many/O/ papers/TABLE/ has/O/ Mirella/VALUE/ Lapata/VALUE/ written/TABLEREF/ ?/O/ 
+papers/TABLE/ about/O/ Deep/VALUE/ Learning/VALUE/ 
+Does/O/ Philipp/VALUE/ Haberstock/VALUE/ ever/O/ collaborated/TABLEREF/ with/O/ Ludwig/VALUE/ Nastansky/VALUE/ ?/O/ 
+how/O/ many/O/ ACL/VALUE/ papers/TABLE/ by/O/ author/TABLE/ 
+papers/TABLE/ about/O/ Wordnet/VALUE/ and/O/ Dbpedia/VALUE/ 
+keyphrases/TABLE/ used/O/ by/O/ Luke/VALUE/ S/VALUE/ Zettlemoyer/VALUE/ 
+How/O/ many/O/ papers/TABLE/ has/O/ Christopher/VALUE/ D/VALUE/ Manning/VALUE/ published/TABLEREF/ ?/O/ 
+how/O/ many/O/ papers/TABLE/ has/O/ Ameet/VALUE/ Soni/VALUE/ published/TABLEREF/ ?/O/ 
+how/O/ many/O/ Parsing/VALUE/ papers/TABLE/ did/O/ ACL/VALUE/ 2014/VALUE/ have/O/ ?/O/ 
+papers/TABLE/ by/O/ Mangpo/VALUE/ 
+journal/TABLE/ papers/TABLE/ for/O/ Instance/VALUE/ Segmentation/VALUE/ 
+what/O/ venue/TABLE/ does/O/ Luke/VALUE/ Zettlemoyer/VALUE/ publish/TABLEREF/ the/O/ most/O/ in/O/ 
+What/O/ has/O/ Ras/VALUE/ Bodik/VALUE/ published/TABLEREF/ ?/O/ 
+Character/VALUE/ Recognition/VALUE/ papers/TABLE/ earlier/COND/ than/O/ 2010/VALUE/ 
+keyphrases/TABLE/ used/O/ by/O/ Dan/VALUE/ Suciu/VALUE/ 
+what/O/ topics/TABLE/ does/O/ Luke/VALUE/ Zettlemoyer/VALUE/ publish/TABLEREF/ in/O/ 
+Papers/TABLE/ by/O/ Bevan/VALUE/ Jones/VALUE/ 
+I/O/ want/O/ the/O/ papers/TABLE/ on/COND/ Machine/VALUE/ Translation/VALUE/ by/O/ Philipp/VALUE/ Koehn/VALUE/ 
+What/O/ paper/TABLE/ did/O/ Michael/VALUE/ Armstrong/VALUE/ wrote/TABLEREF/ in/O/ the/O/ 90s/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Srinivasan/VALUE/ Iyer/VALUE/ have/O/ ?/O/ 
+keyphrases/TABLE/ used/O/ by/O/ Roni/VALUE/ Rosenfeld/VALUE/ 
+which/O/ EMNLP/VALUE/ 2010/VALUE/ papers/TABLE/ have/O/ the/O/ most/O/ citations/TABLE/ ?/O/ 
+list/O/ papers/TABLE/ by/O/ Agha/VALUE/ Ali/VALUE/ Raza/VALUE/ 
+What/O/ are/O/ all/O/ the/O/ publication/TABLE/ titles/ATTR/ by/O/ Donald/VALUE/ E/VALUE/ Knuth/VALUE/ ?/O/ 
+What/O/ journals/TABLE/ are/O/ Donald/VALUE/ E/VALUE/ Knuth/VALUE/ s/O/ articles/TABLE/ published/TABLEREF/ in/O/ ?/O/ 
+what/O/ kind/ATTR/ of/O/ papers/TABLE/ does/O/ Shwetak/VALUE/ Patel/VALUE/ publish/TABLEREF/ 
+keyphrases/TABLE/ used/O/ by/O/ Steve/VALUE/ Tanimoto/VALUE/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Jeffrey/VALUE/ Heer/VALUE/ have/O/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ in/COND/ ACL/VALUE/ 2016/VALUE/ ?/O/ 
+Has/O/ Dan/VALUE/ Suciu/VALUE/ published/TABLEREF/ any/O/ papers/TABLE/ ?/O/ 
+papers/TABLE/ related/O/ to/O/ Deep/VALUE/ Learning/VALUE/ 
+new/O/ Semantic/VALUE/ Parsing/VALUE/ papers/TABLE/ 
+What/O/ year/ATTR/ did/O/ Luke/VALUE/ S/VALUE/ Zettlemoyer/VALUE/ publish/TABLEREF/ the/O/ most/O/ papers/TABLE/ 
+What/O/ papers/TABLE/ has/O/ Yoav/VALUE/ Artzi/VALUE/ written/TABLEREF/ ?/O/ 
+Which/O/ authors/TABLE/ published/TABLEREF/ papers/TABLE/ in/COND/ 2015/VALUE/ ?/O/ 
+Multiuser/VALUE/ Receiver/VALUE/ in/COND/ Decision/VALUE/ Feedback/VALUE/ papers/TABLE/ 
+List/O/ the/O/ journals/TABLE/ related/O/ to/O/ Temporal/VALUE/ Data/VALUE/ 
+papers/TABLE/ about/O/ Query/VALUE/ Expansion/VALUE/ in/COND/ SIGIR/VALUE/ 2014/VALUE/ 
+conferences/TABLE/ that/O/ Dan/VALUE/ Weld/VALUE/ has/O/ published/TABLEREF/ in/O/ 
+what/O/ paper/TABLE/ did/O/ Ras/VALUE/ Bodik/VALUE/ and/O/ Ameet/VALUE/ Soni/VALUE/ write/TABLEREF/ together/O/ ?/O/ 
+What/O/ papers/TABLE/ has/O/ Adam/VALUE/ Chlipala/VALUE/ written/TABLEREF/ ?/O/ 
+How/O/ many/O/ citation/TABLE/ Richard/VALUE/ Anderson/VALUE/ has/O/ ?/O/ 
+what/O/ year/ATTR/ was/O/ the/O/ first/O/ Deep/VALUE/ Learning/VALUE/ paper/TABLE/ published/TABLEREF/ ?/O/ 
+datasets/TABLE/ in/COND/ KNN/VALUE/ papers/TABLE/ 
+has/O/ any/O/ paper/TABLE/ tried/O/ Multiuser/VALUE/ Receiver/VALUE/ for/O/ Decision/VALUE/ Feedback/VALUE/ ?/O/ 
+What/O/ papers/TABLE/ were/O/ published/TABLEREF/ in/COND/ ACL/VALUE/ in/COND/ 2015/VALUE/ about/O/ Common/VALUE/ Practice/VALUE/ ?/O/ 
+who/O/ has/O/ written/TABLEREF/ the/O/ most/O/ Information/VALUE/ Retrieval/VALUE/ papers/TABLE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ did/O/ Luke/VALUE/ Campbell/VALUE/ write/TABLEREF/ last/O/ year/ATTR/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ has/O/ Dominik/VALUE/ Moritz/VALUE/ written/TABLEREF/ ?/O/ 
+papers/TABLE/ at/O/ PLDI/VALUE/ 
+When/O/ was/O/ Benjamin/VALUE/ Mako/VALUE/ Hill/VALUE/ s/O/ first/O/ paper/TABLE/ written/TABLEREF/ ?/O/ 
+What/O/ is/O/ Yejin/VALUE/ Choi/VALUE/ s/O/ highest/O/ cited/TABLEREF/ paper/TABLE/ ?/O/ 
+topics/TABLE/ at/O/ ACL/VALUE/ 2014/VALUE/ 
+How/O/ many/O/ papers/TABLE/ does/O/ James/VALUE/ Fogarty/VALUE/ have/O/ in/COND/ CHI/VALUE/ ?/O/ 
+Information/VALUE/ Extraction/VALUE/ publications/TABLE/ 
+which/O/ year/ATTR/ had/O/ the/O/ most/O/ NIPS/VALUE/ papers/TABLE/ ?/O/ 
+what/O/ topics/TABLE/ does/O/ Oren/VALUE/ Etzioni/VALUE/ write/TABLEREF/ about/O/ most/O/ ?/O/ 
+Who/O/ has/O/ coauthored/TABLEREF/ with/O/ Dan/VALUE/ Suciu/VALUE/ ?/O/ 
+ACL/VALUE/ papers/TABLE/ in/COND/ 2016/VALUE/ about/O/ Semantic/VALUE/ Parsing/VALUE/ 
+papers/TABLE/ about/O/ NELL/VALUE/ 
+papers/TABLE/ about/O/ ImageNet/VALUE/ 
+papers/TABLE/ that/O/ use/O/ ImageNet/VALUE/ 
+find/O/ me/O/ paper/TABLE/ on/COND/ using/O/ Neural/VALUE/ for/O/ Relation/VALUE/ Extraction/VALUE/ 
+how/O/ many/O/ Ras/VALUE/ Bodik/VALUE/ papers/TABLE/ are/O/ in/COND/ POPL/VALUE/ ?/O/ 
+What/O/ are/O/ the/O/ papers/TABLE/ of/O/ Ali/VALUE/ Farhadi/VALUE/ in/COND/ 2014/VALUE/ 
+papers/TABLE/ in/O/ Neural/VALUE/ Networks/VALUE/ 
+how/O/ many/O/ citations/TABLE/ does/O/ Donald/VALUE/ E/VALUE/ Knuth/VALUE/ have/O/ ?/O/ 
+Which/O/ papers/TABLE/ cite/TABLEREF/ Daniel/VALUE/ A/VALUE/ Reed/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ have/O/ Dan/VALUE/ Suciu/VALUE/ and/O/ Magdalena/VALUE/ Balazinska/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ on/COND/ Computer/VALUE/ Science/VALUE/ Education/VALUE/ in/COND/ 2016/VALUE/ ?/O/ 
+Semantic/VALUE/ Parsing/VALUE/ top/O/ papers/TABLE/ 
+datasets/TABLE/ for/O/ KNN/VALUE/ 
+which/O/ papers/TABLE/ in/COND/ ICML/VALUE/ 2014/VALUE/ had/O/ Lasso/VALUE/ in/O/ them/O/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ did/O/ Brian/VALUE/ DeRenzi/VALUE/ publish/TABLEREF/ in/COND/ 2015/VALUE/ 
+papers/TABLE/ by/O/ Oren/VALUE/ Etzioni/VALUE/ 
+How/O/ many/O/ papers/TABLE/ by/O/ Luke/VALUE/ Zettlemoyer/VALUE/ contain/O/ the/O/ keyphrases/TABLE/ Learning/VALUE/ Algorithm/VALUE/ ?/O/ 
+papers/TABLE/ about/O/ Object/VALUE/ Recognition/VALUE/ 
+most/O/ recent/O/ papers/TABLE/ of/O/ Ali/VALUE/ Farhadi/VALUE/ 
+papers/TABLE/ about/O/ Character/VALUE/ Recognition/VALUE/ from/O/ before/COND/ 2010/VALUE/ 
+Datasets/TABLE/ with/O/ Semantic/VALUE/ Parsing/VALUE/ information/VALUE/ 
+How/O/ many/O/ co-authors/TABLE/ has/O/ Mark/VALUE/ Steedman/VALUE/ had/O/ ?/O/ 
+What/O/ Data/VALUE/ Cleaning/VALUE/ paper/TABLE/ published/TABLEREF/ in/COND/ VLDB/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ related/O/ to/O/ Deep/VALUE/ Reinforcement/VALUE/ Learning/VALUE/ in/COND/ NIPS/VALUE/ ?/O/ 
+how/O/ is/O/ the/O/ most/O/ prolific/O/ author/TABLE/ in/COND/ ACL/VALUE/ ?/O/ 
+keyphrases/TABLE/ used/O/ by/O/ Ang/VALUE/ Li/VALUE/ 
+What/O/ papers/TABLE/ were/O/ published/TABLEREF/ at/O/ CVPR/VALUE/ in/COND/ 2015/VALUE/ were/O/ about/O/ Semantic/VALUE/ Segmentation/VALUE/ ?/O/ 
+FAHAD/VALUE/ PERVAIZ/VALUE/ 
+Autoencoder/VALUE/ experiments/O/ 
+Li/VALUE/ Dong/VALUE/ Semantic/VALUE/ Parsing/VALUE/ paper/TABLE/ 
+How/O/ many/O/ papers/TABLE/ has/O/ Christopher/VALUE/ D./VALUE/ Manning/VALUE/ published/TABLEREF/ ?/O/ 
+what/O/ paper/TABLE/ has/O/ Clifford/VALUE/ Grobstein/VALUE/ published/TABLEREF/ in/COND/ Science/VALUE/ ?/O/ 
+Journal/TABLE/ Papers/TABLE/ by/O/ Mohammad/VALUE/ Rastegari/VALUE/ 
+Who/O/ has/O/ published/TABLEREF/ the/O/ most/O/ number/O/ of/O/ papers/TABLE/ with/O/ Richard/VALUE/ Sutton/VALUE/ ?/O/ 
+Show/O/ me/O/ the/O/ papers/TABLE/ on/COND/ Data/VALUE/ Cleaning/VALUE/ 
+papers/TABLE/ before/COND/ 2010/VALUE/ about/O/ Character/VALUE/ Recognition/VALUE/ 
+Who/O/ has/O/ coauthored/TABLEREF/ with/O/ Luke/VALUE/ S/VALUE/ Zettlemoyer/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ run/O/ experiments/O/ on/COND/ ImageNet/VALUE/ ?/O/ 
+papers/TABLE/ by/O/ Stefan/VALUE/ Savage/VALUE/ 
+papers/TABLE/ that/O/ used/O/ MNIST/VALUE/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Graham/VALUE/ Neubig/VALUE/ have/O/ in/COND/ TACL/VALUE/ 
+Does/O/ Hal/VALUE/ Perkins/VALUE/ have/O/ any/O/ papers/TABLE/ published/TABLEREF/ ?/O/ 
+Tail/VALUE/ papers/TABLE/ used/O/ in/COND/ NIPS/VALUE/ 
+What/O/ papers/TABLE/ does/O/ Daphne/VALUE/ Koller/VALUE/ have/O/ in/COND/ ICML/VALUE/ ?/O/ 
+datasets/TABLE/ with/O/ Semantic/VALUE/ Parsing/VALUE/ 
+What/O/ conference/TABLE/ does/O/ Li/VALUE/ Dong/VALUE/ publish/TABLEREF/ in/O/ ?/O/ 
+What/O/ area/O/ cites/TABLE/ Ras/VALUE/ Bodik/VALUE/ ?/O/ 
+top/O/ Syntactic/VALUE/ Parsing/VALUE/ author/TABLE/ 
+how/O/ many/O/ papers/TABLE/ does/O/ Dan/VALUE/ Klein/VALUE/ have/O/ in/COND/ EMNLP/VALUE/ ?/O/ 
+conference/TABLE/ papers/TABLE/ of/O/ Subhasis/VALUE/ Chaudhuri/VALUE/ 
+papers/TABLE/ by/O/ Koos/VALUE/ Koole/VALUE/ 
+in/O/ what/O/ venues/TABLE/ does/O/ Chasins/VALUE/ publish/TABLEREF/ ?/O/ 
+Who/O/ has/O/ more/O/ papers/TABLE/ :/O/ Frank/VALUE/ Keller/VALUE/ or/O/ Mirella/VALUE/ Lapata/VALUE/ ?/O/ 
+ICML/VALUE/ papers/TABLE/ in/COND/ 2016/VALUE/ in/COND/ Deep/VALUE/ Learning/VALUE/ 
+How/O/ many/O/ papers/TABLE/ were/O/ written/TABLEREF/ on/COND/ Question/VALUE/ Answering/VALUE/ in/COND/ 2011/VALUE/ through/O/ 2016/VALUE/ ?/O/ 
+Syntactic/VALUE/ Parsing/VALUE/ papers/TABLE/ not/O/ written/TABLEREF/ by/O/ Chris/VALUE/ Dyer/VALUE/ 
+citations/TABLE/ for/O/ Alex/VALUE/ Snoeren/VALUE/ 
+List/O/ of/O/ authors/TABLE/ ACL/VALUE/ 2016/VALUE/ 
+Authors/TABLE/ of/O/ papers/TABLE/ on/COND/ Machine/VALUE/ Translation/VALUE/ 
+Who/O/ wrote/TABLEREF/ Blink/VALUE/ ?/O/ 
+does/O/ Ras/VALUE/ Bodik/VALUE/ publish/TABLEREF/ a/O/ lot/O/ ?/O/ 
+which/O/ venue/TABLE/ publishes/TABLEREF/ the/O/ most/O/ papers/TABLE/ about/O/ Deep/VALUE/ Learning/VALUE/ 
+Show/O/ me/O/ Deep/VALUE/ Learning/VALUE/ papers/TABLE/ ./O/ 
+Monte/VALUE/ Carlo/VALUE/ Simulation/VALUE/ papers/TABLE/ published/TABLEREF/ after/COND/ 2011/VALUE/ 
+which/O/ papers/TABLE/ use/O/ Wordnet/VALUE/ or/O/ Dbpedia/VALUE/ ?/O/ 
+who/O/ does/O/ Oren/VALUE/ Etzioni/VALUE/ cite/TABLEREF/ 
+recent/O/ papers/TABLE/ by/O/ Subhasis/VALUE/ Chaudhuri/VALUE/ 
+How/O/ many/O/ papers/TABLE/ were/O/ written/TABLEREF/ on/COND/ Question/VALUE/ Answering/VALUE/ in/COND/ the/O/ past/O/ year/ATTR/ ?/O/ 
+keyphrases/TABLE/ used/O/ by/O/ Jeffrey/VALUE/ Heer/VALUE/ ./O/ 
+How/O/ many/O/ papers/TABLE/ were/O/ written/TABLEREF/ on/COND/ the/O/ Developing/VALUE/ World/VALUE/ this/O/ year/ATTR/ ?/O/ 
+how/O/ many/O/ papers/TABLE/ are/O/ based/O/ on/COND/ ImageNet/VALUE/ 
+How/O/ many/O/ papers/TABLE/ did/O/ Ali/VALUE/ Farhadi/VALUE/ cite/TABLEREF/ ?/O/ 
+Character/VALUE/ Recognition/VALUE/ papers/TABLE/ before/COND/ 2010/VALUE/ 
+who/O/ published/TABLEREF/ papers/TABLE/ in/COND/ ACL/VALUE/ 2010/VALUE/ 
+what/O/ are/O/ most/O/ cited/TABLEREF/ papers/TABLE/ of/O/ Tom/VALUE/ Mitchell/VALUE/ and/O/ Oren/VALUE/ Etzioni/VALUE/ ?/O/ 
+datasets/TABLE/ used/O/ in/O/ papers/TABLE/ written/TABLEREF/ by/O/ Oren/VALUE/ Etzioni/VALUE/ ?/O/ 
+keyphrases/TABLE/ used/O/ by/O/ Yejin/VALUE/ Choi/VALUE/ 
+who/O/ published/TABLEREF/ at/COND/ ACL/VALUE/ 2014/VALUE/ ?/O/ 
+top/O/ Reinforcement/VALUE/ Learning/VALUE/ papers/TABLE/ 
+What/O/ journals/TABLE/ has/O/ James/VALUE/ Landay/VALUE/ published/TABLEREF/ in/O/ ?/O/ 
+KNN/VALUE/ dataset/TABLE/ 
+authors/TABLE/ of/O/ ACL/VALUE/ 2014/VALUE/ papers/TABLE/ 
+How/O/ many/O/ papers/TABLE/ written/TABLEREF/ on/COND/ ImageNet/VALUE/ ?/O/ 
+which/O/ papers/TABLE/ used/O/ NELL/VALUE/ ?/O/ 
+How/O/ many/O/ paper/TABLE/ has/O/ Ed/VALUE/ Desmond/VALUE/ written/O/ about/O/ Semantic/VALUE/ Parsing/VALUE/ ?/O/ 
+In/COND/ 2010/VALUE/ what/O/ journal/TABLE/ published/TABLEREF/ an/O/ article/TABLE/ about/O/ Trophic/VALUE/ Cascade/VALUE/ ?/O/ 
+papers/TABLE/ by/O/ Oren/VALUE/ Etzioni/VALUE/ 
+papers/TABLE/ by/O/ authors/TABLE/ Richard/VALUE/ Ladner/VALUE/ and/O/ Linda/VALUE/ Shapiro/VALUE/ 
+Jamie/VALUE/ Callan/VALUE/ s/O/ publications/TABLE/ by/O/ year/ATTR/ 
+What/O/ papers/TABLE/ have/O/ been/O/ written/TABLEREF/ by/O/ Peter/VALUE/ Mertens/VALUE/ and/O/ Dina/VALUE/ Barbian/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ are/O/ there/O/ ?/O/ 
+How/O/ many/O/ citations/TABLE/ does/O/ Fahad/VALUE/ Pervaiz/VALUE/ have/O/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Stefan/VALUE/ Savage/VALUE/ have/O/ ?/O/ 
+Who/O/ writes/TABLEREF/ a/O/ lot/O/ of/O/ papers/TABLE/ in/COND/ Machine/VALUE/ Learning/VALUE/ ?/O/ 
+How/O/ many/O/ ACL/VALUE/ papers/TABLE/ did/O/ John/VALUE/ Lee/VALUE/ written/TABLEREF/ in/COND/ the/O/ last/O/ year/ATTR/ ?/O/ 
+Show/O/ me/O/ some/O/ recent/O/ papers/TABLE/ on/COND/ Machine/VALUE/ Translation/VALUE/ ?/O/ 
+Papers/TABLE/ written/O/ by/O/ Daniel/VALUE/ A./VALUE/ Epstein/VALUE/ 
+What/O/ is/O/ the/O/ most/O/ recent/O/ paper/TABLE/ of/O/ Image/VALUE/ Understanding/VALUE/ ?/O/ 
+Sentiment/VALUE/ Analysis/VALUE/ papers/TABLE/ that/O/ have/O/ the/O/ most/O/ citations/TABLE/ 
+Character/VALUE/ Recognition/VALUE/ papers/TABLE/ from/O/ before/COND/ 2010/VALUE/ 
+Most/O/ cited/TABLEREF/ papers/TABLE/ on/COND/ Parsing/VALUE/ 
+What/O/ was/O/ the/O/ first/O/ paper/TABLE/ on/COND/ LSTM/VALUE/ written/TABLEREF/ ?/O/ 
+Keyphrases/TABLE/ used/O/ by/O/ James/VALUE/ Fogarty/VALUE/ in/COND/ 2015/VALUE/ 
+When/O/ was/O/ Richard/VALUE/ Anderson/VALUE/ s/O/ first/O/ publication/TABLE/ ?/O/ 
+keyphrases/TABLE/ used/O/ by/O/ Dan/VALUE/ Weld/VALUE/ 
+What/O/ is/O/ the/O/ highest/O/ cited/TABLEREF/ paper/TABLE/ by/O/ Jeff/VALUE/ Dean/VALUE/ ?/O/ 
+count/O/ of/O/ ACL/VALUE/ papers/TABLE/ by/O/ author/TABLE/ 
+Brain/VALUE/ research/VALUE/ papers/TABLE/ 
+Who/O/ are/O/ Daphne/VALUE/ Koller/VALUE/ s/O/ co-authors/TABLE/ 
+What/O/ are/O/ the/O/ latest/O/ papers/TABLE/ by/O/ Nigam/VALUE/ H./VALUE/ Shah/VALUE/ and/O/ Srinivasan/VALUE/ Iyer/VALUE/ ?/O/ 
+papers/TABLE/ written/TABLEREF/ by/O/ Ras/VALUE/ Bodik/VALUE/ and/O/ Emina/VALUE/ Torlak/VALUE/ 
+How/O/ many/O/ papers/TABLE/ has/O/ Jeffrey/VALUE/ Heer/VALUE/ ?/O/ 
+keyphrases/TABLE/ used/O/ by/O/ Torlak/VALUE/ in/COND/ 2010/VALUE/ 
+How/O/ many/O/ papers/TABLE/ does/O/ James/VALUE/ Fogarty/VALUE/ have/O/ ?/O/ 
+ACL/VALUE/ papers/TABLE/ with/O/ less/COND/ than/O/ 5/O/ citations/TABLE/ 
+What/O/ are/O/ some/O/ recent/O/ papers/TABLE/ written/TABLEREF/ in/COND/ Stochastic/VALUE/ Approximation/VALUE/ ?/O/ 
+Papers/TABLE/ by/O/ Frank/VALUE/ Keller/VALUE/ and/O/ Mirella/VALUE/ Lapata/VALUE/ 
+Facial/VALUE/ expression/VALUE/ research/O/ papers/TABLE/ 
+List/O/ prominent/O/ scholars/TABLE/ in/COND/ Theoretical/VALUE/ ?/O/ 
+are/O/ there/O/ any/O/ Monte/VALUE/ Carlo/VALUE/ Simulation/VALUE/ papers/TABLE/ since/COND/ 2011/VALUE/ ?/O/ 
+What/O/ is/O/ the/O/ paper/TABLE/ with/O/ the/O/ most/O/ citation/TABLE/ about/O/ AlexNet/VALUE/ ?/O/ 
+what/O/ papers/TABLE/ are/O/ in/O/ the/O/ ACL/VALUE/ of/O/ 2014/VALUE/ 
+what/O/ papers/TABLE/ have/O/ fewer/COND/ than/O/ 5/O/ citations/TABLE/ by/O/ ACL/VALUE/ papers/TABLE/ ?/O/ 
+latest/O/ Deep/VALUE/ Learning/VALUE/ papers/TABLE/ 
+how/O/ many/O/ papers/TABLE/ in/COND/ EMNLP/VALUE/ 2016/VALUE/ 
+What/O/ was/O/ Richard/VALUE/ Anderson/VALUE/ s/O/ latest/O/ paper/TABLE/ ?/O/ 
+most/O/ cited/TABLEREF/ papers/VALUE/ on/COND/ Stochastic/VALUE/ Optimization/VALUE/ 
+What/O/ is/O/ Kyunghyun/VALUE/ Cho/VALUE/ s/O/ latest/O/ paper/TABLE/ ?/O/ 
+how/O/ many/O/ papers/TABLE/ about/O/ Program/VALUE/ Slicing/VALUE/ ?/O/ 
+What/O/ papers/TABLE/ were/O/ published/TABLEREF/ at/COND/ CVPR/VALUE/ in/COND/ 2016/VALUE/ about/O/ Class/VALUE/ consistent/VALUE/ multi-modal/VALUE/ fusion/VALUE/ with/VALUE/ binary/VALUE/ features/VALUE/ applied/O/ to/O/ RGB-D/VALUE/ Object/VALUE/ Dataset/TABLE/ ?/O/ 
+Fetch/O/ me/O/ some/O/ papers/TABLE/ on/COND/ Artificial/VALUE/ Neural/VALUE/ Network/VALUE/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Emanuel/VALUE/ Todorov/VALUE/ publish/TABLEREF/ each/O/ year/ATTR/ ?/O/ 
+Which/O/ journals/TABLE/ did/O/ Linda/VALUE/ Shapiro/VALUE/ submit/O/ papers/TABLE/ to/O/ ?/O/ 
+which/O/ papers/TABLE/ has/O/ Mirella/VALUE/ Lapata/VALUE/ written/TABLEREF/ ?/O/ 
+What/O/ are/O/ the/O/ 5/O/ most/O/ recent/O/ papers/TABLE/ of/O/ Mirella/VALUE/ Lapata/VALUE/ ?/O/ 
+data/TABLE/ sets/TABLE/ for/O/ Textual/VALUE/ Entailment/VALUE/ 
+which/O/ author/TABLE/ has/O/ the/O/ largest/O/ number/O/ of/O/ publications/TABLE/ ?/O/ 
+what/O/ datasets/TABLE/ were/O/ used/O/ by/O/ Oren/VALUE/ Etzioni/VALUE/ ?/O/ 
+does/O/ Li/VALUE/ Dong/VALUE/ or/O/ Luke/VALUE/ Zettlemoyer/VALUE/ have/O/ more/O/ papers/TABLE/ ?/O/ 
+Papers/TABLE/ authored/TABLEREF/ by/O/ Daniel/VALUE/ S./VALUE/ Weld/VALUE/ in/COND/ 2011/VALUE/ 
+number/O/ of/O/ papers/TABLE/ written/TABLEREF/ by/O/ Lorenzo/VALUE/ Bruzzone/VALUE/ 
+Is/O/ it/O/ true/O/ that/O/ Geoffrey/VALUE/ E./VALUE/ Hinton/VALUE/ has/O/ more/COND/ citations/TABLE/ than/O/ Yann/VALUE/ Lecun/VALUE/ ?/O/ 
+papers/TABLE/ by/O/ Luke/VALUE/ Zettlemoyer/VALUE/ 
+best/O/ paper/TABLE/ in/COND/ EMNLP/VALUE/ 2015/VALUE/ ?/O/ 
+ACL/VALUE/ papers/TABLE/ in/COND/ 2012/VALUE/ on/COND/ Parsing/VALUE/ 
+What/O/ papers/TABLE/ has/O/ Dan/VALUE/ Suciu/VALUE/ written/TABLEREF/ ?/O/ 
+how/O/ many/O/ Parsing/VALUE/ papers/TABLE/ appeared/O/ in/O/ the/O/ proceeeding/O/ of/O/ ACL/VALUE/ 2014/VALUE/ ?/O/ 
+who/O/ wrote/O/ the/O/ most/O/ ACL/VALUE/ papers/TABLE/ in/COND/ 2010/VALUE/ 
+what/O/ papers/TABLE/ have/O/ fewer/COND/ than/O/ 5/O/ citations/TABLE/ by/O/ ACL/VALUE/ papers/TABLE/ 
+papers/TABLE/ on/COND/ Liquid/VALUE/ Automatica/VALUE/ 
+papers/TABLE/ on/COND/ Mechanical/VALUE/ Turk/VALUE/ experiments/O/ 
+venue/TABLE/ for/O/ Semantic/VALUE/ Parsing/VALUE/ 
+What/O/ was/O/ Richard/VALUE/ Anderson/VALUE/ s/O/ latest/O/ paper/TABLE/ ?/O/ 
+papers/TABLE/ published/TABLEREF/ in/COND/ EMNLP/VALUE/ 2011/VALUE/ by/O/ Wei/VALUE/ Lu/VALUE/ 
+first/O/ Deep/VALUE/ Learning/VALUE/ paper/TABLE/ 
+Hal/VALUE/ Perkins/VALUE/ papers/TABLE/ 
+How/O/ many/O/ papers/TABLE/ did/O/ Jeffrey/VALUE/ Heer/VALUE/ publish/TABLEREF/ at/O/ CHI/VALUE/ ?/O/ 
+keyphrases/TABLE/ used/O/ by/O/ Kaiming/VALUE/ He/VALUE/ 
+ACL/VALUE/ papers/TABLE/ by/O/ author/TABLE/ 
+Which/O/ paper/TABLE/ should/O/ I/O/ read/O/ about/O/ Dependent/VALUE/ Type/VALUE/ ?/O/ 
+Who/O/ is/O/ a/O/ coauthor/TABLE/ with/O/ Zachary/VALUE/ Tatlock/VALUE/ ?/O/ 
+journal/TABLE/ articles/TABLE/ by/O/ Lorenzo/VALUE/ Bruzzone/VALUE/ 
+List/O/ the/O/ papers/TABLE/ that/O/ used/O/ Caltech/VALUE/ dataset/TABLE/ 
+What/O/ are/O/ keyphrases/TABLE/ by/O/ Christof/VALUE/ Dallermassl/VALUE/ in/COND/ 2000/VALUE/ ?/O/ 
+how/O/ many/O/ papers/TABLE/ Richard/VALUE/ Anderson/VALUE/ and/O/ Gaetano/VALUE/ Borriello/VALUE/ coauthored/TABLEREF/ ?/O/ 
+Who/O/ are/O/ Daphne/VALUE/ Koller/VALUE/ s/O/ coauthors/TABLEREF/ 
+papers/TABLE/ that/O/ mention/TABLEREF/ Autoencoder/VALUE/ 
+What/O/ paper/TABLE/ by/O/ Brian/VALUE/ Curless/VALUE/ has/O/ the/O/ most/O/ citation/TABLE/ ?/O/ 
+authors/TABLE/ with/O/ at/O/ least/COND/ 5/O/ papers/TABLE/ 
+papers/TABLE/ about/O/ Program/VALUE/ Slicing/VALUE/ published/TABLEREF/ at/O/ PLDI/VALUE/ 
+who/O/ has/O/ the/O/ most/O/ publications/TABLE/ in/COND/ Question/VALUE/ Answering/VALUE/ ?/O/ 
+What/O/ are/O/ recent/O/ papers/TABLE/ on/COND/ Visual/VALUE/ Detection/VALUE/ ?/O/ 
+where/O/ does/O/ Li/VALUE/ Dong/VALUE/ publish/TABLEREF/ ?/O/ 
+Where/O/ did/O/ Antoine/VALUE/ Jacob/VALUE/ publish/TABLEREF/ in/COND/ 2016/VALUE/ 
+How/O/ many/O/ papers/TABLE/ are/O/ in/COND/ NLP/VALUE/ ?/O/ 
+keyphrases/TABLE/ used/O/ by/O/ Dan/VALUE/ Weld/VALUE/ 
+List/O/ all/O/ academic/TABLE/ papers/TABLE/ on/COND/ Impact/VALUE/ Of/VALUE/ Cellphone/VALUE/ Towers/VALUE/ On/VALUE/ Birds/VALUE/ 
+What/O/ are/O/ the/O/ papers/TABLE/ of/O/ Saurabh/VALUE/ Gupta/VALUE/ in/COND/ Instance/VALUE/ Segmentation/VALUE/ ?/O/ 
+What/O/ is/O/ the/O/ most/O/ cited/TABLEREF/ paper/TABLE/ of/O/ Behcet/VALUE/ Acikmese/VALUE/ ?/O/ 
+What/O/ papers/TABLE/ have/O/ Richard/VALUE/ Ladner/VALUE/ and/O/ Linda/VALUE/ Shapiro/VALUE/ written/TABLEREF/ ?/O/ 
+Who/O/ are/O/ the/O/ authors/TABLE/ with/O/ the/O/ most/O/ published/O/ papers/TABLE/ in/COND/ SIGMOD/VALUE/ ?/O/ 
+what/O/ papers/TABLE/ did/O/ NIPS/VALUE/ publish/TABLEREF/ ?/O/ 
+most/O/ cited/TABLEREF/ papers/TABLE/ for/O/ Semantic/VALUE/ Segmentation/VALUE/ 
+2014/VALUE/ papers/TABLE/ using/O/ ImageNet/VALUE/ 
+List/O/ papers/TABLE/ that/O/ has/O/ a/O/ keyword/TABLE/ Depth/VALUE/ Map/VALUE/ 
+What/O/ conferences/TABLE/ did/O/ Yejin/VALUE/ Kim/VALUE/ submit/O/ to/O/ in/COND/ 2015/VALUE/ ?/O/ 
+keywords/TABLE/ used/O/ by/O/ Sachin/VALUE/ Mehta/VALUE/ 
+who/O/ wrote/TABLEREF/ the/O/ most/O/ papers/TABLE/ for/O/ ACL/VALUE/ 2010/VALUE/ 
+papers/TABLE/ by/O/ Li/VALUE/ Dong/VALUE/ about/O/ Semantic/VALUE/ Parsing/VALUE/ 
+Semantic/VALUE/ Parsing/VALUE/ paper/TABLE/ by/O/ Li/VALUE/ Dong/VALUE/ 
+What/O/ papers/TABLE/ were/O/ published/TABLEREF/ during/O/ the/O/ conference/TABLE/ ACL/VALUE/ 2016/VALUE/ ?/O/ 
+how/O/ many/O/ papers/TABLE/ does/O/ Fahad/VALUE/ Pervaiz/VALUE/ have/O/ ?/O/ 
+What/O/ papers/TABLE/ has/O/ Li/VALUE/ Dong/VALUE/ written/TABLEREF/ in/COND/ 2016/VALUE/ 
+papers/TABLE/ by/O/ Mayank/VALUE/ Goel/VALUE/ 
+Latest/O/ paper/TABLE/ by/O/ Jeff/VALUE/ Dean/VALUE/ 
+How/O/ many/O/ papers/TABLE/ were/O/ published/TABLEREF/ on/COND/ Bacterial/VALUE/ Wilt/VALUE/ in/COND/ 2016/VALUE/ ?/O/ 
+datasets/TABLE/ for/O/ KNN/VALUE/ 
+who/O/ published/TABLEREF/ the/O/ most/O/ in/COND/ Semantic/VALUE/ Parsing/VALUE/ after/COND/ 2005/VALUE/ ?/O/ 
+papers/TABLE/ by/O/ Ashutosh/VALUE/ Saxena/VALUE/ 
+How/O/ many/O/ papers/TABLE/ has/O/ Jeffrey/VALUE/ Heer/VALUE/ ?/O/ 
+What/O/ conference/TABLE/ does/O/ Luke/VALUE/ Zettlemoyer/VALUE/ publish/TABLEREF/ the/O/ most/O/ in/O/ 
+how/O/ many/O/ papers/TABLE/ does/O/ Nicola/VALUE/ Dell/VALUE/ have/O/ at/O/ CHI/VALUE/ 
+How/O/ many/O/ papers/TABLE/ are/O/ about/O/ Deep/VALUE/ Learning/VALUE/ ?/O/ 
+What/O/ are/O/ the/O/ 5/O/ most/O/ recent/O/ papers/TABLE/ of/O/ Mirella/VALUE/ Lapata/VALUE/ ?/O/ 
+What/O/ conferences/TABLE/ did/O/ Noah/VALUE/ A./VALUE/ Smith/VALUE/ publish/TABLEREF/ in/O/ in/COND/ 2016/VALUE/ ?/O/ 
+papers/TABLE/ using/O/ Wordnet/VALUE/ and/O/ Dbpedia/VALUE/ 
+keyphrases/TABLE/ used/O/ by/O/ Dan/VALUE/ Klein/VALUE/ in/COND/ 2010/VALUE/ 
+who/O/ are/O/ all/O/ the/O/ co-authors/TABLE/ of/O/ Srinivasan/VALUE/ Iyer/VALUE/ ?/O/ 
+What/O/ are/O/ some/O/ papers/TABLE/ dealing/O/ with/O/ Semantic/VALUE/ data/TABLE/ in/COND/ YAGO/VALUE/ ?/O/ 
+What/O/ is/O/ the/O/ paper/TABLE/ of/O/ both/O/ Convolution/VALUE/ and/O/ Combinatoric/VALUE/ ?/O/ 
+who/O/ does/O/ Chasins/VALUE/ author/TABLE/ with/O/ ?/O/ 
+Since/COND/ 2004/VALUE/ who/O/ has/O/ published/TABLEREF/ works/O/ about/O/ Fibromyalgia/VALUE/ and/O/ Diet/VALUE/ ?/O/ 
+what/O/ year/ATTR/ had/O/ the/O/ most/O/ NIPS/VALUE/ papers/TABLE/ ?/O/ 
+ACL/VALUE/ papers/TABLE/ in/COND/ 2012/VALUE/ on/COND/ Parsing/VALUE/ 
+How/O/ many/O/ times/O/ was/O/ Alex/VALUE/ Snoeren/VALUE/ cited/TABLEREF/ ?/O/ 
+Where/O/ did/O/ Li/VALUE/ Dong/VALUE/ publish/TABLEREF/ in/COND/ 2016/VALUE/ ?/O/ 
+papers/TABLE/ written/TABLEREF/ by/O/ Oren/VALUE/ Etzioni/VALUE/ 
+what/O/ papers/TABLE/ do/O/ Parsing/VALUE/ papers/TABLE/ typically/O/ cite/TABLEREF/ ?/O/ 
+NELL/VALUE/ papers/TABLE/ 
+Who/O/ writes/TABLEREF/ a/O/ lot/O/ of/O/ papers/TABLE/ in/COND/ Machine/VALUE/ Learning/VALUE/ ?/O/ 
+What/O/ papers/TABLE/ were/O/ published/TABLEREF/ at/COND/ CVPR/VALUE/ 16/VALUE/ about/O/ Class/VALUE/ consistent/VALUE/ multi-modal/VALUE/ fusion/VALUE/ with/VALUE/ binary/VALUE/ features/VALUE/ applied/O/ to/O/ RGB-D/VALUE/ Object/VALUE/ Dataset/TABLE/ ?/O/ 
+papers/TABLE/ by/O/ Linda/VALUE/ Shapiro/VALUE/ in/COND/ 2016/VALUE/ 
+What/O/ papers/TABLE/ were/O/ written/TABLEREF/ on/COND/ Question/VALUE/ Answering/VALUE/ in/COND/ 2016/VALUE/ ?/O/ 
+what/O/ year/ATTR/ had/O/ the/O/ most/O/ number/O/ of/O/ NIPS/VALUE/ papers/TABLE/ ?/O/ 
+what/O/ keyphrases/TABLE/ get/O/ most/O/ citations/TABLE/ ?/O/ 
+Donald/VALUE/ Elmazi/VALUE/ citation/TABLE/ count/O/ 
+papers/TABLE/ about/O/ Crowdsourcing/VALUE/ in/COND/ ACL/VALUE/ 2015/VALUE/ 
+What/O/ papers/TABLE/ has/O/ written/TABLEREF/ by/O/ Dan/VALUE/ Suciu/VALUE/ ?/O/ 
+how/O/ is/O/ the/O/ most/O/ cited/TABLEREF/ author/TABLE/ in/COND/ ACL/VALUE/ ?/O/ 
+datasets/TABLE/ used/O/ by/O/ Textual/VALUE/ Entailment/VALUE/ papers/TABLE/ 
+Parsing/VALUE/ 2014/VALUE/ papers/TABLE/ 
+List/O/ of/O/ papers/TABLE/ by/O/ Samia/VALUE/ Razaq/VALUE/ 
+papers/TABLE/ by/O/ Luke/VALUE/ Zettlemoyer/VALUE/ 
+which/O/ ACL/VALUE/ 2014/VALUE/ papers/TABLE/ about/O/ Parsing/VALUE/ used/O/ Jeopardy!/VALUE/ Questions/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Jeffrey/VALUE/ Heer/VALUE/ have/O/ in/COND/ CHI/VALUE/ ?/O/ 
+papers/TABLE/ on/COND/ Semantic/VALUE/ Parsing/VALUE/ appeared/O/ at/O/ ACL/VALUE/ in/COND/ 2016/VALUE/ 
+Computer/VALUE/ Model/VALUE/ papers/TABLE/ 
+Semantic/VALUE/ Parsing/VALUE/ papers/TABLE/ by/O/ Li/VALUE/ Dong/VALUE/ 
+papers/TABLE/ related/O/ to/O/ Sensor/VALUE/ Fusion/VALUE/ 
+What/O/ authors/TABLE/ wrote/TABLEREF/ papers/TABLE/ about/O/ Semantic/VALUE/ Parsing/VALUE/ in/COND/ 2016/VALUE/ ?/O/ 
+what/O/ are/O/ some/O/ Syntactic/VALUE/ Parsing/VALUE/ papers/TABLE/ that/O/ Chris/VALUE/ Dyer/VALUE/ did/O/ not/O/ write/TABLEREF/ ?/O/ 
+Papers/TABLE/ from/O/ ACL/VALUE/ 2016/VALUE/ ?/O/ 
+Parsing/VALUE/ papers/TABLE/ using/O/ Jeopardy!/VALUE/ Questions/VALUE/ published/TABLEREF/ at/O/ ACL/VALUE/ 2014/VALUE/ 
+conferences/TABLE/ in/COND/ 2013/VALUE/ 
+Keyphrases/TABLE/ used/O/ by/O/ Jeffrey/VALUE/ Heer/VALUE/ 
+Does/O/ Brian/VALUE/ Curless/VALUE/ do/O/ Convolution/VALUE/ ?/O/ 
+earliest/O/ paper/TABLE/ written/TABLEREF/ by/O/ Srinivasan/VALUE/ Iyer/VALUE/ 
+How/O/ many/O/ papers/TABLE/ does/O/ Alvin/VALUE/ C/VALUE/ Haver/VALUE/ have/O/ in/COND/ Iv/VALUE/ Infusion/VALUE/ area/TABLE/ ?/O/ 
+What/O/ is/O/ Magda/VALUE/ Balazinska/TABLE/ s/O/ latest/O/ paper/TABLE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ related/O/ to/O/ Deep/VALUE/ Learning/VALUE/ cited/TABLEREF/ the/O/ dataset/TABLE/ ImageNet/VALUE/ ?/O/ 
+How/O/ many/O/ papers/TABLE/ does/O/ James/VALUE/ Fogarty/VALUE/ have/O/ in/COND/ UIST/VALUE/ ?/O/ 
+Papers/TABLE/ from/O/ Aida/VALUE/ Kasumovic/VALUE/ in/COND/ 2015/VALUE/ 
+Papers/TABLE/ about/O/ Image/VALUE/ Annotation/VALUE/ in/COND/ CHI/VALUE/ 
+authors/TABLE/ in/COND/ Multiuser/VALUE/ Receiver/VALUE/ for/O/ Decision/VALUE/ Feedback/VALUE/ 
+conferences/TABLE/ that/O/ mention/TABLEREF/ ImageNet/VALUE/ 
+papers/TABLE/ by/O/ Torlak/VALUE/ 
+recent/O/ papers/TABLE/ written/TABLEREF/ by/O/ Sanjeev/VALUE/ Arora/VALUE/ 
+Semantic/VALUE/ Parsing/VALUE/ papers/TABLE/ later/COND/ than/O/ 2010/VALUE/ 
+ACL/VALUE/ papers/TABLE/ in/COND/ 2016/VALUE/ with/O/ Neural/VALUE/ Attention/VALUE/ in/O/ the/O/ title/ATTR/ 
+Who/O/ cites/TABLEREF/ Daniel/VALUE/ A/VALUE/ Reed/VALUE/ most/O/ ?/O/ 
+papers/TABLE/ with/O/ more/COND/ than/O/ 5/O/ citations/TABLE/ 
+How/O/ many/O/ papers/TABLE/ has/O/ Omer/VALUE/ Lev/VALUE/ written/TABLEREF/ ?/O/ 
+In/O/ what/O/ year/ATTR/ did/O/ Luke/VALUE/ Zettlemoyer/VALUE/ publish/TABLEREF/ the/O/ most/O/ papers/TABLE/ 
+Which/O/ is/O/ the/O/ earliest/O/ paper/TABLE/ by/O/ Aravind/VALUE/ Rajeswaran/VALUE/ ?/O/ 
+what/O/ keywords/TABLE/ are/O/ used/O/ by/O/ Shwetak/VALUE/ Patel/VALUE/ 
+how/O/ many/O/ papers/TABLE/ has/O/ Jeff/VALUE/ Dean/VALUE/ published/TABLEREF/ ?/O/ 
+Who/O/ cites/TABLEREF/ Luke/VALUE/ Zettlemoyer/VALUE/ the/O/ most/O/ 
+papers/TABLE/ from/COND/ 2014/VALUE/ 
+keyphrases/TABLE/ used/O/ by/O/ Magda/VALUE/ Balazinska/VALUE/ 
+Papers/TABLE/ on/COND/ ImageNet/VALUE/ 
+What/O/ papers/TABLE/ has/O/ Ed/VALUE/ Desmond/VALUE/ written/TABLEREF/ on/COND/ Semantic/VALUE/ Parsing/VALUE/ ?/O/ 
+What/O/ is/O/ Ang/VALUE/ Li/VALUE/ s/O/ latest/O/ paper/TABLE/ ?/O/ 
+Papers/TABLE/ about/O/ Semantic/VALUE/ Parsing/VALUE/ 
+How/O/ many/O/ papers/TABLE/ has/O/ David/VALUE/ Blei/VALUE/ published/TABLEREF/ in/COND/ NIPS/VALUE/ ?/O/ 
+what/O/ datasets/TABLE/ are/O/ used/O/ in/O/ papers/TABLE/ by/O/ Oren/VALUE/ Etzioni/VALUE/ 
+what/O/ paper/TABLE/ has/O/ Hans/VALUE/ Kerp/VALUE/ published/TABLEREF/ in/COND/ Nature/VALUE/ journal/TABLE/ ?/O/ 
+papers/TABLE/ on/COND/ Semantic/VALUE/ Parsing/VALUE/ 
+who/O/ has/O/ written/TABLEREF/ the/O/ most/O/ papers/TABLE/ on/COND/ Semantic/VALUE/ Parsing/VALUE/ since/COND/ 2005/VALUE/ ?/O/ 
+What/O/ papers/TABLE/ has/O/ Mirella/VALUE/ Lapata/VALUE/ written/TABLEREF/ ?/O/ 
+how/O/ many/O/ papers/TABLE/ did/O/ Nicola/VALUE/ Dell/VALUE/ and/O/ Brian/VALUE/ DeRenzi/VALUE/ write/TABLEREF/ together/O/ 
+what/O/ datasets/TABLE/ did/O/ Oren/VALUE/ Etzioni/VALUE/ use/O/ ?/O/ 
+has/O/ Ras/VALUE/ Bodik/VALUE/ or/O/ Sumit/VALUE/ Gulwani/VALUE/ published/TABLEREF/ more/O/ papers/TABLE/ ?/O/ 
+Decision/VALUE/ Feedback/VALUE/ papers/TABLE/ using/O/ Multiuser/VALUE/ Receiver/VALUE/ 
+Semantic/VALUE/ Parsing/VALUE/ 2016/VALUE/ papers/TABLE/ 
+who/O/ else/O/ was/O/ on/COND/ the/O/ paper/TABLE/ with/O/ Ameet/VALUE/ Soni/VALUE/ and/O/ Ras/VALUE/ Bodik/VALUE/ ?/O/ 
+keyphrases/TABLE/ used/O/ by/O/ Mirella/VALUE/ Lapata/VALUE/ 
+how/O/ many/O/ papers/TABLE/ by/O/ Michael/VALUE/ I./VALUE/ Jordan/VALUE/ are/O/ cited/TABLEREF/ by/O/ Dan/VALUE/ Klein/VALUE/ 
+papers/TABLE/ by/O/ Richard/VALUE/ Ladner/VALUE/ and/O/ Linda/VALUE/ Shapiro/VALUE/ 
+Ali/VALUE/ Farhadi/VALUE/ s/O/ papers/TABLE/ in/COND/ 2015/VALUE/ 
+When/O/ was/O/ Boyd/VALUE/ Raccoon/VALUE/ published/TABLEREF/ ?/O/ 
+What/O/ did/O/ Luke/VALUE/ S/VALUE/ Zettlemoyer/VALUE/ published/TABLEREF/ in/COND/ 2009/VALUE/ ?/O/ 

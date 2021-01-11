@@ -1,0 +1,44 @@
+find the number of restaurant rated more than 3.5
+
+Find all bars in Dallas
+
+what is the average rating given in Michelle reviews
+
+How many users have reviewed Irish Pub in Dallas ?
+
+Find all Mexican restaurant in Dallas with a rating above 3.5
+
+How many Egyptian restaurant are there in Edinburgh ?
+
+How many pet groomers exist in Edinburgh
+
+Find all users who have written tips for Barrio Cafe in 2015
+
+Return me the number of tips that are written by Michelle .
+
+What are all the gyms in Los Angeles ?
+
+Find all bars in Los Angeles with at least 30 reviews
+
+Find all restaurant with valet service in Dallas Texas
+
+How many reviews has Michelle written in March 2014 ?
+
+Find the cities of businesses rated below 1.5
+
+How many restaurant are there in the Hazelwood district of Dallas ?
+
+List all the reviews by Michelle for Italian restaurant
+
+find the total checkins in Italian delis in each state on Sunday
+
+How many neighbourhoods have a business with rating 5 in Madison ?
+
+Find all tips for Cafe Zinho in Texas .
+
+List all tips for Cafe Zinho in Pennsylvania in 2010 .
+
+How many reviews has Adrienne written ?
+
+How many dentists in Los Angeles have a rating above 4 ?
+

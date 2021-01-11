@@ -1,0 +1,124 @@
+Display/VB/ the/DT/ first/ATTR/ name/ATTR/ and/CC/ department/ATTR/ name/ATTR/ for/IN/ each/DT/ employee/TABLE/ 
+What/WP/ are/VBP/ the/DT/ first/ATTR/ name/ATTR/ and/CC/ department/ATTR/ name/ATTR/ of/IN/ all/DT/ employees/TABLE/ 
+List/VB/ the/DT/ full/JJ/ name/ATTR/ first/ATTR/ and/CC/ last/ATTR/ name/ATTR/ and/CC/ salary/ATTR/ for/IN/ those/DT/ employees/TABLE/ who/WP/ earn/VBP/ below/COND/ 6000/VALUE/ 
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/ATTR/ and/CC/ salaries/ATTR/ for/IN/ any/DT/ employees/TABLE/ earning/VBG/ less/COND/ than/IN/ 6000/VALUE/
+Display/VB/ the/DT/ first/ATTR/ name/ATTR/ and/CC/ department/ATTR/ number/ATTR/ for/IN/ all/DT/ employees/TABLE/ whose/WP$/ last/ATTR/ name/ATTR/ is/COND/ McEwen/VALUE/
+What/WP/ are/VBP/ the/DT/ first/ATTR/ names/ATTR/ and/CC/ department/ATTR/ numbers/ATTR/ for/IN/ employees/TABLE/ with/COND/ last/ATTR/ name/ATTR/ McEwen/VALUE/ 
+Return/NN/ all/PDT/ the/DT/ information/NN/ for/IN/ all/DT/ employees/TABLE/ without/COND/ any/DT/ department/ATTR/ number/ATTR/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ employees/TABLE/ without/IN/ a/DT/ department/ATTR/ number/ATTR/
+Display/VB/ all/PDT/ the/DT/ information/NN/ about/IN/ the/DT/ department/TABLE/ Marketing/VALUE/
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ about/COND/ the/DT/ Marketing/VALUE/ department/TABLE/
+when/WRB/ is/VBZ/ the/DT/ hire/ATTR/ date/ATTR/ for/IN/ those/DT/ employees/TABLE/ whose/WP$/ first/ATTR/ name/ATTR/ does/VBZ/ not/COND/ containing/COND/ the/DT/ letter/NN/ M/VALUE/
+On/IN/ what/WDT/ dates/ATTR/ were/VBD/ employees/TABLE/ without/COND/ the/DT/ letter/NN/ M/VALUE/ in/COND/ their/PRP$/ first/ATTR/ names/ATTR/ hired/ATTR/
+display/VB/ the/DT/ full/JJ/ name/ATTR/ first/ATTR/ and/CC/ last/ATTR/ hire/ATTR/ date/ATTR/ salary/ATTR/ and/CC/ department/ATTR/ number/ATTR/ for/IN/ those/DT/ employees/TABLE/ whose/WP$/ first/ATTR/ name/ATTR/ does/VBZ/ not/COND/ containing/COND/ the/DT/ letter/NN/ M/VALUE/
+What/WP/ are/VBP/ the/DT/ full/JJ/ name/ATTR/ hire/ATTR/ date/ATTR/ salary/ATTR/ and/CC/ department/ATTR/ id/ATTR/ for/IN/ employees/TABLE/ without/COND/ the/DT/ letter/NN/ M/VALUE/ in/COND/ their/PRP$/ first/ATTR/ name/ATTR/
+display/VB/ the/DT/ full/JJ/ name/ATTR/ first/ATTR/ and/CC/ last/ATTR/ hire/ATTR/ date/ATTR/ salary/ATTR/ and/CC/ department/ATTR/ number/ATTR/ for/IN/ those/DT/ employees/TABLE/ whose/WP$/ first/ATTR/ name/ATTR/ does/VBZ/ not/COND/ containing/COND/ the/DT/ letter/NN/ M/VALUE/ and/CC/ make/VB/ the/DT/ result/NN/ set/VBN/ in/IN/ ascending/COND/ order/NN/ by/IN/ department/ATTR/ number/ATTR/
+What/WP/ are/VBP/ the/DT/ full/JJ/ name/ATTR/ hire/ATTR/ date/ATTR/ salary/ATTR/ and/CC/ department/ATTR/ id/ATTR/ for/IN/ employees/TABLE/ without/COND/ the/DT/ letter/NN/ M/VALUE/ in/COND/ their/PRP$/ first/ATTR/ name/ATTR/ ordered/VBN/ by/IN/ ascending/COND/ department/ATTR/ id/ATTR/
+what/WP/ is/VBZ/ the/DT/ phone/ATTR/ number/ATTR/ of/IN/ employees/TABLE/ whose/WP$/ salary/ATTR/ is/VBZ/ in/IN/ the/DT/ range/COND/ of/IN/ 8000/VALUE/ and/CC/ 12000/VALUE/
+Return/NN/ the/DT/ phone/ATTR/ numbers/ATTR/ of/IN/ employees/TABLE/ with/IN/ salaries/ATTR/ between/COND/ 8000/VALUE/ and/CC/ 12000/VALUE/
+display/VB/ all/PDT/ the/DT/ information/NN/ of/IN/ employees/TABLE/ whose/WP$/ salary/ATTR/ is/VBZ/ in/IN/ the/DT/ range/COND/ of/IN/ 8000/VALUE/ and/CC/ 12000/VALUE/ and/CC/ commission/ATTR/ is/COND/ not/COND/ null/VALUE/ or/CC/ department/ATTR/ number/ATTR/ does/VBZ/ not/COND/ equal/COND/ to/TO/ 40/VALUE/
+Return/NN/ all/DT/ information/NN/ about/IN/ employees/TABLE/ with/IN/ salaries/ATTR/ between/COND/ 8000/VALUE/ and/CC/ 12000/VALUE/ for/IN/ which/WDT/ commission/ATTR/ is/COND/ not/COND/ null/VALUE/ or/CC/ where/WRB/ their/PRP$/ department/ATTR/ id/ATTR/ is/COND/ not/COND/ 40/VALUE/
+What/WP/ are/VBP/ the/DT/ full/JJ/ name/ATTR/ first/ATTR/ and/CC/ last/ATTR/ name/ATTR/ and/CC/ salary/ATTR/ for/IN/ all/DT/ employees/TABLE/ who/WP/ does/VBZ/ not/COND/ have/COND/ any/DT/ value/NN/ for/IN/ commission/ATTR/
+Return/NN/ the/DT/ full/JJ/ names/ATTR/ and/CC/ salaries/ATTR/ of/IN/ employees/TABLE/ with/COND/ null/VALUE/ commissions/ATTR/
+Display/VB/ the/DT/ first/ATTR/ and/CC/ last/ATTR/ name/ATTR/ and/CC/ salary/ATTR/ for/IN/ those/DT/ employees/TABLE/ whose/WP$/ first/ATTR/ name/ATTR/ is/VBZ/ ending/COND/ with/COND/ the/DT/ letter/NN/ m/VALUE/
+Return/NN/ the/DT/ full/JJ/ names/ATTR/ and/CC/ salaries/ATTR/ for/IN/ employees/TABLE/ with/IN/ first/ATTR/ names/ATTR/ that/WDT/ end/COND/ with/COND/ the/DT/ letter/NN/ m/VALUE/
+Find/VB/ job/ATTR/ id/ATTR/ and/CC/ date/ATTR/ of/IN/ hire/ATTR/ for/IN/ those/DT/ employees/TABLE/ who/WP/ was/VBD/ hired/ATTRREF/ between/COND/ November/VALUE/ 5th/VALUE/ 2007/VALUE/ and/CC/ July/VALUE/ 5th/VALUE/ 2009/VALUE/
+What/WP/ are/VBP/ the/DT/ job/ATTR/ ids/ATTR/ and/CC/ dates/ATTR/ of/IN/ hire/ATTR/ for/IN/ employees/TABLE/ hired/ATTRREF/ after/COND/ November/VALUE/ 5th/VALUE/ 2007/VALUE/ and/CC/ before/COND/ July/VALUE/ 5th/VALUE/ 2009/VALUE/ 
+What/WP/ are/VBP/ the/DT/ first/ATTR/ and/CC/ last/ATTR/ name/ATTR/ for/IN/ those/DT/ employees/TABLE/ who/WP/ works/VBZ/ either/CC/ in/COND/ department/ATTR/ 70/VALUE/ or/CC/ 90/VALUE/
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/ATTR/ of/IN/ employees/TABLE/ who/WP/ with/IN/ in/COND/ department/ATTR/ 70/VALUE/ or/CC/ 90/VALUE/
+Find/VB/ the/DT/ salary/ATTR/ and/CC/ manager/ATTR/ number/ATTR/ for/IN/ those/DT/ employees/TABLE/ who/WP/ is/VBZ/ working/VBG/ under/COND/ a/DT/ manager/ATTR/
+What/WP/ are/VBP/ the/DT/ salaries/ATTR/ and/CC/ manager/ATTR/ ids/ATTR/ for/IN/ employees/table/ who/WP/ have/COND/ managers/ATTR/
+display/VB/ all/PDT/ the/DT/ details/NNS/ from/IN/ Employees/TABLE/ table/NN/ for/IN/ those/DT/ employees/table/ who/WP/ was/VBD/ hired/ATTRREF/ before/COND/ 2002-06-21/VALUE/
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ about/IN/ employees/table/ hired/ATTRREF/ before/COND/ June/VALUE/ 21/VALUE/ 2002/VALUE/
+display/VB/ all/PDT/ the/DT/ information/NN/ for/IN/ all/DT/ employees/TABLE/ who/WP/ have/VBP/ the/DT/ letters/NNS/ D/VALUE/ or/CC/ S/VALUE/ in/COND/ their/PRP$/ first/ATTR/ name/ATTR/ and/CC/ also/RB/ arrange/VBP/ the/DT/ result/NN/ in/IN/ descending/COND/ order/NN/ by/IN/ salary/ATTR/
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ about/IN/ employees/TABLE/ with/IN/ D/VALUE/ or/CC/ S/VALUE/ in/COND/ their/PRP$/ first/ATTR/ name/ATTR/ ordered/VBN/ by/IN/ salary/ATTR/ descending/COND/
+display/VB/ those/DT/ employees/TABLE/ who/WP/ joined/ATTRREF/ after/COND/ 7th/VALUE/ September/VALUE/ 1987/VALUE/
+Which/WDT/ employees/TABLE/ were/VBD/ hired/ATTRREF/ after/COND/ September/VALUE/ 7th/VALUE/ 1987/VALUE/
+display/VB/ the/DT/ job/ATTR/ title/ATTR/ of/IN/ jobs/TABLE/ which/WDT/ minimum/ATTR/ salary/ATTR/ is/VBZ/ greater/COND/ than/IN/ 9000/VALUE/
+Which/WDT/ job/ATTR/ titles/ATTR/ correspond/VBP/ to/TO/ jobs/TABLE/ with/IN/ salaries/ATTR/ over/COND/ 9000/VALUE/
+display/NN/ job/ATTR/ Title/ATTR/ the/DT/ difference/COND/ between/IN/ minimum/ATTR/ and/CC/ maximum/ATTR/ salaries/ATTR/ for/IN/ those/DT/ jobs/TABLE/ which/WDT/ max/ATTR/ salary/ATTR/ within/IN/ the/DT/ range/COND/ 12000/VALUE/ to/TO/ 18000/VALUE/
+What/WP/ are/VBP/ the/DT/ job/ATTR/ titles/ATTR/ and/CC/ range/NN/ of/IN/ salaries/ATTR/ for/IN/ jobs/TABLE/ with/IN/ maximum/ATTR/ salary/ATTR/ between/COND/ 12000/VALUE/ and/CC/ 18000/VALUE/
+display/VB/ the/DT/ emails/ATTR/ of/IN/ the/DT/ employees/TABLE/ who/WP/ have/COND/ no/COND/ commission/ATTR/ percentage/ATTR/ and/CC/ salary/ATTR/ within/IN/ the/DT/ range/COND/ 7000/VALUE/ to/TO/ 12000/VALUE/ and/CC/ works/VBZ/ in/COND/ that/DT/ department/ATTR/ which/WDT/ number/ATTR/ is/VBZ/ 50/VALUE/
+What/WP/ are/VBP/ the/DT/ emails/ATTR/ of/IN/ employees/TABLE/ with/COND/ null/VALUE/ commission/ATTR/ salary/ATTR/ between/COND/ 7000/VALUE/ and/CC/ 12000/VALUE/ and/CC/ who/WP/ work/VBP/ in/COND/ department/ATTR/ 50/VALUE/
+display/VB/ the/DT/ employee/ATTR/ ID/ATTR/ for/IN/ each/DT/ employee/table/ and/CC/ the/DT/ date/ATTR/ on/IN/ which/WDT/ he/PRP/ ended/ATTRREF/ his/PRP$/ previous/JJ/ job/TABLE/
+What/WP/ are/VBP/ the/DT/ employee/ATTR/ ids/ATTR/ for/IN/ each/DT/ employee/TABLE/ and/CC/ final/ATTR/ dates/ATTR/ of/IN/ employment/TABLEREF/ at/IN/ their/PRP$/ last/JJ/ job/TABLE/
+display/VB/ those/DT/ departments/ATTR/ where/WRB/ more/COND/ than/IN/ ten/CD/ employees/TABLE/ work/NN/ who/WP/ got/COND/ a/DT/ commission/ATTR/ percentage/ATTR/
+What/WP/ are/VBP/ the/DT/ department/ATTR/ ids/ATTR/ for/IN/ which/WDT/ more/COND/ than/IN/ 10/CD/ employees/TABLE/ had/COND/ a/DT/ commission/ATTR/
+Find/VB/ the/DT/ ids/ATTR/ of/IN/ the/DT/ departments/ATTR/ where/WRB/ any/DT/ manager/ATTR/ is/VBZ/ managing/VBG/ 4/CD/ or/CC/ more/COND/ employees/TABLE/
+What/WP/ are/VBP/ department/ATTR/ ids/ATTR/ for/IN/ departments/TABLE/ with/IN/ managers/ATTR/ managing/VBG/ more/COND/ than/IN/ 3/CD/ employees/TABLE/
+display/VB/ the/DT/ average/JJ/ salary/ATTR/ of/IN/ employees/TABLE/ for/IN/ each/DT/ department/ATTR/ who/WP/ gets/COND/ a/DT/ commission/ATTR/ percentage/ATTR/
+What/WP/ is/VBZ/ the/DT/ average/JJ/ salary/ATTR/ of/IN/ employees/TABLE/ who/WP/ have/VBP/ a/DT/ commission/ATTR/ percentage/ATTR/ that/WDT/ is/COND/ not/COND/ null/VALUE/
+display/VB/ the/DT/ country/ATTR/ ID/ATTR/ and/CC/ number/NN/ of/IN/ cities/NNS/ for/IN/ each/DT/ country/ATTR/
+Give/VB/ the/DT/ country/ATTR/ id/ATTR/ and/CC/ corresponding/JJ/ count/NN/ of/IN/ cities/NNS/ in/IN/ each/DT/ country/ATTR/
+display/NN/ job/ATTR/ ID/ATTR/ for/IN/ those/DT/ jobs/TABLE/ that/WDT/ were/VBD/ done/TABLEREF/ by/IN/ two/CD/ or/CC/ more/COND/ for/IN/ more/COND/ than/IN/ 300/CD/ days/NN/
+What/WP/ are/VBP/ the/DT/ job/ATTR/ ids/ATTR/ for/IN/ jobs/TABLE/ done/TABLEREF/ more/COND/ than/IN/ once/RB/ for/IN/ a/DT/ period/NN/ of/IN/ more/COND/ than/IN/ 300/CD/ days/NN/
+display/VB/ the/DT/ ID/ATTR/ for/IN/ those/DT/ employees/ATTR/ who/WP/ did/TABLEREF/ two/CD/ or/CC/ more/COND/ jobs/TABLE/ in/IN/ the/DT/ past/TABLEREF/
+What/WP/ are/VBP/ the/DT/ employee/ATTR/ ids/ATTR/ for/IN/ employees/TABLE/ who/WP/ have/VBP/ held/TABLEREF/ two/CD/ or/CC/ more/COND/ jobs/TABLE/
+Find/VB/ employee/ATTR/ with/IN/ ID/ATTR/ and/CC/ name/ATTR/ of/IN/ the/DT/ country/ATTR/ presently/RB/ where/WRB/ (s)he/NN/ is/VBZ/ working/NN/
+What/WP/ are/VBP/ all/PDT/ the/DT/ employee/ATTR/ ids/ATTR/ and/CC/ the/DT/ names/ATTR/ of/IN/ the/DT/ countries/ATTR/ in/IN/ which/WDT/ they/PRP/ work/VBP/
+display/VB/ the/DT/ department/ATTR/ name/ATTR/ and/CC/ number/NN/ of/IN/ employees/TABLE/ in/IN/ each/DT/ of/IN/ the/DT/ department/ATTR/
+Give/VB/ the/DT/ name/ATTR/ of/IN/ each/DT/ department/ATTR/ and/CC/ the/DT/ number/NN/ of/IN/ employees/TABLE/ in/IN/ each/NN/
+Can/MD/ you/PRP/ return/VB/ all/DT/ detailed/JJ/ info/NN/ of/IN/ jobs/TABLE/ which/WDT/ was/VBD/ done/TABLEREF/ by/IN/ any/DT/ of/IN/ the/DT/ employees/TABLE/ who/WP/ is/VBZ/ presently/RB/ earning/VBG/ a/DT/ salary/ATTR/ on/COND/ and/CC/ above/COND/ 12000/VALUE/
+What/WP/ is/VBZ/ all/PDT/ the/DT/ job/TABLE/ history/TABLE/ info/NN/ done/VBN/ by/IN/ employees/TABLE/ earning/VBG/ a/DT/ salary/ATTR/ greater/COND/ than/IN/ or/CC/ equal/COND/ to/TO/ 12000/VALUE/
+display/NN/ job/ATTR/ title/ATTR/ and/CC/ average/JJ/ salary/ATTR/ of/IN/ employees/TABLE/
+What/WP/ is/VBZ/ the/DT/ average/JJ/ salary/ATTR/ for/IN/ each/DT/ job/ATTR/ title/ATTR/
+What/WP/ is/VBZ/ the/DT/ full/JJ/ name/ATTR/ /CD/ first/ATTR/ name/ATTR/ and/CC/ last/ATTR/ name/ATTR/ /NN/ for/IN/ those/DT/ employees/TABLE/ who/WP/ gets/VBZ/ more/COND/ salary/ATTR/ than/IN/ the/DT/ employee/ATTR/ whose/WP$/ id/ATTR/ is/COND/ 163/VALUE/
+Provide/VB/ the/DT/ full/JJ/ names/ATTR/ of/IN/ employees/TABLE/ earning/ATTRREF/ more/COND/ than/IN/ the/DT/ employee/ATTR/ with/COND/ id/ATTR/ 163/VALUE/
+return/VB/ the/DT/ smallest/JJS/ salary/ATTR/ for/IN/ every/DT/ departments/ATTR/
+What/WP/ is/VBZ/ the/DT/ minimum/JJ/ salary/ATTR/ in/IN/ each/DT/ department/ATTR/
+Find/VB/ the/DT/ first/ATTR/ name/ATTR/ and/CC/ last/ATTR/ name/ATTR/ and/CC/ department/ATTR/ id/ATTR/ for/IN/ those/DT/ employees/TABLE/ who/WP/ earn/VBP/ such/JJ/ amount/NN/ of/IN/ salary/ATTR/ which/WDT/ is/COND/ the/DT/ smallest/COND/ salary/ATTR/ of/IN/ any/DT/ of/IN/ the/DT/ departments/ATTR/
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/ATTR/ and/CC/ department/ATTR/ ids/ATTR/ for/IN/ the/DT/ lowest/COND/ paid/ATTRREF/ employees/TABLE/ across/IN/ all/DT/ departments/ATTR/
+Find/VB/ the/DT/ employee/ATTR/ id/ATTR/ for/IN/ all/DT/ employees/TABLE/ who/WP/ earn/VBP/ more/COND/ than/IN/ the/DT/ average/JJ/ salary/ATTR/
+What/WP/ are/VBP/ the/DT/ employee/ATTR/ ids/ATTR/ for/IN/ employees/TABLE/ who/WP/ make/ATTRREF/ more/COND/ than/IN/ the/DT/ average/NN/
+display/VB/ the/DT/ employee/ATTR/ id/ATTR/ and/CC/ salary/ATTR/ of/IN/ all/DT/ employees/TABLE/ who/WP/ report/ATTRREF/ to/TO/ Payam/VALUE/ first/ATTR/ name/ATTR/
+What/WP/ are/VBP/ the/DT/ employee/ATTR/ ids/ATTR/ of/IN/ employees/TABLE/ who/WP/ report/ATTRREF/ to/TO/ Payam/VALUE/ and/CC/ what/WP/ are/VBP/ their/PRP$/ salaries/ATTR/
+find/VB/ the/DT/ name/ATTR/ of/IN/ all/DT/ departments/ATTR/ that/WDT/ do/VBP/ actually/RB/ have/VB/ one/CD/ or/CC/ more/COND/ employees/TABLE/ assigned/VBN/ to/TO/ them/VB/
+What/WP/ are/VBP/ the/DT/ names/ATTR/ of/IN/ departments/ATTR/ that/WDT/ have/VBP/ at/COND/ least/COND/ one/CD/ employee/TABLE/
+get/VB/ the/DT/ details/NNS/ of/IN/ employees/TABLE/ who/WP/ manage/ATTRREF/ a/DT/ department/TABLE/
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ regarding/VBG/ employees/TABLE/ who/WP/ are/VBP/ managers/ATTR/
+display/VB/ all/PDT/ the/DT/ information/NN/ about/IN/ the/DT/ department/TABLE/ Marketing/VALUE/
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ about/IN/ the/DT/ Marketing/VALUE/ department/TABLE/
+display/VB/ the/DT/ ID/ATTR/ for/IN/ those/DT/ employees/ATTR/ who/WP/ did/TABLEREF/ two/CD/ or/CC/ more/COND/ jobs/TABLE/ in/IN/ the/DT/ past/TABLEREF/
+What/WP/ are/VBP/ the/DT/ employee/ATTR/ ids/ATTR/ for/IN/ those/DT/ who/WP/ had/TABLEREF/ two/CD/ or/CC/ more/COND/ jobs/TABLE/
+What/WP/ are/VBP/ the/DT/ unique/JJ/ ids/ATTR/ of/IN/ those/DT/ departments/ATTR/ where/WRB/ any/DT/ manager/ATTR/ is/VBZ/ managing/VBG/ 4/CD/ or/CC/ more/COND/ employees/TABLE/
+Give/VB/ the/DT/ distinct/JJ/ department/ATTR/ ids/ATTR/ of/IN/ departments/TABLE/ in/IN/ which/WDT/ a/DT/ manager/ATTR/ is/VBZ/ in/IN/ charge/NN/ of/IN/ 4/CD/ or/CC/ more/COND/ employees/TABLE/
+Find/VB/ the/DT/ job/ATTR/ ID/ATTR/ for/IN/ those/DT/ jobs/TABLE/ which/WDT/ average/JJ/ salary/ATTR/ is/VBZ/ above/COND/ 8000/VALUE/
+What/WP/ are/VBP/ the/DT/ job/ATTR/ ids/ATTR/ corresponding/VBG/ to/TO/ jobs/TABLE/ with/IN/ average/JJ/ salary/ATTR/ above/COND/ 8000/VALUE/
+display/VB/ the/DT/ employee/ATTR/ ID/ATTR/ and/CC/ job/ATTR/ name/ATTR/ for/IN/ all/PDT/ those/DT/ jobs/TABLE/ in/IN/ department/ATTR/ 80/VALUE/
+what/WP/ are/VBP/ the/DT/ employee/ATTR/ ids/ATTR/ and/CC/ job/ATTR/ titles/ATTR/ for/IN/ employees/TABLE/ in/IN/ department/ATTR/ 80/VALUE/
+What/WP/ is/VBZ/ the/DT/ first/ATTR/ name/ATTR/ and/CC/ job/ATTR/ id/ATTR/ for/IN/ all/DT/ employees/TABLE/ in/COND/ the/DT/ Finance/VALUE/ department/ATTR/
+Give/VB/ the/DT/ first/ATTR/ name/ATTR/ and/CC/ job/ATTR/ id/ATTR/ for/IN/ all/DT/ employees/TABLE/ in/COND/ the/DT/ Finance/VALUE/ department/ATTR/
+display/VB/ all/PDT/ the/DT/ information/NN/ of/IN/ the/DT/ employees/TABLE/ whose/WP$/ salary/ATTR/ is/IN/ within/COND/ the/DT/ range/COND/ of/IN/ smallest/COND/ salary/ATTR/ and/CC/ 2500/VALUE/
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ regarding/VBG/ employees/TABLE/ with/IN/ salaries/ATTR/ above/COND/ the/DT/ minimum/COND/ and/CC/ under/COND/ 2500/VALUE/
+Find/VB/ the/DT/ ids/ATTR/ of/IN/ the/DT/ employees/ATTR/ who/WP/ does/VBZ/ not/RB/ work/VB/ in/IN/ those/DT/ departments/ATTR/ where/WRB/ some/DT/ employees/TABLE/ works/NNS/ whose/WP$/ manager/ATTR/ id/ATTR/ within/COND/ the/DT/ range/COND/ 100/VALUE/ and/CC/ 200/VALUE/
+What/WP/ are/VBP/ the/DT/ ids/ATTR/ for/IN/ employees/ATTR/ who/WP/ do/VBP/ not/RB/ work/VB/ in/IN/ departments/ATTR/ with/IN/ managers/ATTR/ that/WDT/ have/VBP/ ids/ATTR/ between/COND/ 100/VALUE/ and/CC/ 200/VALUE/
+display/VB/ the/DT/ employee/TABLE/ name/ATTR/ /CD/ first/ATTR/ name/ATTR/ and/CC/ last/ATTR/ name/ATTR/ /NN/ and/CC/ hire/ATTR/ date/ATTR/ for/IN/ all/DT/ employees/TABLE/ in/IN/ the/DT/ same/JJ/ department/ATTR/ as/COND/ Clara/VALUE/
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/ATTR/ and/CC/ hire/ATTR/ dates/ATTR/ for/IN/ employees/TABLE/ in/IN/ the/DT/ same/JJ/ department/ATTR/ as/IN/ someone/NN/ with/COND/ the/DT/ first/ATTR/ name/ATTR/ Clara/VALUE/
+display/VB/ the/DT/ employee/TABLE/ name/ATTR/ /CD/ first/ATTR/ name/ATTR/ and/CC/ last/ATTR/ name/ATTR/ /NN/ and/CC/ hire/ATTR/ date/ATTR/ for/IN/ all/DT/ employees/TABLE/ in/IN/ the/DT/ same/JJ/ department/ATTR/ as/COND/ Clara/VALUE/ excluding/COND/ Clara/VALUE/
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/ATTR/ and/CC/ hire/ATTR/ dates/ATTR/ for/IN/ employees/TABLE/ in/IN/ the/DT/ same/JJ/ department/ATTR/ as/IN/ someone/NN/ with/COND/ the/DT/ first/ATTR/ name/ATTR/ Clara/VALUE/ not/COND/ including/COND/ Clara/VALUE/
+display/VB/ the/DT/ employee/ATTR/ number/ATTR/ and/CC/ name/ATTR/ first/ATTR/ name/ATTR/ and/CC/ last/ATTR/ name/ATTR/ /NN/ for/IN/ all/DT/ employees/TABLE/ who/WP/ work/VBP/ in/IN/ a/DT/ department/ATTR/ with/IN/ any/DT/ employee/TABLE/ whose/WP$/ name/ATTR/ contains/COND/ a/DT/ T/VALUE/
+What/WP/ are/VBP/ the/DT/ ids/ATTR/ and/CC/ full/JJ/ names/ATTR/ for/IN/ employees/ATTR/ who/WP/ work/VBP/ in/IN/ a/DT/ department/ATTR/ that/WDT/ has/VBZ/ someone/NN/ with/IN/ a/DT/ first/ATTR/ name/ATTR/ that/WDT/ contains/COND/ the/DT/ letter/NN/ T/VALUE/
+display/VB/ the/DT/ employee/ATTR/ number/ATTR/ name/ATTR/ first/ATTR/ name/ATTR/ and/CC/ last/ATTR/ name/ATTR/ /NN/ and/CC/ salary/ATTR/ for/IN/ all/DT/ employees/TABLE/ who/WP/ earn/VBP/ more/COND/ than/IN/ the/DT/ average/JJ/ salary/ATTR/ and/CC/ who/WP/ work/VBP/ in/COND/ a/DT/ department/ATTR/ with/IN/ any/DT/ employee/TABLE/ with/IN/ a/DT/ J/VALUE/ in/COND/ their/PRP$/ first/ATTR/ name/ATTR/
+What/WP/ are/VBP/ the/DT/ ids/ATTR/ full/JJ/ names/ATTR/ and/CC/ salaries/ATTR/ for/IN/ employees/TABLE/ making/VBG/ more/COND/ than/IN/ average/JJ/ and/CC/ who/WP/ work/VBP/ in/COND/ a/DT/ department/ATTR/ with/IN/ employees/TABLE/ who/WP/ have/VBP/ the/DT/ letter/NN/ J/VALUE/ in/COND/ their/PRP$/ first/ATTR/ name/ATTR/
+display/VB/ the/DT/ employee/ATTR/ number/ATTR/ and/CC/ job/ATTR/ id/ATTR/ for/IN/ all/DT/ employees/TABLE/ whose/WP$/ salary/ATTR/ is/VBZ/ smaller/COND/ than/IN/ any/DT/ salary/ATTR/ of/IN/ those/DT/ employees/TABLE/ whose/WP$/ job/ATTR/ title/ATTR/ is/COND/ MKMAN/VALUE/
+What/WP/ are/VBP/ the/DT/ employee/ATTR/ ids/ATTR/ and/CC/ job/ATTR/ ids/ATTR/ for/IN/ employees/TABLE/ who/WP/ make/ATTRREF/ less/COND/ than/IN/ the/DT/ lowest/JJS/ earning/ATTRREF/ employee/TABLE/ with/COND/ title/ATTR/ MKMAN/VALUE/
+display/VB/ the/DT/ employee/ATTR/ number/ATTR/ name/ATTR/ first/ATTR/ name/ATTR/ and/CC/ last/ATTR/ name/ATTR/ /NN/ and/CC/ job/ATTR/ title/ATTR/ for/IN/ all/DT/ employees/TABLE/ whose/WP$/ salary/ATTR/ is/VBZ/ more/COND/ than/IN/ any/DT/ salary/ATTR/ of/IN/ those/DT/ employees/TABLE/ whose/WP$/ job/ATTR/ title/ATTR/ is/COND/ PUMAN/VALUE/
+What/WP/ are/VBP/ the/DT/ employee/ATTR/ ids/ATTR/ full/JJ/ names/ATTR/ and/CC/ job/ATTR/ ids/ATTR/ for/IN/ employees/TABLE/ who/WP/ make/ATTRREF/ more/COND/ than/IN/ the/DT/ highest/JJS/ earning/ATTRREF/ employee/TABLE/ with/COND/ title/ATTR/ PUMAN/VALUE/
+display/VB/ the/DT/ department/ATTR/ id/ATTR/ and/CC/ the/DT/ total/JJ/ salary/ATTR/ for/IN/ those/DT/ departments/ATTR/ which/WDT/ contains/VBZ/ at/COND/ least/COND/ two/CD/ employees/TABLE/
+What/WP/ are/VBP/ total/JJ/ salaries/ATTR/ and/CC/ department/ATTR/ id/ATTR/ for/IN/ each/DT/ department/ATTR/ that/WDT/ has/VBZ/ more/COND/ than/IN/ 2/CD/ employees/TABLE/
+display/VB/ all/PDT/ the/DT/ information/NN/ of/IN/ those/DT/ employees/TABLE/ who/WP/ did/VBD/ not/COND/ have/TABLEREF/ any/DT/ job/TABLE/ in/IN/ the/DT/ past/TABLEREF/
+What/WP/ is/VBZ/ all/PDT/ the/DT/ information/NN/ about/IN/ employees/TABLE/ who/WP/ have/VBP/ never/COND/ had/TABLEREF/ a/DT/ job/TABLE/ in/IN/ the/DT/ past/TABLEREF/
+display/VB/ the/DT/ department/ATTR/ ID/ATTR/ full/JJ/ name/ATTR/ first/ATTR/ and/CC/ last/ATTR/ name/ATTR/ salary/ATTR/ for/IN/ those/DT/ employees/TABLE/ who/WP/ is/VBZ/ highest/COND/ salary/ATTR/ in/IN/ every/DT/ department/ATTR/
+What/WP/ are/VBP/ the/DT/ department/ATTR/ ids/ATTR/ full/JJ/ names/ATTR/ and/CC/ salaries/ATTR/ for/IN/ employees/TABLE/ who/WP/ make/ATTRREF/ the/DT/ most/COND/ in/IN/ their/PRP$/ departments/ATTR/
+display/VB/ the/DT/ first/ATTR/ and/CC/ last/ATTR/ name/ATTR/ department/ATTR/ city/ATTR/ and/CC/ state/ATTR/ province/ATTR/ for/IN/ each/DT/ employee/TABLE/
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/ATTR/ departments/ATTR/ cities/ATTR/ and/CC/ state/ATTR/ provinces/ATTR/ for/IN/ each/DT/ employee/TABLE/
+display/VB/ those/DT/ employees/TABLE/ who/WP/ contain/COND/ a/DT/ letter/NN/ z/VALUE/ to/TO/ their/PRP$/ first/ATTR/ name/ATTR/ and/CC/ also/RB/ display/VBP/ their/PRP$/ last/ATTR/ name/ATTR/ city/ATTR/
+What/WP/ are/VBP/ the/DT/ full/JJ/ names/ATTR/ and/CC/ cities/ATTR/ of/IN/ employees/TABLE/ who/WP/ have/VBP/ the/DT/ letter/NN/ Z/VALUE/ in/COND/ their/PRP$/ first/ATTR/ names/ATTR/
+display/VB/ the/DT/ department/ATTR/ name/ATTR/ city/ATTR/ and/CC/ state/ATTR/ province/ATTR/ for/IN/ each/DT/ department/TABLE/
+What/WP/ are/VBP/ the/DT/ department/ATTR/ names/ATTR/ cities/ATTR/ and/CC/ state/ATTR/ provinces/ATTR/ for/IN/ each/DT/ department/TABLE/
+display/VB/ the/DT/ full/JJ/ name/ATTR/ first/ATTR/ and/CC/ last/ATTR/ name/ATTR/ /NN/ of/IN/ employee/TABLE/ with/IN/ ID/ATTR/ and/CC/ name/ATTR/ of/IN/ the/DT/ country/ATTR/ presently/RB/ where/WRB/ (s)he/NN/ is/VBZ/ working/NN/
+What/WP/ the/DT/ full/JJ/ names/ATTR/ ids/ATTR/ of/IN/ each/DT/ employee/TABLE/ and/CC/ the/DT/ name/ATTR/ of/IN/ the/DT/ country/ATTR/ they/PRP/ are/VBP/ in/NN/ 
+display/VB/ the/DT/ department/ATTR/ name/ATTR/ and/CC/ number/NN/ of/IN/ employees/TABLE/ in/IN/ each/DT/ of/IN/ the/DT/ department/ATTR/
+What/WP/ are/VBP/ the/DT/ department/ATTR/ names/ATTR/ and/CC/ how/WRB/ many/JJ/ employees/TABLE/ work/VBP/ in/IN/ each/DT/ of/IN/ them/ATTRREF/
+display/VB/ the/DT/ full/JJ/ name/ATTR/ first/ATTR/ and/CC/ last/ATTR/ name/ATTR/ and/CC/ salary/ATTR/ of/IN/ those/DT/ employees/TABLE/ who/WP/ working/VBG/ in/IN/ any/DT/ department/TABLE/ located/TABLEREF/ in/COND/ London/VALUE/
+What/WP/ are/VBP/ full/JJ/ names/ATTR/ and/CC/ salaries/ATTR/ of/IN/ employees/TABLE/ working/VBG/ in/IN/ the/DT/ city/ATTR/ of/COND/ London/VALUE/

@@ -1,0 +1,110 @@
+List/NN/ all/PDT/ the/DT/ businesses/business/ with/IN/ more/JJR/ than/IN/ 4.5/CD/ stars/NNS/ 
+List/VB/ all/DT/ businesses/business/ with/cond/ rating/business.rating/ 3.5/business.rating/ 
+List/VB/ all/DT/ user/user.user_id/ ids/user.user_id/ with/cond/ name/user.name/ Michelle/user.name/ 
+Find/VB/ all/DT/ states/business.state/ in/IN/ which/cond/ there/EX/ is/VBZ/ a/DT/ Whataburger/business.name/
+Find/VB/ all/DT/ cities/business.city/ in/IN/ which/cond/ there/EX/ is/VBZ/ a/DT/ restaurant/category.category_name/ called/VBN/ MGM/business.name/ Grand/business.name/ Buffet/business.name/ 
+Find/VB/ the/DT/ cities/business.city/ of/IN/ businesses/business/ rated/business.rating/ below/cond/ 1.5/business.rating/
+Find/VB/ all/DT/ cities/business.city/ which/cond/ has/VBZ/ a/DT/ Taj/business.name/ Mahal/business.name/ 
+List/NN/ all/PDT/ the/DT/ reviews/review/ which/WDT/ rated/review.rating/ a/DT/ business/NN/ less/cond/ than/cond/ 1/review.rating/
+List/NN/ all/PDT/ the/DT/ restaurant/category.category_name/ rated/business.rating/ more/cond/ than/cond/ 3.5/business.rating/ 
+find/VB/ all/DT/ cities/business.city/ which/cond/ has/VBZ/ a/DT/ Taj/business.name/ Mahal/business.name/ restaurant/category.category_name/ 
+list/VB/ all/PDT/ the/DT/ reviews/review/ by/cond/ Niloofar/user.name/ 
+list/VB/ all/PDT/ the/DT/ businesses/business/ which/cond/ have/VBP/ a/DT/ review/review/ by/cond/ Niloofar/user.name/ 
+list/VB/ all/PDT/ the/DT/ businesses/business/ which/cond/ Niloofar/user.name/ rated/review.rating/ 5/review.rating/
+List/NN/ all/PDT/ the/DT/ reviews/review/ by/cond/ Michelle/user.name/ for/cond/ Italian/category.category_name/ restaurant/category.category_name/
+find/VB/ the/DT/ number/NN/ of/IN/ reviews/review/ written/VBN/ for/cond/ Cafe/business.name/ Zinho/business.name/ restaurant/category.category_name/ in/cond/ Texas/business.state/ 
+List/VB/ all/DT/ 5/business.rating/ star/NN/ Italian/category.category_name/ restaurant/category.category_name/
+List/NN/ all/PDT/ the/DT/ neighbourhoods/neighbourhood/ with/cond/ Italian/category.category_name/ restaurant/category.category_name/ in/cond/ Madison/business.city/
+List/NN/ all/PDT/ the/DT/ neighbourhoods/neighbourhood/ with/cond/ Italian/category.category_name/ restaurant/category.category_name/ rated/business.rating/ less/cond/ than/cond/ 2.5/business.rating/ in/cond/ Madison/business.city/
+find/VB/ all/PDT/ the/DT/ restaurant/category.category_name/ in/cond/ Pennsylvania/business.state/
+List/VB/ all/DT/ businesses/business/ that/WDT/ are/VBP/ restaurant/category.category_name/ in/cond/ Pennsylvania/business.state/ 
+Find/VB/ all/PDT/ the/DT/ reviews/review/ for/cond/ all/DT/ Pet/category.category_name/ Groomers/category.category_name/ with/cond/ more/cond/ than/IN/ 100/business.review_count/ reviews/NNS/ 
+What/WP/ are/VBP/ all/PDT/ the/DT/ breweries/category.category_name/ in/cond/ Los/business.city/ Angeles/business.city/  
+Find/VB/ all/DT/ breweries/category.category_name/ in/cond/ Los/business.city/ Angeles/business.city/
+Find/VB/ all/DT/ breweries/category.category_name/ in/cond/ Los/business.city/ Angeles/business.city/
+Find/VB/ all/DT/ users/user/ who/WP/ reviewed/review/ restaurant/category.category_name/ Mesa/business.name/ Grill/business.name/ 
+List/VB/ the/DT/ addresses/business.full_address/ of/IN/ all/DT/ Walmart/business.name/ in/cond/ Los/business.city/ Angeles/business.city/ 
+Find/VB/ all/DT/ restaurant/category.category_name/ reviewed/review/ by/cond/ Patrick/user.name/ in/cond/ Dallas/business.city/ 
+Which/WDT/ restaurant/category.category_name/ in/cond/ Dallas/business.city/ were/VBD/ reviewed/review/ by/cond/ user/user.name/ Patrick/user.name/  
+Find/VB/ all/DT/ Bars/category.category_name/ reviewed/review/ by/cond/ Patrick/user.name/
+Find/VB/ all/DT/ Bars/category.category_name/ reviewed/review/ by/cond/ Patrick/user.name/ with/cond/ at/IN/ least/cond/ 3/business.rating/ stars/NNS/
+Find/VB/ all/DT/ users/user/ who/cond/ have/VBP/ written/VBN/ tips/tip/ for/IN/ Barrio/business.name/ Cafe/business.name/ in/cond/ 2015/tip.year/ 
+Find/VB/ all/DT/ businesses/business/ in/cond/ Texas/business.state/ with/cond/ a/DT/ rating/business.rating/ below/cond/ 2/business.rating/
+Find/VB/ all/DT/ restaurant/category.category_name/ Seafood/category.category_name/ in/cond/ Los/business.city/ Angeles/business.city/
+List/VB/ all/PDT/ the/DT/ Seafood/category.category_name/ restaurant/category.category_name/ in/cond/ Los/business.city/ Angeles/business.city/ 
+Find/VB/ all/DT/ restaurant/category.category_name/ that/cond/ serve/VBP/ Seafood/category.category_name/ in/cond/ Los/business.city/ Angeles/business.city/ 
+Find/VB/ all/DT/ reviews/review/ by/cond/ Patrick/user.name/ with/cond/ a/DT/ rating/review.rating/ above/cond/ 4/review.rating/ 
+Find/VB/ all/DT/ Apple/business.name/ Store/business.name/ in/cond/ Los/business.city/ Angeles/business.city/ 
+Find/VB/ all/DT/ Dallas/business.city/ restaurant/category.category_name/ with/cond/ a/DT/ rating/business.rating/ above/cond/ 4.5/business.rating/ 
+Find/VB/ all/DT/ tips/tip/ about/cond/ Vintner/business.name/ Grill/business.name/ that/WDT/ received/VBD/ more/cond/ than/cond/ 9/tip.likes/ likes/NNS/ 
+Find/VB/ all/DT/ reviews/review/ about/cond/ Kabob/business.name/ Palace/business.name/ in/cond/ year/review.year/ 2014/review.year/ 
+Find/VB/ all/DT/ users/user/ who/cond/ have/VBP/ written/VBN/ tips/tip/ about/cond/ businesses/business/ in/cond/ Dallas/business.city/ 
+Find/VB/ all/DT/ cities/business.city/ in/cond/ Texas/business.state/ in/IN/ which/cond/ there/EX/ is/VBZ/ a/DT/ restaurant/category.category_name/ called/VBN/ MGM/business.name/ Grand/business.name/ Buffet/business.name/ 
+Find/VB/ the/DT/ users/user/ who/cond/ have/VBP/ given/VBN/ tips/tip/ on/cond/ Pet/category.category_name/ Groomers/category.category_name/ 
+Find/VB/ all/DT/ tips/tip/ for/cond/ Cafe/business.name/ Zinho/business.name/ in/cond/ Texas/business.state/  
+List/VB/ all/DT/ users/user/ who/cond/ reviewed/review/ businesses/business/ that/cond/ are/VBP/ restaurant/category.category_name/  
+List/VB/ all/DT/ tips/tip/ for/cond/ Cafe/business.name/ Zinho/business.name/ in/cond/ Pennsylvania/business.state/ in/cond/ 2010/tip.year/  
+List/VB/ all/DT/ users/user/ who/cond/ reviewed/review/ businesses/business/ that/cond/ are/VBP/ restaurant/category.category_name/ in/cond/ 2010/review.year/ 
+Find/VB/ all/PDT/ the/DT/ tips/tip/ from/IN/ a/DT/ user/user/ who/cond/ has/VBZ/ written/VBN/ a/DT/ review/review/ in/cond/ 2012/review.year/ 
+Find/VB/ all/DT/ reviews/review/ for/cond/ businesses/business/ rated/business.rating/ 2.5/business.rating/ 
+find/VB/ the/DT/ number/NN/ of/IN/ escape/category.category_name/ games/category.category_name/ in/cond/ Madison/business.city/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ escape/category.category_name/ games/category.category_name/ in/cond/ Madison/business.city/ 
+How/WRB/ many/JJ/ escape/category.category_name/ games/category.category_name/ exist/VBP/ in/cond/ Madison/business.city/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ escape/category.category_name/ games/category.category_name/ in/cond/ Madison/business.city/  
+How/WRB/ many/JJ/ escape/category.category_name/ games/category.category_name/ are/VBP/ there/EX/ in/cond/ Madison/business.city/  
+find/VB/ the/DT/ number/NN/ of/IN/ restaurant/category.category_name/ rated/business.rating/ more/cond/ than/cond/ 3.5/business.rating/ 
+find/VB/ the/DT/ total/JJ/ checkins/checkin/ in/cond/ Moroccan/category.category_name/ restaurant/category.category_name/ in/cond/ Los/business.city/ Angeles/business.city/
+find/VB/ the/DT/ total/JJ/ checkins/checkin/ in/cond/ Moroccan/category.category_name/ restaurant/category.category_name/ in/cond/ Los/business.city/ Angeles/business.city/ on/cond/ Friday/checkin.day/ 
+find/VB/ the/DT/ total/JJ/ checkins/checkin/ in/cond/ Moroccan/category.category_name/ restaurant/category.category_name/ in/cond/ Los/business.city/ Angeles/business.city/ per/IN/ day/checkin.day/ 
+find/VB/ the/DT/ total/JJ/ checkins/checkin/ in/cond/ Italian/category.category_name/ Delis/category.category_name/ in/IN/ each/DT/ state/business.state/ on/cond/ Sunday/checkin.day/ 
+How/WRB/ many/JJ/ reviews/review/ has/VBZ/ Niloofar/user.name/ written/VBN/ in/cond/ 2015/review.year/ 
+what/WP/ is/VBZ/ the/DT/ average/JJ/ rating/review.rating/ given/VBN/ in/IN/ Michelle/user.name/ reviews/review/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ checkins/checkin/ for/cond/ Cafe/business.name/ Zinho/business.name/ on/cond/ Friday/checkin.day/ 
+how/WRB/ many/JJ/ users/user/ reviewed/review/ Sushi/business.name/ Too/business.name/ in/cond/ Pittsburgh/business.city/ 
+What/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ restaurant/category.category_name/ in/cond/ Pittsburgh/business.city/ rated/business.rating/ 4.5/business.rating/ 
+How/WRB/ many/JJ/ tips/tip/ have/VBP/ been/VBN/ written/VBN/ in/cond/ 2015/tip.year/ 
+What/WP/ is/VBZ/ the/DT/ total/JJ/ likes/tip.likes/ on/IN/ tips/tip/ from/cond/ Niloofar/user.name/ 
+What/WP/ is/VBZ/ the/DT/ total/JJ/ likes/tip.likes/ on/IN/ tips/tip/ about/cond/ Cafe/business.name/ Zinho/business.name/ 
+What/WP/ is/VBZ/ the/DT/ total/JJ/ likes/tip.likes/ on/IN/ tips/tip/ from/cond/ Niloofar/user.name/ about/cond/ Cafe/business.name/ Zinho/business.name/
+How/WRB/ many/JJ/ tips/tip/ has/VBZ/ Michelle/user.name/ written/VBN/ in/cond/ 2010/tip.year/ 
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ tips/tip/ that/WDT/ are/VBP/ written/VBN/ by/cond/ Michelle/user.name/ in/cond/ 2010/tip.year/  
+How/WRB/ many/JJ/ tips/tip/ has/VBZ/ Michelle/user.name/ written/VBN/ in/cond/ April/t1.month/ 
+what/WP/ is/VBZ/ the/DT/ number/NN/ of/IN/ restaurant/category.category_name/ in/cond/ Texas/business.state/ 
+How/WRB/ many/JJ/ Bars/category.category_name/ in/cond/ Dallas/business.city/ have/VBP/ a/DT/ rating/business.rating/ above/cond/ 3.5/business.rating/  
+How/WRB/ many/JJ/ Bars/category.category_name/ in/cond/ Dallas/business.city/ have/VBP/ a/DT/ rating/business.rating/ above/cond/ 3.5/business.rating/  
+How/WRB/ many/JJ/ people/NNS/ reviewed/review/ the/DT/ restaurant/category.category_name/ Texas/business.name/ de/business.name/ Brazil/business.name/ in/cond/ Dallas/business.city/ Texas/business.state/  
+How/WRB/ many/JJ/ people/NNS/ reviewed/review/ Bistro/business.name/ Di/business.name/ Napoli/business.name/ in/cond/ 2015/review.year/  
+How/WRB/ many/JJ/ restaurant/category.category_name/ are/VBP/ there/EX/ in/cond/ the/DT/ Hazelwood/neighbourhood.neighbourhood_name/ district/NN/ of/IN/ Dallas/business.city/  
+How/WRB/ many/JJ/ Starbucks/business.name/ are/VBP/ there/EX/ in/cond/ Dallas/business.city/ Texas/business.state/  
+How/WRB/ many/JJ/ reviews/business.review_count/ does/VBZ/ Acacia/business.name/ Cafe/business.name/ have/VB/  
+Find/VB/ the/DT/ average/JJ/ number/NN/ of/IN/ checkins/checkin/ in/cond/ restaurant/category.category_name/ Barrio/business.name/ Cafe/business.name/ per/IN/ day/checkin.day/ 
+How/WRB/ many/JJ/ businesses/business/ are/VBP/ there/EX/ in/cond/ the/DT/ Stone/neighbourhood.neighbourhood_name/ Meadows/neighbourhood.neighbourhood_name/ neighbourhood/neighbourhood/ in/cond/ Madison/business.city/  
+How/WRB/ many/JJ/ reviews/review/ has/VBZ/ Adrienne/user.name/ written/VBN/  
+How/WRB/ many/JJ/ reviews/review/ has/VBZ/ Michelle/user.name/ written/VBN/ in/cond/ March/review.month/ 2014/review.year/  
+How/WRB/ many/JJ/ businesses/business/ has/VBZ/ Michelle/user.name/ reviewed/review/ in/cond/ 2010/review.year/  
+How/WRB/ many/JJ/ businesses/business/ in/cond/ San/business.city/ Diego/business.city/ has/VBZ/ Christine/user.name/ reviewed/review/ in/cond/ 2010/review.year/  
+How/WRB/ many/JJ/ Target/business.name/ are/VBP/ there/EX/ in/cond/ Los/business.city/ Angeles/business.city/  
+How/WRB/ many/JJ/ users/user/ have/VBP/ reviewed/review/ Irish/category.category_name/ Pub/category.category_name/ in/cond/ Dallas/business.city/  
+What/WP/ is/VBZ/ the/DT/ average/JJ/ rating/review.rating/ of/IN/ reviews/review/ written/VBN/ in/IN/ year/review.year/ 2014/review.year/  
+How/WRB/ many/JJ/ people/NNS/ reviewed/review/ restaurant/category.category_name/ Vintner/business.name/ Grill/business.name/ in/cond/ 2010/review.year/  
+Find/VB/ the/DT/ number/NN/ of/IN/ reviews/review/ on/IN/ businesses/business/ located/JJ/ in/cond/ South/neighbourhood.neighbourhood_name/ Summerlin/neighbourhood.neighbourhood_name/ neighbourhood/neighbourhood/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ users/user/ called/VBN/ Michelle/user.name/ 
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ businesses/business/ that/cond/ are/VBP/ restaurant/category.category_name/  
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ cities/business.city/ that/cond/ has/VBZ/ Panda/business.name/ Express/business.name/  
+Return/NN/ me/PRP/ the/DT/ number/NN/ of/IN/ tips/tip/ that/WDT/ are/VBP/ written/VBN/ by/cond/ Michelle/user.name/  
+Find/VB/ the/DT/ total/JJ/ checkins/checkin/ in/cond/ Brighton/neighbourhood.neighbourhood_name/ Heights/neighbourhood.neighbourhood_name/ neighbourhood/neighbourhood/ 
+Find/VB/ the/DT/ total/JJ/ number/NN/ of/IN/ reviews/review/ written/VBN/ in/IN/ March/review.month/ 
+Find/VB/ the/DT/ number/NN/ of/IN/ tips/tip/ written/VBN/ in/IN/ each/DT/ month/tip.MONTH/ 
+How/WRB/ many/JJ/ neighbourhoods/neighbourhood/ have/VBP/ a/DT/ business/business/ with/cond/ rating/business.rating/ 5/business.rating/ in/cond/ Madison/business.city/  
+Give/VB/ me/PRP/ all/PDT/ the/DT/ Moroccan/category.category_name/ restaurant/category.category_name/ in/cond/ Texas/business.state/ 
+which/WDT/ business/business/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ checkins/chcekin/ 
+which/WDT/ neighbourhood/neighbourhood/ has/VBZ/ the/DT/ most/JJS/ number/NN/ of/IN/ businesses/business/ in/cond/ Madison/business.city/ 
+Find/VB/ all/DT/ Mexican/category.category_name/ restaurant/category.category_name/ in/cond/ Dallas/business.city/ with/cond/ at/cond/ least/cond/ 3.5/business.rating/ stars/NNS/ 
+Find/VB/ all/DT/ Mexican/category.category_name/ restaurant/category.category_name/ in/cond/ Dallas/business.city/ with/cond/ a/DT/ rating/business.rating/ above/cond/ 3.5/business.rating/ 
+Find/VB/ all/DT/ restaurant/category.category_name/ with/cond/ Valet/category.category_name/ Service/category.category_name/ in/cond/ Dallas/business.city/ Texas/business.state/ 
+Find/VB/ all/DT/ Italian/category.category_name/ restaurant/category.category_name/ in/cond/ the/DT/ Meadowood/neighbourhood.neighbourhood_name/ neighbourhood/neighbourhood/ of/IN/ Madison/business.city/ 
+Find/VB/ all/DT/ Bars/category.category_name/ in/cond/ Los/business.city/ Angeles/business.city/ with/cond/ at/cond/ least/cond/ 30/business.review_count/ reviews/business.review_count/ and/CC/ average/JJ/ rating/business.rating/ above/cond/ 3/business.rating/ stars/NNS/ 
+How/WRB/ many/JJ/ Egyptian/category.category_name/ restaurant/category.category_name/ are/VBP/ there/EX/ in/cond/ Edinburgh/business.city/  
+Find/VB/ users/user/ whose/cond/ average/JJ/ review/review/ rating/review.rating/ is/VBZ/ below/cond/ 3/review.rating/ 
+Find/VB/ the/DT/ business/business/ with/cond/ the/cond/ most/cond/ number/cond/ of/cond/ reviews/review/ in/cond/ April/review.month/
+Find/VB/ the/DT/ business/business/ which/cond/ has/VBZ/ the/cond/ most/cond/ number/cond/ of/IN/ categories/category/ 

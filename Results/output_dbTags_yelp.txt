@@ -1,0 +1,44 @@
+O O O O category.category_name business.rating COND O business.rating
+
+O O category.category_name COND business.city
+
+O O O O business.rating O COND user.name review
+
+O O user O review business.name O COND business.city O
+
+O O category.category_name category.category_name COND business.city O O business.rating COND business.rating
+
+O O category.category_name category.category_name O O COND business.state O
+
+O O category.category_name category.category_name O COND checkin.day
+
+O O user O O O tip O business.name business.name COND review.year
+
+O O O O O tip O O O O user.name O
+
+O O O O category.category_name COND business.city business.city O
+
+O O category.category_name COND business.city business.city O O COND business.review_count review
+
+O O category.category_name O category.category_name business.name COND business.city business.state
+
+O O review O user.name O COND review.month review.year O
+
+O O business.city O business business.rating COND business.rating
+
+O O category.category_name O O COND O neighbourhood.neighbourhood_name neighbourhood O business.city O
+
+O O O review O user.name O category.category_name category.category_name
+
+O O O checkin COND category.category_name category.category_name COND O business.state O checkin.day
+
+O O neighbourhood O O business O business.rating business.rating COND business.city O
+
+O O tip O business.name business.name COND business.state O
+
+O O tip O business.name business.name COND business.state COND review.year O
+
+O O review O user.name O O
+
+O O category.category_name COND business.city business.city O O business.rating COND review.rating O
+

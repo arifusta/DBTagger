@@ -1,0 +1,111 @@
+List/O/ all/O/ the/O/ businesses/O/ with/O/ more/O/ than/O/ 4.5/O/ stars/O/ 
+List/O/ all/O/ businesses/O/ with/O/ rating/O/ 3.5/O/ 
+List/O/ all/O/ user/O/ ids/O/ with/O/ name/O/ Michelle/PERSON/ 
+Find/O/ all/O/ states/O/ in/O/ which/O/ there/O/ is/O/ a/O/ Whataburger/O/ 
+Find/O/ all/O/ cities/O/ in/O/ which/O/ there/O/ is/O/ a/O/ restaurant/O/ called/O/ "/O/ MGM/MISC/ Grand/MISC/ Buffet/MISC/ "/O/ 
+Find/O/ the/O/ cities/O/ of/O/ businesses/O/ rated/O/ below/O/ 1.5/O/ 
+Find/O/ all/O/ cities/O/ which/O/ has/O/ a/O/ "/O/ Taj/MISC/ Mahal/MISC/ "/O/ ./O/ 
+List/O/ all/O/ the/O/ reviews/O/ which/O/ rated/O/ a/O/ business/O/ less/O/ than/O/ 1/O/ 
+List/O/ all/O/ the/O/ restaurant/O/ rated/O/ more/O/ than/O/ 3.5/O/ 
+find/O/ all/O/ cities/O/ which/O/ has/O/ a/O/ "/O/ Taj/MISC/ Mahal/MISC/ "/O/ restaurant/O/ 
+list/O/ all/O/ the/O/ reviews/O/ by/O/ Niloofar/ORGANIZATION/ 
+list/O/ all/O/ the/O/ businesses/O/ which/O/ have/O/ a/O/ review/O/ by/O/ Niloofar/ORGANIZATION/ 
+list/O/ all/O/ the/O/ businesses/O/ which/O/ Niloofar/ORGANIZATION/ rated/O/ 5/O/ 
+List/O/ all/O/ the/O/ reviews/O/ by/O/ Michelle/PERSON/ for/O/ Italian/MISC/ restaurant/O/ 
+find/O/ the/O/ number/O/ of/O/ reviews/O/ written/O/ for/O/ "/O/ Cafe/LOCATION/ Zinho/LOCATION/ "/O/ restaurant/O/ in/O/ Texas/LOCATION/ 
+List/O/ all/O/ 5/O/ star/O/ Italian/MISC/ restaurant/O/ 
+List/O/ all/O/ the/O/ neighbourhoods/O/ with/O/ Italian/MISC/ restaurant/O/ in/O/ Madison/LOCATION/ 
+List/O/ all/O/ the/O/ neighbourhoods/O/ with/O/ Italian/MISC/ restaurant/O/ rated/O/ less/O/ than/O/ 2.5/O/ in/O/ Madison/LOCATION/ 
+find/O/ all/O/ the/O/ restaurant/O/ in/O/ Pennsylvania/LOCATION/ 
+List/O/ all/O/ businesses/O/ that/O/ are/O/ restaurant/O/ in/O/ Pennsylvania/LOCATION/ ./O/ 
+Find/O/ all/O/ the/O/ reviews/O/ for/O/ all/O/ Pet/ORGANIZATION/ Groomers/ORGANIZATION/ with/O/ more/O/ than/O/ 100/O/ reviews/O/ 
+What/O/ are/O/ all/O/ the/O/ breweries/O/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ ?/O/ 
+Find/O/ all/O/ breweries/O/ in/O/ Los/LOCATION/ Angeles/LOCATION/ 
+Find/O/ all/O/ breweries/O/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ 
+Find/O/ all/O/ users/O/ who/O/ reviewed/O/ restaurant/O/ "/O/ Mesa/ORGANIZATION/ Grill/ORGANIZATION/ "/O/ 
+List/O/ the/O/ addresses/O/ of/O/ all/O/ Walmart/ORGANIZATION/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ 
+Find/O/ all/O/ restaurant/O/ reviewed/O/ by/O/ Patrick/PERSON/ in/O/ "/O/ Dallas/LOCATION/ "/O/ 
+Which/O/ restaurant/O/ in/O/ Dallas/LOCATION/ were/O/ reviewed/O/ by/O/ user/O/ Patrick/PERSON/ ?/O/ 
+Find/O/ all/O/ Bars/O/ reviewed/O/ by/O/ Patrick/PERSON/ 
+Find/O/ all/O/ Bars/O/ reviewed/O/ by/O/ Patrick/PERSON/ with/O/ at/O/ least/O/ 3/O/ stars/O/ 
+Find/O/ all/O/ users/O/ who/O/ have/O/ written/O/ tips/O/ for/O/ "/O/ Barrio/MISC/ Cafe/MISC/ "/O/ in/O/ 2015/O/ 
+Find/O/ all/O/ businesses/O/ in/O/ Texas/LOCATION/ with/O/ a/O/ rating/O/ below/O/ 2/O/ 
+Find/O/ all/O/ restaurant/O/ Seafood/LOCATION/ in/O/ Los/LOCATION/ Angeles/LOCATION/ 
+List/O/ all/O/ the/O/ Seafood/LOCATION/ restaurant/O/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ 
+Find/O/ all/O/ restaurant/O/ that/O/ serve/O/ Seafood/LOCATION/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ 
+Find/O/ all/O/ reviews/O/ by/O/ Patrick/PERSON/ with/O/ a/O/ rating/O/ above/O/ 4/O/ 
+Find/O/ all/O/ Apple/ORGANIZATION/ Store/ORGANIZATION/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ 
+Find/O/ all/O/ Dallas/LOCATION/ restaurant/O/ with/O/ a/O/ rating/O/ above/O/ 4.5/O/ 
+What/O/ neighbourhood/O/ is/O/ restaurant/O/ "/O/ Flat/O/ Top/O/ Grill/O/ "/O/ in/O/ ?/O/ 
+Find/O/ all/O/ tips/O/ about/O/ "/O/ Vintner/MISC/ Grill/MISC/ "/O/ that/O/ received/O/ more/O/ than/O/ 9/O/ likes/O/ 
+Find/O/ all/O/ reviews/O/ about/O/ "/O/ Kabob/ORGANIZATION/ Palace/ORGANIZATION/ "/O/ in/O/ year/O/ 2014/O/ 
+Find/O/ all/O/ users/O/ who/O/ have/O/ written/O/ tips/O/ about/O/ businesses/O/ in/O/ Dallas/LOCATION/ 
+Find/O/ all/O/ cities/O/ in/O/ Texas/LOCATION/ in/O/ which/O/ there/O/ is/O/ a/O/ restaurant/O/ called/O/ "/O/ MGM/MISC/ Grand/MISC/ Buffet/MISC/ "/O/ 
+Find/O/ the/O/ users/O/ who/O/ have/O/ given/O/ tips/O/ on/O/ Pet/O/ Groomers/O/ 
+Find/O/ all/O/ tips/O/ for/O/ "/O/ Cafe/LOCATION/ Zinho/LOCATION/ "/O/ in/O/ Texas/LOCATION/ ./O/ 
+List/O/ all/O/ users/O/ who/O/ reviewed/O/ businesses/O/ that/O/ are/O/ restaurant/O/ ./O/ 
+List/O/ all/O/ tips/O/ for/O/ "/O/ Cafe/LOCATION/ Zinho/LOCATION/ "/O/ in/O/ Pennsylvania/LOCATION/ in/O/ 2010/O/ ./O/ 
+List/O/ all/O/ users/O/ who/O/ reviewed/O/ businesses/O/ that/O/ are/O/ restaurant/O/ in/O/ 2010/O/ ./O/ 
+Find/O/ all/O/ the/O/ tips/O/ from/O/ a/O/ user/O/ who/O/ has/O/ written/O/ a/O/ review/O/ in/O/ 2012/O/ 
+Find/O/ all/O/ reviews/O/ for/O/ businesses/O/ rated/O/ 2.5/O/ 
+find/O/ the/O/ number/O/ of/O/ escape/O/ games/O/ in/O/ Madison/LOCATION/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ escape/O/ games/O/ in/O/ Madison/LOCATION/ 
+How/O/ many/O/ escape/O/ games/O/ exist/O/ in/O/ Madison/LOCATION/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ escape/O/ games/O/ in/O/ "/O/ Madison/LOCATION/ "/O/ ?/O/ 
+How/O/ many/O/ escape/O/ games/O/ are/O/ there/O/ in/O/ Madison/LOCATION/ ?/O/ 
+find/O/ the/O/ number/O/ of/O/ restaurant/O/ rated/O/ more/O/ than/O/ 3.5/O/ 
+find/O/ the/O/ total/O/ checkins/O/ in/O/ Moroccan/MISC/ restaurant/O/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ 
+find/O/ the/O/ total/O/ checkins/O/ in/O/ Moroccan/MISC/ restaurant/O/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ on/O/ Friday/O/ 
+find/O/ the/O/ total/O/ checkins/O/ in/O/ Moroccan/MISC/ restaurant/O/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ per/O/ day/O/ 
+find/O/ the/O/ total/O/ checkins/O/ in/O/ Italian/MISC/ Delis/MISC/ in/O/ each/O/ state/O/ on/O/ Sunday/O/ 
+How/O/ many/O/ reviews/O/ has/O/ Niloofar/MISC/ written/O/ in/O/ 2015/O/ 
+what/O/ is/O/ the/O/ average/O/ rating/O/ given/O/ in/O/ Michelle/LOCATION/ reviews/O/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ checkins/O/ for/O/ "/O/ Cafe/LOCATION/ Zinho/LOCATION/ "/O/ on/O/ Friday/O/ 
+how/O/ many/O/ users/O/ reviewed/O/ "/O/ Sushi/MISC/ Too/MISC/ "/O/ in/O/ Pittsburgh/LOCATION/ 
+What/O/ is/O/ the/O/ number/O/ of/O/ restaurant/O/ in/O/ Pittsburgh/LOCATION/ rated/O/ 4.5/O/ 
+How/O/ many/O/ tips/O/ have/O/ been/O/ written/O/ in/O/ 2015/O/ 
+What/O/ is/O/ the/O/ total/O/ likes/O/ on/O/ tips/O/ from/O/ Niloofar/LOCATION/ 
+What/O/ is/O/ the/O/ total/O/ likes/O/ on/O/ tips/O/ about/O/ "/O/ Cafe/LOCATION/ Zinho/LOCATION/ "/O/ 
+What/O/ is/O/ the/O/ total/O/ likes/O/ on/O/ tips/O/ from/O/ Niloofar/LOCATION/ about/O/ "/O/ Cafe/LOCATION/ Zinho/LOCATION/ "/O/ 
+How/O/ many/O/ tips/O/ has/O/ Michelle/PERSON/ written/O/ in/O/ 2010/O/ 
+Return/O/ me/O/ the/O/ number/O/ of/O/ tips/O/ that/O/ are/O/ written/O/ by/O/ Michelle/PERSON/ in/O/ 2010/O/ ./O/ 
+How/O/ many/O/ tips/O/ has/O/ Michelle/PERSON/ written/O/ in/O/ April/O/ 
+what/O/ is/O/ the/O/ number/O/ of/O/ restaurant/O/ in/O/ Texas/LOCATION/ 
+How/O/ many/O/ Bars/O/ in/O/ "/O/ Dallas/LOCATION/ "/O/ have/O/ a/O/ rating/O/ above/O/ 3.5/O/ ?/O/ 
+How/O/ many/O/ Bars/O/ in/O/ Dallas/LOCATION/ have/O/ a/O/ rating/O/ above/O/ 3.5/O/ ?/O/ 
+How/O/ many/O/ people/O/ reviewed/O/ the/O/ restaurant/O/ "/O/ Texas/LOCATION/ de/LOCATION/ Brazil/LOCATION/ "/O/ in/O/ Dallas/LOCATION/ Texas/LOCATION/ ?/O/ 
+How/O/ many/O/ people/O/ reviewed/O/ "/O/ Bistro/MISC/ Di/MISC/ Napoli/MISC/ "/O/ in/O/ 2015/O/ ?/O/ 
+How/O/ many/O/ restaurant/O/ are/O/ there/O/ in/O/ the/O/ Hazelwood/LOCATION/ district/O/ of/O/ Dallas/LOCATION/ ?/O/ 
+How/O/ many/O/ Starbucks/ORGANIZATION/ are/O/ there/O/ in/O/ Dallas/LOCATION/ Texas/LOCATION/ ?/O/ 
+How/O/ many/O/ reviews/O/ does/O/ "/O/ Acacia/ORGANIZATION/ Cafe/ORGANIZATION/ "/O/ have/O/ ?/O/ 
+Find/O/ the/O/ average/O/ number/O/ of/O/ checkins/O/ in/O/ restaurant/O/ "/O/ Barrio/MISC/ Cafe/MISC/ "/O/ per/O/ day/O/ 
+How/O/ many/O/ businesses/O/ are/O/ there/O/ in/O/ the/O/ "/O/ Stone/MISC/ Meadows/MISC/ "/O/ neighbourhood/O/ in/O/ Madison/LOCATION/ ?/O/ 
+How/O/ many/O/ reviews/O/ has/O/ Adrienne/PERSON/ written/O/ ?/O/ 
+How/O/ many/O/ reviews/O/ has/O/ Michelle/PERSON/ written/O/ in/O/ March/O/ 2014/O/ ?/O/ 
+How/O/ many/O/ businesses/O/ has/O/ Michelle/PERSON/ reviewed/O/ in/O/ 2010/O/ ?/O/ 
+How/O/ many/O/ businesses/O/ in/O/ "/O/ San/LOCATION/ Diego/LOCATION/ "/O/ has/O/ Christine/PERSON/ reviewed/O/ in/O/ 2010/O/ ?/O/ 
+How/O/ many/O/ Target/O/ are/O/ there/O/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ ?/O/ 
+How/O/ many/O/ users/O/ have/O/ reviewed/O/ Irish/ORGANIZATION/ Pub/ORGANIZATION/ in/O/ Dallas/LOCATION/ ?/O/ 
+What/O/ is/O/ the/O/ average/O/ rating/O/ of/O/ reviews/O/ written/O/ in/O/ year/O/ 2014/O/ ?/O/ 
+How/O/ many/O/ people/O/ reviewed/O/ restaurant/O/ "/O/ Vintner/MISC/ Grill/MISC/ "/O/ in/O/ 2010/O/ ?/O/ 
+Find/O/ the/O/ number/O/ of/O/ reviews/O/ on/O/ businesses/O/ located/O/ in/O/ "/O/ South/LOCATION/ Summerlin/LOCATION/ "/O/ neighbourhood/O/ 
+Find/O/ the/O/ number/O/ of/O/ users/O/ called/O/ Michelle/PERSON/ 
+Return/O/ me/O/ the/O/ number/O/ of/O/ businesses/O/ that/O/ are/O/ restaurant/O/ ./O/ 
+Return/O/ me/O/ the/O/ number/O/ of/O/ cities/O/ that/O/ has/O/ "/O/ Panda/ORGANIZATION/ Express/ORGANIZATION/ "/O/ ./O/ 
+Return/O/ me/O/ the/O/ number/O/ of/O/ tips/O/ that/O/ are/O/ written/O/ by/O/ Michelle/PERSON/ ./O/ 
+Find/O/ the/O/ total/O/ checkins/O/ in/O/ "/O/ Brighton/LOCATION/ Heights/LOCATION/ "/O/ neighbourhood/O/ 
+Find/O/ the/O/ total/O/ number/O/ of/O/ reviews/O/ written/O/ in/O/ March/O/ 
+Find/O/ the/O/ number/O/ of/O/ tips/O/ written/O/ in/O/ each/O/ month/O/ 
+How/O/ many/O/ neighbourhoods/O/ have/O/ a/O/ business/O/ with/O/ rating/O/ 5/O/ in/O/ Madison/LOCATION/ ?/O/ 
+Give/O/ me/O/ all/O/ the/O/ Moroccan/MISC/ restaurant/O/ in/O/ Texas/LOCATION/ 
+which/O/ business/O/ has/O/ the/O/ most/O/ number/O/ of/O/ checkins/O/ 
+which/O/ neighbourhood/O/ has/O/ the/O/ most/O/ number/O/ of/O/ businesses/O/ in/O/ Madison/LOCATION/ 
+Find/O/ all/O/ Mexican/MISC/ restaurant/O/ in/O/ Dallas/LOCATION/ with/O/ at/O/ least/O/ 3.5/O/ stars/O/ 
+Find/O/ all/O/ Mexican/MISC/ restaurant/O/ in/O/ Dallas/LOCATION/ with/O/ a/O/ rating/O/ above/O/ 3.5/O/ 
+Find/O/ all/O/ restaurant/O/ with/O/ Valet/ORGANIZATION/ Service/ORGANIZATION/ in/O/ Dallas/LOCATION/ Texas/LOCATION/ 
+Find/O/ all/O/ Italian/MISC/ restaurant/O/ in/O/ the/O/ Meadowood/LOCATION/ neighbourhood/O/ of/O/ Madison/LOCATION/ 
+Find/O/ all/O/ Bars/O/ in/O/ "/O/ Los/LOCATION/ Angeles/LOCATION/ "/O/ with/O/ at/O/ least/O/ 30/O/ reviews/O/ and/O/ average/O/ rating/O/ above/O/ 3/O/ stars/O/ 
+How/O/ many/O/ Egyptian/MISC/ restaurant/O/ are/O/ there/O/ in/O/ Edinburgh/LOCATION/ ?/O/ 
+Find/O/ users/O/ whose/O/ average/O/ review/O/ rating/O/ is/O/ below/O/ 3/O/ 
+Find/O/ the/O/ business/O/ with/O/ the/O/ most/O/ number/O/ of/O/ reviews/O/ in/O/ April/O/ 
+Find/O/ the/O/ business/O/ which/O/ has/O/ the/O/ most/O/ number/O/ of/O/ categories/O/ 
