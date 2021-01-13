@@ -37,7 +37,7 @@ python multiTask.py imdb 0.5 100 200 skip 1
 
 --------
 ## Evaluation on Pre-trained Models
-[Models](https://github.com/arifusta/DBTagger/tree/main/Models) folder contains three pre-trained models for `imdb`, `scholar` and `yelp` datasets. To evaluate test sentences on those pretrained models you can use [evalute.py](evaluate.py) script. It takes two parameters:
+[Models](https://github.com/arifusta/DBTagger/tree/main/Models) folder contains three pre-trained models for `imdb`, `scholar` and `yelp` datasets. To evaluate test sentences on those pre-trained models you can use [evalute.py](evaluate.py) script. It takes two parameters:
 - `schemaName:` name of the schema.
 - `gpu_id:` The gpu_id to run the model on.
 
