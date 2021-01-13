@@ -20,7 +20,7 @@ import tensorflow as tf
 from keras.backend.tensorflow_backend import set_session
 from sklearn.model_selection import KFold, StratifiedKFold
 
-root_path = '../..'
+root_path = os.getcwd()
 print (os.listdir(root_path))
 
 config = tf.ConfigProto()
@@ -54,22 +54,12 @@ if (schema == 'scholar' or schema == 'imdb' or schema == 'yelp'):
     #_, test_tags = retrieve_data_and_tag(root_path + '/FixedDataset/' + schema + 'TestTag.txt')
     test_sentences, test_db_tags = retrieve_data_and_tag(root_path + '/FixedDataset/' + schema + 'TestDbTag.txt')
 
-    #all_pos_tags = []
-    #all_pos_tags.extend(train_pos_tags)
-    #all_pos_tags.extend(test_pos_tags)
-
-    #all_tags = []
-    #all_tags.extend(train_tags)
-    #all_tags.extend(test_tags)
-
     all_db_tags = []
     all_db_tags.extend(train_db_tags)
     all_db_tags.extend(test_db_tags)
 
     all_sentences = train_sentences + test_sentences
 else:
-    #all_sentences, all_pos_tags = retrieve_data_and_tag(root_path + '/FixedDataset/Spider/' + schema + '/questionsPOS.txt')
-    #_, all_tags = retrieve_data_and_tag(root_path + '/FixedDataset/Spider/' + schema + '/questionsTypeTag2.txt')
     all_sentences, all_db_tags = retrieve_data_and_tag(root_path + '/FixedDataset/Spider/' + schema + '/questionsDbTag2.txt')
 
 # indexing words and tags

@@ -25,7 +25,7 @@ from keras.backend.tensorflow_backend import set_session
 from sklearn.model_selection import KFold, StratifiedKFold
 from pympler import asizeof
 
-root_path = '../..'
+root_path = os.getcwd()
 print (os.listdir(root_path))
 
 config = tf.ConfigProto()
@@ -70,9 +70,9 @@ if (schema == 'scholar' or schema == 'imdb' or schema == 'yelp'):
 
     all_sentences = train_sentences + test_sentences
 else:
-    all_sentences, all_pos_tags = retrieve_data_and_tag(root_path + '/Dataset/Spider/' + schema + '/questionsPOS.txt')
-    _, all_tags = retrieve_data_and_tag(root_path + '/Dataset/Spider/' + schema + '/questionsTypeTag2.txt')
-    _, all_db_tags = retrieve_data_and_tag(root_path + '/Dataset/Spider/' + schema + '/questionsDbTag2.txt')
+    all_sentences, all_pos_tags = retrieve_data_and_tag(root_path + '/FixedDataset/Spider/' + schema + '/questionsPOS.txt')
+    _, all_tags = retrieve_data_and_tag(root_path + '/FixedDataset/Spider/' + schema + '/questionsTypeTag2.txt')
+    _, all_db_tags = retrieve_data_and_tag(root_path + '/FixedDataset/Spider/' + schema + '/questionsDbTag2.txt')
 
 #indexing words and tags
 words, tags, db_tags, pos_tags = set([]), set([]), set([]), set([])
