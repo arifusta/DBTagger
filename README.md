@@ -41,10 +41,10 @@ python multiTask.py imdb 0.5 100 200 skip 1
 - `schemaName:` name of the schema.
 - `gpu_id:` The gpu_id to train the model on.
 
+Predictions will be in a `.txt` file inside the [Results/Evaluation](https://github.com/arifusta/DBTagger/tree/main/Results/Evaluation) folder.
+
 An example usage is:
 ```
 python evaluate.py imdb 0
 ```
-
-Predictions will be in a `.txt` file inside the [Results/Evaluation](https://github.com/arifusta/DBTagger/tree/main/Results/Evaluation) folder.
 --------
