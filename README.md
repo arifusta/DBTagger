@@ -1,6 +1,6 @@
 # DBTagger: Multi-Task Learning for Keyword Mapping in NLIDBs Using Bi-Directional Recurrent Neural Networks
 
-DBTagger is a keyword mapper, proposed to be used in Natural Language Interfaces in Databases. It outputs schema tags of tokens in the natural language query. It is an end-to-end and schema independent solution. It does not require any pre-processing for the input natural language query to determine schema tags such as tables, columns or values. This repository contains source code and annotated datasets; as used in the official paper, which will be published in PVLDB'21.
+DBTagger is a keyword mapper, proposed to be used in Natural Language Interfaces in Databases. It outputs schema tags of tokens in the natural language query. It is an end-to-end and schema independent solution. It does not require any pre-processing for the input natural language query to determine schema tags such as tables, columns or values. This repository contains source code and annotated datasets used in the [paper](https://arxiv.org/abs/2101.04226), which will be published in PVLDB'21.
 
 --------
 
