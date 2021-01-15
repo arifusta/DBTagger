@@ -48,3 +48,16 @@ An example usage is:
 python evaluate.py imdb 0
 ```
 --------
+## Citing
+If you find this repository helpful, feel free to cite our publication [DBTagger](https://arxiv.org/abs/2101.04226):
+``` 
+@misc{usta2021dbtagger,
+      title={DBTagger: Multi-Task Learning for Keyword Mapping in NLIDBs Using Bi-Directional Recurrent Neural Networks}, 
+      author={Arif Usta and Akifhan Karakayali and Özgür Ulusoy},
+      year={2021},
+      eprint={2101.04226},
+      archivePrefix={arXiv},
+      primaryClass={cs.DB}
+}
+```
+
