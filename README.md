@@ -51,13 +51,21 @@ python evaluate.py imdb 0
 ## Citing
 If you find this repository helpful, feel free to cite our publication [DBTagger](https://arxiv.org/abs/2101.04226):
 ``` 
-@misc{usta2021dbtagger,
-      title={DBTagger: Multi-Task Learning for Keyword Mapping in NLIDBs Using Bi-Directional Recurrent Neural Networks}, 
-      author={Arif Usta and Akifhan Karakayali and Özgür Ulusoy},
-      year={2021},
-      eprint={2101.04226},
-      archivePrefix={arXiv},
-      primaryClass={cs.DB}
+@article{10.14778/3446095.3446103,
+author = {Usta, Arif and Karakayali, Akifhan and Ulusoy, \"{O}zg\"{u}r},
+title = {DBTagger: Multi-Task Learning for Keyword Mapping in NLIDBs Using Bi-Directional Recurrent Neural Networks},
+year = {2021},
+issue_date = {January 2021},
+publisher = {VLDB Endowment},
+volume = {14},
+number = {5},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/3446095.3446103},
+doi = {10.14778/3446095.3446103},
+journal = {Proc. VLDB Endow.},
+month = jan,
+pages = {813–821},
+numpages = {9}
 }
 ```
 
